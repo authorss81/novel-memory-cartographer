@@ -88,7 +88,7 @@ Lena Marr wrote it on the back of a Recovery form and read it back and then she 
 
 The seven other items took until a quarter to twelve and Barrow read them out and nobody argued with any of them, and at the end of it he took the board down off the wall and put the amendment up in its place, printed, with a date on it, under a drawing pin, which is what the district does, and which is how a thing becomes true in Alderquay.
 
-And the room emptied, and the notice was read by about four hundred people in the district over the following nine days, and and Rue's round is two of four and Idar has the Wednesday, and there is a line at the foot of the amendment that says drainage is a different division on a different form.
+And the room emptied, and the notice was read by about four hundred people in the district over the following nine days, and there is a line at the foot of the amendment that says drainage is a different division on a different form.
 
 At about four o'clock on the Sunday afternoon, in the yard at Cedar Court, with the amendment up in Alder Quay and nothing at all on the porch wall, Lena Marr stood with her back against the coal hatch side and read the notice from a copy of the earlier notice because there was nothing newer, and she read it to about nineteen people, and when she came to paragraph two she stopped.
 

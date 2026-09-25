@@ -124,7 +124,7 @@ The left column said *floor*. The right column said *night and who*.
 
 At the bottom, in a different hand, in pencil, it said: *Anyone can cross their own name off. Nobody else crosses it for them. Not a rule, a promise.*
 
-The third-floor line had Owen Fitch's name on it, written by Owen Fitch, in his own capitals, and next to it, in his own hand, in the same pencil, four words: *Not asked to.*
+The third-floor line had Owen Fitch's name on it, written by Owen Fitch, in his own capitals, and next to it, in his own hand, in the same pencil, three words: *Not asked to.*
 
 Milo looked at it for long enough that Rue spoke.
 
@@ -132,7 +132,7 @@ Milo looked at it for long enough that Rue spoke.
 
 "Did he know he was going to?"
 
-"He knew he was going to do it or not do it and he did it." She squared the sheet. "He was quite clear about the terms and he wrote them on it himself because he wouldn't have anybody else's words next to his. And he wrote *not asked to* because he's not doing the second floor and he's not doing the ground floor, and if anybody in three months' time thinks a man on a list has agreed to be on it, they've only to read the four words."
+"He knew he was going to do it or not do it and he did it." She squared the sheet. "He was quite clear about the terms and he wrote them on it himself because he wouldn't have anybody else's words next to his. And he wrote *not asked to* because he's not doing the second floor and he's not doing the ground floor, and if anybody in three months' time thinks a man on a list has agreed to be on it, they've only to read the three words."
 
 "Third floor, once a night, going up, stopping when he likes," Milo said. "That's not what the paper says."
 

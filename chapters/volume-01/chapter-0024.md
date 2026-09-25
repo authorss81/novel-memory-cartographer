@@ -50,7 +50,7 @@ Pell Harrow was in the yard at a quarter to one with a trade counter and a bicyc
 
 "Then I was quick," said Milo Rook, "and you get to say so in a yard for the rest of your life."
 
-Owen Fitch came out of the porch at ten past one with his coat on, and he had not been asked, and Milo Rook had not asked him, and both of those facts were on the page in his own handwriting with the time on them. The note on the table had been read, in the end, by a woman of about sixty on her way past, who had written nine words on the back of it and gone up; and Ada Fenn, who had read the same note in the same place and who had been told on the tenth of Sazur that she was the one who was to be told and not a yard, had sent a message up the outside stairs that consisted of the whole of it.
+Owen Fitch came out of the porch at ten past one with his coat on, and he had not been asked, and Milo Rook had not asked him, and both of those facts were on the page in his own handwriting with the time on them. The note on the table had been read, in the end, by a woman of about sixty on her way past, who had written eleven words on the back of it and gone up; and Ada Fenn, who had read the same note in the same place and who had been told on the tenth of Sazur that she was the one who was to be told and not a yard, had sent a message up the outside stairs as far as the third-floor landing that consisted of the whole of it.
 
 "Mrs Fenn told me a man had written my name on a piece of paper and put it on a table and hadn't asked me," Owen said, "and that she would like me to go and see about it. So I have come to see about it."
 

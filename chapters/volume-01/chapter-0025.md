@@ -6,7 +6,7 @@ The note was on the trestle table at ten past five that morning with a second no
 
 He had asked, in writing, each morning, who was taking him where, and on Friday morning he had put a note on the table at half past seven as well, and the answer to the half-past-seven note was that a woman of about sixty had read it on her way past the table, had read the second one under it, and had come back at eight o'clock and had written eleven words on the back of his own note and had gone up.
 
-On the Saturday morning at ten, she was at the bottom of the yard steps with her cardigan on and her bag over her arm and a millimetre tape in her coat pocket, which Milo Rook noticed and did not ask about, and she said, "Right. Clinic. And you are going to say the route out loud and I am going to let you get it wrong, and if you get it wrong I am going to correct you, and if you get it right I am going to correct you anyway."
+On the Saturday morning at ten, two hours later than the eight she had asked for on Friday and moved without telling anybody, she was at the bottom of the yard steps with her cardigan on and her bag over her arm and a millimetre tape in her coat pocket, which Milo Rook noticed and did not ask about, and she said, "Right. Clinic. And you are going to say the route out loud and I am going to let you get it wrong, and if you get it wrong I am going to correct you, and if you get it right I am going to correct you anyway."
 
 "How do you know the way to the clinic?"
 
