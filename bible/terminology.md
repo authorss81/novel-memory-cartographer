@@ -160,6 +160,14 @@ Introduced by `outline/volume-01.md` and fixed for the volume. Later batches and
 
 **Jonas Venn** — The maintenance worker killed in the pump-house failure. His death is a real fact and a concealed civic crime; it did not create Bellwether’s grammar.
 
+**Dilley Farr** — Route-room supervisor at the Civic Atlas Office. Signs no deletion, files disputes, refuses to let the department choose which of Milo’s measurements to extract, and walks Milo to the north window without making it something anyone else can help him with. Not a hero and not an obstacle; a tired man who will not sign a thing he has not read.
+
+**Cass Ardery** — Survey Enforcement officer. Carries the instruction *a seal* and has been told the closure is not optional while the inspection stands. Institutional rather than personal, and honest about it.
+
+**Danner** — Contractor’s foreman at Floodgate Four. Winds the gate to eighteen inches of sill by hand in front of witnesses, writes the aperture on the form himself, writes *no window* on it twice when the ninth of Sazur occupies the site, and prices every day of delay against the bond. First name has not been used on the page. Legible, unexcused, and not the villain.
+
+**Rue** and **Idar** — Streetkeepers in Pell Harrow’s delivery round. In Chapter 7 they hold the road at the works approach with lamps; in Chapter 9 they mark their own ways in and out of the service court on the official inspection sheet, and Idar is the one who makes Milo strike them out of it. They appear as themselves, not as a faction.
+
 ## Grammar names in prose
 
 Use the grammar names as ordinary technical labels used by trained cartographers, not as spoken battle cries:

@@ -209,6 +209,48 @@ The framing deliberately does not make him secretly aim at permanent rule. A bou
 
 ---
 
+## CR-013 — The opening batch’s on-page commitments that later batches must not contradict
+
+- **Type:** clarification
+- **Raised by:** `phase-002-batch-plan`, writing Chapters 1–10
+- **Status:** applied
+
+**Why this entry exists.** The batch fixed several facts as prose rather than as plan — a date calendar, a support cast, a method of refusing a record demand, and the exact form of the one line of a report that has to survive October. None of them changes a premise, a power rule, the antagonist ladder, or the ending, but each one is now load-bearing in a way a later batch could break without intending to. They are registered here and in `bible/terminology.md`, `state/continuity.md`, and `state/batch-summaries.md`.
+
+**What was fixed, and where it lives.**
+
+1. **The Volume 01 calendar.** The 4th–10th of Sazur carry Chapters 1–10. Then: Orrin’s contractor’s bond lapses on the **11th**, the hearing sits on the **14th**, the **floodgate test** drives the throttled gate out to full flow on the **22nd**, and the timetable review — which expires Mara’s temporary stay — is the **28th**. `state/batch-summaries.md` and `state/current.md`.
+2. **The culvert action, now on the page (CR-011 confirmed in prose).** In Chapter 7 Danner winds the gate down to **eighteen inches of sill**, by hand, in front of witnesses, because a full seal would back water into the works zone and the low streets. In Chapter 9 the one-shift passage occupies the site for the whole shift, so the seal crew has *no window* and Danner writes that on the form twice. The gate is throttled and never sealed in Volume 1, and the 22nd test drives it out to full flow. This is exactly the track CR-011 fixed; it is now stated on the page rather than only in the plan.
+3. **Supporting cast, registered in `bible/terminology.md`.** Dilley Farr, Cass Ardery, Danner, and the Streetkeepers Rue and Idar. No new faction, grammar, antagonist, or category has been introduced.
+4. **Mara’s countersigned routing slip.** In Chapter 6 she finds her own block capitals on the six-year-old intake routing slip for the Bellwether file, in the box that meant *I have seen that an address is affected and passed it on*. This is the concrete form of her fear of becoming complicit and must be carried forward, not cured inside Volume 1.
+5. **The refusal of a record demand is a written offer of an extract.** Chapter 10 has Milo refuse the Field Book in writing and offer a witnessed extraction of the service-court entries instead. This is a precedent: it is how a private book can be entered in evidence without being taken, and later batches should not have him surrender the book.
+6. **The one sentence that has to survive October.** At the bottom of the Chapter 9 report, Milo writes that the Civic Atlas Office has no authority to reopen the route and does not claim one. Mara identifies it as the sentence that will protect him and the sentence that will make him unfashionable. Later batches should not let him quietly drop it, and should not let it dissolve into a speech.
+6a. **Deleting evidence is a method Milo now uses, and it is a precedent.** In Chapter 9, Idar the Streetkeeper points out that five of the working ways out of the service court — chalked into the fourth column of the official inspection sheet by the four Streetkeepers during the afternoon — are about to enter an office file where they can be shut. Milo strikes all five out **on his own motion** and heads the sheet *no household routes are recorded in this document, and no person has consented to one.* He has no authority to decide, and reasons that a man with no authority has no business publishing a route that belongs to a woman with a pram. The line through them is in his own hand with his name at the foot of the page. This is the batch’s clearest instance of a map refusing to be useful, and later batches should build on it rather than contradict it. It also establishes that Streetkeepers write on the official sheet, and that a document can be made weaker on purpose.
+7. **The provisional plan is a plan of a handrail, and it is revocable.** Eleven inches by nine, one shift, four consented names with revocable terms, Lena Marr’s tenancy named in full, *one household has declined to be entered* with no name or address, and a deliberately empty right-hand third headed *for people who are not here yet*. It is **not** the neighborhood-scale provisional map of Chapters 41–50 and must not be inflated into one. It is also not a restoration.
+8. **Soren Rook is not named in Chapters 1–10, and the hand is not attributed to him.** An earlier draft of Chapter 5 had Ada Fenn name Soren and assert the parentage. That was cut because it collapsed the clue chain, made Ada a delivery device for a fact she should not have, and read the parentage as a surprise, which `bible/characters.md` forbids. On the page, Soren’s only presence is the bracket-and-dot hand on two confirmed documents plus one recorded as *consistent with, not sworn to*, and the method of a polite young man from Crown Heights who asked Ada what the third bell was for nine years ago and collected her answer. Nothing in Volume 1 may confirm the parentage, the authorship, or the Lark order without evidence established on the page.
+9. **Atlas residue frequency.** Two appearances in the batch, both in Chapters 3 and 4, both incomplete and both limited by Milo in his own notes before he acts. Chapter 9 has none and he notices the silence. Later batches should stay at or below this frequency.
+10. **The volume calendar already pre-spends part of the Chapter 10 filing.** A temporary stay exists from Chapter 10 and expires on the 28th. The Volume 1 resolution in Chapters 58–60 must therefore *replace* it and show the stay was insufficient, rather than discovering that a filing is possible.
+
+**Plot impact:** none. Every planned outcome of `outline/volume-01.md` is unchanged. The CR-010 triad accounting, the CR-011 culvert track, and the CR-012 two-stage orientation cost are all preserved and, in the culvert’s case, now stated on the page.
+
+---
+
+## CR-014 — The copied maintenance route is dated but unplaceable, not a phantom name
+
+- **Type:** clarification
+- **Raised by:** `phase-002-batch-plan`, writing Chapters 9–10
+- **Status:** applied
+
+**Problem.** Attachment 9 to the order is a carbon maintenance route whose diversion line names a destination absent from every current map. A later batch could read that as an invented name, a proof of a haunting, or the first hint of the One Survey. All three would be wrong and two of them would be too much too early.
+
+**Resolution.** The destination is a real, ordinary, dated name. It has correct and current streets on both sides, a bus route that stopped serving it in a year Milo can name, and no entry in the current street name index, the alignment sheets, or the six-year-old reconstruction. It went out of use the way names go out of use by people getting older, not by a decision, and it can be dated to within a few years. Milo establishes that in one hour in the records alcove and cannot place it. It is offered to him in Chapter 9 as the demonstration’s route and refused, on the page, for the reason that a name on a public sheet is a claim rather than a discovery. It is a clue about **maintenance records** — who copied it, from which survey book, and who is still using old maintenance maps to move people — and it opens the Volume 2 question. It does not touch the Quieting, the First Atlas, or the One Survey.
+
+**Files updated:** `state/continuity.md`, `state/open-threads.md`, `state/batch-summaries.md`.
+
+**Plot impact:** none. The Volume 1 ending image and the Volume 2 premise are unchanged; this only fixes what the attachment is.
+
+---
+
 ## Open items carried forward
 
 - The phase ledger (`state/phase-ledger.json`) and any completion marker for `phase-000-bootstrap` and `phase-001-outline` are controller-owned. Writers and fixers must not mark a phase `done` or `blocked`.

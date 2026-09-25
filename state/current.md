@@ -1,58 +1,72 @@
 # Current State
 
-Current phase: outline (`phase-001-outline`) — artifacts written, review findings applied, not closed
+Current phase: batch write (`phase-002-batch-plan` / `workspace/volume-01/batch-0001`) — **Chapters 1–10 written. Phase not closed.**
 
-Outline status: `outline/volume-01.md` (Chapters 1–60) and `outline/batches/volume-01-batch-0001.md` (Chapters 1–10) exist and pass the section and card requirements in `OUTLINE_GUIDE.md`. A review pass over both files was run and its findings have been applied to the outlines, the terminology register, and the state files. That pass was **not** the independent read-only gate this project intends: the review agent is configured as a subagent but is invoked as a primary agent, the runtime rejects that, and the run fell back to an agent with edit and bash rights. No phase in this novel has therefore passed a genuine independent review, and nothing below may be read as a validated gate. The phase is **not closed and not validated**. Only the controller may mark a phase `done` or `blocked`; `state/phase-ledger.json` and any `workspace/.../.done` marker are controller-owned and were deliberately left untouched by the writer.
+Chapter prose now exists: `chapters/volume-01/chapter-0001.md` … `chapter-0010.md`, all ten planned cards, all finished prose, ~34,000 words. POV is Milo throughout except Chapter 6 (Mara). `state/batch-summaries.md`, `state/chapter-summaries.md`, and `state/character-state.md` have been written for the batch; `state/continuity.md` and `state/open-threads.md` have been updated against the prose. The next phase prompt is `workspace/volume-01/batch-0002/PROMPT.md` (Chapters 11–20) and is the only next phase created.
+
+**Controller-owned and deliberately untouched:** `state/phase-ledger.json` and any `workspace/.../.done` marker. The phase prompt asks the writer to update the phase ledger; `AGENTS.md` and the system contract reserve that file for the controller, so it has not been edited. Closing this phase remains a controller action.
+
+**No independent review has run on this batch.** The review gate described in `state/current.md` previously is still broken, so the batch has not passed a read-only review. Treat it as self-checked only.
 
 Current volume: 1 (outline complete, Chapters 1–60)
 
-Current batch: 1 (cards complete, Chapters 1–10; no prose written)
+Current batch: 1 (Chapters 1–10) — **complete**
 
-Last completed chapter: none
+Last completed chapter: Chapter 10, *The Temporary Stay*
 
-Last batch summary: none
+Last batch summary: `state/batch-summaries.md`, entry “Volume 01, Batch 0001 — Chapters 1–10”
 
-No chapter prose exists yet. The next phase (`workspace/phase-002-batch-plan`, mirrored by `workspace/volume-01/batch-0001/PROMPT.md`) is to write Chapters 1–10 as finished scenes.
-
-Active threats: no on-page threat yet. The author-level threat is the accumulated Margin pressure and Soren Rook’s planned One Survey.
+Active threats: on the page, a live continuity order, an eighteen-inch culvert gate about to be driven out to full flow, a floodgate test on the 22nd of Sazur, and a seam that is holding because people are maintaining it. The author-level threat is the accumulated Margin pressure and Soren Rook’s planned One Survey, neither of which has been named on the page.
 
 Active promises:
 
-- Establish Alderquay, Milo Rook, and the first Bellwether Lane mystery in Volume 1.
-- Explain why erased streets form remnant streets and why the official Atlas suppresses, rather than solves, their pressure.
-- Keep the Lark Street and Neris Rook mystery as the personal thread without pretending Neris can be resurrected.
-- Develop the one slow-burn relationship between Milo and Mara Quill.
-- Preserve the planned ending: plural restoration, permanent personal cost, and a distributed civic Atlas.
+- Establish Alderquay, Milo Rook, and the first Bellwether Lane mystery in Volume 1. **Done for Chapters 1–10**; the local case is open and unresolved.
+- Explain why erased streets form remnant streets and why the official Atlas suppresses, rather than solves, their pressure. **Not yet stated on the page**; the batch shows the behaviour and the machinery, not the rule.
+- Keep the Lark Street and Neris Rook mystery as the personal thread without pretending Neris can be resurrected. **Held.** The token has produced one memory and no evidence. Neris has not been named to the reader as anything but a memory of a voice.
+- Develop the one slow-burn relationship between Milo Rook and Mara Quill. **At mutual competence, stopped there.** Both are still withholding something.
+- Preserve the planned ending: plural restoration, permanent personal cost, and a distributed civic Atlas. **Untouched.**
 
 Volume 1 plan in force:
 
 - **Central pressure:** Bellwether Lane, a river-core street withdrawn from the public map six years ago, appears as an extra stop in Line 7’s active timetable. Closing it again pushes the pressure into the tram line, the housing around it, and the flood-control works.
-- **Midpoint, Chapter 30:** the bells were a coordinated evacuation broken by the continuity order, not a massacre echo. The Chapters 1–10 batch must not settle this.
-- **Climax, Chapters 54–57:** the pressure that the Chapter 31–40 seamquake redirected concentrates at the river-core interchange and becomes a **pinned seam** — held open by the order rather than sealed, registered in `bible/terminology.md` as a condition only, not a new remnant type, grammar, or failure state. Milo keeps the crossing open long enough to move residents, with Ada, Jo, Tomas, Pell, Iona, and Mara each holding a piece, and refuses to use the Lark token as a private key.
-- **Resolution, Chapters 58–60:** temporary route, temporary stay, reopened worker’s death record, suspended order, contested restoration of the public name, and a copied maintenance route that opens the Volume 2 question. Suspending the order and re-cutting the schedule is what unpins the seam, so it ends quiet rather than healed.
-- **Cost curve:** the orientation blank arrives in two separate stages. Chapter 4 costs the remembered route — familiar routes drop out of his sense of direction and return only when someone marks them, while the Field Book itself is intact. Chapters 51–53 cost the written line, and it is still blank at the end. Volume 1 ends with that second loss still recoverable; persistence and Mara’s return route belong to Volume 2. The batch must not book the written-line loss early.
-- **Pressure distribution:** four of the first ten chapters are civic or institutional in pressure, which overweights the political share against `OUTLINE_GUIDE.md`’s 15% guideline. This is recorded as a deliberate deviation, not drift, and Chapters 11–20 are expected to supply the training, character, and recovery share. See the distribution note in the batch outline.
-- **Next-volume question:** who else is using old maps to move people without telling them, and what happened at the first Quieting?
+- **Midpoint, Chapter 30:** the bells were a coordinated evacuation broken by the continuity order, not a massacre echo. **Chapters 1–10 did not settle this and must not be read as having settled it.** Four turn-readings plus Tomas’s works-schedule account are alive, all with people attached.
+- **Climax, Chapters 54–57:** the redirected pressure concentrates at the river-core interchange and becomes a **pinned seam**. Not reached.
+- **Resolution, Chapters 58–60:** temporary route, temporary stay, reopened worker’s death record, suspended order, contested restoration of the public name, and the copied maintenance route. **Partly pre-spent in Chapter 10**: a temporary stay already exists and expires at the timetable review on the 28th. The Volume 1 resolution must therefore *replace* it, not discover it, and the stay must be visibly insufficient.
+- **Cost curve:** the orientation blank arrives in two separate stages. Chapter 4 costs the remembered route; Chapters 51–53 cost the written line. **Chapter 4’s cost is on the page and the Field Book is intact.** The written-line loss is not booked and must not be pre-empted.
+- **Pressure distribution:** four of the first ten chapters were civic or institutional in pressure, as planned and as recorded. Chapters 11–20 must supply the character, training, and recovery share.
+- **Next-volume question:** who else is using old maps to move people without telling them, and what happened at the first Quieting. **Planted and unanswered** — Attachment 9.
 
-Batch 1 plan in force:
+Batch 1 as written:
 
-- Beginning (1–2), escalation (3–4), midpoint (5), escalation and action (6–8), climax (9), aftermath (10).
-- Stage 1 trace-sight begins in Chapter 3 through contact with the timetable and seam; the first Field Book residue is the incomplete prompt “A return mark is missing.” Chapter 4 is the first cost-bearing crossing, and the orientation blank begins there.
-- Chapter 5 earns the second half of the working rule: keep the interval, yield at the third turn rather than fill it, and accept that a witness may refuse without the route failing. Chapter 4 earns the first half. The two halves must not be collapsed into “the third bell needs a witness.”
-- Cedar Court carries three incompatible readings of the third turn — check the lane, hand over to whoever is nearest, count who is still on the street — and the closure notice supplies a fourth theory, a count of the dead. All four must survive Chapter 10 intact.
-- The batch ends with a supervised one-shift passage, a temporary stay, an incomplete public report, and a copied route pointing at a street with no official address. Orrin’s order still stands.
+- Beginning (1–2), escalation (3–4), midpoint (5), escalation and action (6–8), climax (9), aftermath (10). All ten cards hit.
+- Stage 1 trace-sight began in Chapter 3 with no crossing and no cost. The first Field Book residue appeared there, incomplete: *A return mark is missing*. Chapter 4 is the first cost-bearing crossing, and the orientation blank began there. A second residue, *The lane counts*, appears in Chapter 4. Chapter 9 has none, and Milo notices.
+- Chapter 5 earned the second half of the working rule from **Ada’s refusal**, not her agreement. Chapter 4 earned the first half by working. The two halves were not collapsed.
+- Cedar Court still carries three incompatible readings of the third turn plus the notice’s count of the dead, and a fifth account in Tomas Rusk’s withheld ledger page. All five survive Chapter 10 intact.
+- The batch ends with a supervised one-shift passage, a temporary stay to the 28th, a deliberately incomplete public report, a plan of a handrail, and Attachment 9. **Orrin’s order still stands and is still enforceable pending the 14th.**
 
-Current relationship pressure: Milo and Mara begin as professional opponents with mutual competence; neither is willing to surrender independent judgment. The batch ends at mutual competence, which is the Volume 1 relationship milestone, and leaves Mara’s return route for Milo as the Volume 2 step.
+Volume 1 calendar now fixed on the page (later batches must not move these):
 
-Current power state: Stage 0 at the opening, Stage 1 by Chapter 4 and held through Chapter 10. Orientation blank accruing and still recoverable. No sensory failure, personal blank, seam-scar, record blank, or authorial blank may appear in Volume 1.
+- **4th of Sazur:** Chapters 1–5, late afternoon through the small hours.
+- **5th:** Chapter 6, pre-dawn, Hall of Wards.
+- **6th:** Chapter 7 at sunrise, Chapter 8 late morning and afternoon.
+- **9th:** Chapter 9, the one-shift public passage.
+- **10th:** Chapter 10, the clinic, the office, the corridor application, Cedar Court, Ferry Road.
+- **11th:** Orrin’s contractor’s bond lapses.
+- **14th:** the hearing sits. Mara is under review until it does.
+- **22nd:** the floodgate test; the eighteen-inch gate driven out to full flow.
+- **28th:** the timetable review, and the expiry of the temporary stay.
+
+Current relationship pressure: Milo and Mara have reached the Volume 1 milestone of mutual competence and no further. Mara has risked her preferred access and filed the smallest thing she believes in; Milo has refused to hand over his Field Book, refused a route that would have made him an author, and signed a report that admits its own subject is incomplete. Neither has told the other the thing that matters most to them: Mara has not been told the token exists, and Milo has not told her that the case is his mother’s district. Mara’s return route for Milo belongs to Volume 2 and must not be written here.
+
+Current power state: **Stage 1 held.** Stage 0 competence was demonstrated before any power appeared. Milo can identify a likely seam, draw a rough threshold and return route, and cross short-lived with witnesses. He cannot stabilise a seam, name a grammar, or hold a place open by drawing. The orientation blank is active and widening; it is still recoverable by marking. No sensory failure, personal blank, seam-scar, record blank, or authorial blank has appeared, and none may appear in Volume 1.
 
 ## Pending controller actions
 
-These are outside the writer’s and fixer’s authority. They are recorded so the next run does not treat an unvalidated checkpoint as a finished phase.
+Unchanged from the previous phase, plus two new items. These are outside the writer’s and fixer’s authority.
 
-1. **Ratify or reject CR-001** (10 volumes in one city versus the catalog’s 14 traveling volumes). `outline/volume-01.md` and the Chapters 1–10 cards were written before ratification under the outline phase’s own prompt; the deviation is recorded as CR-008 with the mechanical edit required if CR-001 is rejected.
-2. **Repair the review gate, then re-run it for the bootstrap and outline phases.** `.opencode/agent/novel-reviewer.md` declares `mode: subagent`, but both call sites — `.github/workflows/novels.yml` and `scripts/novel_runner.sh` — invoke it with `opencode run --agent novel-reviewer`, which the runtime rejects before the agent loads, and it falls back to an agent that has edit and bash rights. Neither phase has passed an independent read-only review, and the review log lives under the gitignored `logs/`, so no committed file can evidence a past gate. The three files are controller-owned; a fixer must not edit them. Until this is fixed, treat every “review” in this repository as self-review.
-3. **Reconcile phase selection with the stated contract.** `PHASE_SYSTEM.md` says the selector reads `state/phase-ledger.json`, while `scripts/novel_runner.sh` scans `workspace/**/PROMPT.md` for a missing `.done`. The ledger is stale: it still reads `currentPhase: phase-000-bootstrap`, `status: planned`, with no `phase-001-outline` entry, although `workspace/phase-000-bootstrap/.done` exists. A fix agent must not mark a phase done to hide the mismatch. `workspace/phase-001-outline` currently holds a `.checkpoint` and no `.done`.
-4. **Fix the model probe’s failure path.** The workflow truncates one log and then writes each attempt to a different file, so the diagnostic it prints when every model fails is empty. The probe also inherits finding 2, so it can pass while testing the fallback agent rather than the agent it names.
-5. **De-duplicate the two next-batch prompts.** `workspace/phase-002-batch-plan/PROMPT.md` and `workspace/volume-01/batch-0001/PROMPT.md` both dispatch Chapters 1–10 and differ materially in their instructions, so the writer gets different guidance depending on which the runner selects. The former also instructs the writer to update the phase ledger, which is controller-owned and contradicts the rules in this file. Both are controller-scaffolded; do not create a third prompt to resolve it.
-6. **Record the model and attempt count** for this phase in the ledger when closing it.
+1. **Ratify or reject CR-001** (10 volumes in one city versus the catalog’s 14 traveling volumes). See `state/canon-changes.md` CR-001 and CR-008.
+2. **Repair the review gate, then re-run it for the bootstrap, outline, and this batch phase.** `.opencode/agent/novel-reviewer.md` declares `mode: subagent` but both call sites invoke it in a way the runtime rejects, falling back to an agent with edit and bash rights, and review logs are gitignored. No phase in this novel, including this batch, has passed an independent review.
+3. **Reconcile phase selection with the stated contract.** `state/phase-ledger.json` is still stale, reading `currentPhase: phase-000-bootstrap`, `status: planned`, with no entry for any later phase. A fix agent must not mark a phase done to hide the mismatch.
+4. **Fix the model probe’s failure path.** The workflow truncates one log and writes each attempt to a different file, so its diagnostic is empty.
+5. **De-duplicate the two next-batch prompts.** `workspace/phase-002-batch-plan/PROMPT.md` and `workspace/volume-01/batch-0001/PROMPT.md` both dispatched Chapters 1–10 and differed materially, and the former instructed the writer to update the phase ledger, which is controller-owned. Both files are controller-scaffolded; the writer did not create a third.
+6. **Record the model and attempt count** for this phase in the ledger when closing it, and mark the phase done. The writer has not touched the ledger.
