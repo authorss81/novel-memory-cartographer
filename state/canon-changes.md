@@ -361,6 +361,30 @@ The framing deliberately does not make him secretly aim at permanent rule. A bou
 
 ---
 
+## CR-018 — Volume 01 Batch 0002 wrote the hearing's outcome, and it went against the protagonists
+
+- **Type:** clarification
+- **Raised by:** `phase-002-batch-plan`, writing Chapters 11–20
+- **Status:** applied
+
+**Why this entry exists.** `outline/batches/volume-01-batch-0002.md`'s instructions required the batch to open *after* a hearing whose outcome Chapter 10 deliberately never stages, and required it to **decide and show what happened, and not leave the reader assuming it went well.** Deciding a result that three named characters fought for is a change to a planned outcome on the page, so it is recorded here even though it moves no premise, rule, cost, or antagonist.
+
+**What was decided, and what it is not.**
+
+1. **The hearing of the fourteenth of Sazur upholds Orrin Sable's continuity order in full**, finds the western culvert finding sound, and permits the twenty-second floodgate test to proceed. **This is the planned pressure, not a reversal of it:** `outline/volume-01.md` reserves a temporary hearing win for Chapters 31–40 and the real legal victory for Chapters 58–60, and Chapters 21–30 are a hearing about the order's history, not about lifting it. The order is not lifted in Batch 0002 and must not be lifted in Batch 0003.
+2. **Three things come out of it and none is a victory.** The temporary stay of Chapter 10 survives to the timetable review on the twenty-eighth and is minuted clause by clause, so its size is exact; the Registry is directed to produce the complete file by the twenty-first, on Orrin's own Chapter 10 offer invoked against him; and the inspection sheet's refusal line is read into the record *with O. Fitch's initials already against it*, after a clerk asks how to index a household with no name. **The initials therefore appear in two consecutive official records and are not clean paper in either.** This extends CR-017 rather than altering it.
+3. **The hearing introduces no new category.** The three procedural dates — the fifth as a Directions Bench variation, the ninth as a one-shift inspection, the fourteenth as the hearing — are now separated in open court by a chair of the Bench, which is the same requirement CR-016 item 4 imposed on the prose and is now satisfied on the page rather than only in a summary.
+4. **The batch pays Tomas Rusk's withheld page and it is not only a bell schedule.** It is paid because the batch had to stop owing a debt, and the second-shift roll it contained is the vehicle for a fact the volume needed. **It does not resolve the bells' purpose:** the page proves the third call was a works shift interval at ten to two, which is one of five live accounts, and Tomas's own condition — why the road shut in the middle of a run — is expressly left unpaid as the Chapters 21–30 hinge.
+5. **Two crossings were added, and the count is now four.** Chapters 1–10's two are untouched and uninflated, per CR-016 item 6. The eighteenth and the twenty-first are both from the ground-floor door of Cedar Court and both are short. The orientation blank advanced accordingly, in its first stage only, and every lost route is a remembered route that another person marks.
+6. **The 22nd of Sazur is now on the page and it is not the climax.** The CR-011 culvert track runs exactly as fixed: throttled to eighteen inches on the sixth, driven out to full flow on the twenty-second, never sealed. The test passes, the wall holds, and the service court is left materially changed — silted, settled nine inches over forty feet, handrail out of true. **This previews the volume's material outcome without being it, and the pinned seam of Chapters 54–57 is not reached.**
+7. **Orrin's argument is now proved on the page and is not answered.** Milo says it out loud in a yard, as Chapter 10 required; Danner reaches it independently; the drill demonstrates it; and the thing that gives is the service door, for a reason neither man can argue with. **This sharpens the problem rather than settling it, and the volume's honest shape is that both men are correct.**
+
+**Files updated:** `chapters/volume-01/chapter-0011.md` … `chapter-0020.md`, `state/batch-summaries.md`, `state/chapter-summaries.md`, `state/character-state.md`, `state/continuity.md`, `state/open-threads.md`, `state/current.md`, `bible/terminology.md`, `bible/characters.md`, `workspace/volume-01/batch-0003/PROMPT.md`.
+
+**Plot impact:** no premise, world rule, power rule, cost onset, antagonist, or planned ending moved. The 4th, 5th, 6th, 9th, 10th, 11th, 13th, 14th, 18th, 19th, 20th, 21st, 22nd and 28th all stand and the calendar is now complete through Chapter 20. The CR-010 triad accounting, the CR-011 culvert track, and the CR-012 two-stage orientation cost are untouched and are restated in prose. The Chapter 30 reversal is **better armed than before**, because the three readings are now on the page as three families, the five accounts are demonstrably not one-to-one with them, and a character has publicly rejected the tidy box diagram. **No new final enemy, grammar, faction, or category was introduced.** Volume 1 is not complete; Chapters 21–60 remain.
+
+---
+
 ## Open items carried forward
 
 - The phase ledger (`state/phase-ledger.json`) and any completion marker for `phase-000-bootstrap` and `phase-001-outline` are controller-owned. Writers and fixers must not mark a phase `done` or `blocked`.
