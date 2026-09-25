@@ -138,3 +138,30 @@
 - Romantic and family relationships do not erase professional accountability.
 - Death, when it occurs, changes the route, work, and obligations of the people left behind.
 - No new major antagonist may be introduced after the series outline without updating the antagonist ladder and flagging the change.
+
+## Volume 01 state at Chapter 50 — what Chapters 41–50 fixed about these people
+
+The long-range arcs above are unchanged. This section records what the fifth batch put on the page about the same three people, and later batches may not contradict any of it. Full detail in `state/character-state.md` and `state/continuity.md`.
+
+### Milo Rook, after Chapter 50
+
+- **Six crossings and no seventh. This batch adds none**, and the reason is on the page in six words: on the tenth of the month after he was under an awning with nothing in his hands and the door was shut. **Eight remembered routes and no ninth**, and he has walked four of them this month without losing any.
+- **The fifth finding is on paper for the first time and has not helped.** Iona Sen made him write it in his own hand, dated the sixteenth of Sazur and signed, took the page for a locked drawer, and then said out loud in a yard in the rain that writing it down has made it worse, because there is now a piece of paper about a person and he is the man holding it. **It is on her, she would do it again, and it is not a cure and he is not cured.**
+- **He failed at the thing he is good at.** He had a copy of the district's turn sheet in his hands for about six minutes, read the head, the date, the reduction, the columns, the rule and the route in the head, **and did not read the column of names**, because he has been told not to be alone with a piece of paper about a person. Rue read them aloud. It cost a woman of sixty who had kept off every list for nine years and a man of forty-one who has no record of existing anywhere.
+- **He refused, in public, to be the author of the thing he could have built** — the columns, the rule, the versions, the arithmetic and the refusal are his, and he is not the holder, the clerk, the custodian, or the only pen. He was told in a yard that being right is worth about half of being useful, and he accepted that.
+- **He was made to give away even the design.** Mara Quill decided, in a yard, that the promise he made to her stands and does not get wider, and that what widens instead is his authorship, because a document is a document by the method it was made in and there are now three copies of his method in the district and one has six names on it that four people did not agree to. He argued for nine seconds and accepted it.
+- **The written line home is intact, correct, and he walked it twice in the week ending the fifteenth.** The written-line loss remains a Chapters 51–53 event and is not hinted at.
+
+### Mara Quill, after Chapter 50
+
+- **The Volume 1 milestone this batch is a loss and not a gain.** She decided, out loud and in a yard, that the promise of the twenty-ninth of Sazur stands, is hers, and does not get wider, because she cannot carry thirty people, and because the day she promises a woman of sixty that nothing about her reaches her in writing is the day she has become a second Registry. **What she took instead was the design**, and she built a fifth version of the turn sheet herself, on Registry paper she is not supposed to use, with columns that are not his, and holds the nail on alternate weeks so that **the rule at the foot is in her hand and not his**.
+- **She refused to rescue him three times in one batch**: she would not look for a fifth Thursday in any form; she would not file the Lark disclosure; and she refused to let him be a person who could be leaned on.
+- **She disclosed the intake routing slip's fourth set of initials in a yard for the first time and still did not read them aloud**, and named that as the thing she is carrying into the room on the third of next month. Her own-conduct review sits on the **third of next month**.
+- **Nothing romantic has happened and nothing is going to.** Her vocabulary in this batch was procedure, disclosure, disagreement in front of about twelve people, and refusal.
+
+### Pell Harrow, after Chapter 50
+
+- **He is back on the round and he has not seen Tern.** He asked one question he will not write down and got a true answer, and would rather have had a lie.
+- **He supplied the design of the deliberate blank in a sentence** — *a name with nobody behind it you can go and knock on; a space nobody knows what is supposed to go in it, and that is an invitation; so it is not left because nobody has come, it is left because it says so* — and it is the design decision the volume guardrail needed and nobody else in the district had.
+- **He refused two things**: to make the round into a service, and to go back and look at what he found in Wragg Street, *because the day I go back and look is the day I am a man with a list instead of a courier with a round, and I know which one I am and I have known since I was fourteen.*
+- **He is not Milo's magical assistant and has no power of any kind.** His mark holds for a working shift and has not been asked to hold one overnight, and that limit is still not tested.
