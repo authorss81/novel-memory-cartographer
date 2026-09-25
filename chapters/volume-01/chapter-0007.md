@@ -4,7 +4,7 @@ The sun came up over the works in a hard white line at twenty past six and put t
 
 Milo was standing at the floodgate approach with a chain over his shoulder and no idea what the morning was going to require of him, which was normal.
 
-He had slept for two hours on a bench in the Cedar Court yard and woken with his right hand not working properly, and the headache had moved round to sit behind his left eye, and he had come down at five because Pell had knocked on the yard door at five and said that the works bell had gone at six and the gate was going down at sunrise and the bell had gone at six for the first time in six years.
+He had slept for two hours on a bench in the Cedar Court yard and woken with his right hand not working properly, and the headache had moved round to sit behind his left eye, and he had come down at five because Pell had knocked on the yard door at five and said that the works bell had gone at six the night before and had not gone at six in six years, and that the gate was going down at sunrise.
 
 Floodgate Four sat across the site like a piece of municipal jewellery: a steel drum on a concrete spine, painted the green of the old water board, with a walkway and a lamp on top and two men in orange already on the walkway with a chain hoist between them. Below and to the west, the western culvert came out of the embankment in a stone arch with a sluice gate in it, and the gate had a winding gear on a platform above it, and Danner the foreman was standing on that platform with a clipboard and a great many good reasons.
 
@@ -28,7 +28,7 @@ The gate was not being sealed. That was the first thing Milo established, standi
 
 "Eighteen inches is still open."
 
-"Eighteen inches is what's legal." Danner looked at the water. "It's also a foot and a half of hole under a hundred and forty feet of embankment, son. It doesn't close. Nothing down there closes in a flood season. I know that, you know that, and the Prefect's office knows that, and everybody is going to go home tonight and act surprised."
+"Eighteen inches is what's legal." Danner looked at the water. "It's also a foot and a half of hole under a hundred and forty metres of embankment, son. It doesn't close. Nothing down there closes in a flood season. I know that, you know that, and the Prefect's office knows that, and everybody is going to go home tonight and act surprised."
 
 Milo wrote it down. He wrote it down the way he wrote everything down, in a hand that got smaller and flatter as the day went on, and he underlined the words *throttle, not seal* and *shall not be sealed* twice, because in a week he was going to want the second underlining very badly, and because he had begun to understand that the law in this district was written by people who were describing a problem they could see and did not care to look at what was behind it.
 
@@ -60,7 +60,7 @@ Then the sound went away, and the sun came back, and the water under the arch we
 
 "I don't know. Nobody does. That's what I'm trying to find out, and if you have a man who's got a longer history down that embankment than the order does, I would like to talk to him before you wind that gate."
 
-Danner looked at him for a second.
+The foreman looked at him for a second.
 
 "There's one," he said. "Rusk. He was second shift on the pumps the night the culvert came in. He's a mechanic, he's the best man I've ever had, and if you put him in a hearing room I will have your survey licence."
 
@@ -130,15 +130,17 @@ Milo looked at the arch, and at the handrail Danner's men had put up, and at Jo'
 
 He got the field book out in the rain and wrote the marks in a hand that was shaking enough to be a bad survey and not a good one.
 
-**Threshold:** the arch foot. Where the ground changes and the water decides.
-**Turn:** the line along the setts. Follow the chalk; do not take the first door on the left, which is a service door and is not a way out tonight.
-**Return:** two knots, one in the rail at the arch foot, one in the top bar of the handrail, tied by two different men, and the words *held by Jo Lask* chalked on the stone beside them.
+*Threshold:* the arch foot. Where the ground changes and the water decides.
+
+*Turn:* the line along the setts. Follow the chalk; do not take the first door on the left, which is a service door and is not a way out tonight.
+
+*Return:* two knots, one in the rail at the arch foot, one in the top bar of the handrail, tied by two different men, and the words *held by Jo Lask* chalked on the stone beside them.
 
 "That last one is a person," Jo said.
 
 "That last one is a person and you change your mind about it, then that line is not a line any more, and I will be the one standing in the water with a book, and that is the correct arrangement and I am not being modest about it, I am telling you the shape of it so you know what it costs you." Milo put the book away. "And the interval. Somebody has to call the interval out loud the whole time. Not a bell. Your voice. Because I do not know what the count is yet and neither do you, and I have got four separate people in this district telling me it is four different things, and the one thing they all agree on is that the calls come in threes."
 
-Jo Lask took a breath like a man stepping onto a tram.
+He took a breath like a man stepping onto a tram.
 
 "Right," he said. "Then I'll call it."
 
@@ -150,7 +152,7 @@ And the water went where Tomas Rusk had said it would go.
 
 It came up out of the old alignment in the service court and across the setts in a moving brown sheet with a foam edge, and it was ankle-deep in ninety seconds and shin-deep in three minutes, and it put the old service court and the low end of the street and the top of the approach road under one continuous moving surface, and it did that because a lawful and careful compromise had pointed it there.
 
-Milo was on the handrail side with Jo's four conductors and got Lena Marr and Owen Fitch as far as the first landing before it went. Then the arch side separated from the works side, and the water came up the ramp, and Jo Lask — who was on the arch side, who had gone in to help a drainage man get a plate out of the sump, who was twenty-six and who thought his job was holding a door — was on the far side of a moving street of water, seventy feet away, with the rest of the works crew behind him and the Line 7 tram above and a hand signal lamp on a stretcher pole that nobody was holding any more.
+Milo was on the handrail side with Jo's four conductors and got Lena Marr and Owen Fitch as far as the first landing before it went. Then the arch side separated from the works side, and the water came up the ramp, and Jo Lask — who was on the arch side, who had gone in to help a drainage man get a plate out of the sump, who was thirty and who thought his job was holding a door — was on the far side of a moving street of water, seventy feet away, with the rest of the works crew behind him and the Line 7 tram above and a hand signal lamp on a stretcher pole that nobody was holding any more.
 
 "Pell — the lamp. Anyone. The lamp—"
 
@@ -162,15 +164,15 @@ And Jo Lask, from seventy feet off, on a street that was four feet wide and had 
 
 He walked backwards.
 
-The rails went under his feet and he did not fall, and the sound of the tram on the detour above came down through the embankment, and the sound arrived out of order, and Milo Rook felt it arrive in his sternum before his ears, and it was a tram bell. One. Then a long space, and then a hall — *and don't let it lie* — and the whole 140 metres of the alignment folded in on itself like a hand closing, and the current on that stretch of the old lane stopped dead, and Jo Lask stood in eight inches of dead water in a lane that was now going nowhere at all with his arms out.
+The rails went under his feet and he did not fall, and the sound of the tram on the detour above came down through the embankment, and the sound arrived out of order, and Milo Rook felt it arrive in his sternum before his ears, and it was a tram bell. One. Then a long space, and then the second, and then the third, and the whole 140 metres of the alignment folded in on itself like a hand closing, and the current on that stretch of the old lane stopped dead, and Jo Lask stood in eight inches of dead water in a lane that was now going nowhere at all with his arms out.
 
 The water around him started going in a circle.
 
 It was not dramatic. That was the thing Milo would remember and would fail to be able to describe to anybody for the rest of his life. The river did not boil and the buildings did not move and nothing fell down. The water in the lane simply stopped being water travelling anywhere, and began to be water standing in a loop, going round a three-hundred-and-forty-foot section of a street that was repeated under the tracks, at a walking pace, for as long as it felt like.
 
-Pell Harrow got to Milo's shoulder, breathing hard.
+The boy got to Milo's shoulder, breathing hard.
 
-"Three of them," the boy said. "Every twenty-nine seconds. There's three of them and it isn't the tram."
+"Three of them," the boy said. "Every thirty-one seconds. There's three of them and it isn't the tram."
 
 Milo put his hand on the arch stone and got it under his palm: sixty-nine, and the fast one, and the slow one, and now a fourth, close, quick, wrong, coming up under the dead loop where the water was going round.
 

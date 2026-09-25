@@ -72,7 +72,7 @@ Lena Marr was on the landing above the flood with a sheet of paper in her hand, 
 
 "Then record it and don't ask me again."
 
-Lena Marr crouched down beside him anyway, which was her right and her way, and got her paper against her knee.
+She crouched down beside him anyway, which was her right and her way, and got her paper against her knee.
 
 "There's forty-one names on this," she said. "And eleven lines through with a reason, and one of the reasons is *came back at the third*, and his name is Verrick and he's in the works yard and he was the one who called *clear* to a woman at a door." She did not look up. "I'm not counting you. I've never counted you. I'm telling the street you're there, and those are different, and you can hate it and I'll still read it."
 
@@ -106,7 +106,7 @@ Then the road offered him a turn.
 
 It did it well. It offered it the way a road offers a turn: the brick simply was not there any more, and there was a lane going away at forty-five degrees with a lamp on a hook and the number 1 over a door, and the water was not in it, and the sound in it was the sound of nothing at all, which after nine minutes in a circle was the most beautiful sound in Alderquay.
 
-Milo Rook walked to the edge of it and stopped.
+He walked to the edge of it and stopped.
 
 He put his hand on the brick that was not a brick, so that he was holding on to the wall, and he put his face in the corner where the wall and the lane met, and he said, out loud, to a circle:
 
@@ -130,13 +130,13 @@ And it left him standing in three feet of dead water on a street that went round
 
 Jo stopped.
 
-Not turned. *Stopped*, in the way a tram stops, dead in the water, facing a wall, twenty-nine seconds of a road's patience ending at once because a man had used his name.
+Not turned. *Stopped*, in the way a tram stops, dead in the water, facing a wall, thirty-one seconds of a road's patience ending at once because a man had used his name.
 
 "Milo. Where—"
 
 "Here. And you can't see me, and that's right, and I'm not going to make it easier. Here's the turn. There is no turn." Milo put both hands on the brick. "There is no turn anywhere in here, Jo, and I've walked the whole of it, and I know that's not true in the way I mean it, and it's true in the way that matters. There is no *new* one. The only new one is the one where the road doesn't get what it wants, and that's the one you're standing in right now because you stopped."
 
-"Stopped," Jo said. "I've stopped. I've been going round since half past seven and I've just—"
+"Stopped," Jo said. "I've stopped. I've been going round since half past eight and I've just—"
 
 "You've just stopped. On your own. Because I shouted at you." Jo's voice was beginning to go. "That is not me, that was me. I did the stopping."
 
@@ -192,7 +192,7 @@ She was fifty-four and had a way of making a room behave that had nothing to do 
 
 "Twice. Once on the embankment, once—"
 
-"Three. You were on the embankment at eleven, you were in the lane at half past twelve, you were on that arch at twenty to eight this morning, and you were in it again at ten past nine, and you did not sleep, and you ate a piece of bread at some point in a doorway which I would rather did not happen again." She put the needle in and did not look up. "So you have been across four times. How's your sense of direction?"
+"Twice," said Iona Sen, "and not the same twice. You were in the lane at half past twelve and you were in it again at ten past nine, and those are the two. The embankment at eleven was not a crossing, and the arch at twenty to eight this morning was not a crossing either, and you have spent two days standing on the near side of that arch calling it work. And you did not sleep, and you ate a piece of bread at some point in a doorway which I would rather did not happen again." She put the needle in and did not look up. "So: across twice, inside a day and a half, on one meal. How's your sense of direction?"
 
 "Bad."
 
@@ -240,7 +240,7 @@ Milo did not take the file.
 
 "Why not the page?"
 
-Tomas Rusk stood on the bench-end in the thin morning light with the file against his chest, a fifty-year-old mechanic who had been a witness twice in his life and had hated it both times.
+He stood on the bench-end in the thin morning light with the file against his chest, a fifty-year-old mechanic who had been a witness twice in his life and had hated it both times.
 
 "Because the bell schedule's no good on its own," he said. "You put that page in front of a court, they'll hear *what the bells were for*, and they'll have a nice tidy thing where the bells were a works signal and the whole business is a flood matter and a bad closure and nothing anybody meant. And it isn't. I was second shift. I was on the reach at ten to twelve on the night they closed the lane, and the third bell went and nobody came, and the foreman walked the reach himself, alone, without a bell, with a lamp, because the third bell had been answered by the *people* and the people had already been sent down to Cedar Court on the strength of the first two." He put his hand flat on the file. "So you can have my page, Rook, the day you can tell me why the road was shut in the middle of the run. Not what the bells were for. Why it shut."
 
@@ -250,6 +250,6 @@ Tomas Rusk stood on the bench-end in the thin morning light with the file agains
 
 He went back inside. On the bench he had left, there was a chalk mark in a small square, drawn by a boy who had come back for his marks and had put them up again, and beside it, in the same chalk, four words: *back on the dry side*.
 
-Lena Marr and Owen Fitch were still on the landing at the side threshold, with a Streetkeeper rota that had already lost two of its four names and been rewritten twice, and behind them, somewhere under a hundred and forty feet of embankment, the gate at Floodgate Four sat at eighteen inches of sill and let the whole of the district's water go on going where a careful man had pointed it.
+Lena Marr and Owen Fitch were still on the landing at the side threshold, with a Streetkeeper rota that had already lost two of its four names and been rewritten twice, and behind them, somewhere along a hundred and forty metres of alignment under the embankment, the gate at Floodgate Four sat at eighteen inches of sill and let the whole of the district's water go on going where a careful man had pointed it.
 
 In the Civic Atlas Office route room, a printer's proof of the amended Line 7 sheet went onto the wire tray at eleven forty, and the Bellwether Lane entry was gone from it, and the 4:17 was free again, and the district's timetable now sent the evening service down the detour at a rate nobody had tested.

@@ -26,7 +26,7 @@ He started at the fence and walked the platform.
 
 ---
 
-The ordinary measurements came out ordinary. He set a baseline from the north rail joint, paid the chain out, and got thirty-one metres to the platform's end wall, then a gap, then forty-one metres of platform on the alignment drawing's scale, and the numbers agreed to within the tolerance of a six-year-old reconstruction. Platform width, two metres sixty. Shelter set-back, one metre ten. Coping stones, eleven, with the fourth one chipped. He wrote all of it down, and it was all of it true, and none of it told him anything.
+The ordinary measurements came out ordinary. He set a baseline from the north rail joint, paid the chain out, and got forty-one metres to the platform's end wall, then a gap, and then the same forty-one metres of platform off the alignment drawing at its own smaller scale, and the two numbers agreed to within the tolerance of a six-year-old reconstruction. Platform width, two metres sixty. Shelter set-back, one metre ten. Coping stones, eleven, with the fourth one chipped. He put all of it down, and it was all of it true, and none of it told him anything.
 
 He tried the boundary four ways.
 
@@ -66,7 +66,7 @@ Milo did not see anything appear. He saw the four inches *stop being a gap*. One
 
 He did not step forward. He got the chain and he put the end of it against the hoarding iron and he pushed.
 
-The iron did not move. The chain went slack, which meant the far end was closer than the near end, and he wrote that down, and then he wrote in his own book, in the flat unhurried capitals he used for a thing he wanted to be able to deny later:
+The iron did not move. The chain went slack, which meant the far end was closer than the near end, and he put that down, and then he wrote in his own book, in the flat unhurried capitals he used for a thing he wanted to be able to deny later:
 
 *Negative space, west face of hoarding, 4.2 km, approx 62 m S of disused platform end. Eye sees a doorway. Chain does not agree with eye. Chain agrees with itself.*
 
@@ -74,11 +74,11 @@ And under it, in the middle of the page, in the same hand and no other, a line t
 
 *A return mark is missing.*
 
-Milo Rook read it four times. He held the book at an angle to the lantern. He closed it and opened it again on the next page, and there was nothing there, and he came back to the first page and there it was, and the pressure of the nib in the strokes was his own, and the ink was graphite he had sharpened that afternoon, and he could not remember writing it.
+He read it four times. He held the book at an angle to the lantern. He closed it and opened it again on the next page, and there was nothing there, and he came back to the first page and there it was, and the pressure of the nib in the strokes was his own, and the ink was graphite he had sharpened that afternoon, and he could not remember writing it.
 
 It did not say whose return. It did not say where. It did not say what a return mark is for, or whether a mark is a mark, or whether a mark can be made by a man with chalk at half past eight on a Tuesday.
 
-He wrote three things under it, because the habit was to write down the limits of a thing before he started believing in it.
+Under it he got three things down, because the habit was to write down the limits of a thing before he started believing in it.
 
 *Does not name a person.*
 *Does not name a bell.*
@@ -94,7 +94,7 @@ Pell crouched and drew a line along the platform twenty feet long, and at the en
 
 "Two ways out of anything, Rook," he said. "The bar's a bar, and the circle's the bit that means *but only if you know what I meant*." He rubbed his hands on his coat. "If I turn round tomorrow and I don't believe that any more, then the mark's nothing, and you'll be stood in the dark with a lantern and no road home, and that will be my fault and I'll say so."
 
-Milo wrote the mark in his book, exactly. Then he tested it, because he had to.
+Milo put the mark in his book, exactly. Then he tested it, because he had to.
 
 He walked to the gate and back along the chalk. Fine. He walked it blind, with his eyes shut, and got it right, because the concrete was regular and the shelter was on his left. He walked it in the dark, and got it right.
 
@@ -102,7 +102,7 @@ He wrote: *Chalk line, one pass. Fine. It is only a mark made tonight. The book 
 
 That was the whole of it, and it was the part of the night that frightened him.
 
-Because the line in the book had not said *a mark is missing*. It had not asked for one. It had said a return mark **is** missing, in the flat voice of a clerk reporting the state of a thing, and Milo had gone out and made one, and made a good one, and it had satisfied nothing at all. The page sat there in the lantern light, and whatever was looking at it through the paper had not moved, and had not been satisfied, and had not been given anything.
+Because the line in the book had not said *a mark is missing*. It had not asked for one. It had said a return mark *is* missing, in the flat voice of a clerk reporting the state of a thing, and Milo had gone out and made one, and made a good one, and it had satisfied nothing at all. The page sat there in the lantern light, and whatever was looking at it through the paper had not moved, and had not been satisfied, and had not been given anything.
 
 "A fresh mark won't do it," he said aloud, to nobody, to the platform. "Right. Fine. Good."
 
@@ -120,7 +120,7 @@ What he got was his mother's voice, and it was not a message and it was not for 
 
 He took his hand off the token so fast that he nearly put it in the river.
 
-That was the sum total of what the Lark Street token had ever done for him. Not a door. Not a place. Not a woman in a laundry coat holding a door. Just his mother's voice, at the age of thirty-one, in good health, giving a tram instruction to somebody who was not him, on a platform that no longer existed, because she had been alive and had known a loop and had thought about a conductor standing in the wet.
+That was the sum total of what the Lark Street token had ever done for him. Not a door. Not a place. Not a woman in a laundry coat holding a door. Just his mother's voice, in good health and in a hurry, giving a tram instruction to somebody who was not him, on a platform that no longer existed, because she had been alive and had known a loop and had thought about a conductor standing in the wet.
 
 He put the token back in his coat, and sat on the coping stone for a while with his hands between his knees.
 
@@ -130,11 +130,11 @@ She had given that instruction to a conductor on a street that no longer had a n
 
 It did not follow that anything on this embankment had heard her. It did not follow that anything here knew her, or had kept her, or would ever say her name. What it followed, at the very most, was that Milo Rook had spent eighteen years teaching himself to recognise a tram sequence, and that he was standing in the dark at forty past eleven letting a coincidence do his reasoning for him.
 
-He wrote that down too. Then he wrote the thing he had actually learned, which was that the eye found the gap and the chain did not, and that this was a place where two accounts of the same hundred metres were both available, and that the four inches of dark under the hoarding foot was one of them and the other one had a lamp in it.
+He put that down too. Then he wrote the thing he had actually learned, which was that the eye found the gap and the chain did not, and that this was a place where two accounts of the same hundred metres were both available, and that the four inches of dark under the hoarding foot was one of them and the other one had a lamp in it.
 
-Then he wrote out his route home, in full, the way he had written it out after every survey since he was nineteen years old, from the platform to the gate, from the gate to the embankment steps, down to the Ferry Road, over the bridge, and home, with the timings against the turns because that was the part that had always mattered.
+Then he copied out his route home, in full, the way he had copied it out after every survey since he was nineteen years old, from the platform to the gate, from the gate to the embankment steps, down to the Ferry Road, over the bridge, and home, with the timings against the turns because that was the part that had always mattered.
 
-He wrote it in a full hand, and it was all there, and he put the book away.
+He did it in a full hand, and it was all there, and he put the book away.
 
 ---
 

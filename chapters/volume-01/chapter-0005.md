@@ -44,9 +44,17 @@ Jo had come in at ten past one still in his uniform, and he had taken the chair 
 
 "Then what rang in it?" Milo asked.
 
-"Two at Quayside heard something." Jo's jaw moved. "I heard a bell in the report you two have been trading about, and there's no bell. So either somebody's sheet is wrong, or the thing you're calling a bell is a works bell that's come loose from the works, and the third one's the interval before a shift goes out. That's my read. It's a low read. I'd want to see the reach."
+"Two at Quayside heard something." Jo's jaw moved. "I heard a bell in the report you two have been trading about, and there's no bell. So either somebody's sheet is wrong, or the thing you're calling a bell is a works bell that's come loose from the works, and I'll tell you what I can put my hand on and no more. That's my read. It's a low read. I'd want to see the reach."
 
-"Three," said a woman Milo had not met, at the far end, with a child's sleeve rolled up in her hand. She spoke once and then looked at the table as though she had been rude. "The third was the count. If you're in a stairwell you don't go on the second. You go on the third, and the third is when you read the list out loud, because that's when everybody's out of the buildings and that's the only time you can count without two of you still inside."
+"That is a bell with nothing behind it," Lena said.
+
+"It is a bell we cannot find the works for. It is not the same thing." He turned the cup round once on the table. "And you are not asking me about the bell, so I will answer the other thing. You want to know what the third one is for. I have been on the end of a run. Second call is the front of the tram doing the count. By the third it is not the front any more, it is whoever is at the door, and the count goes back — front to back, back to front, door to front — and the tram does not move until it has been handed." He put the cup down. "Nobody on that line could tell you whose job it is, because the whole point of it is that it is nobody's. It is the door's. So if you want a reading, you may have a handover: whoever was holding the door handed the count on. And then you will tell me I have been talking about trams, and you would be right to."
+
+"That is not the third bell," Ada said. "That is a tram."
+
+"I know very well what it is a tram. I am telling you what I would do if it were one."
+
+"The third was the count," said a woman Milo had not met, at the far end, with a child's sleeve rolled up in her hand. She spoke once and then looked at the table as though she had been rude. "If you're in a stairwell you don't go on the second. You go on the third, and the third is when you read the list out loud, because that's when everybody's out of the buildings and that's the only time you can count without two of you still inside."
 
 "That's my mother's," said Lena Marr.
 
@@ -104,15 +112,17 @@ Milo tried twice more that night to get Ada to give him a sentence he could put 
 
 She took him to the bottom of the stairwell and made him stand still.
 
-"This is the check," she said. "You stand at the bottom and you look up and you count what you can see of your own floors. Mine's three. Ninety-one on the second, the Farr kids and the boy with the blanket, and the old man in four who'll be asleep. You count them and you say it out loud so somebody at the top hears you, and then they count back. If they can't count back, you go up. You don't go out."
+"This is the check," she said. "You stand at the bottom and you look up and you call your floors. Mine's three. Ninety-one on the second, the two women on the second landing, and old Mabb on three, who will be asleep and will not answer, and who is the reason I go up. You say it out loud so somebody at the top hears you, and then they count back. If they can't count back, you go up. You don't go out."
 
 "That's the door-check."
 
 "That's the door-check."
+
+"It's the door-check with the doors gone," Ada said. "This was a laundry court with a lane down the side of it and a row of nine doors, and the lane is what I used to look at. It is four storeys of flats now, and three of them are mine, and the doors are up the stairs instead of along the lane, so I count floors. It is the same work. It is not the same work, and I am not going to stand in this kitchen and pretend to you that it is, because the woman with the list is at this table and she will notice the difference in a minute."
 
 "Does it go on the third bell?"
 
-Ada Fenn looked at him for a moment with an expression that had something in it he did not have a name for.
+She looked at him for a moment with an expression that had something in it he did not have a name for.
 
 "Ask me again on a night when you haven't asked me three other things first," she said.
 
@@ -126,7 +136,7 @@ He had thought, in some part of him, the sentence *this is the only one who can 
 
 And she had not been a witness. She had been a woman who had been struck out of a public record and had kept knocking on a door for six years because stopping had never once occurred to her as a thing she was entitled to do, and who had tonight decided to tell a surveyor what she needed instead of what he needed, and who was owed that much and no more.
 
-Milo Rook wrote it down. Not in the book. On the back of his own hand, in pencil, so it would not be legible as a survey record: *Do not use a person as a condition.*
+He wrote it down. Not in the book. On the back of his own hand, in pencil, so it would not be legible as a survey record: *Do not use a person as a condition.*
 
 He did not become a different man. He still wanted the third turn explained. He still wanted, in a way he was not going to be proud of for a long time, a map of that lane with his mother's shape somewhere in it. But he wrote the sentence down, and he put the book away, and he let the question go closed for the night, which was the single largest thing he had done in two years.
 
@@ -150,7 +160,7 @@ Mara Quill was waiting for him by the door with her folder shut and her hat in h
 
 "Because the only person who could say it happened is the one I just promised I would not use, and you knew that before I did, which is why you're asking me in a doorway at two in the morning instead of in a room with a clerk."
 
-Mara Quill was quiet for a moment.
+She was quiet for a moment.
 
 "Yes," she said. "That is exactly why I asked you in a doorway."
 
@@ -166,19 +176,19 @@ He opened it on the table in the doorway, and turned it round so that she could 
 
 "There's a mark in the margin of the printed sheet," he said. "Old ink. It's older than the stock it's on. Somebody's hand, and not one of ours. There's a hand in the alignment file too, or there will be when you look, and I have never seen it before tonight and I have been in that drawer a hundred times."
 
-"Soren Rook," said a voice from the top of the stairs.
+"Rook," said a voice from the top of the stairs.
 
 Both of them turned.
 
 Ada Fenn was on the third step, in her coat, with her hand on the rail.
 
-"No," she said. "You look at your paper and you find a road on it that isn't there, and you read it backwards, and you find the man who put it there." She came down two steps. "I have been asked before, Rook. Not by a surveyor. Nine years ago by a young man out of Crown Heights who was very polite and who asked me one question, which was what the third bell was for, and he wrote the answer down in that hand, and he was not in a hurry about it, and he was kind about the door."
+"Don't," she said. "You look at your paper and you find a road on it that isn't there, and you read it backwards, and you find the man who put it there." She came down two steps. "I have been asked before, Rook. Not by a surveyor. Nine years ago by a young man out of Crown Heights who was very polite and who asked me one question, which was what the third bell was for, and he wrote the answer down in that hand, and he was not in a hurry about it, and he was kind about the door."
 
 "And?"
 
 "And eleven months later a sentence I'd given him in my own kitchen turned up in a document in my own kitchen, and I never showed him that document, and nobody has ever been able to tell me how." Ada's voice did not rise. "And there was a letter about it, and the letter was signed by somebody with a title, and the title had a word in it I didn't know. So when you come at me with a mark in the margin and a hand, and you tell me that a careful man wrote it a long time ago, I am going to tell you the same thing I told him. I am not going to be asked in a hearing. I am not going to be read into a file. I am sixty-eight years old and I have already been a document once."
 
-Milo Rook stood in a doorway at Cedar Court with his own book open on a table and a brass token in his coat and a woman on the stairs telling him no, and every single thing he had come here to find was still where he had left it.
+He stood in a doorway at Cedar Court with his own book open on a table and a brass token in his coat and a woman on the stairs telling him no, and every single thing he had come here to find was still where he had left it.
 
 "That's fair," he said.
 
@@ -188,6 +198,6 @@ Milo Rook stood in a doorway at Cedar Court with his own book open on a table an
 
 She came down the stairs. Above her, somebody's door closed, and the boy with the blanket asked a question nobody answered, and the block settled into the particular silence of forty-one people who had all grown up in the same six weeks.
 
-Mara Quill picked up her hat.
+She picked up her hat.
 
 "Sunrise," she said. "Wear something you can get dirty."

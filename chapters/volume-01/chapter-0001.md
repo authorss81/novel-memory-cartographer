@@ -20,7 +20,7 @@ Dilley Farr came round the end of the refectory table with two cups. He was the 
 
 "Then the line is wrong." Milo turned the sheet so Farr could see. "It's a dwell. Look at the arithmetic."
 
-He had done it twice already with a slide rule and once with pencil on the back of a requisition. Between Quayside and Ferryman's Rise the down-service allowed seven minutes twelve. The rolling stock could do that stretch in seven minutes twelve on a dry rail in a mild wind, which meant every second of slack in the timetable was already committed. Put a stop at 4:17 between them and you had to add a dwell, and the shortest lawful platform dwell was forty seconds. Forty seconds had to come from somewhere. There was nowhere for it to come from. Either the tram stopped forty seconds late at Ferryman's Rise, or it ran the stretch four seconds over its limit, and four seconds over on that grade in wet weather was a wheel off a rail at the junction.
+He had done it twice already with a slide rule and once with pencil on the back of a requisition. Between Quayside and Ferryman's Rise the down-service allowed seven minutes twelve. The rolling stock could do that stretch in seven minutes twelve on a dry rail in a mild wind, which meant every second of slack in the timetable was already committed. Put a stop at 4:17 between them and you had to add a dwell, and the shortest lawful platform dwell was forty seconds, and the sheet says forty-one. Forty-one seconds had to come from somewhere. There was nowhere for it to come from. Either the tram stopped forty-one seconds late at Ferryman's Rise, or it ran the stretch a second over its limit, and it has never needed much on that grade in wet weather, with a wet rail and a car that has to hold a curve at the junction.
 
 "There," Milo said. "Forty-one seconds of dwell on a schedule with no slack in it. That's not a printing error. That's a tram that arrives late every night and gets written up by the traffic office for it."
 
@@ -42,7 +42,7 @@ Milo nodded. He was already reaching for the alignment sheet drawer, and Farr ca
 
 The alignment sheets lived in the tall drawers under the north windows, and finding one meant working backwards through six years of flood repairs. Milo pulled drawers until the drawer stops fought back, and then he found it: the reconstruction of the Alder Quay frontage from the year the works zone was first cut, when the district had been renumbered twice and the old platform service court had still been on the drawing.
 
-The court was there. A laundromat court, an unroofed square with a pump shed at its western end and a service door onto the flood-control wall. It was drawn in a thin draughting line and labelled only by a chainage, 4.2 kilometres from Quayside, which put it four hundred and six metres along the alignment. The line diagram on the reconstruction gave Bellwether a platform symbol: a short bar with a small square beside it.
+The court was there. A laundromat court, an unroofed square with a pump shed at its western end and a service door onto the flood-control wall. It was drawn in a thin draughting line and labelled only by a chainage, 4.2 kilometres from Quayside, which put it a shade over four kilometres along the alignment and nowhere a man would walk to in an evening. The line diagram on the reconstruction gave Bellwether a platform symbol: a short bar with a small square beside it.
 
 The square meant something in the tram authority's old notation. Milo knew two of the six meanings and had never learned the rest. It was not a notation the Civic Atlas Office used, and it was not in any manual on the shelf behind him.
 
@@ -64,9 +64,11 @@ The mark was in the margin.
 
 It was not large. It was about the size of a thumbnail and it sat level with the Bellwether entry, in the outer margin where the plate trim ran, and it was not a deletion. Whoever made it had not struck the line through and had not written *cancel* or *omit*. They had drawn a small open bracket with a dot inside it — a surveyor's mark, and a careful one, the strokes even and unhurried, made by a hand that had been taught to let the pencil do the work.
 
-Milo knew the plate trim. He also knew what fresh ink on cheap stock looked like, because he had been correcting these sheets for six years, and fresh ink sits on the surface and spreads a little into the fibre and stays black. This had a brown halo around it where the ink had wicked sideways into damp and dried there. There was a fold in the sheet, a printer's fold, the diagonal kind that comes from a sheet being folded to fit a wire tray, and the fold had gone through the ink. The ink lay across the crease. The crease did not lie across the ink.
+Milo knew the plate trim. He also knew what fresh ink on cheap stock looked like, because he had been correcting these sheets for six years, and fresh ink sits on the surface and spreads a little into the fibre and stays black. This had a brown halo around it where the ink had wicked sideways into damp and dried there, and a sheet that comes off a press is dry and hot when it comes off, so it cannot have been damp when this was made.
 
-The paper came off the press on Tuesday. Whatever made that mark had been made on a sheet that had already been folded once, and had then been unfolded and reprinted over, or the mark had been lifted. Either way the mark was older than the paper, and the fold that crossed it was older than the mark, and both were older than the office's quarterly print run.
+There was a fold in the sheet, a printer's fold, the diagonal kind that comes from a sheet being folded to fit a wire tray. The ink lay across the crease. The crease did not lie across the ink.
+
+Which meant the crease was there first, and somebody had marked over it. The paper came off the press on Tuesday. Whatever made that mark had been made on a sheet that had already been folded once, and had then been unfolded and put back through, or the mark had been lifted off something older. Either way the mark was older than the paper, and the crease was older than the mark, and both of them were older than the office's monthly print run.
 
 He did not know the hand. That was the part that kept him standing at the window. He could name six correction hands in this building and two in the traffic office and he had signed his name under all of them at some point in his apprenticeship. This was not one of them. It was older, and more patient, and it had been made by somebody who expected this exact sheet to come back into circulation.
 
@@ -111,4 +113,18 @@ Then he put his pen in his pocket and picked up his chain and his coat.
 
 "You'll be back on this," Farr said, "and you'll tell me what you saw, and if what you saw is a fault in a dead wire, I will be extremely pleased to have been right about a printing error, and I will buy the tea for a week."
 
-Milo was already at the door. Behind him, out on the embankment, the disused platform stayed exactly as it had been: dark, fenced, and, from where the speaker had been, silent for six years.
+There was a conductor on the landing with his coat still buttoned and a hand lamp he had not switched off, and he had come up two flights rather than use the corridor, which told Milo that he had decided before he started climbing that this was not a conversation about printing.
+
+"Jo Lask, Line Seven. I signed out of your detour at Quayside." He held the lamp down by his thigh. "Your platform said Bellwether Lane. Bellwether's not on my list. I know the list, it's the job, and I have been on that end eleven years and there was never a Bellwether on any sheet I ever had. So either your machine is talking, or there is a stop down there and I have been running past it."
+
+"There is a name in the timetable and a stop on the platform, and I have not been down there yet, so I do not know which it is." He got his chain off the stand. "I will find out before eight. If I find a stop, you can put it in a run book and slow for it. If I find a dead wire and a hole where the wire was, I will say so in writing and you can take it to your traffic office, and I would rather have that conversation than the other one."
+
+The conductor turned the lamp over in his hand.
+
+"I looked at it once," he said. "When they shut it. The nameboard's gone, but the screws for it are still in the coping, and there was a gap in the rail where you could get off and walk, and nobody thought to fill it in." He put his hand on the stair rail. "So if there's a stop down there, there's a platform down there, and if there's a platform, then somebody can stand on it."
+
+"They pulled the fence."
+
+"They pulled the fence six years ago," Jo Lask said. "That's what I keep saying. Nobody's stood on it since, and there is more than one of us would have."
+
+Milo was already at the door, and he had the chain over his arm, and behind him, out on the embankment, the disused platform stayed exactly as it had been: dark, fenced, and, from where the speaker had been, silent for six years.

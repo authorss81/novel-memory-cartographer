@@ -8,7 +8,7 @@ Iona Sen had a rule about mornings, which was that nothing important was decided
 
 "You have got the eyes of a man who is about to tell a committee he is fine, and I have been the person on the other side of that sentence for twenty years." She put the plate down. "Bread, cheese, an apple, and a quantity of tea that would embarrass a sluice. Eat it in that order, and when you get to the apple, tell me where the office is."
 
-Milo Rook put down the fork.
+He put down the fork.
 
 "Alder Quay," he said. "Along the Ferry Road, up past the rope market, second right at the chandler's, and then the long window, and the route room is the one with the north light."
 
@@ -26,7 +26,7 @@ It came as a formal request, delivered to the Civic Atlas Office route room by a
 
 Milo read it standing up, in his coat, in the route room, and the first thing he did was put his hand inside his coat, where the book was, and the second thing he did was take his hand out again without looking at it.
 
-Dilley Farr came round the end of the refectory table with two cups, because it was that sort of day.
+It was that sort of day, and Dilley Farr came round the end of the refectory table with two cups.
 
 "It's not framed right," Farr said.
 
@@ -42,7 +42,7 @@ Dilley Farr came round the end of the refectory table with two cups, because it 
 
 "Second time this year. It's a good year."
 
-Milo Rook read the request a third time and then read it out loud to Dilley Farr in the office's own words, which is a thing he had been taught in his apprenticeship, and then he wrote a refusal at the bottom of it in four lines: that the book is not departmental property, that its earlier entries are the private measurements of a private person, and that he would supply on request any entry relating to the alignment at the service court, extracted, in the presence of a clerk, and not the book.
+He read the request a third time and then read it out loud to Dilley Farr in the office's own words, which is a thing he had been taught in his apprenticeship, and then he wrote a refusal at the bottom of it in four lines: that the book is not departmental property, that its earlier entries are the private measurements of a private person, and that he would supply on request any entry relating to the alignment at the service court, extracted, in the presence of a clerk, and not the book.
 
 "Send that," he said. "And Farr — send the extract myself. Don't let them pick what to take."
 
@@ -56,15 +56,15 @@ Then, as Milo was at the door, Farr said, to his back, in an entirely different 
 
 Mara Quill was in the corridor outside, in a coat that had been worn for two days, holding a file under her arm and looking at the light coming through the north window as though it had been arranged against her.
 
-"I'm not permitted in the route room," she said. "Not today. I'm the officer under review, so I'm in corridors. That's how it works. You are going to find the whole arrangement humiliating and I want you to know in advance that I find it humiliating and have for about eleven years."
+"I'm not permitted in the route room," she said. "Not today. I'm the officer under review, so I'm in corridors. That's how it works. You are going to find the whole arrangement humiliating and I want you to know in advance that I find it humiliating and have for about six years."
 
 "Reviewed for what?"
 
-"For invoking a protective finding against its date. That's all. It's a small thing, it's a real thing, and it is the exact reason a district officer can now say that an advocate overrode the timetable of an inspection." She turned the file over and did not open it. "They could have suspended me. They have not, because if they had, the ninth would have gone differently and there is a report that says it didn't. So I'm here, with my file, being reviewed, and I've got a fortnight before the hearing, and there is exactly one filing I can make in the next hour, and I want to make it and I want you in the room while I make it, and I want to tell you what it costs first."
+"For invoking a protective finding against its date. That's all. It's a small thing, it's a real thing, and it is the exact reason a district officer can now say that an advocate overrode the timetable of an inspection." She turned the file over and did not open it. "They could have suspended me. They have not, because if they had, the ninth would have gone differently and there is a report that says it didn't. So I'm here, with my file, being reviewed, and I've got four days before the hearing, and there is exactly one filing I can make in the next hour, and I want to make it and I want you in the room while I make it, and I want to tell you what it costs first."
 
 "Go on."
 
-"I am going to file a supplemental application for a temporary stay. Not an objection. Not a review. A stay, limited to the period until the next timetable review on the twenty-eighth, on the grounds that the order's account is incomplete and that the incompleteness is material." She looked at him. "A stay does not suspend the order. A stay prevents the route being re-cut around the service court before the hearing. In fourteen days, when the hearing sits, I have to win, or the stay dies and everything after today is a description of a place that used to exist. And if the hearing finds against me, the review stops being about the ninth and becomes about me, and I lose preferred access, which means I never again get to walk into a file in Crown Heights without a supervisor standing at the door, and I go back to intake. I do not go on to anything. That is the whole of the price."
+"I am going to file a supplemental application for a temporary stay. Not an objection. Not a review. A stay, limited to the period until the next timetable review on the twenty-eighth, on the grounds that the order's account is incomplete and that the incompleteness is material." She looked at him. "A stay does not suspend the order. A stay prevents the route being re-cut around the service court before the hearing. In four days, when the hearing sits, I have to win, or the stay dies and everything after today is a description of a place that used to exist. And if the hearing finds against me, the review stops being about the ninth and becomes about me, and I lose preferred access, which means I never again get to walk into a file in Crown Heights without a supervisor standing at the door, and I go back to intake. I do not go on to anything. That is the whole of the price."
 
 "Then do it."
 
@@ -76,7 +76,7 @@ Mara Quill was in the corridor outside, in a coat that had been worn for two day
 
 ---
 
-So Milo Rook wrote a supplemental application for a temporary stay on the back of a handbill in the corridor of the Civic Atlas Office with a bandaged hand and a headache, and it took two hours, and it is the only piece of work in the first ten days of this that he has ever described as his own.
+So Milo Rook wrote a supplemental application for a temporary stay on the back of a handbill in the corridor of the Civic Atlas Office with a bandaged hand and a headache, and it took two hours, and it is the only piece of work since the fourth of Sazur that he has ever described as his own.
 
 It is not a restoration map. It is eleven inches by nine of cheap paper and it is titled *SERVICE COURT ACCESS, PROVISIONAL, ONE SHIFT, REVOCABLE*, and it is a plan of the old service court drawn from the water, from a door, and from the plain fact that a court has a pump shed against one side and a handrail along the other.
 
@@ -120,7 +120,7 @@ They talked on the landing for twenty minutes with the river going past below th
 
 "Yes," Milo said. "If it's only in your head it's a favour. If it's in three books where it can't be got at, it's a record, and a record can be argued with. A favour can only be refused."
 
-Owen Fitch looked out at the river for a while.
+He looked out at the river for a while.
 
 "My mother used to check that stairwell," he said. "Three times a night, before. And nobody's checked it since, because the woman who does it is on the third floor and she's got the flu and there's a boy with a blanket." He went back in, and shut the door, and then opened it again. "I'll do the third floor. Once a night. Not the whole thing. And I'm not doing it for you and I'm not doing it for Quill, and if you write that down I'm going to want to know what the next line is, because you never put a blank in anything in your life and I'm waiting to see what the blank is for."
 
@@ -156,17 +156,31 @@ At nine o'clock that night, in a corridor in Crown Heights, Mara Quill filed her
 
 It is the smallest thing she has ever filed and it is the first thing she has ever filed that she believes will hold.
 
-The eleventh, the twelfth and the thirteenth went the way those days go, and Milo Rook has them in order.
+He ate at the counter of the Ferry Road pie shop on the eleventh and the twelfth and the thirteenth, because the pie shop is between the chandler's and the blue door, and because a counter is a fixed thing with a fixed view of a door, and because the four hundred metres between the two were four hundred metres he could not be trusted with.
 
-He signed fourteen ordinary corrections on work he could not get to without being taken. He asked twice, out loud, in the route room, for somebody to walk him to the north window, and Dilley Farr did it both times and did not make it into a thing that any of the six other men in the room could help him with, which Milo understood at the time and has been grateful for since. He slept nine hours on the second night, which was more than he had slept in one go in three weeks. He ate at the counter of the Ferry Road pie shop every day, which he had never done in his life, because the pie shop is between the chandler's and the blue door and stopping there made the route home survivable on the way back, and he has not entirely decided whether that is a solution or a new problem.
+On the twelfth the woman behind the counter had stopped asking which he wanted somewhere around the second day.
 
-On the fourteenth, Mara sent for him.
+"You're the one who stood in the road," she said.
+
+"It was the tenth."
+
+"You stood in it for a while. Then you asked me if the chandler's was this way, and it is, and you looked at the sign the way a man looks at a word he cannot place." She put a plate down in front of him. "And now you come in at six and sit with your back to the door, which is the first sensible thing I have seen you do. You're not walking home."
+
+Milo looked at the door, which was eleven feet away, and could not have said with any confidence which side of it he was on.
+
+"I'm going to try," he said.
+
+She wiped the counter, came round the end of it, and took her cardigan off the back of the stool. "Then I'll walk you round the corner, because the corner is the hard part, and after the corner you've got the chandler's, and the chandler's you know. And I'm not going to talk to you, because there's nothing to say and you'd only answer me polite and be standing in a road again."
+
+So she walked him round the corner, and turned back at the chandler's, and said, "Blue door's the one with the plate gone off it," and that was the whole of the help she gave him and it was more than he had expected from anybody that week. He slept nine hours on the second night, which was more than he had slept in one go in three weeks. And on the way back on the third evening he stopped at the pie shop again for the length of one cup of tea, and he has not entirely decided whether that is a solution or a new problem.
+
+On the thirteenth, the day before the hearing, Mara sent for him and would not let him read it anywhere else.
 
 Its attachment is the carbon copy.
 
-Milo asked for it on the tenth and got it on the fourteenth, on condition that he read it in the room, and he read it in the room, in the alcove, under the lamp, with Mara Quill sitting opposite him and not saying anything at all.
+He had asked for it on the tenth and got it on the thirteenth, on condition that he read it in the room, and he read it in the room, in the alcove, under the lamp, with Mara Quill sitting opposite him and not saying anything at all.
 
-He did the obvious things first. He wrote the destination out longhand, eight times, because he had been told eight years ago that a thing you say wrongly is worse than a thing you say once, and then he went through the current street name index for the river core, and then through the alignment sheets, and then through the six-year-old reconstruction, and then through his own memory of the 1990s renumbering, and he could not place it.
+He did the obvious things first, in order, the way he had been taught to do them: the destination out longhand until he was sure of the spelling, then the current street name index for the river core, then the alignment sheets, then the six-year-old reconstruction, and then his own memory of the 1990s renumbering, and he could not place it.
 
 It was not an invented name. That was what kept him at the table for an hour. An invented name has nothing in it — no neighbours, no ground, no soil, and the ones he had chased in six years as a surveyor had all been like that. This name had a street on either side of it that were both correct and current, and a bus route that had stopped serving it in a year he could date, and a name that had gone out of use the way a name goes out of use, by people getting older, rather than by anybody deciding anything.
 
@@ -176,9 +190,23 @@ It was not an invented name. That was what kept him at the table for an hour. An
 
 "Whichever one somebody copied that carbon from, and somebody can tell you which one, because there is a copy register and it is not secret." She nodded at the margin. "Now look at the margin properly. You have been reading the diversion line for twenty minutes and you have not looked at the writing underneath it."
 
-He had looked at it. He had looked at it at the trestle table on the ninth and had said *careful hand* and *different pencil* and had left it there.
+So he looked at it now, properly, and made himself read the two marks out loud before either of them said anything about them, because a thing read twice in two different voices is a thing that has been checked, and because the last time that sheet had been in a lamp the two of them had been in a yard at dusk and had both been about something else.
 
-He took out his own book and turned to the enlargement he had made on the third night, and held the two up to the same lamp at the same distance, the way Mara Quill had held them up in the records alcove six days before, and this time he was not holding a facsimile.
+It was a carbon, and carbon carries everything that was on the sheet above it, and there were two marks in the right-hand margin, well below the diversion line, in pencil, small, and neither of them signed.
+
+The upper one was neat and unhurried and pressed hard at the closing stroke.
+
+The lower one was in a different pencil. Different lead, different pressure, a different hand that happened to have been holding a pencil at the same time.
+
+Mara read the first one out loud.
+
+"'*Why were two accounts meant to stay open?*'"
+
+And then she read the second one, twice, and her voice did something on the word *who*.
+
+"'*Who gave the order.*'"
+
+He took out his own book and turned to the enlargement he had made on the third night, and held the two up to the same lamp at the same distance, the way Mara Quill had held them up in the records alcove eight days before, and this time he was not holding a facsimile.
 
 The upper mark on the carbon was a bracket open to the right with a dot inside it, and the stroke that closed it had the same small hesitation at the end that the enlargement had, and the same pressure, and it was facing the same way.
 
@@ -192,9 +220,9 @@ And underneath it: *Lower mark. Different lead, different pressure, different ha
 
 "So I don't know who asked which question, and I don't know whether either of them is asking me, and I don't know whether it is one man with two pencils or two men at one table, and if I take this to the fourteenth and say *the same hand*, I will be relying on a comparison of a hand, and a hand is not evidence, and I have watched a man in this building lose a case on a hand."
 
-Mara Quill put her pen down.
+She put her pen down.
 
-"Then do not take it to the fourteenth," she said. "Take the attachment in as an attachment. Let the questions sit on the page. And when somebody in this building eventually asks you whether the annotating hand is one person, you will have a piece of paper that says *I do not know*, in your own writing, dated, from a month before anybody asked you."
+"Then do not take it to the fourteenth," she said. "Take the attachment in as an attachment. Let the questions sit on the page. And when somebody in this building eventually asks you whether the annotating hand is one person, you will have a piece of paper that says *I do not know*, in your own writing, dated, from the day before anybody asked you."
 
 "That is not nothing, is it."
 
@@ -202,13 +230,13 @@ Mara Quill put her pen down.
 
 ---
 
-Milo Rook went out of the building at a quarter to eleven and stood on the Crown Heights terrace in the cold with a folder under his arm and a piece of paper folded in his pocket, and the city was below him doing what it did.
+On the fourteenth, Milo Rook went out of the building at a quarter to eleven and stood on the Crown Heights terrace in the cold with a folder under his arm and a piece of paper folded in his pocket, and the city was below him doing what it did.
 
 The amended Line 7 timetable was in every pocket in the river core. The 4:17 was free again. The service court was on the ninth page of an inspection report with a hole in it where a household was, and a sentence at the bottom saying that the Civic Atlas Office had no authority to reopen anything and did not claim one.
 
 And in the district works office, on a printed notice with a date on it, there was a floodgate test: the twenty-second of Sazur, Floodgate Four, whole structure to be driven out to full flow, embankment and works zone to be kept dry, low streets behind to be watched. The gate at the western culvert was at eighteen inches of sill and would be wound out. It would be wound out because it was what a lawful compromise had left, and because the site had been occupied all day on the ninth and there had been no window, and because a foreman named Danner had written *no window* on a form twice.
 
-Six days.
+Eight days.
 
 Milo put his hand in his coat and touched the brass token, which was warm, which meant nothing, which had always meant nothing, and which he would go on carrying into every room he walked into for the rest of his life, and which had never once opened a door.
 
@@ -220,5 +248,5 @@ He read it twice. The page was sound. The ink was his. Every figure on it was co
 
 What it would not do was tell Milo Rook which way to turn. The line was where he had put it. He was the part that had changed, and there was no version of this he could write down that would fix it, and the honest arithmetic of the thing was that he had a page that worked and a man who could not, and that in six months the man might come back and the page would still be there, and that neither of those sentences was a promise.
 
-He closed the book, and put his hand on the terrace wall, and looked down the hill at the river and the whole of the river core lit up like a workbench, and worked out, the way he had worked out everything else this fortnight, exactly who he was going to have to ask in the morning to get down there.
+He closed the book, and put his hand on the terrace wall, and looked down the hill at the river and the whole of the river core lit up like a workbench, and worked out, the way he had worked out everything else in ten days, exactly who he was going to have to ask in the morning to get down there.
 

@@ -4,7 +4,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 
 ## Milo Rook
 
-- **Where he is:** Alderquay. Recovering at Iona Sen's clinic after four crossings, sleeping badly, and unable to find familiar rooms unaided.
+- **Where he is:** Alderquay. Recovering at Iona Sen's clinic after **two** crossings — Chapter 4's lane and Chapter 8's loop — sleeping badly, and unable to find familiar rooms unaided. He does not cross in Chapter 9 and says so in his own signed report.
 - **Stage:** 1 — trace-sight. He can identify a likely seam, draw a rough threshold and return route, and make a short-lived crossing with a witness. He cannot stabilise a seam, identify a grammar with certainty, or hold a place open by drawing.
 - **Cost paid so far:** the **orientation blank**, first stage only. The *remembered* routes have gone: the route to the Civic Atlas Office, a corridor he has used for six years, the way to the hearing room, and his own front door. They return only when another person marks them. The **Field Book is intact** and the written route home is complete, correct, and legible to anyone else; it simply no longer tells him which way to turn. The written-line loss belongs to Chapters 51–53 and must not be pre-empted. No sensory failure, personal blank, seam-scar, record blank, or authorial blank has appeared.
 - **Working rule he can state:** Bellwether carries people through a changed street while the interval is kept, and the third turn is a place to yield rather than a position to fill. Both halves are earned by work, not by a system prompt. He does **not** know what the third bell originally was.
@@ -25,7 +25,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 ## Pell Harrow
 
 - **Where he is:** gone south, possibly for some weeks, following a lead that puts Tern's name on a list at a village with no official address. He has said one of his two sources is a liar and he does not know which.
-- **What he did:** maintained the return mark for one shift, held the line in the yard, and called the interval from outside the loop for forty-two minutes in Chapter 4 and again in Chapter 7. He marked the route to the route room and the bollard on Ferry Road, and then took his marks up again when the water went down, because he does not leave marks in ground people will walk back through.
+- **What he did:** maintained the return mark for one shift, held the line in the yard, and called the interval from outside the loop in Chapter 4 (he reported “forty minutes, maybe forty-two, and then I stopped counting”) and again in Chapter 7. He marked the route to the route room and the bollard on Ferry Road, and then took his marks up again when the water went down, because he does not leave marks in ground people will walk back through.
 - **Boundary set:** one shift, then his own search. He has told Milo plainly that he is not Milo's chalk, and that "not gone" and "not here" are different.
 - **He is not recruited and not Milo's assistant.** He has a separate goal, and Milo's case has delayed it twice.
 
@@ -54,7 +54,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 
 ## Jo Lask
 
-- **Where he is:** back on the road on Line 7, on the detour timetable, and he has asked for his job back in writing.
+- **Where he is:** back on the road on Line 7, on the detour timetable. In Chapter 9 he closed his tram’s doors on a public instruction from a man with a bandaged hand and held the interval against a pressure surge, and the marshal wrote that down. He has not asked for his job back and has not been suspended; the cost of the Chapter 9 hour is the hearing on the 14th, not a disciplinary record.
 - **What he did:** held a tram with a hand signal for twenty minutes in Chapter 7; walked the line; carried a bar in a sluice arch; called the live interval for the ninth; and in Chapter 8 stopped the loop himself, on his own, and counted himself out over 219 paces. He has a damaged ear for the interval, admitted it in front of a room, and did not report it.
 - **His third-turn reading:** the third call is a handover — whoever is holding the door hands the count on. He also holds the strongest argument that the bell at that end of the line was always a works bell and Bellwether never had one.
 - **What he wants:** the timetable and the workers' routes made truthful, even where that means admitting nobody was given a safe way home during the original closure. Milo's provisional plan says *the live interval only, not a standing duty* — the first time in eleven years anyone has put that in writing for him.
@@ -88,6 +88,6 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 
 ## Not yet on the page
 
-- **Soren Rook** is not named in Chapters 1–10. His presence is the bracket-and-dot hand on two documents and one possible third, and the method of a polite young man from Crown Heights who asked Ada a question nine years ago and collected the answer. Nothing on the page may confirm the parentage, the authorship, or the Lark order.
+- **Soren Rook** is not named in Chapters 1–10. In Chapter 5 Ada Fenn comes down the stairs and interrupts before Milo can say the name, and refuses in advance to be handed one. His presence is the bracket-and-dot hand on two documents and one possible third, and the method of a polite young man from Crown Heights who asked Ada a question nine years ago and collected the answer. Nothing on the page may confirm the parentage, the authorship, or the Lark order.
 - **Halden Vey, Sel Iri, and Tarin Kest** do not appear in this batch. Tarin's audit of the order is reserved for Chapters 31–40.
 - **Jonas Venn** is named once, in a compensation ledger, with no cause of death and the single word *pending*. He has not been investigated on the page.

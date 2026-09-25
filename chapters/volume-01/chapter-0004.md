@@ -44,7 +44,7 @@ He went along the wall. He stopped at the first door and did not open it. He sto
 
 The third door had a knothole and no handle and the number 3 above it in paint that had run downward in a rain streak and stopped halfway.
 
-Milo Rook stood in front of it with his hand at his side and did not touch it.
+He stood in front of it with his hand at his side and did not touch it.
 
 ---
 

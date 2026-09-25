@@ -2,11 +2,11 @@
 
 Current phase: batch write (`phase-002-batch-plan` / `workspace/volume-01/batch-0001`) — **Chapters 1–10 written. Phase not closed.**
 
-Chapter prose now exists: `chapters/volume-01/chapter-0001.md` … `chapter-0010.md`, all ten planned cards, all finished prose, ~34,000 words. POV is Milo throughout except Chapter 6 (Mara). `state/batch-summaries.md`, `state/chapter-summaries.md`, and `state/character-state.md` have been written for the batch; `state/continuity.md` and `state/open-threads.md` have been updated against the prose. The next phase prompt is `workspace/volume-01/batch-0002/PROMPT.md` (Chapters 11–20) and is the only next phase created.
+Chapter prose now exists: `chapters/volume-01/chapter-0001.md` … `chapter-0010.md`, all ten planned cards, all finished prose, ~36,000 words. POV is Milo throughout except Chapter 6 (Mara). `state/batch-summaries.md`, `state/chapter-summaries.md`, and `state/character-state.md` have been written for the batch; `state/continuity.md` and `state/open-threads.md` have been updated against the prose. The next phase prompt is `workspace/volume-01/batch-0002/PROMPT.md` (Chapters 11–20) and is the only next phase created.
 
 **Controller-owned and deliberately untouched:** `state/phase-ledger.json` and any `workspace/.../.done` marker. The phase prompt asks the writer to update the phase ledger; `AGENTS.md` and the system contract reserve that file for the controller, so it has not been edited. Closing this phase remains a controller action.
 
-**No independent review has run on this batch.** The review gate described in `state/current.md` previously is still broken, so the batch has not passed a read-only review. Treat it as self-checked only.
+**An independent review has now run on this batch, and its findings have been applied.** `logs/phase-002-batch-plan.review.log` records a full read of Chapters 1–10. Its central finding was that the batch's spine held and that the **state layer had drifted ahead of the prose**, asserting edits and beats that were never applied. Twelve repairs were made to Chapters 1, 3, 5, 6, 7, 8, 9 and 10 and the state files were reconciled to the corrected prose; the whole pass is logged as **CR-015**. No premise, rule, cost, antagonist, or calendar date moved. The review gate itself is still broken as a mechanism — see pending controller action 2 — but this phase is no longer self-checked only.
 
 Current volume: 1 (outline complete, Chapters 1–60)
 
@@ -39,9 +39,9 @@ Volume 1 plan in force:
 Batch 1 as written:
 
 - Beginning (1–2), escalation (3–4), midpoint (5), escalation and action (6–8), climax (9), aftermath (10). All ten cards hit.
-- Stage 1 trace-sight began in Chapter 3 with no crossing and no cost. The first Field Book residue appeared there, incomplete: *A return mark is missing*. Chapter 4 is the first cost-bearing crossing, and the orientation blank began there. A second residue, *The lane counts*, appears in Chapter 4. Chapter 9 has none, and Milo notices.
+- Stage 1 trace-sight began in Chapter 3 with no crossing and no cost. The first Field Book residue appeared there, incomplete: *A return mark is missing*. Chapter 4 is the first cost-bearing crossing, and the orientation blank began there. A second residue, *The lane counts*, appears in Chapter 4. Chapter 9 has none, and Milo opens the book in the middle of the pressure surge, finds it silent, and distrusts the silence. **Milo is across twice in the whole batch** (Chapter 4's lane, Chapter 8's loop) and does not cross in Chapter 9; Iona corrects him on the number in Chapter 8 and he records it himself in the signed report.
 - Chapter 5 earned the second half of the working rule from **Ada’s refusal**, not her agreement. Chapter 4 earned the first half by working. The two halves were not collapsed.
-- Cedar Court still carries three incompatible readings of the third turn plus the notice’s count of the dead, and a fifth account in Tomas Rusk’s withheld ledger page. All five survive Chapter 10 intact.
+- Cedar Court still carries three incompatible readings of the third turn — Ada's clear-the-lane, **Jo Lask's handover** (the count passes door-to-front at the third call and the tram does not move until it has been handed), and Lena Marr's count — plus the notice's count of the dead and a fifth account in Tomas Rusk's withheld ledger page. All five survive Chapter 10 intact, and the handover now has a person and a memory attached to it on the page rather than only in a summary.
 - The batch ends with a supervised one-shift passage, a temporary stay to the 28th, a deliberately incomplete public report, a plan of a handrail, and Attachment 9. **Orrin’s order still stands and is still enforceable pending the 14th.**
 
 Volume 1 calendar now fixed on the page (later batches must not move these):
@@ -51,6 +51,8 @@ Volume 1 calendar now fixed on the page (later batches must not move these):
 - **6th:** Chapter 7 at sunrise, Chapter 8 late morning and afternoon.
 - **9th:** Chapter 9, the one-shift public passage.
 - **10th:** Chapter 10, the clinic, the office, the corridor application, Cedar Court, Ferry Road.
+- **11th–13th:** the Ferry Road pie shop; the carbon copy read in the alcove on the **13th**, the day before the hearing.
+- **14th:** the hearing sits, four days after the corridor application; the terrace at a quarter to eleven.
 - **11th:** Orrin’s contractor’s bond lapses.
 - **14th:** the hearing sits. Mara is under review until it does.
 - **22nd:** the floodgate test; the eighteen-inch gate driven out to full flow.
@@ -65,7 +67,7 @@ Current power state: **Stage 1 held.** Stage 0 competence was demonstrated befor
 Unchanged from the previous phase, plus two new items. These are outside the writer’s and fixer’s authority.
 
 1. **Ratify or reject CR-001** (10 volumes in one city versus the catalog’s 14 traveling volumes). See `state/canon-changes.md` CR-001 and CR-008.
-2. **Repair the review gate, then re-run it for the bootstrap, outline, and this batch phase.** `.opencode/agent/novel-reviewer.md` declares `mode: subagent` but both call sites invoke it in a way the runtime rejects, falling back to an agent with edit and bash rights, and review logs are gitignored. No phase in this novel, including this batch, has passed an independent review.
+2. **Repair the review gate.** `.opencode/agent/novel-reviewer.md` declares `mode: subagent` but both call sites invoke it in a way the runtime rejects, falling back to an agent with edit and bash rights, and review logs are gitignored. A review of this batch did produce usable findings and has been applied as CR-015, and the bootstrap and outline reviews likewise produced applied findings — but the mechanism is still not a trustworthy gate, and its logs are still not committed.
 3. **Reconcile phase selection with the stated contract.** `state/phase-ledger.json` is still stale, reading `currentPhase: phase-000-bootstrap`, `status: planned`, with no entry for any later phase. A fix agent must not mark a phase done to hide the mismatch.
 4. **Fix the model probe’s failure path.** The workflow truncates one log and writes each attempt to a different file, so its diagnostic is empty.
 5. **De-duplicate the two next-batch prompts.** `workspace/phase-002-batch-plan/PROMPT.md` and `workspace/volume-01/batch-0001/PROMPT.md` both dispatched Chapters 1–10 and differed materially, and the former instructed the writer to update the phase ledger, which is controller-owned. Both files are controller-scaffolded; the writer did not create a third.

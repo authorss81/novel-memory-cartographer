@@ -22,9 +22,9 @@ The finding said *for the protection of persons in temporary accommodation*, and
 
 "There isn't a second half."
 
-"There's a second half. It's: if the answer is that it does affect them, then what happens. And if the answer is that it doesn't, then the order goes ahead at the fourteenth and the culvert gets opened out for the test on the fifteenth and there's a flood in it, and about two hundred people sleep in a building with a footpath behind it." He looked at her. "Both of those are the answer. The second half is just: the order is still valid either way."
+"There's a second half. It's: if the answer is that it does affect them, then what happens. And if the answer is that it doesn't, then the order goes ahead at the fourteenth and the culvert gets opened out for the test on the twenty-second and there's a flood in it, and about two hundred people sleep in a building with a footpath behind it." He looked at her. "Both of those are the answer. The second half is just: the order is still valid either way."
 
-Mara Quill did not look away.
+She did not look away.
 
 "Yes," she said. "That is the answer, and I would rather you said it in front of them than had it come out in a hearing in October."
 
@@ -34,7 +34,7 @@ It was Orrin's file that did it, and it happened at twenty past four with the li
 
 Mara had the order's attachments in a wallet and she was going through them against the inspection sheet, and she got to the last one and stopped with her thumb on it, and she did not take it out, she just tipped the wallet so that he could see the top of the page.
 
-It was a carbon copy. Real carbon, the purple-grey kind, with the pressure ridges of a pen gone into the fibres of the sheet above it, and it was a **maintenance route** — a schedule of pump-house and embankment, with times and reaches, in the shape of the kind of document that belongs in a works office and is never read.
+It was a carbon copy. Real carbon, the purple-grey kind, with the pressure ridges of a pen gone into the fibres of the sheet above it, and it was a *maintenance route* — a schedule of pump-house and embankment, with times and reaches, in the shape of the kind of document that belongs in a works office and is never read.
 
 But at the bottom of it, under a column headed *diversion*, there was a line of type, and the line named a destination.
 
@@ -106,7 +106,7 @@ Milo looked. He had, because Rue had drawn it in a year of practice and it was b
 
 "That's exactly what I don't want either," Milo said, "and I don't have the authority to decide, and a man with no authority has no business publishing a route that belongs to a woman with a pram. If it goes in a file it goes in as a line somebody drew, and lines get drawn back in over houses that have been knocked down." He put the pen down. "So it's off. And if the day comes that somebody wants to argue about what I left out, the line through it is in my own hand with my own name at the bottom of the page."
 
-Mara Quill wrote the heading, and initialled it, and did not argue, and the yard watched a surveyor deliberately reduce the usefulness of his own document in public, and the murmur that went round the group behind the rope was not approval.
+She wrote the heading, and initialled it, and did not argue, and the yard watched a surveyor deliberately reduce the usefulness of his own document in public, and the murmur that went round the group behind the rope was not approval.
 
 Milo's hand was shaking so badly that he had to hold the chalk in his fist.
 
@@ -148,7 +148,7 @@ Mara Quill's pen stopped moving.
 
 He walked away. Not into the court and not out through the door. He went up off the flat ground onto the embankment ramp and away along the ordinary road, the way a man goes home, at a walking pace, in front of forty witnesses, and there was nothing anybody could do about it, and the yard watched him go.
 
-Mara Quill wrote one line in the sheet and put her pen down and did not pick it up again for some time.
+She wrote one line in the sheet and put her pen down and did not pick it up again for some time.
 
 ---
 
@@ -160,11 +160,15 @@ Somewhere behind that door, an old lane came up to the surface of the yard.
 
 He heard it, and everybody heard it, and the whole yard turned and looked at a service door in a flood-control wall that had a sound coming out of it that did not belong in it.
 
-And Milo Rook, who had spent eight years being the man in the room with the map, felt the shape of the correct action arrive in him complete and ready to execute: *a new turn.* Draw a new turn. Now. Here, on the slab, where two hundred people could see it, chalked and called and made real, and the road would take it and the road would come up and the lane would be here, visible, held, a thing he had done.
+And Milo Rook, who had spent eight years being the man in the room with the map, felt the shape of the correct action arrive in him complete and ready to execute: *a new turn.* Draw a new turn. Now. Here, on the slab, where every person in the yard could see it, chalked and called and made real, and the road would take it and the road would come up and the lane would be here, visible, held, a thing he had done.
 
 He had the chalk in his hand.
 
 He did not put it on the ground.
+
+The book was in his coat, and he got it out one-handed, which is not an easy thing to do in a yard full of people, and it took him the length of a breath. He opened it on the damp slab under his own wrist, because that is what he did with the book, and there was nothing on the page.
+
+Twice in the two nights since the stop had turned up in the sheet, there had been two lines in it, and neither of them had told him anything he could carry. There was nothing now, at half past five in the afternoon, with a door in a wall talking and a yard deciding whether to answer it. He shut it and put it away, and what he thought about afterwards, for a long time afterwards, was not the pressure letting go. It was that a book which is silent for two days and then silent again on the afternoon it is most wanted is a book that is waiting for something, and he did not want to be near a book that was waiting.
 
 "JO," he shouted. "Don't answer it. Anyone — foreman, marshal, Jo — do not answer it. It is going to say it's the court stop. It will sound like the court stop. Do not answer anything."
 
@@ -184,7 +188,7 @@ Lena Marr was standing at the X, very white, and had been the one nearest the do
 
 Milo swallowed, and looked at the crowd, and made himself do the thing that was going to cost him the most that day, which was to describe his own method out loud in a yard full of strangers.
 
-"It offered me a door," he said. "Not a street. A door. It wanted somebody to open it and answer it, and if we'd answered it, we'd have got a turn out of it, and the turn would have been mine, and I would have been standing in this yard with a line I'd drawn and it would have looked exactly like a restoration." He held up the chalk. "And the reason I'm not holding a resolution is that I'm tired and I've been across four times and my sense of direction is gone, and because a line that can be drawn by one tired man on an afternoon is not a road, it's a piece of chalk."
+"It offered me a door," he said. "Not a street. A door. It wanted somebody to open it and answer it, and if we'd answered it, we'd have got a turn out of it, and the turn would have been mine, and I would have been standing in this yard with a line I'd drawn and it would have looked exactly like a restoration." He held up the chalk. "And the reason I'm not holding a resolution is that I'm tired and I've been across twice and my sense of direction is gone, and because a line that can be drawn by one tired man on an afternoon is not a road, it's a piece of chalk."
 
 The yard took that badly, which was correct. Somebody at the back said *that's all you've got?* and a woman said *that's all any of us have got* and they argued for a while.
 
@@ -200,13 +204,13 @@ The gate was at eighteen inches when the shift ended. It was at eighteen inches 
 
 ---
 
-Milo signed the report at ten past seven at the trestle table, by the light of a lamp, with forty-one people still standing in the yard refusing to go home.
+Milo signed the report at ten past seven at the trestle table, by the light of a lamp, with most of them still standing in the yard refusing to go home.
 
-He wrote his own name. He wrote that he had crossed four times between the eleventh of Sazur and the ninth, that he had been given a first orientation and that it had cost him a remembered route, that it would cost him more, and that he was reporting it because the cost belonged in the record and not in a private book.
+He wrote his own name. He wrote that he had crossed twice between the fourth of Sazur and the ninth, that he had been given a first orientation and that it had cost him a remembered route, that it would cost him more, and that he was reporting it because the cost belonged in the record and not in a private book.
 
 Then he wrote: *The account of the alignment at the service court given in the order and its attachments is incomplete. This report does not identify what is incomplete and does not allege what caused it. This surveyor asserts that the incomplete account is material to the safety of the persons for whose protection the inspection was authorised, and nothing further.*
 
-Mara Quill read it over his shoulder, and made him change one word, and he changed it.
+She read it over his shoulder, and made him change one word, and he changed it.
 
 At the bottom of the sheet, under the conditions, he wrote: *The route is closed to the public. It is not reopened by this report. It is not restored by this report. The Civic Atlas Office has no authority to reopen it and does not claim one.*
 
@@ -231,19 +235,5 @@ Mara opened her wallet again and took out the carbon copy, because the attachmen
 "Rook."
 
 "There's writing on this."
-
-It was a carbon, and carbon carries everything that was on the sheet above it, and there were two marks in the right-hand margin, well below the diversion line, in pencil, small, and neither of them signed.
-
-The upper one was neat and unhurried and pressed hard at the closing stroke.
-
-The lower one was in a different pencil. Different lead, different pressure, a different hand that happened to have been holding a pencil at the same time.
-
-Mara read the first one out loud.
-
-"'*Why were two accounts meant to stay open?*'"
-
-And then she read the second one, twice, and her voice did something on the word *who*.
-
-"'*Who gave the order.*'"
 
 Nobody was in the yard any more except the marshal, packing the trestle table, and a lamp on a post, and two men who had walked back across the embankment to look at a service door in a wall.

@@ -150,7 +150,7 @@ She found him in the west corridor with his back against a wall and one hand fla
 
 "I couldn't find the room." He said it flatly, without self-pity, the way a man reports a measurement. "I could hear the heating. I knew the room was up the slope. I had the door in the morning and I had it at midnight and I have been standing in this corridor since twenty-five past four, and I could not make any of it go in a direction."
 
-Mara Quill looked at him, and at the wall, and at the hand flat on the stone, and she felt the ground go out from under a certainty of her own, in a much smaller way, and in the wrong direction.
+She looked at him, and at the wall, and at the hand flat on the stone, and she felt the ground go out from under a certainty of her own, in a much smaller way, and in the wrong direction.
 
 "Say the next part plainly," she said. "I am not going to hold it against you and I am not going to write it down without your name on it."
 
@@ -160,7 +160,7 @@ Mara Quill looked at him, and at the wall, and at the hand flat on the stone, an
 
 "I went into a route that is not on any map you hold," Milo said, "at approximately four hundred and ten metres from the disused platform end, and I went into it at a time of night when you should be able to account for me, and I came back out at a different point on the same alignment with a piece of printed route paper that was not in the office's stores, and I cannot reliably find a room I have been in for six years unless somebody draws me the way."
 
-Mara Quill got her book out and wrote every word of it down in the flat voice she used in hearings, and when she had finished she turned the page round so that he could read what she had written, and the sentence *came back out at a different point on the same alignment* was the sentence that was going to matter, and both of them knew it.
+She got her book out and wrote every word of it down in the flat voice she used in hearings, and when she had finished she turned the page round so that he could read what she had written, and the sentence *came back out at a different point on the same alignment* was the sentence that was going to matter, and both of them knew it.
 
 "Then I am going to have to ask you for the book," she said.
 
@@ -178,7 +178,7 @@ They stood in the corridor.
 
 "It is the whole of the parts I have to have." She looked up at him. "And Rook — I have a routing slip with my own block capitals on it from six years ago that says I saw an address was affected and passed it on. I have spent the whole night finding out how much of that is a box on a form. So you may tell me what you got wrong, and you may be angry about it, and I will not use any of it. That is not kindness. It is because the first person who takes it out of your hands will not be offering me that."
 
-Milo Rook read his own book out loud in the west corridor of the Hall of Wards from eleven minutes to six, in order, and corrected her four times, twice in his own favour and twice against it.
+Milo Rook read his own book out loud in the west corridor of the Hall of Wards from half past five until six, in order, and corrected her four times, twice in his own favour and twice against it.
 
 ---
 
@@ -192,6 +192,6 @@ Cass Ardery said, "Advocate Quill has an inspection standing on the ninth at the
 
 He went out. Through the west windows, the light had begun.
 
-Mara Quill stood in the fourth room of the Hall of Wards and watched the terrace go grey and then gold, and thought about a nine-foot instability in a pump-house reach, and a page that had been swapped, and a name with nothing after it but *pending*.
+In the fourth room of the Hall of Wards, Mara Quill watched the terrace go grey and then gold, and thought about a nine-foot instability in a pump-house reach, and a page that had been swapped, and a name with nothing after it but *pending*.
 
 Down in the river core, at the old service court inside the works zone, Lena Marr had been standing since half past four with a tenancy file under her arm and her father's deed in a lockable cage on the wall behind her, and Owen Fitch had come at five to stand beside her without being asked and without saying why, and neither of them had a watch, and both of them had heard the works bell go at six, and neither of them knew that the gate was coming down at sunrise and that when it came down it would be wound to a foot and a half and left open, on the written advice of a competent and frightened man, and that everything the city was about to push into the ground would be pushed through the only piece of it still breathing.
