@@ -8,15 +8,37 @@ The official map can ignore habit memory. When a place is forcibly cut out of it
 
 The power is relational, local, and costly. A map does not grant ownership of a place or authority over a person.
 
-## What counts as memory
+## The triad: name, route, witness
 
-Magic responds to three kinds of support:
+Every inhabited place rests on three supports. These three are the canonical triad; all later volumes use the same words.
 
-- **Body:** a route walked, a wall touched, a door opened, a tool used, a body sheltered.
-- **Name:** a word or address that people use to call one another or a place into being.
-- **Witness:** a living person, animal, object, or maintained routine that can recognize the use continuing.
+- **Name:** the word or address by which people call the place, and each other inside it, into being. A street sign, a doorway inscription, a delivery address, a family’s private word for the corner.
+- **Route:** the repeated bodily use of the place. A path walked often enough to wear, a door opened daily, a window wiped, a wall leaned on, a body sheltered, a tool carried the same way each morning.
+- **Witness:** a living person, animal, maintained object, or repeated routine that can recognize the use continuing. A keeper of a lamp, a conductor with a timetable, a neighbor who notices an absence.
 
-A memory becomes magical when all three overlap repeatedly. Private recollection alone is not enough. A single old photograph is not enough. A public claim without a lived route is not enough. The world does not decide what is true by popularity; it decides what can remain coherent. A remnant forms when the original **shared witness community** is cut off from the place, not when every individual survivor forgets it. Isolated traces left by survivors can keep a human meaning alive without preventing the civic route from becoming a remnant.
+A memory becomes magical when all three overlap repeatedly. Private recollection alone is not enough. A single old photograph is not enough. A public claim without a lived route is not enough. The world does not decide what is true by popularity; it decides what can remain coherent.
+
+### How a full remnant forms
+
+A full remnant forms when all three supports are cut off together:
+
+- the **name** is removed from the public record or replaced;
+- the **routes** are closed, redirected, or made impossible to reach;
+- the **witnessing** community is separated from the place, so no maintained routine can confirm the use continues.
+
+This is a civic process, not a spell. It takes paperwork, gates, demolition, reassignment, and the ordinary cooperation of landlords, conductors, clerks, and residents.
+
+### Partial erasure
+
+Cutting one or two supports does not create a **full remnant**, and this is the rule that keeps most of Alderquay ordinary. The word *remnant* is reserved for a place that has lost the whole triad; the smaller results have their own names, and prose must use the right one.
+
+- **One support severed:** nothing magical. The place becomes a ruin, a disputed address, a rumor, or an ordinary street again. Repeated use can rebuild the missing support over years, which is why some apparently erased blocks eventually become legible to strangers.
+- **Two supports severed:** a **thin remnant**. It occupies a seam, offers at most one service, and cannot maintain its own witness. It is unstable, usually small, and frequently the site of a seamquake rather than a usable route. Thin remnants are the Registry’s cheapest excuse and the most common Volume 1 hazard.
+- **All three severed:** a **full remnant**, with a cue, a service, a demand, and a failure. Unless a text says “thin remnant,” a remnant means a full one.
+
+Near-completion is the dangerous case. When an erasure has already withdrawn two supports and only one remains standing, the last support is asked to carry pressure it was never built for. The result stops being a thin remnant and becomes an unusually coherent **full remnant** with nothing left to contradict it, which is why a badly executed order can leave a stronger and more dangerous street than a competent one, and why a city that half-removes a neighborhood is more dangerous than one that never touches it.
+
+A full remnant forms when the original shared witness community is cut off from the place, not when every individual survivor forgets it. Isolated traces left by survivors can keep a human meaning alive without preventing the civic route from becoming a remnant.
 
 ## The three marks
 
@@ -49,6 +71,8 @@ Every grammar has a **cue**, a **service**, a **demand**, and a **failure**. A c
 ### The seven canonical grammars
 
 These are working categories, not a talent tree. A street may show one dominant grammar and a secondary influence, and a place can change its dominant grammar after enough new life accumulates.
+
+The reader-facing promise is that every forgotten street presents a rule nobody has met before. The system delivers that inside a fixed vocabulary: a street’s difficulty comes from its particular **combination** — which grammar dominates, which secondary grammar leaks in, how its cue is disguised, what exactly it demands, and what its failure condition does to a specific body. Knowing the category never solves the case. It only tells Milo what kind of question to ask first, and two Cadence streets can demand opposite things.
 
 #### 1. Cadence — memory of sequence and timing
 
@@ -116,6 +140,8 @@ These are working categories, not a talent tree. A street may show one dominant 
 ## The seven stages of Milo’s power
 
 The stages are earned capabilities, not automatic level-ups. Milo must learn physical surveying, grammar interpretation, self-care, and collaborative route-making at each stage.
+
+This file is the authority on when each cost begins. The order is fixed and no cost may arrive early: orientation blank at Stage 1, failing sensory detail at Stage 2, the first **personal blank** at Stage 3, the visible **seam-scar** and his dependence on being maintained at Stage 4, the **record blank** at Stage 5, and the **authorial blank** at Stage 6. A cost introduced at a later stage must not be shown at an earlier one, even as an unexplained symptom, because the reader is tracking a ledger and a symptom that arrives without its cause reads as arbitrary.
 
 ### Stage 0: The competent surveyor
 
@@ -194,7 +220,7 @@ If a map removes all current witnesses and fills the blank with an old identity,
 
 ### Turned witness
 
-A witness who is coerced, deceived, or repeatedly used as a route anchor can become trapped in the place they witness. A field book can look intact while its witness is being consumed.
+A witness who is coerced, deceived, or repeatedly used as a route anchor can become trapped in the place they witness. A Field Book can look intact while its witness is being consumed.
 
 ### Personal blank
 

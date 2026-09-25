@@ -56,13 +56,19 @@ Before the Common Atlas, Alderquay used a mixed system of physical markers, bell
 
 Forty-one years before the present, a sequence of unusual storms struck the Alder Fault and caused a **seamquake**: several streets began to repeat one another, disappear from one another, and collide at crossings that had never intersected. The **Long Rain** is the historical name for that storm sequence. During the emergency response, crews built the first version of the **Common Atlas** from older route-stones and a new instrument that gathered shared routes, names, and habitual actions into a physical index. Later historians call that incomplete original design the **First Atlas**. The Atlas did not create memory; it made the city’s civic memory easier to read and enforce.
 
-The project was completed while the Long Rain was still flooding the delta, before the disaster ended. It worked until a group of residents refused one proposed evacuation route and kept two incompatible accounts of the flood. The Atlas tried to force those accounts into a single route. The resulting event became known as **the Quieting**. Nine districts ceased to be consistently reachable, tens of thousands of residents were displaced or lost, and the surviving government removed the districts from civic records rather than admit that a public instrument had fractured the city.
+The First Atlas was deliberately plural. It held several named routes at once, kept custody distributed among district crews rather than one author, and left **deliberate gaps** wherever two accounts of a place could not be reconciled. The guild that built it held that the gaps were part of the instrument, not an unfinished section of it. Its founders expected later custodians to widen a gap rather than close one.
 
-The Quieting was not a natural monster and not a single person’s act. It was the first failure of a shared map to hold more than one truthful account. The city survived because the damage was divided among many districts and because a new generation learned to live around the blanks.
+Emergency work required a different answer, so the crews added and engaged a setting called the **Singular Mode**. It reconciled conflicting accounts by forcing one of them to become the Index’s version and holding the others outside the instrument, suspended, until the crisis passed. The Mode was built to be temporary and it was logged as temporary. During the Long Rain it worked as intended: the crews used it to move people, hour by hour, along a route the city could actually follow.
+
+The Quieting happened because the Mode was still engaged when the flooding began to recede, and because the crews then treated its output as the record. A group of residents in the eastern wards refused one proposed evacuation route and kept two incompatible accounts of the flood. The Mode forced one account into the Index and suspended the other, and the suspended account had nowhere left to go once the water dropped. The collision became known as **the Quieting**. Nine districts ceased to be consistently reachable, tens of thousands of residents were displaced or lost, and the surviving government removed the districts from civic records rather than admit that a public instrument had fractured the city.
+
+The Quieting was not a natural monster and not a single person’s act. It was the failure of a shared map that was built to hold more than one truthful account, run on a setting that could hold only one, and then inherited by people who believed the forced answer was the true one. The city survived because the damage was divided among many districts and because a new generation learned to live around the blanks. The engineering was sound; the shutdown was not. Every later argument about the Atlas — including Soren Rook’s — is an argument about that shutdown.
 
 ### The doctrine of Continuance
 
-After the Quieting, the Registry of Continuance was formed to identify and seal unstable streets. Its original purpose was practical: keep emergency routes open, prevent panic, and help displaced people return to stable areas. Over time, the Registry equated stability with a single official address. It began issuing **continuity orders**, which could close a street, remove its name from public registers, redirect its residents, and authorize demolition.
+After the Quieting, the Registry of Continuance was formed to identify and seal unstable streets. Its original purpose was practical: keep emergency routes open, prevent panic, and help displaced people return to stable areas. Its founding doctrine repeated the guild’s own rule in a negative form: no single authority over a route, and no gap closed without an open hearing.
+
+Within two generations the Registry reversed both clauses. It studied the Singular Mode, stopped logging it as an emergency setting, and rebuilt it as a standard instrument that could be applied to a district during an ordinary working week. A gap was treated as a defect to be closed rather than a disagreement to be maintained. Over time, the Registry equated stability with a single official address. It began issuing **continuity orders**, which could close a street, remove its name from public registers, redirect its residents, and authorize demolition.
 
 Some orders prevented real seamquake casualties. Many more were used to clear land, suppress labor disputes, or conceal deaths. The Registry’s archives contain both kinds of record, which is why Milo’s investigation must distinguish an actual dangerous seam from a politically convenient disappearance.
 
@@ -106,7 +112,7 @@ The city’s official memory-and-safety authority. It has real expertise, instit
 
 ### The Thread Wardens
 
-An older guild of surveyors, archivists, nurses, and route-keepers. Their original oath was to preserve several accounts of a place, not to restore the past automatically. The modern Wardens are divided: some serve the Registry, some keep independent field books, and some have abandoned the oath after too many rescues became political weapons.
+An older guild of surveyors, archivists, nurses, and route-keepers. Their original oath was to preserve several accounts of a place, not to restore the past automatically. The modern Wardens are divided: some serve the Registry, some keep independent Field Books, and some have abandoned the oath after too many rescues became political weapons.
 
 ### The Streetkeepers
 
@@ -124,7 +130,7 @@ Shipping, construction, insurance, and transit firms that profit from stable rou
 
 1. A place must have a usable route to be stable. A name without a route is a label; a route without a name is a dangerous shortcut.
 2. A remnant is made from repeated human use, not from a person’s exact ghost. It can preserve a role, a habit, or a feeling while losing individual faces.
-3. Official erasure is a process, not a spell that instantly destroys history. When one part of the process fails, the remnant can become more coherent, not less.
+3. Official erasure is a process, not a spell that instantly destroys history. A place becomes a full remnant only when its name, its routes, and its witnesses are all withdrawn. Withdraw one or two and the result is a ruin, a false address, or a thin remnant instead. Withdraw two and leave the third standing, and the last support carries pressure it was never built for, so a badly executed order can leave a full remnant more coherent and more dangerous than a competent one.
 4. The present city has priority over a remnant in physical conflict, but a remnant can redirect traffic, weather, sound, or perception until the overlap is resolved.
 5. No one has to believe in the Atlas for its rules to work. Belief changes how people cooperate and what a place asks of them, not whether a seam is present.
 6. A restored place can be lived in again, but its restoration must accommodate current neighbors, current routes, and the people who never knew the old name.

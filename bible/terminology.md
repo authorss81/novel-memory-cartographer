@@ -4,11 +4,15 @@ Use these terms consistently in prose and outlines. Capitalization is intentiona
 
 ## Core magical terms
 
-**Remnant street** — A real route or place that persists in the Margin after its public name, routes, and shared witnesses have been forcibly separated. It is a pressure-pattern of human use, not a ghost copy or an alternate reality.
+**Remnant street** — A real route or place that persists in the Margin after its public name, usable routes, and shared witnesses have been forcibly separated. It is a pressure-pattern of human use, not a ghost copy or an alternate reality. Unless a text says **thin remnant**, *remnant* means the full kind, with a cue, a service, a demand, and a failure.
+
+**The triad** — The three supports every inhabited place rests on: **name**, **route**, and **witness**. A full remnant forms only when all three are withdrawn. Severing one support leaves a ruin, a false address, or a rumor; severing two leaves an unstable **thin remnant**; severing all three leaves a full remnant. Use these three words rather than alternatives such as body, address, or witness community when describing how a place was erased.
+
+**Thin remnant** — The unstable residue of a partial erasure, in which one of the three supports survives. It can offer one service at most, cannot maintain its own witness, and is the usual site of a small seamquake. Thin remnants are common, cheap to dismiss, and frequently mislabeled as ordinary unsafe ground. A half-completed erasure can convert a thin remnant into a disproportionately coherent full remnant, because the one surviving support is left carrying pressure it was never built for.
 
 **Seam** — A point or short boundary where a remnant street overlaps the present city. A seam can be a door, drain, platform, shadow, sound corridor, or ordinary-looking street corner.
 
-**Memory grammar** — The dominant rule by which a remnant interprets movement, exchange, roles, care, feeling, debt, or destination. Canonical grammars are Cadence, Keepsake, Kinship, Mercy, Ledger, Weather, and Threshold.
+**Memory grammar** — The dominant rule by which a remnant interprets movement, exchange, roles, care, feeling, debt, or destination. Canonical grammars are Cadence, Keepsake, Kinship, Mercy, Ledger, Weather, and Threshold. There are no others, but the list is a vocabulary and not a solution: each street combines a dominant grammar, a leaking secondary grammar, its own disguised cue, its own demand, and its own failure condition, so two streets of the same grammar can require opposite handling.
 
 **Margin** — The shared pressure archive of routes, names, and habits that the official map cannot reconcile. It is not sentient, not an afterlife, and not a literal underground city.
 
@@ -50,13 +54,15 @@ Use these terms consistently in prose and outlines. Capitalization is intentiona
 
 **Common Index** — The authoritative, singular layer of the Atlas housed beneath Crown Heights. It was meant to coordinate movement and memory but is vulnerable to forced agreement.
 
-**Quieting** — The catastrophe forty-one years before the present in which the First Atlas failed to hold incompatible accounts of a citywide disaster. The event led to the first mass erasures and the Registry’s creation.
+**Quieting** — The catastrophe forty-one years before the present in which the First Atlas’s Singular Mode was still engaged after the emergency ended, so the two incompatible accounts of a citywide disaster were forced into one and the other was suspended with nowhere to go. The plural design itself was not at fault. The event led to the first mass erasures and the Registry’s creation.
 
 **Long Rain** — The forty-one-year-old storm sequence that struck the Alder Fault and prompted the emergency construction of the Common Atlas.
 
 **Alder Fault** — The unstable river-delta fault beneath and around Alderquay where the Long Rain, seamquakes, and major seam activity concentrate.
 
-**First Atlas** — The incomplete original design for the Common Atlas, built during the Long Rain response and later studied as the moral and technical starting point of the Registry.
+**First Atlas** — The incomplete original design for the Common Atlas, built during the Long Rain response and later studied as the moral and technical starting point of the Registry. It was plural by design: several named routes, distributed custody, and deliberate gaps left wherever accounts disagreed.
+
+**Singular Mode** — The First Atlas’s emergency setting, added during the Long Rain, which reconciled conflicting accounts by forcing one of them to become the Index’s version and suspending the others outside the instrument. It was built to be temporary and was logged as temporary. The Quieting happened when it was still engaged after the crisis ended and its output was treated as the record. The Registry later rebuilt it as a standard instrument. Soren Rook’s One Survey is its citywide, deliberate re-run, published and scheduled as bounded work that turns out to have no reachable end. Capitalize the term when naming the instrument; characters may call it “the Mode” or “the setting” in speech.
 
 **Seamquake** — A physical disaster caused by incompatible routes or memories occupying the same space. It can collapse streets, displace crowds, or make a district claim several destinations.
 

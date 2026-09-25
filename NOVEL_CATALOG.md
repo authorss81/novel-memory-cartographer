@@ -158,6 +158,8 @@ A cartographer who maps places people have forgotten discovers that every missin
 
 **Ending target:** He must choose whether restoring forgotten places will heal the present or overwrite the lives built after the loss.
 
+**Implementation note:** Planned as 10 volumes of 60–80 chapters in a single city rather than 14 volumes across several cities, with regional movement inside the city. The chapter total is unchanged. Not yet ratified by the controller, and Volume 1 planning is blocked on it. See `state/canon-changes.md` CR-001.
+
 ### 12. The Museum of Forgotten Gods
 
 **Length:** 720 chapters, 14 volumes of approximately 50 chapters.

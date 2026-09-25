@@ -12,7 +12,7 @@ When a municipal cartographer discovers that streets erased from Alderquay’s o
 
 ## Central promise
 
-Each forgotten street is a new grammar with a concrete rule, a practical danger, and a human consequence. Milo’s growing power lets him open, stabilize, and restore more places, but every gain changes what he can lose and forces him to work with other people rather than solve the city alone.
+Each forgotten street is a rule nobody in the story has met before: a concrete cue, a practical danger, and a human consequence. The rules are built from a fixed vocabulary of seven memory grammars, so every case is a new combination rather than a new category, and knowing the category never tells Milo what a street will ask of him. His growing power lets him open, stabilize, and restore more places, but every gain changes what he can lose and forces him to work with other people rather than solve the city alone.
 
 The story is not a dungeon crawl through increasingly powerful monsters. Its pressures rotate among investigation, ordinary work, training, political pressure, relationship conflict, recovery, and the ethics of restoration. A local case is allowed to end; its answer may alter the larger mystery rather than postpone it.
 
@@ -34,6 +34,35 @@ His flaw is compulsive authorship under fear. He hoards information, makes unila
 
 Milo becomes less useful as a single heroic center and more useful as a network organizer. He gives up his private claim on the correct map, accepts a permanent cost to his personal location, and learns to trust other people with the parts of history he cannot control.
 
+## World, technology, and societies
+
+Full detail lives in `bible/world.md`; the series-level commitments are these.
+
+- **Setting:** Alderquay, a river-delta city-state on reclaimed marsh, governed by a Continuance Charter that promises equal access to roads, water, schools, and relief while granting the Registry emergency authority over unstable seams.
+- **Districts:** the river core with its blank address signs, industrial South Salt, the fenland of Mireward, respectable and unstable Crown Heights, and the Outer Reach beyond the built city. Each later volume moves the reader into a district with different rules of address, work, and danger.
+- **Technology is civic and paper-first.** Survey stones, route-paper repositories, hand-held route readers, tide and flood tables, seam lamps, tram timetables, and a central Index beneath Crown Heights. A digital reader is faster and can silently delete a road after a registry correction; the paper map is trusted because it carries corrections, stains, and handwritten warnings. Magic never replaces this infrastructure — it is administered through it.
+- **Societies:** the Civic Atlas Office (public mapping and utility survey), the Registry of Continuance (Survey Enforcement, Continuity Records, Civic Recovery), the old Thread Wardens with a divided modern order, the leaderless Streetkeepers, the Open-Door Choir, and the Quay Companies whose contracts make an erasure economically real. Most of the series’ pressure comes from these groups doing their jobs badly, sincerely, or for profit.
+- **Ordinary life is the stakes:** school routes, deeds, burial rights, flood gates, permits, shared meals, and shifts. A wrong boundary changes where a pipe goes and where a body can be buried before it changes anyone’s destiny.
+
+## Power rules and magic limits
+
+Full detail lives in `bible/power-system.md`; the series-level commitments are these.
+
+- **Magic is habit memory,** not recorded history: the pressure left by repeated human use. It responds to a triad of **name, route, and witness**; it is not reading, prophecy, or stored souls.
+- **Seven canonical grammars** (Cadence, Keepsake, Kinship, Mercy, Ledger, Weather, Threshold) supply the vocabulary. Every case is a new combination with its own cue, service, demand, and failure, so a category is never a solution.
+- **A viable map needs three marks** — threshold, turn, witness — plus a marked return route that another person can recognize. A restoration that will outlast one crossing also needs a **blank** for current life.
+- **Stages:** Stage 0 competent surveyor through Stage 6 distributed atlas, with a fixed onset for each cost (see the power table below and `state/continuity.md`).
+- **Hard limits:** a map cannot read minds, prove a single history, resurrect the dead, create a place with no human history, force a name, role, or destination, or make one person’s version of a city become the only version. Sealing a street postpones pressure; it does not resolve it.
+- **System behavior:** Atlas residue may leave at most one short prompt in the Field Book per scene, and the prompt is incomplete, distortable, and never answers the moral or political question. The Field Book is paper and graphite and holds Milo’s own measurements and consent notes.
+
+## Difference from every other novel in the fleet
+
+- **The power is civic, not personal.** Most fleet protagonists gain a private capability. Milo gains authority over a public instrument, and every gain costs him the ability to be located, believed, or trusted. The ledgers of the change are paper records, hearings, and who has the right to name a place.
+- **The antagonist ladder ends in an institution and a family member,** not in a creature. The hardest antagonist is the assumption that one map must be true; the final one is Milo’s father, foreshadowed from chapter one.
+- **The mysteries resolve with accounting, not combat.** The answer to “why is this street here” is always a combination of a route, a name, a witness, and a piece of paperwork. Winning a case produces a route, a legal protection, and a cost — not a level.
+- **Consent is a mechanic, not a theme.** Restoration physically assigns roles to whoever lives in the overlap, so asking permission changes what the magic does. The romance uses the same rule: nobody gets to save anyone by deciding for them.
+- **The ending leaves a walkable blank.** The planned destination is a city that can maintain several truthful routes and cannot pretend safety means one answer, which is why this novel’s late volumes are about maintenance budgets, appeals, and custodians rather than a final boss fight.
+
 ## Central mystery
 
 ### Surface mystery
@@ -42,17 +71,29 @@ Why do streets disappear from Alderquay while buildings, pipes, and memories rem
 
 ### Deep mystery
 
-The First Atlas was built to coordinate a citywide evacuation, but it could only work by forcing incompatible accounts of the disaster into one authoritative map. The Quieting was a failed forced consensus. The Registry later turned that emergency technology into a system for removing inconvenient streets, names, debts, and people. The Margin is the accumulated pressure of all routes that were excluded from the official record.
+The First Atlas was built to coordinate a citywide evacuation, and it was built plural on purpose: several named routes at once, custody distributed among district crews, and deliberate gaps left wherever two accounts of a place could not be reconciled. Its creators expected later custodians to widen a gap rather than close one. To move people during the Long Rain, the crews added an emergency setting, the **Singular Mode**, which forced one account to become the Index’s version and suspended the others. The Quieting was a failed forced consensus: the Mode was still engaged after the flooding began to recede, and its forced output was then treated as the record. The Registry inherited the technology, stopped treating the Mode as an emergency tool, and turned emergency closures into a system for removing inconvenient streets, names, debts, and people. The Margin is the accumulated pressure of all routes that were excluded from the official record.
 
-Soren Rook, Milo’s father, has continued the project in a new form. The **One Survey** is his attempt to synchronize every current route with one official history before another Greywake occurs. It would greatly reduce seamquake risk in the short term, but it would make unregistered people and divergent communities literally unplaceable. Soren believes he is saving the city; Milo’s final conflict proves that a safer city cannot be purchased by making everyone answer to one memory.
+Soren Rook, Milo’s father, has continued the project in a new form. The **One Survey** is his attempt to run the Singular Mode across the whole city as a deliberate, scheduled, inventoried operation before another Greywake occurs. It is bounded in design and permanent in practice only because the shutdown it depends on cannot arrive. It would greatly reduce seamquake risk in the short term, but it would make unregistered people and divergent communities literally unplaceable. Soren believes he is saving the city; Milo’s final conflict proves that a safer city cannot be purchased by making everyone answer to one memory.
 
 ### Author-level answer
 
-The first Surveyors did not invent memory. They built the Atlas by converting shared routes, names, and obligations into a navigable civic instrument during the Long Rain response. When the city faced the disaster, they used it as a consensus engine. The Quieting happened because forced agreement treated one account of the disaster as the only valid one. Every later continuity order creates a remnant by severing body, name, and witness. The Atlas can stabilize those remnants only if it allows plural routes and current consent. Soren knows this intellectually but has forgotten how to share authorship. His Lark decision remains his moral responsibility: the route severing was necessary to stop an immediate collapse, and the political erasure that followed was not.
+The first Surveyors did not invent memory. They built the Atlas by converting shared routes, names, and obligations into a navigable civic instrument during the Long Rain response, and they built it to hold disagreement. The Quieting happened because the crews ran the instrument on its Singular Mode, let that setting outlive the emergency, and then treated one forced account as the only valid one. Every later continuity order creates a full remnant by severing the triad of **name, route, and witness**; a partial order creates only a ruin, a false address, or a thin remnant. The Atlas can stabilize those remnants only if it allows plural routes and current consent. Soren knows this intellectually but has forgotten how to share authorship. His Lark decision remains his moral responsibility: the route severing was necessary to stop an immediate collapse, and the political erasure that followed was not.
 
 Milo’s mother died during the Lark Street seamquake. Her surviving trace is a composite of route instructions, survivor choices, and the Cadence/Kinship grammar of the neighborhood; it is not a recoverable person. The final resolution preserves that distinction.
 
 The pressure chain is deliberate. Each continuity order adds excluded routes to the Margin; the Registry’s central containment suppresses local collisions but cannot resolve the pressure; the One Survey briefly suppresses every local seam by forcing agreement; and that forced agreement then draws the accumulated pressure through one index and produces the terminal Greywake. Soren knows the plural-map solution is the safer long-term design, but he believes a distributed network is too slow, too uncertain, and too politically fragile for the immediate emergency. His error is treating that practical fear as proof that only coercive singularization is responsible.
+
+### Why Soren believes he is not repeating the Quieting
+
+This must be stated in the text, in Soren’s own reasoning and in the records he leaves behind, so that the final antagonist is tragic rather than irrational. He has three answers to the obvious objection, and each is partly correct.
+
+1. **The crews made a bookkeeping error he has corrected.** The first Surveyors treated the suspended accounts as disposable and never counted them. Soren holds a complete inventory of every excluded route in the delta, including the ones nobody is supposed to know about, and he has kept it updated for eighteen years. He can name the pressure the last crews ignored.
+2. **He will shut the Mode off on purpose.** The Quieting was, in his reading, a failure of shutdown. The One Survey is planned as a bounded operation with a published end, a full evacuation completed before the Index closes, and a genuine reopening of the excluded routes afterward. He intends to leave the city plural again, in the same decade, on his own schedule.
+3. **He intends to store the pressure rather than force it through.** His design keeps the suspended routes inside a sealed residual layer instead of casting them out of the instrument. He believes the excluded pressure can be held indefinitely by custodians who know it is there.
+
+His actual error is a mistake about time and about holding, and it is visible inside his own method. He has judged that the plural alternative cannot be assembled inside the window he believes is coming, so a bounded singularization he controls is the responsible choice, and that the excluded pressure can be held rather than released. He is also the Index’s living anchor, so a singular map is the only configuration in which he survives; he does not count this as a motive, and neither should the prose excuse it.
+
+The ending does not need him to be secretly aiming at permanent rule. His own plan is the trap: the published shutdown cannot arrive, because shutting the Mode down requires a plural city to switch back to and his corrections have organized the city around a single account. The date comes, the reopening has nowhere to put the excluded routes, and the pressure that was supposed to be held is now the only thing moving. He is wrong twice — about the horizon, and about holding — and the city is what proves it.
 
 ## Final external conflict
 
@@ -120,8 +161,9 @@ The ladder is a sequence of pressures and moral positions, not a queue of dispos
 - **Volumes:** clues in 1–6; direct conflict in 7–10.
 - **Role:** Current First Surveyor, Milo’s father, and architect of the One Survey.
 - **Wants:** Prevent another Quieting by making all routes singular.
+- **Method:** He intends to run the Singular Mode as a bounded, logged operation with a full inventory of the excluded pressure, a scheduled shutdown, and a sealed residual layer that holds the suspended routes. Each part of that plan is defensible on its own; together they depend on a horizon he cannot see past and on pressure that can be held but not contained.
 - **Tactic:** Uses the copied resonance of Milo’s inherited route-token when Milo brings it to a seam, the Lark order, and the evidence of past disasters to make isolation look like mercy. He never physically holds the token; he can borrow its recorded route connection through the Index.
-- **What Milo learns:** Soren’s reasoning is not invented, but his conclusion is a moral mistake: he would rather remove the possibility of disagreement than accept the work of living with it.
+- **What Milo learns:** Soren’s reasoning is not invented, and his two corrections to the Quieting are real corrections. His conclusion is still a moral mistake: he would rather remove the possibility of disagreement than accept the work of living with it, and he cannot afford the plural answer because the singular one is also what keeps him alive.
 - **End state:** Releases the Index and dies during the collapse of the One Survey. His final sacrifice is genuine but does not restore trust or erase the Lark harm.
 
 ## Relationship milestones
@@ -142,13 +184,15 @@ The romance is one relationship and develops through changed choices. It does no
 
 The table uses the first sustained use of each stage; transitions may begin at a volume boundary and finish in the next. The stages are not linear power replacements. A more advanced grammar may be useless without the patient observation of Stage 0, and every volume should include failure, recovery, or a changed method. The final public act in Volume 10 completes Stage 6 rather than creating a new stage.
 
+Costs have a fixed onset, and the full schedule is recorded in `bible/power-system.md`: an **orientation blank** begins with the first crossing in Volume 1; sensory detail begins to fail at Stage 2; the first **personal blank** is a Stage 3 cost of a map that other people can now change; the visible **seam-scar** and Milo’s dependence on being maintained are Stage 4; the **record blank** is a Stage 5 cost; the **authorial blank** is the Stage 6 cost. A cost that belongs to a later stage may not appear earlier, and each cost is permanent unless a later volume states otherwise in the continuity record.
+
 | Series position | Milo’s stage | What he can do | What it changes in him |
 |---|---|---|---|
 | Opening | Stage 0: competent surveyor | Measure routes, read records, notice ordinary discrepancies, and question a witness | His skill is real but still bounded by ordinary maps and procedures |
 | Volume 1 | Stage 1: trace-sight | Detect a seam, make a first field map, cross and return from a short-lived remnant | Orientation blanks, fatigue, and a worsening sense of direction |
 | Volumes 2–3 | Stage 2: field grammar | Identify a dominant grammar, stabilize a small seam, and redirect a remnant pressure | Sensory details and recent routes can no longer be assumed reliable |
-| Volumes 4–5 | Stage 3: consent lines | Negotiate with current residents, distinguish old echoes from living witnesses, and split a route | A personal blank and a physical seam-scar begin; he must depend on other testimony |
-| Volumes 5–6 | Stage 4: relief | Hold a neighborhood, hospital, or transit line while people choose what to repair | His body carries a route that others must help maintain; solitary major fieldwork becomes unsafe |
+| Volumes 4–5 | Stage 3: consent lines | Negotiate with current residents, distinguish old echoes from living witnesses, and split a route | His first personal blank opens: a place or person he loved drops out of his autobiographical route and he must rely on other people’s testimony to hold it |
+| Volumes 5–6 | Stage 4: relief | Hold a neighborhood, hospital, or transit line while people choose what to repair | The relief route leaves a visible seam-scar in his body; solitary major fieldwork becomes unsafe and other people have to maintain him |
 | Volumes 7–8 | Stage 5: counter-map | Combine independent maps and protect alternate routes from a singular authority | Official records develop a record blank and cannot reliably locate him; relationships become practical infrastructure |
 | Volumes 9–10 | Stage 6: distributed atlas | Coordinate a regional network and restore selected places as living, revisable districts | He must relinquish sole authorship; the final cost is a fixed autobiographical coordinate, an inability to be found by one official map, and the loss of a protected sensory memory |
 
@@ -159,13 +203,13 @@ The ranges are planning targets for a roughly 700-chapter novel. Each volume mus
 ### Volume 1: The Street That Wasn’t There — chapters 1–60
 
 - **Central pressure:** Bellwether Lane opens inside an active tram timetable, and the Registry orders Milo to seal it before a seamquake reaches the river core.
-- **Starting state:** Milo is a competent municipal surveyor with a private Lark Street grievance, a field notebook, and no practical access to the Registry archive.
+- **Starting state:** Milo is a competent municipal surveyor with a private Lark Street grievance, his own Field Book, and no practical access to the Registry archive.
 - **Major movement:** He meets Pell, crosses Bellwether’s Cadence loop, and learns that a remnant can be a survival route rather than a monster. Mara investigates him because the route overlaps a family housing case.
 - **Midpoint reversal:** The lane is not a surviving ghost of a massacre. It is a partially witnessed evacuation whose grammar was broken by the continuity order.
 - **Climax:** Milo chooses to keep an unsafe crossing open long enough to move residents, then exposes the order rather than claim the lane as a private discovery.
 - **Concrete resolution:** Bellwether residents receive a temporary route and legal protection; the lane does not return unchanged. The Atlas is established as a human institution, not a passive world effect.
 - **Next-volume question:** Who else is using old maps to move people without telling them, and what happened at the first Quieting?
-- **Final image:** Milo discovers that the route home has gone blank in his field book, while Mara files an objection she knows will cost her.
+- **Final image:** Milo discovers that the route home has gone blank in his Field Book, while Mara files an objection she knows will cost her.
 
 ### Volume 2: The City Underneath the Survey — chapters 61–130
 
@@ -211,7 +255,7 @@ The ranges are planning targets for a roughly 700-chapter novel. Each volume mus
 
 - **Central pressure:** Thread Hall and the first Surveyors’ archive become the prizes of every faction before a dangerous archive remnant closes around them.
 - **Major movement:** Iona’s history with Soren becomes central. The team learns that the original Guild wanted to preserve multiple routes; the Registry inverted that duty after the Quieting.
-- **Midpoint reversal:** The unfinished First Atlas is not a weapon waiting for Milo; it is a deliberately incomplete design that must remain incomplete to prevent another forced consensus.
+- **Midpoint reversal:** The unfinished First Atlas is not a weapon waiting for Milo; it is a deliberately plural design whose gaps were meant to stay open, and the Quieting was caused by leaving its Singular Mode engaged after the emergency ended. The missing piece is not a secret power but a shutdown nobody performed.
 - **Climax:** Sel wakes a sealed archive street to prove the Guild’s history, and the resulting overlap threatens to erase Thread Hall. Milo chooses to save the archive’s people, not its most valuable records.
 - **Concrete resolution:** The original charter and the First Atlas gaps are recovered. A direct message from Soren confirms he is alive in the sealed chamber and bound to the Common Index.
 - **Next-volume question:** A living map is moving between regions. If Milo maps it, will he save it or give it a single owner?
@@ -255,7 +299,7 @@ The ranges are planning targets for a roughly 700-chapter novel. Each volume mus
 - **Midpoint reversal:** The apparent Lark Street is not Neris’s preserved home. Its surviving trace is a composite route, and Milo must let the current residents decide its shape and name.
 - **Climax:** The city-wide counter-map is activated. Soren keeps the Index stable long enough for evacuation, then releases sole authorship. Milo survives with his relationships intact but without a fixed autobiographical coordinate and without the remembered sound of his mother’s voice. The One Survey collapses; remnant streets do not all become safe.
 - **Concrete resolution:** Selected places are restored as living districts, unsafe places are marked and tended, and the Atlas becomes a public constellation of accountable maps. The Registry’s centralized power ends. Lark Street returns as a home for new people and a memorial for those lost, not a private resurrection.
-- **Mystery resolution:** Milo learns that his mother died during the Lark seamquake, that Soren approved the necessary route severing to prevent a larger collapse and then used the emergency for a political erasure, and that the First Atlas failed because it forced one account to stand for all. The central mystery is answered.
+- **Mystery resolution:** Milo learns that his mother died during the Lark seamquake, that Soren approved the necessary route severing to prevent a larger collapse and then used the emergency for a political erasure, and that the First Atlas was not plural by accident — the Quieting came from leaving its Singular Mode engaged and treating the forced account as the record. The central mystery is answered.
 - **Relationship resolution:** Milo and Mara are partners in public work and private life, with no single home, title, or map serving as proof of their bond. They have learned to disclose costs before making promises.
 - **Next question:** Not every Margin boundary is known, and some places will remain unclaimed. How will the new network care for the hazards it cannot restore?
 - **Final image:** On a public survey wall, a child draws a street with a deliberate blank at its center. Milo adds a return route, leaves the blank untouched, and walks with Mara toward a district whose name is still being decided.

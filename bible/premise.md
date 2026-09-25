@@ -24,11 +24,13 @@ The protagonist is competent at reading routes and people, but not emotionally i
 
 ## What “forgotten” means here
 
-Here, “forgotten” is a civic condition, not a synonym for every private memory or abandoned alley. A street becomes magical only when it has been removed from the shared civic record in a specific way. An abandoned alley, a demolished building, or a private path that nobody uses is not automatically a remnant. A remnant forms when all three of these are done:
+Here, “forgotten” is a civic condition, not a synonym for every private memory or abandoned alley. A street becomes magical only when it has been removed from the shared civic record in a specific way. An abandoned alley, a demolished building, or a private path that nobody uses is not automatically a remnant. The rule is a triad: **name, route, witness.** A remnant forms only when all three are cut off together:
 
 - its public name is removed or replaced;
 - its routes are closed, redirected, or made impossible to reach;
-- its shared habits are no longer witnessed by a community.
+- the community that witnessed its shared habits is separated from the place.
+
+Severing only one or two of the three does not make a full remnant. It makes a ruin, a disputed address, a rumor, or a **thin remnant**: a small, unstable seam that offers at most one service and cannot keep its own witness. Near-completion is the worst case, because a half-removed neighborhood leaves one support holding pressure it was never built for, and the result can become more coherent and more dangerous than a cleanly erased street.
 
 The place then persists in the **Margin**, the unshared pressure of routes and habits that the official map cannot contain. A remnant can overlap the present city at a seam. It may repeat a procession, preserve a debt, offer shelter, or demand a role from anyone who crosses it. It does not replay people exactly, and it does not prove that the old version of a place was the only valid version.
 
