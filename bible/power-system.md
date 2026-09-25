@@ -1,0 +1,239 @@
+# Power System
+
+## Core principle
+
+Alderquay’s magic is **habit memory**: the pressure left when people repeatedly use a place in a particular way. A street does not store a perfect recording of its past. It stores the rules that made the street useful or meaningful—a route taken at a certain hour, a door answered by a certain relative, a meal shared at a certain table, a debt that was never settled.
+
+The official map can ignore habit memory. When a place is forcibly cut out of its shared name, routes, and witnesses, that memory becomes a **remnant street**. The remnant occupies a real route or pressure-pattern in the city, but it behaves according to a **memory grammar** that a trained cartographer must infer.
+
+The power is relational, local, and costly. A map does not grant ownership of a place or authority over a person.
+
+## What counts as memory
+
+Magic responds to three kinds of support:
+
+- **Body:** a route walked, a wall touched, a door opened, a tool used, a body sheltered.
+- **Name:** a word or address that people use to call one another or a place into being.
+- **Witness:** a living person, animal, object, or maintained routine that can recognize the use continuing.
+
+A memory becomes magical when all three overlap repeatedly. Private recollection alone is not enough. A single old photograph is not enough. A public claim without a lived route is not enough. The world does not decide what is true by popularity; it decides what can remain coherent. A remnant forms when the original **shared witness community** is cut off from the place, not when every individual survivor forgets it. Isolated traces left by survivors can keep a human meaning alive without preventing the civic route from becoming a remnant.
+
+## The three marks
+
+Every viable field map has three marks, drawn in a **Field Book** rather than spoken as a spell:
+
+1. **Threshold:** the physical place where a route enters or changes state.
+2. **Turn:** the action, obstacle, or relationship that makes the route move. A turn must be meaningful to the place, not merely a convenient symbol.
+3. **Witness:** the living person, maintained object, or repeated routine that proves the use is real.
+
+Before Milo enters a remnant, he must establish a **return route** back to the present. The return route is not a magical escape button. It is another set of marks that someone else can recognize, and it can fail if the witness changes their mind or if Milo lies about where he has been.
+
+The three marks are not a checklist that guarantees success. A cartographer can make a syntactically complete map and still misunderstand what the street is asking. A fourth mark, called the **blank**, is required for a restoration that lasts beyond a single crossing. The blank is a deliberate space for current life. It is not an absence waiting to be filled with the past.
+
+The word **blank** has four related but distinct costs. An **orientation blank** is a route Milo cannot reliably feel after an early crossing. A **personal blank** is a relationship, place, or sensory detail that has dropped out of his autobiographical map and requires another witness. A **record blank** is a failure of official documentation to hold him or one of his routes. A final **authorial blank** is created when Milo gives up sole authorship; it is a civic condition, not a private memory trick.
+
+A restoration that removes its blank can look stable because it leaves no space for disagreement. It then becomes a **claimed place**: the old route assigns current residents to inherited roles and binds the map’s custodian to the place. A claimed place can be safe for the preserved version and harmful to the living overlap.
+
+## Reading a grammar
+
+A memory grammar is identified by observation, not by selecting a category in advance. Milo and other trained cartographers look for patterns:
+
+- What repeats in the route?
+- What object, sensation, or role is treated as necessary?
+- What action counts as a valid exchange?
+- What does the street do when a person refuses the expected role?
+- What happens when a witness changes their story?
+
+Every grammar has a **cue**, a **service**, a **demand**, and a **failure**. A cue is a visible or audible pattern. A service is what the remnant can do for a person who follows its rule. A demand is the social action it requires. A failure is the concrete consequence of breaking or misreading the rule.
+
+### The seven canonical grammars
+
+These are working categories, not a talent tree. A street may show one dominant grammar and a secondary influence, and a place can change its dominant grammar after enough new life accumulates.
+
+#### 1. Cadence — memory of sequence and timing
+
+- **Cue:** footsteps, bells, intervals, a procession, or a route that repeats at a particular hour.
+- **Service:** preserves timing, coordinated movement, and safe passages through a changed city.
+- **Demand:** keep the sequence, yield at the appropriate turn, or admit that a step has been missed.
+- **Failure:** the traveler is caught in a repeated route or made to fill a missing position.
+
+**Example:** Bellwether Lane repeats the bell pattern of an evacuation. A person who hears the third bell and turns too early is sent back to the threshold. Milo’s first field victory comes from learning that the lane needs a witness, not a faster runner.
+
+#### 2. Keepsake — memory of objects, scent, taste, and touch
+
+- **Cue:** a recurring smell, taste, texture, or object that is always slightly wrong until handled correctly.
+- **Service:** preserves tools, kitchens, trades, and sensory knowledge.
+- **Demand:** exchange something useful or offer a real part of the routine; possession alone is not enough.
+- **Failure:** the object takes its user’s name, or the user becomes an object in someone else’s account.
+
+**Example:** Saltmarket Row insists on a shared meal before a door opens. A stolen plate cannot substitute for a meal, and a meal taken by force leaves the eater unable to leave through the market.
+
+#### 3. Kinship — memory of roles and chosen belonging
+
+- **Cue:** forms of address, family positions, answering patterns, or people who occupy the same task in different eras.
+- **Service:** finds relatives, caregivers, witnesses, and substitutes when a family line is broken.
+- **Demand:** recognize the relationship that is being offered and answer honestly enough to accept its limits.
+- **Failure:** a person is assigned a false role or is erased from every current relationship.
+
+**Example:** Widow’s Landing recognizes anyone who takes responsibility for a particular household task as “kin,” but it refuses people who claim ownership of the role without doing its work.
+
+#### 4. Mercy — memory of care, shelter, and repair
+
+- **Cue:** tended wounds, clean water, a kept lamp, repaired clothing, or a place that makes room for a weakened body.
+- **Service:** heals physical wounds, shelters people from environmental hazards, and keeps vulnerable routes alive.
+- **Demand:** receive care without pretending to be invulnerable, or offer a useful act of maintenance.
+- **Failure:** the place gives nothing more, or begins to consume the person who refuses help.
+
+**Example:** Mercy Ward was a hospital court. Its remnant can stabilize a drowning victim, but it requires someone to stay awake and tend the patient. It cannot manufacture a healthy body or replace medical care.
+
+#### 5. Ledger — memory of debt, exchange, and property
+
+- **Cue:** weights, marks, balances, repeated phrases about owing, ledgers, or a boundary that changes after a transaction.
+- **Service:** exposes exploitation, tracks obligations, and prevents a debt from being quietly transferred.
+- **Demand:** state what is owed, who benefits, and whether the exchange is voluntary.
+- **Failure:** a phantom debt attaches to the nearest person or a real obligation is erased.
+
+**Example:** Ledger Street can reveal that a factory has been charging tenants for a service it never provided. It can also assign that debt to anyone who touches the account, which is why Milo cannot simply use it as a weapon.
+
+#### 6. Weather — memory of collective feeling and season
+
+- **Cue:** pressure, heat, rain, wind, music, or a mood that changes the behavior of everyone in the overlap.
+- **Service:** predicts social pressure, protects against heat or flood, and reveals what a community is collectively avoiding.
+- **Demand:** name the feeling honestly without using it to punish another person.
+- **Failure:** panic, grief, or anger is amplified until it becomes a physical storm.
+
+**Example:** The Rainway carries the city’s postponed mourning. It gives heavy rain when people avoid saying what was lost, and clear weather when a shared loss is acknowledged without being turned into a spectacle.
+
+#### 7. Threshold — memory of boundaries, doors, and destination
+
+- **Cue:** doors, gates, station platforms, wards, windows, or a route that leads somewhere impossible until the traveler states where they mean to go.
+- **Service:** opens passages, separates dangerous overlaps, and protects homes from unwanted entry.
+- **Demand:** name a destination and accept that some doors remain closed.
+- **Failure:** a traveler is sent to a destination chosen by the grammar, or a boundary is made permanent for everyone.
+
+**Example:** Doorstep Cut is a commuter passage that can reach a station platform, a locked apartment, or a ward boundary depending on the destination named. It refuses the traveler who says only “I want to get through.”
+
+## The seven stages of Milo’s power
+
+The stages are earned capabilities, not automatic level-ups. Milo must learn physical surveying, grammar interpretation, self-care, and collaborative route-making at each stage.
+
+### Stage 0: The competent surveyor
+
+Before any power appears, Milo can measure a route, read a deed, calm a frightened witness, notice a discrepancy in a street profile, and improvise with tools. He is not an untrained novice. His weakness is that he trusts a clean line more than a complicated human account.
+
+**Limit:** he can detect an ordinary map error but cannot see a seam reliably.
+
+### Stage 1: Trace-sight
+
+Through contact with an unaltered map, a route object, or a seam, Milo sees the negative space where a route should be. The first trace can resemble a broken pencil line, a door in fog, or a street visible only in rainwater. He learns to confirm it with physical measurements and a witness rather than chasing every vision.
+
+**Gain:** identify a likely seam, draw a rough threshold and return route, and cross a short-lived remnant crossing.
+
+**Cost:** temporary disorientation, fatigue, and a loss of sense of direction. After a crossing, Milo may be unable to find a familiar route until another person marks it for him.
+
+### Stage 2: Field grammar
+
+Milo can identify one dominant grammar and predict a basic demand from observed cues. He can use ordinary objects, chalk, rope, and paper to hold a temporary route open.
+
+**Gain:** stabilize a seam, redirect a remnant pressure, and protect a small group for a limited time.
+
+**Cost:** the first sensory details begin to blur. A recent taste, sound, or face may be missing when he needs it, and the loss cannot always be predicted in advance.
+
+### Stage 3: Consent lines
+
+Milo learns to distinguish an old echo from a living witness and to build a route that can be changed by the people who use it. This is the first stage at which other people can safely alter his map.
+
+**Gain:** partner with a street’s current residents, negotiate a restoration, and split a route between several possible destinations.
+
+**Cost:** a durable map leaves a **blank** in Milo’s personal history. He may lose the remembered connection to a place or relationship and need another person’s testimony to recover its emotional meaning. He can function, but cannot pretend the cost is temporary.
+
+### Stage 4: Relief
+
+Milo can hold a larger place together while repairs, families, and civic services decide what it should become. This is not creation from nothing. It is a temporary safe condition that lets living people remain in the overlap long enough to choose.
+
+**Gain:** protect a neighborhood, hospital, transit line, or market during a seamquake; work with a team instead of carrying the entire map alone.
+
+**Cost:** the relief takes a physical route through Milo’s body. He develops a visible seam-scar, pain, or a permanent inability to remain in one location after entering a major overlap. He must be maintained by others.
+
+### Stage 5: Counter-map
+
+Milo can combine maps voluntarily supplied by separate communities, correcting conflicts without choosing one version as the sole truth. This allows a city to route around a Greywake without forcing every street into one geometry.
+
+**Gain:** negotiate with other cartographers, preserve alternate routes, and stop a Registry or Choir faction from monopolizing a seam.
+
+**Cost:** official records begin to fail to hold him. He is difficult to locate, and a hostile map can deny him a place to sleep. His relationships must provide practical locations and shared work rather than rely on a fixed home.
+
+### Stage 6: The distributed atlas
+
+Milo can make a city-scale, multi-community restoration over time, but only by giving up sole authorship. The work succeeds when other people can maintain the map without him. It cannot be commanded from a single room or preserved by one hero.
+
+**Gain:** restore selected places as living, revisable districts and prevent the Common Atlas from collapsing into one singular map.
+
+**Cost:** Milo gives up a fixed personal coordinate and the ability to have one complete autobiographical map. The final map also takes the protected sound of Neris’s voice, the last private sensory memory he kept as proof that his mother had existed outside the record. He remains physically capable and emotionally present, but he can no longer be assured that any single institution will record where he belongs. The final cost is relational as well as magical: he must let others carry parts of him that he once insisted on protecting.
+
+## What the power cannot do
+
+- Read thoughts, memories, or intentions.
+- Prove that a witness is telling the whole truth.
+- Resurrect a dead person or restore a missing biological community unchanged.
+- Create a place from no human history.
+- Force a person to accept a name, relationship, debt, or destination.
+- Remove every consequence of a bad map.
+- Make a street safe forever by sealing it.
+- Make one person’s version of a city become the only version.
+
+## Failure modes
+
+### False route
+
+A map based on a false witness or misunderstood grammar creates a convincing but self-repeating path. The traveler can walk for hours while making no geographic progress. A second map may add another false route rather than expose the first.
+
+### Claimed place
+
+If a map removes all current witnesses and fills the blank with an old identity, the remnant can claim the living overlap as part of its past. People become roles, addresses, or inherited obligations. This is why restoration requires consent.
+
+### Turned witness
+
+A witness who is coerced, deceived, or repeatedly used as a route anchor can become trapped in the place they witness. A field book can look intact while its witness is being consumed.
+
+### Personal blank
+
+When Milo overextends, his own map develops an area he cannot navigate or interpret. In severe cases he cannot recognize a loved one without a physical or shared action. This is a disability, not a convenient hidden ability.
+
+### Greywake
+
+A **seamquake** is the local collision of incompatible routes. A **Greywake** is the cumulative cascade that follows when many previously separated routes are disturbed, released, or forced into one synchronized geometry. The Registry’s containment measures can suppress individual seamquakes while the excluded pressure accumulates. The One Survey briefly suppresses local collisions by making every route agree, then causes the terminal Greywake by drawing all that accumulated pressure through a single index. Greywake can collapse buildings, reverse a river, displace a crowd, or make a whole district claim several destinations at once. It is a predictable failure of shared mapping, not an arbitrary monster attack.
+
+## Practice, equipment, and teamwork
+
+Milo’s field kit contains paper, pencils, a measuring chain, chalk, chalk dust, a compass that can be deliberately made wrong, a brass route-token, a folding lantern, and a spare coat. The kit is useful because it creates physical evidence and gives other people something to hold. A modern seam lamp can reveal a pressure boundary, but it cannot read the grammar; that remains an observation skill.
+
+Training has distinct parts:
+
+- **Survey:** distance, slope, load-bearing ground, safe exits, and the difference between an official boundary and a lived route.
+- **Grammar:** recognizing cues, testing a demand, and knowing when to withdraw.
+- **Witness work:** asking consent, explaining the cost, and making disagreement safe.
+- **Cartography:** drawing a route another person can follow without Milo beside them.
+- **Recovery:** returning from a crossing, recognizing a personal blank, and accepting help.
+
+A field team needs more than a powerful mapper. A witness, a route keeper, a medical or practical specialist, and a person willing to enforce a boundary can each prevent a failure that Milo cannot solve alone. The story’s progression makes this more true over time, not less.
+
+## The Field Book and its limited prompts
+
+Milo’s Field Book is a route-work tool, not a modern dashboard and not an all-knowing advisor. Near a strong seam, the Atlas residue can leave a short line of writing that reflects the immediate rule. It may appear as ink, graphite, or pressure marks on the page.
+
+Allowed examples:
+
+- “The third turn needs a witness.”
+- “Do not name the owner.”
+- “The route will accept a substitute, not a replacement.”
+- “A return mark is missing.”
+- “This door remembers the destination, not the key.”
+
+The prompt is incomplete, can be distorted by a Weather or Ledger grammar, and never explains the moral or political choice. Milo must test it against physical evidence. The Field Book does not issue statistics, unlock skills automatically, or produce a solution after the consequences have already been chosen.
+
+## Growth and recovery
+
+Milo’s practice is cumulative but not frictionless. He becomes better at reading route grammar through study, failed crossings, interviews, and work with experienced keepers. New ability never cancels old cost. A successful map can leave a scar, a missing recollection, a damaged relationship, or a community obligation. Recovery requires a change in procedure, not merely rest.
+
+The final power breakthrough is not a larger personal field. It is a decision to let other people write parts of the map and to preserve disagreement where a single line would be more efficient.
