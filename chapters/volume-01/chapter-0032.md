@@ -30,13 +30,13 @@ He came down the ramp, past the trench, and stood at the edge of it for a while,
 
 "Then stand there and don't touch the ladder, because the ladder's been propped against the shoring since Friday and it takes the shoring with it if you lean on it." Danner did not look up. "You're not here about the door."
 
-"No. I'm here about the door and about the level and about the sixth of November."
+"No. I'm here about the door and about the level and about the sixth of December."
 
 Danner put the rod down.
 
 "Say the date again."
 
-"The floodgate test is in the first week of November. It has been in the first week of November since the twenty-second of Sazur. It is not a date I invented, it is a date with a season behind it, and if the level is not finished by the sixth of November then the test is run at a structure that has an unfinished made surface on its flood side, and the whole point of the test is to find out whether the wall behind the district can take a river." He looked at Milo. "Mr Rook, the district floods in November behind a lead lateral laid in 1904 and checked by nobody. That is in a note at the foot of a form and I have read it. Everything I am about to say to you is an argument for finishing the level before the sixth of November and not after it, and I have never in my life needed a better argument for anything, and I want you to have it in front of you before I make it."
+"The floodgate test is in the first week of December. It has been in the first week of December since the twenty-second of Sazur. It is not a date I invented, it is a date with a season behind it, and if the level is not finished by the sixth of December then the test is run at a structure that has an unfinished made surface on its flood side, and the whole point of the test is to find out whether the wall behind the district can take a river." He looked at Milo. "Mr Rook, the district floods in November behind a lead lateral laid in 1904 and checked by nobody. That is in a note at the foot of a form and I have read it. Everything I am about to say to you is an argument for finishing the level before the sixth of December and not after it, and I have never in my life needed a better argument for anything, and I want you to have it in front of you before I make it."
 
 "Go on."
 
@@ -64,7 +64,7 @@ He stopped, because the two men working the far end of the plate had stopped too
 
 Orrin looked at him for about a second and a half.
 
-"Your variation," he said, "is the plate. Mine is the sixth of November. They are not the same document, Mr Danner, and you know they are not, and you have known it since the twenty-second of Sazur, and you have spent eight weeks being extremely honest about the difference, and I have decided that I am going to win with the honest difference and not against it."
+"Your variation," he said, "is the plate. Mine is the sixth of December. They are not the same document, Mr Danner, and you know they are not, and you have known it since the twenty-second of Sazur, and you have spent eight weeks being extremely honest about the difference, and I have decided that I am going to win with the honest difference and not against it."
 
 He went up the ramp and out through the gate, and the gate-man let him out, and the man from the timetable division who was standing by the trestle table with an unopened folder watched him go and then said, to nobody in particular, "He didn't ask me anything either."
 

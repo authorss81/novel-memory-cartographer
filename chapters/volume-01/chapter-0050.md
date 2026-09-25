@@ -2,7 +2,7 @@
 
 There was no door.
 
-The works' notice on the hoarding said the coal hatch side access would be closed from the ninth of this month to the twentieth inclusive, and on Thursday the thirteenth Lena Marr stood at the north door of the ground floor of Cedar Court at ten past one in the afternoon in the rain with Rue holding a count, and the strip of broken concrete between the flank of the building and the foot of the embankment was on the other side of a line of steel fencing with a notice wired to it, and there was a trench open in it, eight feet wide, four foot deep, and about forty feet away there were two men in the trench of the soft-lens reach and a man in a waterproof standing on the fill with a radio that was not working.
+The works' notice on the hoarding said the coal hatch side access would be closed from the ninth of this month to the nineteenth inclusive, and on Thursday the thirteenth Lena Marr stood at the north door of the ground floor of Cedar Court at ten past one in the afternoon in the rain with Rue holding a count, and the strip of broken concrete between the flank of the building and the foot of the embankment was on the other side of a line of steel fencing with a notice wired to it, and there was a trench open in it, eight feet wide, four foot deep, and about forty feet away there were two men in the trench of the soft-lens reach and a man in a waterproof standing on the fill with a radio that was not working.
 
 The gantry is on the far side of the embankment and the call came up out of the canyon, and it came at ten to two, and the interval went, and Milo Rook — who was under the north awning with nothing in his hands and no business there except that he had asked in writing on the Monday and had been told no and had come anyway — counted twenty-nine seconds and then thirty-one and then forty-five.
 
@@ -80,7 +80,7 @@ Nobody explained it to him.
 
 ---
 
-Milo Rook got the sheet back at about half past twelve, and then stood in the yard and did not look at it for a while, and then did, and read the whole of it, and it took him about a minute and a half, and there is no version of this that does not record that he read the whole of it, in the open, in about eleven people, and read it aloud afterwards, and that he read the name on the fifth line before he read the rule at the foot.
+Milo Rook got the sheet back at about half past twelve, and then stood in the yard and did not look at it for a while, and then did, and read the whole of it, and it took him about a minute and a half, and there is no version of this that does not record that he read the whole of it, in the open, in front of about eleven people, and read it aloud afterwards, and that he read the name on the fifth line before he read the rule at the foot.
 
 *Fifteenth of the month, 21.20.*
 
@@ -94,7 +94,7 @@ Milo Rook got the sheet back at about half past twelve, and then stood in the ya
 
 *And the copy is the fifth and it is not the fifth of a document and it is a piece of paper that somebody has copied out of a thing this district made and has carried to a school office and to a flat in Wragh Street, and it is a list of the people who keep a street that is not on a map, and there is a man in a fenland village who asked a boy of seventeen that exact question on the thirteenth of this month, in a card, and has had a list a long time, and I am not going to write those two things in the same paragraph again, and I wrote it once and then wrote underneath it that I would not, and I have not, and the reason is that joining them would be me deciding that they are the same, and a man who decides two things are the same in a book is a man who has started making the case instead of the record.*
 
-*What I have instead is a name in a space, and a fence, and a woman on the fourth floor who came down twice, and a mechanic's sentence that is true and unsigned with one thing attached to it that he will tell me and not a man in a coat, and a man on half rate who has certified a level over a trench he has said he cannot stand behind, and a plate on a door, and a street under six inches of water, and a Bench on the twenty-first of October that I sat in and did not speak at, and a Bench after that which I am not going to be in, and the sixth of next month, which is nine days away, in a yard and on a hoarding and in a mouth.*
+*What I have instead is a name in a space, and a fence, and a woman on the fourth floor who came down twice, and a mechanic's sentence that is true and unsigned with one thing attached to it that he will tell me and not a man in a coat, and a man on half rate who has certified a level over a trench he has said he cannot stand behind, and a plate on a door, and a street under six inches of water, and a Bench on the twenty-first of October that I sat in and did not speak at, and a Bench after that which I am not going to be in, and the sixth of next month, which is twenty-one days away, in a yard and on a hoarding and in a mouth.*
 
 *Eight remembered routes. There has been no ninth this month and I have been to four of the eight and lost none of them, and I do not know what that means and I am not going to write down what it might mean. The line home is in the book in my own hand and I have walked it twice this week and it is correct and any person asked to walk it can walk it.*
 

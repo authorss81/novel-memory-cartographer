@@ -1,8 +1,8 @@
 # Chapter 45: The Man Who Lets Rooms
 
-The route on the copy had been walked on the Tuesday afternoon at about half past three, two hours before Milo Rook stood in a porch and read another one of them, by two people who believed it, and Milo Rook did not know that for nineteen hours, and what he knew instead, for nineteen hours, was the shape of a mistake.
+The route on the copy had been walked on the Tuesday afternoon at about half past three, two hours before Milo Rook stood in a porch again and read a second one of them out loud, by two people who believed it, and Milo Rook did not know that for nineteen hours, and what he knew instead, for nineteen hours, was the shape of a mistake.
 
-Neville Cobb came to the works office at half past two on the Monday afternoon and asked about a length of lead pipe, and there was a machine in the office with a sheet fee on the wall and a shilling in the tray, and he used it for about four minutes, and he did not steal anything and did not forge anything and did not take a sheet of our stationery. He used the machine. That is the whole of what he did and he has never denied it and he was not asked to, because nobody in the river core asked him anything for six days.
+Neville Cobb came to the works office at half past two on the Monday afternoon and asked about a length of lead pipe, and there was a machine in the office with a sheet fee on the wall and a shilling in the tray, and he used it for about four minutes, and he did not steal anything and did not forge anything and did not take a sheet of our stationery. He used the machine. That is the whole of what he did and he has never denied it and he was not asked to, because nobody in the river core asked him anything for three days.
 
 He had three people coming to look at rooms on the Tuesday at half past two, and he wanted to show them that the block was organised, and he had seen a sheet on the porch wall of Cedar Court on the Friday with a flood-control contractor's head on it, and a head like that means a thing that a company has agreed to, and a company that has agreed to a thing can be shown to a man in a good coat as an amenity.
 
@@ -28,7 +28,7 @@ Nobody said it was anybody else's fault, because it was not.
 
 The room behind the boatyard had no record, and finding that out was the worst hour Milo Rook has spent since the fourteenth of Sazur, and it was not dramatic, and it was entirely his fault, and the fault had a shape.
 
-Doreen Sankey is forty-one and has lived in two rooms behind a boatyard on the Ferry Road side for nine years and has paid nobody anything for any of them and there is no address for the building and the building is not on the district's index and his name is not on the district's list and the boatyard has no rate and the district has never had a rate on the Ferry Road side because there is nothing there to rate.
+Doreen Sankey is forty-one and has lived in two rooms behind a boatyard on the Ferry Road side for nine years and has paid nobody anything for any of them and there is no address for the building and the building is not on the district's index and his name is not on the district's list and the boatyard has no rate and the district has never had a rate on the Ferry Road side because there is nothing there to rate. He is called Doreen after his mother, who kept a laundry on the Ferry Road side and had no use for a boy, and he has never changed it, and a name is the only part of a person that anybody can write down, and for nine years the only place his had been written down was a rent book.
 
 "I have been in this building once," he said. "On the seventeenth, for the count. I stood on a step at the end of that row and I wrote a figure on a docket and I did not ask a single question, because the rule is that you do not ask, and I have been congratulating myself on the rule for a fortnight."
 
@@ -48,7 +48,7 @@ Doreen Sankey read it upside down and did not touch it and said, "That's the fir
 
 ---
 
-The route got walked on the Tuesday at four in the afternoon by a man called Carraway who was looking at one of the four rooms behind the boatyard with a girl, and who had in his inside pocket a copy of a sheet of paper with a flood-control contractor's head on it, and who had read the route in the head and thought what a man thinks when a route is offered to him in a head with a company's name at the top of it: *this is a route somebody keeps.*
+The route got walked on the Tuesday in the afternoon by a man called Carraway who was looking at one of the four rooms behind the boatyard with a girl, and who had in his inside pocket a copy of a sheet of paper with a flood-control contractor's head on it, and who had read the route in the head and thought what a man thinks when a route is offered to him in a head with a company's name at the top of it: *this is a route somebody keeps.*
 
 He went at about half past three, and went down to the boatyard steps, which are three stone steps with a chain, and along the towpath, which is good going, and under the embankment, which is low and wet and takes about four minutes, and then up the short cut to the tram steps, and the short cut is not a path. The short cut is the old wash-house channel crossing, which is a plank and a joist and eleven feet of rotten board laid in some decade nobody in the boatyard can name, and there is a rail on one side and nothing on the other.
 
@@ -62,19 +62,19 @@ The five days put Doreen Sankey on the wrong side of his own gate. There is one 
 
 "He has told me he does not want to be put on anything," said Nell Crale, at the trestle table, to about twenty people, in the flat voice of a woman who has kept a cold store for twenty-two years. "And I have told him I am not going to tell him that, because he has not asked me anything, and I do not talk about a man who has not asked me. But I want it said that a sheet of paper with a head on it shut a crossing and a man who lives at the end of it has been to this yard once in nine years and it is the wrong once."
 
-And this is what the fifth of next month was, in the end, in the yard at Cedar Court, with about thirty people in it and the round in:
+And this is what the fifth of this month was, in the end, in the yard at Cedar Court, with about thirty people in it and the round in:
 
 The sheet was not withdrawn.
 
 Lena Marr said that first, before anybody could get there, and she said it standing, and she said why, and it is the sentence that decides whether any of this is a district thing or a piece of paper, and that is a larger argument than the one we are having on this porch and we are going to have it in a room, not in here.
 
-"If we take that sheet off the nail we have said in front of thirty people that it was ours, and it will have been a district thing with a district head on it, and then the woman of sixty is on a district list, and Doreen Sankey is on a district list, and I have spent four months keeping this district from making a list and I am not going to start on a Thursday." She turned round to the porch. "So it stays up. And anybody who is on it who has not agreed writes their own line out, in their own hand, and puts their own reason beside it, and nobody writes it for them, and if anybody else writes it for them then the whole thing is a form and we might as well stop."
+"If we take that sheet off the nail we have said in front of thirty people that it was ours, and it will have been a district thing with a district head on it, and then the woman of sixty is on a district list, and Doreen Sankey is on a district list, and I have spent eleven weeks keeping this district from making a list and I am not going to start on a Wednesday." She turned round to the porch. "So it stays up. And anybody who is on it who has not agreed writes their own line out, in their own hand, and puts their own reason beside it, and nobody writes it for them, and if anybody else writes it for them then the whole thing is a form and we might as well stop."
 
 "That is the rota's rule," said Rue.
 
 "That is Owen's rule, and Owen wrote it on the third of this month in three words, and Lena Marr has been living off it for a fortnight and is not going to pretend she thought of it."
 
-The copy was on the trestle table for three days before anybody did anything about it, because a piece of paper with a contractor's head on it that has come back from a stranger's machine does not go in a drawer, and by the Wednesday afternoon of the fifth of next month, at about five o'clock, in the porch, in front of about nine people, a man of forty-one who lives behind a boatyard and has never been on anything in his life wrote four words beside his own name on a piece of paper with a flood-control contractor's head on it, and the four words were: *I only read it.*
+The copy was on the trestle table for three days before anybody did anything about it, because a piece of paper with a contractor's head on it that has come back from a stranger's machine does not go in a drawer, and by the Wednesday afternoon of the fifth of this month, at about five o'clock, in the porch, in front of about nine people, a man of forty-one who lives behind a boatyard and has never been on anything in his life wrote four words beside his own name on a piece of paper with a flood-control contractor's head on it, and the four words were: *I only read it.*
 
 And the woman of sixty from the second landing crossed her own name out and wrote nothing beside it, and would not be asked to and would not say why, and would not let anybody put a reason in for her, and went back up.
 

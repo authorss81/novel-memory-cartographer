@@ -28,7 +28,7 @@ It stayed. It is on the page for the rest of the month and it is the single most
 
 Four versions went on the nail. Milo Rook kept them, dated, in a bundle tied with a piece of twine, and Rue held the bundle, and it is the closest thing to a method this district has produced in eleven weeks and none of it is his.
 
-The first went up on the porch wall on the Friday of the twenty-fourth and it was the columns and nothing else, and the yard argued about it for two days.
+The first went up on the porch wall on the Friday of the twenty-fourth of last month and it was the columns and nothing else, and the yard argued about it for two days.
 
 The second had a box at the top for a *household*, and Lena Marr took the box out with her own thumbnail in about four seconds, and said, in front of about nine people, that a household on a sheet is a room, and a room on a sheet is a rate, and she was not going to be the woman who handed the district's low streets to a rates authority because she wanted them to have somewhere to go.
 
@@ -124,4 +124,4 @@ And he took his hand off it, and the yard was silent, and Rue picked it up, and 
 
 She read five names and then she stopped, and looked up, and said:
 
-"That is Doreen Sankey's name. He has not agreed to anything, because he has never been asked anything, because he came to a yard on Thursday week and asked for a way to the tram steps. And that is not his name, it is the name on his tenancy, and his tenancy is with a man who keeps four rooms behind a boatyard and who was in this compound on Monday afternoon asking about a lead pipe."
+"That is Doreen Sankey's name. He has not agreed to anything, because he has never been asked anything, because he came to a yard on Thursday week and asked for a way to the tram steps. And that is not a name he has given anybody, it is the name on his tenancy, and his tenancy is with a man who keeps four rooms behind a boatyard and who was in this compound on Monday afternoon asking about a lead pipe."

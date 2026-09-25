@@ -30,7 +30,7 @@ Barrow came on the Tuesday the twenty-eighth at half past ten with the new sheet
 
 Nineteen years in the timetable division of the tram authority. He had written *no person available* in a certification box in August and had laid a four-paragraph amendment on a description of a bend and had asked for a temporary stay to be minuted clause by clause at his own request, and he had done all three of those things in a voice exactly like the voice of a man reading a shopping list.
 
-"Sixth of next month," he said. "First Monday. That's the cycle. Everything on Line 7 turns over on the first and I have brought you the sheet it turns over on."
+"Sixth of next month," he said. "First of the month. That's the cycle. Everything on Line 7 turns over on the first and I have brought you the sheet it turns over on."
 
 "Give me the three lines that have changed."
 
