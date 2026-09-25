@@ -25,7 +25,7 @@ Status vocabulary: **deviation** leaves fleet-level planning material unchanged;
 
 **What this does not change.** The premise, the power system, the antagonist ladder, the relationship policy, the ten-volume arc, and the planned ending are all unchanged. No new city, antagonist, or final enemy is introduced.
 
-**Controller action required.** Ratify the 10-volume single-city scope, or replace `outline/series.md` with a 14-volume structure before volume planning proceeds. `outline/volume-01.md` and the batch cards remain unpopulated and should not be filled until this is settled.
+**Controller action required.** Ratify the 10-volume single-city scope, or replace `outline/series.md` with a 14-volume structure. `outline/volume-01.md` and the Chapters 1–10 batch cards have since been written under the outline phase’s own prompt; see CR-008 for how that was handled and what ratification would still change.
 
 ---
 
@@ -127,7 +127,39 @@ The framing deliberately does not make him secretly aim at permanent rule. A bou
 
 ---
 
+## CR-008 — Volume 1 outline written before CR-001 was ratified
+
+- **Type:** deviation
+- **Raised by:** `phase-001-outline`, from an independent read-only review of the two outline files
+- **Status:** recorded, awaiting controller ratification
+
+**Problem.** The bootstrap phase left an instruction in `state/continuity.md` and `state/canon-changes.md` that `outline/volume-01.md` and the batch cards must stay empty until the 10-volume single-city scope in CR-001 was ratified. The outline phase was then dispatched with a prompt that explicitly ordered Volume 1 and the first batch to be created, so the artifacts were written while CR-001 was still open and the two state files still described them as placeholders.
+
+**Resolution.** The artifacts are kept, because the phase prompt authorized them and because CR-001 changes the number of volumes, not the content of Volume 1. If the controller rejects CR-001 and restores a 14-volume structure, the required edit is mechanical: Volume 1’s contents stay and the later volume boundaries in `outline/series.md` are re-cut around them. No premise, power rule, character, or ending change is required either way. The stale placeholder lines in `state/continuity.md` and this log have been corrected so the next run does not read a finished phase as a blank one.
+
+**Files updated:** `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `bible/terminology.md`, `state/continuity.md`, `state/current.md`, `state/open-threads.md`, `state/canon-changes.md`.
+
+**Plot impact:** none. Bellwether Lane, the Cadence-with-Kinship-leak classification, Orrin Sable, the Chapter 30 reversal, and the Stage 1 orientation-blank ending are unchanged from what the series outline and ending outline already planned.
+
+---
+
+## CR-009 — “Pinned seam” is a Volume 01 condition, not a new category
+
+- **Type:** clarification
+- **Raised by:** `phase-001-outline`, second review of the climax events
+- **Status:** applied
+
+**Problem.** The Volume 01 climax needed a failure state that was neither a second seamquake nor a new remnant form: a seam held open by a live order rather than sealed, which is worse to live beside than a collapse. Without a definition it would have been an unnamed magical effect invented at the climax, and it collided with the personal-map “hole” already in use for Milo’s orientation blank.
+
+**Resolution.** The condition is named **a pinned seam** and registered in `bible/terminology.md`: a seam kept open because a live continuity order keeps feeding pressure into it, which does not close while the order stands and comes loose when the order is suspended and the routes around it are re-cut. It is explicitly a condition. It is not a new remnant type, not an eighth grammar, not a new failure state, and not a new antagonist. The personal-map gap keeps its own language so the two do not read as one thing. It appears once, in Chapters 51–60.
+
+**Files updated:** `outline/volume-01.md`, `bible/terminology.md`, `state/continuity.md`.
+
+**Plot impact:** none. The Chapter 54–57 climax and the Chapter 58–60 resolution keep their planned outcomes; the resolution now states explicitly that suspending the order and re-cutting the schedule is what unpins the seam, which is the same legal victory already planned.
+
+---
+
 ## Open items carried forward
 
-- The phase ledger (`state/phase-ledger.json`) and any completion marker for `phase-000-bootstrap` are controller-owned. Writers and fixers must not mark a phase `done` or `blocked`.
-- `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are still placeholders. They belong to the outline and batch-plan phases and must not be filled before CR-001 is ratified.
+- The phase ledger (`state/phase-ledger.json`) and any completion marker for `phase-000-bootstrap` and `phase-001-outline` are controller-owned. Writers and fixers must not mark a phase `done` or `blocked`.
+- `bible/terminology.md` now carries a “Volume 01 local register” for cast and places introduced during volume planning. Later batches must reuse those names, roles, and wants instead of renaming or replacing them.

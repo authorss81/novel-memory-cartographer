@@ -8,6 +8,16 @@ Why do forcibly erased streets persist as physical remnant streets, and why does
 
 Bellwether Lane opens inside an active tram timetable as a Cadence remnant. Milo must protect residents, learn the rule through observation and witness work, expose Orrin Sable’s continuity order, and pay a first orientation-blank cost. The immediate threat must be resolved even as the larger Atlas mystery grows.
 
+The fixed plan now lives in `outline/volume-01.md`, with Chapters 1–10 detailed in `outline/batches/volume-01-batch-0001.md`. Threads the volume has deliberately left open, so later batches do not accidentally close them early:
+
+- What the third bell originally was. The opening batch must keep three incompatible readings of the missing turn alive — check the lane, hand over to whoever is nearest, count who is still on the street — plus the fourth theory the closure notice supplies, a count of the dead, so the Chapter 30 reversal has something to overturn rather than confirm.
+- Why Bellwether entered the active timetable now, six years after the order, in the same season as the flood detour.
+- What Jonas Venn’s death was, who concealed it, and what Orrin needs the concealment to stay official.
+- How many current residents want a return route, a memorial route, or no connection to Bellwether. Lena Marr and Owen Fitch are the two visible answers so far and they disagree.
+- Whether the emergency hearing Orrin schedules is ever held, and who controls its terms.
+- Whether Milo’s orientation blank can be marked by someone else, and what happens when the person who marked it changes their mind.
+- Whether the Lark token resonates with Bellwether because of Neris, because of Soren’s method, or because Milo’s private memory is making the connection.
+
 ## Unresolved questions the first volumes must respect
 
 - Why does the Common Index behave as one authority when the First Atlas was built plural? The planned answer is a setting that was never switched off, not a design flaw.
@@ -33,6 +43,6 @@ Bellwether Lane opens inside an active tram timetable as a Cadence remnant. Milo
 
 The final mystery answer and emotional answer are planned in `outline/ending.md`. The final image must leave a walkable blank rather than a perfect map. Do not add a new final enemy, resurrect Neris, or make the Atlas harmless after the victory.
 
-## Blocked on controller input
+## Status of planning blockers
 
-Volume and batch planning cannot start until the scope deviation in `state/canon-changes.md` CR-001 is ratified. See the pending controller actions in `state/current.md`.
+The scope deviation in `state/canon-changes.md` CR-001 is still awaiting controller ratification, and the volume and batch planning it gated have since been written under the outline phase’s own prompt (CR-008). Nothing in Volume 1’s content depends on the outcome; a rejected CR-001 would require re-cutting later volume boundaries, not rewriting this one. The writer and fixer must not ratify CR-001, close a phase, or mark a workspace directory done. See the pending controller actions in `state/current.md`.

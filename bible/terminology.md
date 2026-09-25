@@ -130,6 +130,36 @@ Use these terms consistently in prose and outlines. Capitalization is intentiona
 
 **Neris Rook** — Milo’s mother, a Lark Street tram conductor and route-maker who was lost during the Lark erasure. She is not resurrected; her trace is distributed among people and places.
 
+## Volume 01 local register
+
+Introduced by `outline/volume-01.md` and fixed for the volume. Later batches and prose must keep these names, roles, and wants stable.
+
+**Alder Quay** — The river-core embankment where Line 7 crosses Bellwether’s old alignment. The **Alder Quay platform** is the disused stop beside the extra Bellwether entry, closed to passengers and out of service; do not call it “Platform Four,” which collides with the floodgate name.
+
+**A pinned seam** — A seam held open instead of sealed, because a live continuity order keeps redirecting pressure into it. Introduced by `outline/volume-01.md` for the Chapters 51–60 climax. A pinned seam is a **condition**, not a new remnant type, grammar, or failure state: it does not close while the order that feeds it stands, its pressure travels toward whatever the timetables, gates, and records point it at, and it comes loose only when the order is suspended and the routes around it are re-cut, which is what Volume 1’s resolution does. A pinned seam may produce a full seamquake first and then stop producing new ones, which is what makes it harder to live beside than a collapse. A pinned seam is quiet, not healed, and later volumes may use the condition without treating it as a new category.
+
+**Line 7** — The active tram line whose paper timetable gains the impossible Bellwether Lane entry at 4:17 in Chapter 1.
+
+**Cedar Court** — Converted worker rooms in temporary housing where people displaced from Bellwether organize meals, childcare, mail, and informal route warnings. A living neighborhood, not a waiting room.
+
+**The old service court** — The laundromat court at the heart of Bellwether’s former block, now inside the flood-control works zone. A physical threshold and the site of the supervised inspection point.
+
+**The western culvert** — Where the pump-house failure opened a thin remnant six years before the opening, and where the closure is being completed in this volume.
+
+**Floodgate Four** — The flood-control installation Orrin Sable intends to finish. Real civic infrastructure whose operation changes where seam pressure travels.
+
+**Ada Fenn** — Former laundry worker, first living witness, keeper of the evening bell’s third strike and a door-check routine. Revocable cooperation.
+
+**Lena Marr** — Cedar Court tenant and organizer who filed the housing case; wants a usable address and services, not a memorial. In Chapter 9 she chooses to be walked out and named in the public report.
+
+**Owen Fitch** — Cedar Court tenant and former Bellwether doorman who refuses to be entered on any map or list. His refusal costs the team a usable address and is treated as a legitimate choice.
+
+**Tomas Rusk** — Pump-house mechanic who survived the original accident; wants the record corrected and fears his own silence made the danger worse.
+
+**Jo Lask** — Line 7 conductor who notices the extra stop and wants the timetable and the workers’ routes made truthful.
+
+**Jonas Venn** — The maintenance worker killed in the pump-house failure. His death is a real fact and a concealed civic crime; it did not create Bellwether’s grammar.
+
 ## Grammar names in prose
 
 Use the grammar names as ordinary technical labels used by trained cartographers, not as spoken battle cries:

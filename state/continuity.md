@@ -46,6 +46,7 @@ No chapter prose exists yet. The bootstrap canon below is authoritative for the 
 - Iona Sen is a seam physician and former Thread Warden. Tarin Kest is a reform-minded Registry inspector. Sel Iri leads the Open-Door Choir.
 - Orrin Sable is the local Volume 1 antagonist; Halden Vey is the institutional antagonist; Soren Rook is the final antagonist and Milo’s father.
 - Soren’s method must be stated on the page: a complete inventory of excluded routes, a bounded operation with a published shutdown, and a sealed residual layer meant to store the suspended pressure. He is right about the bookkeeping and wrong about holding, and a singular Index is also what keeps him alive.
+- Volume 01 introduced cast not in the series bible: Ada Fenn, Lena Marr, Owen Fitch, Tomas Rusk, Jo Lask, and the dead maintenance worker Jonas Venn. Their fixed names, roles, and wants are registered in `bible/terminology.md` under “Volume 01 local register.” No new final enemy, grammar, or faction may be added here or later.
 
 ## Ending constraints
 
@@ -56,8 +57,16 @@ No chapter prose exists yet. The bootstrap canon below is authoritative for the 
 - The larger extent of the Margin remains intentionally open, but no new cosmic antagonist may be introduced.
 - The final image leaves a walkable blank, not a perfect map.
 
+## Volume 01 plan in force
+
+- `outline/volume-01.md` is written and authoritative for Chapters 1–60: central pressure, Chapter 30 midpoint reversal, Chapters 54–57 climax, Chapters 58–60 concrete resolution, and the next-volume question. Volume 1 ends at Stage 1 with an orientation blank that is still recoverable; persistence and Mara’s return route belong to Volume 2.
+- `outline/batches/volume-01-batch-0001.md` is written and authoritative for Chapters 1–10. Chapter 3 gives the first Atlas residue as the incomplete prompt “A return mark is missing,” not the witness rule; Chapter 4 earns the first half of the working rule and Chapter 5 the second, and the bells’ original purpose stays unresolved until the Chapter 30 reversal.
+- The opening batch ends with a supervised one-shift passage, a temporary stay, an incomplete report, and a copied maintenance route pointing to a place with no official address. It does not defeat Orrin’s order or restore Bellwether.
+- Cedar Court must keep three incompatible readings of the third turn alive through the opening batch, plus the fourth theory the closure notice supplies, so the midpoint can overturn all of them.
+- **A pinned seam** is the Volume 01 climax condition: a seam held open by a live order rather than sealed. It is registered in `bible/terminology.md` and is a condition only, not a new remnant type, grammar, or failure state. Later volumes may use it but may not treat it as a new category.
+
 ## Structural state
 
 - Scope deviation from the catalog is recorded and unratified: `state/canon-changes.md` CR-001.
-- `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are placeholders and must stay empty until CR-001 is settled.
+- The Volume 01 outline and the Chapters 1–10 batch cards are populated. The outline phase authorized filling them while CR-001 was still open; the deviation is recorded as CR-008 and remains the controller’s to ratify or reject.
 - The phase ledger and any completion marker are controller-owned and untouched.
