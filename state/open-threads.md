@@ -56,6 +56,41 @@ Batch 0002 closed the hearing question, paid Tomas Rusk's page, built the third 
 - **Jo Lask's inquiry is a Thursday in four weeks**, and Jo has said the interesting thing in public: *the truth is cheaper when it's a person than when it's a street.* Whatever the inquiry decides, that sentence is now in a yard and not only in a file.
 - **Ada is better, and the rota is thinner than the building.** Five storeys, two names, one strike-through, and six rooms on the top floor that nobody has been inside. Her refusal is still legitimate pressure and must never be written as a problem to be solved.
 
+## Status after Chapters 21–30 — what closed, what moved, what is now more dangerous
+
+Batch 0003 is the midpoint. It settled the case's central historical question, paid Tomas Rusk's condition, killed the temporary stay, made the round smaller and more expensive, and cost nine school places. The detail is in `state/batch-summaries.md` and `state/continuity.md`; this is the short list.
+
+### CLOSED OR ANSWERED IN THIS BATCH
+
+- **What the three calls were.** A coordinated evacuation, interrupted by the order while residents were still being moved. The first two calls moved people toward the old service court; the third is a check — a person saying a space is clear before the next turn. **Stated on the page in Chapter 30 and binding on every later chapter.**
+- **The triad accounting, on the page, in Ada Fenn's own words:** the name was withdrawn, the routes were shut, and the witness support was scattered — **and one routine was not scattered, because she never left the river core. Two withdrawn, one left standing and overloaded.**
+- **Jonas Venn's place in the story.** A real accident, a real concealment, and **a sentence that put a hazard and an empty court into one document.** The death did not create the grammar and is not in it.
+- **Tomas Rusk's condition.** The road shut because the crew came off the frontage and the reach emptied. He was on it alone with a lamp. He has had six years to decide which of those two things he would rather have been.
+- **The temporary stay.** Ended at 10.25 on the 28th of Sazur, in one line, and had never done anything else. **Not extended, not renewed, not converted.**
+- **The three families and the table leg.** Never used again. The leg is a wet board with nothing legible on it, and the question was changed rather than answered into a shape.
+- **Orrin's argument is still unanswered and he is still right about the mechanism.** Nothing in this batch answered it, softened it, or made him wrong.
+
+### MOVED
+
+- **The three accounts are now a public document.** Four incompatible accounts — Jo Lask, Tomas Rusk, Lena Marr, Verrick Assal — were read into a public record at the district's own request on the second of the month, each read back to its own author, with Verrick's *asked three times, said nothing three times, not a witness* attached. **A works office cannot minute it, so Mara Quill is having it sworn**, which is a cost she has named in advance to all four of them.
+- **The corruption is a document, not a magic failure.** Paragraph six of the original safety report — *the three calls are not a signal to persons and indicate no entry and no refusal* — has governed the case for six years, survived the replacement page, and sat four paragraphs away from the sentence that was taken out.
+- **The clue chain, one step.** The withdrawal reference on the file index and the copy register's internal consultation reference are **the same form, four letters and two numbers in a clerk's hand**, and page nine was withdrawn on a Crown Heights instruction that is not in the district's book. **Nothing is identified and no name is spoken.**
+- **Mara Quill has filed a disclosure about her own conduct** and the review is now opened on her own hand. **The second set of initials is still unresolved and still hers alone.**
+- **The relationship, one method change and no warmth.** He now gives her everything in writing with a date on it, whether she can file it or not; she refused the apology and did not ask for the Lark disclosure. **Nothing is in a Registry file about him and nothing has been said about how either of them feels.**
+- **The orientation blank is a list of seven**, all recoverable, all marked by other people, and the last one is the route he wrote himself for somebody else.
+- **Pell Harrow's search has a second purchase and no answer:** a maintenance list at a village with no official address, his brother's name beside *no access, road closed, residents not notified*, one of two sources a liar, and no body.
+
+### NOW MORE DANGEROUS
+
+- **Ada Fenn is stopping.** She said it in a yard of about forty. The rota is five lines and Ada is not on it and will not be, and the third call is a check, and a check needs somebody at a door. **The batch treats this as legitimate and does not solve it, and the next batch must not treat it as a problem to solve either.** There is no substitute and Ada has said so herself.
+- **The low streets flood in November in a dry month.** The diversion is out of the alignment, the 1904 lead lateral is a pipe the size of a man's wrist, the works' storm main is dead and valved behind it, and the number is in a note at the foot of a form under Mara Quill's name. **Two hundred and thirty-one non-rateable people, plus the per-head levy, plus nine children out of a school until the spring.**
+- **The round is seven stops for eleven weeks, unpaid, on foot through a works gate.** Rue took that decision and made the yard repeat the price. **If she stops, there is no round.**
+- **The regrade is eating the alignment and making new dips.** A machine with a plate on the end, four inches in one place in a week, and eleven weeks to run. A lane with the road taken out from under it and one witness stopping.
+- **The service door is still unplated** and the variation still takes six days, and the next flood season is now the stated deadline behind Danner's refusal to stop the works for a meeting in a portacabin.
+- **Nine school places, released until the spring intake**, and a Continuity referral that cannot be filed without a name at the top of it, and a register whose head of household for that block is asleep on the third floor. **The address/money trap is untouched and is not solvable until Chapters 58–60, and it will have to cost somebody money.**
+- **October.** The Bench, the death record, the four sworn accounts, and the person named nowhere who cannot be told where her husband is buried.
+- **Milo's own condition is now a bill in public.** He has said out loud that a limit made in a yard becomes a debt owed by other people, and he has said he will not ask this yard for a passage. **The next pressure on that is other people asking him, and he will have to be the worst man in the district about it.**
+
 ## Unresolved questions the first volumes must respect
 
 - Why does the Common Index behave as one authority when the First Atlas was built plural? The planned answer is a setting that was never switched off, not a design flaw.
