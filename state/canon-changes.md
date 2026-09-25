@@ -4,12 +4,14 @@ Required by `AGENTS.md`: any change to the premise, world rules, power system, a
 
 Status vocabulary: **deviation** leaves fleet-level planning material unchanged; **clarification** resolves a contradiction inside this repository’s own bible; **approved** is written by the controller, not by the writer.
 
+**Review provenance.** Entries CR-001 through CR-007 name a review of `phase-000-bootstrap` as their origin. That review log is not retained in the repository, and the review agent is currently not invocable as configured, so those entries record the reasoning rather than a verifiable audit trail. Treat their provenance as unconfirmed, not as disputed; the controller may re-run the gate and re-date them.
+
 ---
 
 ## CR-001 — Volume count and geographic scope
 
 - **Type:** deviation
-- **Raised by:** review of `phase-000-bootstrap` (`logs/phase-000-bootstrap.review.log`)
+- **Raised by:** review of the `phase-000-bootstrap` artifacts. The review log itself is not retained in the repository (`logs/` is gitignored), so this entry cites the phase, not a verifiable file.
 - **Status:** recorded, awaiting controller ratification
 
 **Reference material.** `NOVEL_CATALOG.md` entry 11 specifies 700 chapters in **14 volumes of approximately 50 chapters**, with a traveling, multi-location engine: “he travels through cities, family homes, demolished villages, and unfinished buildings.”
@@ -130,7 +132,7 @@ The framing deliberately does not make him secretly aim at permanent rule. A bou
 ## CR-008 — Volume 1 outline written before CR-001 was ratified
 
 - **Type:** deviation
-- **Raised by:** `phase-001-outline`, from an independent read-only review of the two outline files
+- **Raised by:** `phase-001-outline`, from a review pass over the two outline files. That pass was not the intended independent read-only gate — see `state/current.md` — so the deviation was detected from the files themselves rather than certified by a separate reviewer.
 - **Status:** recorded, awaiting controller ratification
 
 **Problem.** The bootstrap phase left an instruction in `state/continuity.md` and `state/canon-changes.md` that `outline/volume-01.md` and the batch cards must stay empty until the 10-volume single-city scope in CR-001 was ratified. The outline phase was then dispatched with a prompt that explicitly ordered Volume 1 and the first batch to be created, so the artifacts were written while CR-001 was still open and the two state files still described them as placeholders.
@@ -159,7 +161,56 @@ The framing deliberately does not make him secretly aim at permanent rule. A bou
 
 ---
 
+## CR-010 — Bellwether is a near-completion full remnant, not a clean three-way severance
+
+- **Type:** clarification
+- **Raised by:** review of `phase-001-outline`, high severity, on the Volume 01 outline
+- **Status:** applied
+
+**Problem.** `outline/volume-01.md` stated Bellwether’s erasure two incompatible ways. The reader-promise section, the planning-classification section, and the Chapter 30 reversal described the order as withdrawing the public name, closing the ordinary routes, *and* separating the people who had witnessed the street, while also describing Ada’s surviving bell-and-door routine as “the one overloaded witness support left in place.” Under CR-003 and `bible/power-system.md`, a triad severed three ways and a triad severed two ways with the third left standing are different rules with different consequences, and the second is the near-completion exception. A later batch inheriting the file could have written either, and the visible result — a full remnant that a community can still negotiate with — depends on which one is true.
+
+**Resolution.** One canonical accounting, now stated once in the planning-classification section of `outline/volume-01.md` and repeated in the Chapter 30 reversal, which is the chapter that fixes it: the order withdrew the **name** and closed the **route** — two supports. It broke the **witness** support rather than removing it: the routines and the people who kept them were scattered, but Ada’s evening third strike and door-check survived because she never left the river core, so one instance of the third support was left standing and had to carry pressure the other two had held. Bellwether is therefore a **near-completion full remnant**: two withdrawn, one standing and overloaded. It is not a thin remnant that later grew, and the small thin remnant at the western culvert is a separate thing that did not create it.
+
+**Files updated:** `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `bible/terminology.md`, `state/continuity.md`.
+
+**Plot impact:** none. The Chapter 30 reversal, Ada’s role as the revocable first living witness, the Chapter 9 supervised passage, and the Volume 1 resolution keep their planned outcomes. The reversal now has a single defensible mechanism behind it, and the standing routine is stated as the reason the residents can negotiate with the seam at all.
+
+---
+
+## CR-011 — The western culvert has one physical state track across the volume
+
+- **Type:** clarification
+- **Raised by:** review of `phase-001-outline`, medium severity
+- **Status:** applied
+
+**Problem.** The culvert’s state read backwards. `bible/terminology.md` said the closure “is being completed in this volume” while `outline/volume-01.md` said the culvert “remain[s] materially changed”; the Chapter 7 card had a foreman shutting the gate at sunrise, yet the Chapter 9 card still had “Orrin’s crew… waiting to close the western culvert” as if it were still open; and the climax depended on “the opening of the western culvert” widening the pinned seam. A later batch could not tell whether the structure was sealed, throttled, or merely closed for the night.
+
+**Resolution.** One track, registered in `bible/terminology.md` and carried in the Chapter 7 and Chapter 9 cards: the Chapter 7 order **throttles and partly seals** the culvert, winding the gate down to a maintenance slit, because a full seal would back water into the flood-control works zone and the low streets behind it — which is why the lawful compromise leaves the structure open enough to keep carrying pressure. The Chapter 9 crew arrives with the seal kit and **does not finish the job**, because the public passage occupies the works site for the whole shift. The climax’s floodgate test then **drives that same throttled gate back out to full flow** to keep the embankment and works zone dry, and that widening is what lets the pinned seam widen. The culvert is therefore throttled and never sealed from Chapter 7 onward. It ends the volume gated, silted, and re-aligned.
+
+**Files updated:** `bible/terminology.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`.
+
+**Plot impact:** outcomes unchanged, one on-page action clarified. The Chapter 7 diversion that separates Jo’s crew, the Chapter 9 refusal, the climax, and the materially-changed resolution all keep their planned results. What did change is the crew’s Chapter 7 action: the foreman no longer shuts the gate, he winds it down to a maintenance slit under a stated hydraulic constraint, and the Chapter 9 crew leaves with the seal unfinished. That constraint is what keeps the structure throttled rather than sealed through the climax, so it is a mechanical fix to a contradiction rather than a new event; the added constraint is that a full seal would flood the works zone. No character, motive, location, or chapter outcome is altered.
+
+---
+
+## CR-012 — The orientation blank has two distinct stages in Volume 1
+
+- **Type:** clarification
+- **Raised by:** review of `phase-001-outline`, medium severity
+- **Status:** applied
+
+**Problem.** The orientation-blank cost was booked twice in near-identical words. Chapter 4 and the batch’s “first cost” already cost Milo the route to the office or home until another person marks it, and the Chapter 10 pull still had him unable to find home until Pell chalks it, while `outline/volume-01.md` and `state/current.md` reserved a separate escalation for “the written route home goes blank in Chapters 51–53.” As written, a writer could spend the larger cost in the opening batch or describe the same loss twice.
+
+**Resolution.** The distinction that `bible/characters.md` already implies is now stated. **Chapter 4 costs the remembered route:** familiar routes drop out of Milo’s sense of direction and return only when another person marks them, while the Field Book is untouched and the route home stays written in his own hand. **Chapters 51–53 cost the written line:** the entry he has copied out after every survey goes blank. Two stages, two chapters ranges, and they may not be collapsed or swapped. Both remain recoverable inside Volume 1; persistence and Mara’s return route stay in Volume 2.
+
+**Files updated:** `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `state/current.md`, `state/continuity.md`.
+
+**Plot impact:** none. Onset is unchanged at Stage 1, first crossing, as CR-005 fixes it, and Volume 1 still ends with a recoverable blank.
+
+---
+
 ## Open items carried forward
 
 - The phase ledger (`state/phase-ledger.json`) and any completion marker for `phase-000-bootstrap` and `phase-001-outline` are controller-owned. Writers and fixers must not mark a phase `done` or `blocked`.
 - `bible/terminology.md` now carries a “Volume 01 local register” for cast and places introduced during volume planning. Later batches must reuse those names, roles, and wants instead of renaming or replacing them.
+- An annotating hand is confirmed on two documents: the Chapter 1 timetable’s old-ink margin correction and the Chapter 6 annex notation. The Chapter 10 carbon copy carries two unsigned marks in *different* inks, so at least one is a different author and Volume 1 does not settle which. The chain is registered in `outline/volume-01.md` and is not resolved in Volume 1. Later batches must carry it and must not name it as Soren without evidence, and must not treat the Chapter 10 pair as a confirmed third instance.

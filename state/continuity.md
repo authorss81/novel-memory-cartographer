@@ -31,7 +31,7 @@ No chapter prose exists yet. The bootstrap canon below is authoritative for the 
 
 | Cost | Onset | Permanence |
 |---|---|---|
-| Orientation blank | Volume 1, Stage 1, first crossing | Accumulates; some routes never return |
+| Orientation blank | Volume 1, Stage 1, first crossing | Accumulates; some routes never return in the long run. Every Volume 1 loss stays recoverable when marked |
 | Sensory detail failing | Volumes 2–3, Stage 2 | Unpredictable; some details do not come back |
 | First personal blank | Volumes 4–5, Stage 3 | Permanent; requires another person’s testimony |
 | Visible seam-scar and dependence on being maintained | Volumes 5–6, Stage 4 | Permanent physical cost; solitary major fieldwork unsafe |
@@ -47,6 +47,7 @@ No chapter prose exists yet. The bootstrap canon below is authoritative for the 
 - Orrin Sable is the local Volume 1 antagonist; Halden Vey is the institutional antagonist; Soren Rook is the final antagonist and Milo’s father.
 - Soren’s method must be stated on the page: a complete inventory of excluded routes, a bounded operation with a published shutdown, and a sealed residual layer meant to store the suspended pressure. He is right about the bookkeeping and wrong about holding, and a singular Index is also what keeps him alive.
 - Volume 01 introduced cast not in the series bible: Ada Fenn, Lena Marr, Owen Fitch, Tomas Rusk, Jo Lask, and the dead maintenance worker Jonas Venn. Their fixed names, roles, and wants are registered in `bible/terminology.md` under “Volume 01 local register.” No new final enemy, grammar, or faction may be added here or later.
+- Ada Fenn is the woman in the laundry work coat holding a door in the Chapters 3–4 overlap. The reader and Milo recognize her at the same moment in Chapter 5, when she says the third strike still comes through her hand; the crossing in Chapter 4 gives him no name and no reason to expect it. She is the standing third support of Bellwether’s triad, which is why the seam can be negotiated with and why she is dangerous to the order.
 
 ## Ending constraints
 
@@ -60,10 +61,14 @@ No chapter prose exists yet. The bootstrap canon below is authoritative for the 
 ## Volume 01 plan in force
 
 - `outline/volume-01.md` is written and authoritative for Chapters 1–60: central pressure, Chapter 30 midpoint reversal, Chapters 54–57 climax, Chapters 58–60 concrete resolution, and the next-volume question. Volume 1 ends at Stage 1 with an orientation blank that is still recoverable; persistence and Mara’s return route belong to Volume 2.
+- **Bellwether’s triad accounting is fixed (CR-010):** name withdrawn and route closed, with the witness support broken rather than removed and one routine — Ada’s evening third strike and door-check — left standing and overloaded. Two withdrawn, one standing: a near-completion full remnant. Never write it as all three withdrawn, and never as a thin remnant that later grew. The Chapter 30 reversal is where the volume states this on the page.
+- **The western culvert runs on one state track (CR-011):** throttled to a maintenance slit in Chapter 7 because a full seal would flood the works zone; the Chapter 9 crew arrives with the seal kit and does **not** finish the job, because the public passage occupies the site for the shift; and the climax’s floodgate test drives that same throttled gate back out to full flow, which is what lets the pinned seam widen. It is throttled and never sealed from Chapter 7 onward, and ends the volume gated, silted, and re-aligned.
+- **The orientation blank has two stages in Volume 1 (CR-012):** Chapter 4 costs the remembered route while the Field Book stays intact; Chapters 51–53 cost the written line. The batch must not book the written-line loss early, and the two may not be collapsed.
 - `outline/batches/volume-01-batch-0001.md` is written and authoritative for Chapters 1–10. Chapter 3 gives the first Atlas residue as the incomplete prompt “A return mark is missing,” not the witness rule; Chapter 4 earns the first half of the working rule and Chapter 5 the second, and the bells’ original purpose stays unresolved until the Chapter 30 reversal.
 - The opening batch ends with a supervised one-shift passage, a temporary stay, an incomplete report, and a copied maintenance route pointing to a place with no official address. It does not defeat Orrin’s order or restore Bellwether.
 - Cedar Court must keep three incompatible readings of the third turn alive through the opening batch, plus the fourth theory the closure notice supplies, so the midpoint can overturn all of them.
 - **A pinned seam** is the Volume 01 climax condition: a seam held open by a live order rather than sealed. It is registered in `bible/terminology.md` and is a condition only, not a new remnant type, grammar, or failure state. Later volumes may use it but may not treat it as a new category.
+- **The clue chain is a standing thread:** one annotating hand is confirmed on two documents — the Chapter 1 timetable’s old-ink margin correction, whose ink predates the paper, and the Chapter 6 annex notation. The Chapter 10 carbon copy carries two unsigned marks in *different* inks, so at least one of them is a different author and the volume does not settle which. The chain is not resolved in Volume 1 and may not be named as Soren without evidence. Tracked in `outline/volume-01.md` under “Tracked clue chain.”
 
 ## Structural state
 

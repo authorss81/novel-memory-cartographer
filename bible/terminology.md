@@ -144,7 +144,7 @@ Introduced by `outline/volume-01.md` and fixed for the volume. Later batches and
 
 **The old service court** — The laundromat court at the heart of Bellwether’s former block, now inside the flood-control works zone. A physical threshold and the site of the supervised inspection point.
 
-**The western culvert** — Where the pump-house failure opened a thin remnant six years before the opening, and where the closure is being completed in this volume.
+**The western culvert** — Where the pump-house failure opened a small thin remnant six years before the opening, separate from and smaller than Bellwether. Its state runs on one track through the volume: the Chapter 7 closure order **throttles and partly seals** it, winding the gate down to a maintenance slit rather than shutting it, because a full seal would back water into the flood-control works zone; the Chapter 9 crew returns with the seal kit and **does not finish the job**, because the public passage occupies the site until the shift ends; and the climax’s floodgate test then **drives that same throttled gate back out to full flow** to keep the embankment dry, which is what lets the pinned seam widen. So the culvert is throttled, never sealed, from Chapter 7 to the climax. It ends Volume 1 gated, silted, and re-aligned — materially changed, not restored. Do not treat it as fully closed in Chapters 7–10, do not let the seal be completed, and do not call the climax a first opening.
 
 **Floodgate Four** — The flood-control installation Orrin Sable intends to finish. Real civic infrastructure whose operation changes where seam pressure travels.
 
