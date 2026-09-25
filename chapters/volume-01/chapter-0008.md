@@ -2,7 +2,7 @@
 
 The dead water in the loop was going round at a walking pace and Jo Lask was in it, and the loop was not a place, and there was exactly one thing anybody knew how to do about a place like that, which was to offer it a different turn.
 
-Milo got to the arch stone and put his hands on it and felt for the four lines under the works. The slow one was gone. The fast one was under the loop. And the one that had been at sixty-nine, the one on the embankment, the one that had been there on Tuesday night with a route reader in his other hand, was coming up through the arch foot at a rate he could not count because it was now, unmistakably, the count.
+Milo got to the arch stone and put his hands on it and felt for the four lines under the works. The slow one was gone. The fast one was under the loop. And the one that had been at sixty-nine, the one on the embankment, the one that had been there two nights ago with a chain in his other hand, was coming up through the arch foot at a rate he could not count because it was now, unmistakably, the count.
 
 "Jo," he shouted. "Jo Lask. I'm going to come to the edge and I'm going to ask you a question, and you're going to answer it out loud, and I am not going to touch you."
 
@@ -46,11 +46,11 @@ He stood up.
 
 ---
 
-Above, on the tram side, a bicycle bell went once, and then Jo Lask's voice came down through the embankment, hoarse and completely steady, calling the interval the way a man calls a boarding.
+Above, on the tram side, a bicycle bell went once, and then Pell Harrow's voice came down through the embankment, hoarse and completely steady, calling the interval the way a man calls a boarding.
 
 "All Line 7. All Line 7. This is a service call, we are at the court, we are holding at the court, stand by the wall and do not step into the lane—"
 
-"Jo's calling it," Pell said, from the ramp. "He's been calling it for four minutes. Rue says he's going to lose his voice by eleven."
+"That's Pell," said Rue, from the ramp. "He's been calling it for four minutes. Idar says he's going to lose his voice by eleven."
 
 "Tell Lena she's needed."
 
@@ -98,7 +98,7 @@ The dead water was at the setts. It was knee-deep and it was not moving past him
 
 He counted. He counted out loud, because Jo was listening and because a man in a hole who is not counting is a man who is about to fill a door.
 
-Three of the old bells, going round, and the road's own hum underneath, and out ahead of him Jo Lask's voice calling the service from a hundred and sixty feet away, and above and behind and entirely in the ordinary world, a bicycle bell.
+Three of the old bells, going round, and the road's own hum underneath, and out ahead of him Pell Harrow's voice calling the service from a hundred and sixty feet away, and above and behind and entirely in the ordinary world, a bicycle bell.
 
 He came round the circle to the place where the wall was a wall and did not go anywhere.
 
@@ -136,13 +136,13 @@ Not turned. *Stopped*, in the way a tram stops, dead in the water, facing a wall
 
 "Here. And you can't see me, and that's right, and I'm not going to make it easier. Here's the turn. There is no turn." Milo put both hands on the brick. "There is no turn anywhere in here, Jo, and I've walked the whole of it, and I know that's not true in the way I mean it, and it's true in the way that matters. There is no *new* one. The only new one is the one where the road doesn't get what it wants, and that's the one you're standing in right now because you stopped."
 
-"Stopped," Jo said. "I've stopped. I've been going round since half past eight and I've just—"
+"Stopped," Jo said. "I've stopped. I've been going round since the gate went down and I've just—"
 
 "You've just stopped. On your own. Because I shouted at you." Jo's voice was beginning to go. "That is not me, that was me. I did the stopping."
 
 "Do you want it to have been me?"
 
-There was a silence of about four seconds, and in it Milo heard the water go round the far side of the circle, and heard a bicycle bell go once above the world, and understood that the whole of what he had done for six years as a surveyor — the careful measurements, the chain, the discipline, the not-filling-in-the-blank — had come down to a man standing still in a road on purpose.
+There was a silence, and in it Milo heard the water go round the far side of the circle, and heard a bicycle bell go once above the world, and understood that the whole of what he had done for six years as a surveyor — the careful measurements, the chain, the discipline, the not-filling-in-the-blank — had come down to a man standing still in a road on purpose.
 
 "Yes," said Jo Lask. "I want it to have been me."
 
@@ -192,7 +192,7 @@ She was fifty-four and had a way of making a room behave that had nothing to do 
 
 "Twice. Once on the embankment, once—"
 
-"Twice," said Iona Sen, "and not the same twice. You were in the lane at half past twelve and you were in it again at ten past nine, and those are the two. The embankment at eleven was not a crossing, and the arch at twenty to eight this morning was not a crossing either, and you have spent two days standing on the near side of that arch calling it work. And you did not sleep, and you ate a piece of bread at some point in a doorway which I would rather did not happen again." She put the needle in and did not look up. "So: across twice, inside a day and a half, on one meal. How's your sense of direction?"
+"Twice," said Iona Sen, "and not the same twice. You were in the lane at half past twelve and you were in it again at ten past eight, and those are the two. The embankment at eleven was not a crossing, and the arch at twenty to eight this morning was not a crossing either, and you have spent two days standing on the near side of that arch calling it work. And you did not sleep, and you ate a piece of bread at some point in a doorway which I would rather did not happen again." She put the needle in and did not look up. "So: across twice, inside a day and a half, on one meal. How's your sense of direction?"
 
 "Bad."
 
@@ -242,7 +242,7 @@ Milo did not take the file.
 
 He stood on the bench-end in the thin morning light with the file against his chest, a fifty-year-old mechanic who had been a witness twice in his life and had hated it both times.
 
-"Because the bell schedule's no good on its own," he said. "You put that page in front of a court, they'll hear *what the bells were for*, and they'll have a nice tidy thing where the bells were a works signal and the whole business is a flood matter and a bad closure and nothing anybody meant. And it isn't. I was second shift. I was on the reach at ten to twelve on the night they closed the lane, and the third bell went and nobody came, and the foreman walked the reach himself, alone, without a bell, with a lamp, because the third bell had been answered by the *people* and the people had already been sent down to Cedar Court on the strength of the first two." He put his hand flat on the file. "So you can have my page, Rook, the day you can tell me why the road was shut in the middle of the run. Not what the bells were for. Why it shut."
+"Because the bell schedule's no good on its own," he said. "You put that page in front of a court, they'll hear *what the bells were for*, and they'll have a nice tidy thing where the bells were a works signal and the whole business is a flood matter and a bad closure and nothing anybody meant. And it isn't. I was second shift. I was on the reach at ten to two on the night they closed the lane, and the third bell went and nobody came, and the foreman walked the reach himself, alone, without a bell, with a lamp, because the third bell had been answered by the *people* and the people had already been sent down to Cedar Court on the strength of the first two." He put his hand flat on the file. "So you can have my page, Rook, the day you can tell me why the road was shut in the middle of the run. Not what the bells were for. Why it shut."
 
 "That's not an answer I can give you tonight."
 

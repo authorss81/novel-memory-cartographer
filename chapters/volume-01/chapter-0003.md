@@ -68,7 +68,7 @@ He did not step forward. He got the chain and he put the end of it against the h
 
 The iron did not move. The chain went slack, which meant the far end was closer than the near end, and he put that down, and then he wrote in his own book, in the flat unhurried capitals he used for a thing he wanted to be able to deny later:
 
-*Negative space, west face of hoarding, 4.2 km, approx 62 m S of disused platform end. Eye sees a doorway. Chain does not agree with eye. Chain agrees with itself.*
+*Negative space, west face of hoarding, 4.13 km, approx 62 m S of disused platform end. Eye sees a doorway. Chain does not agree with eye. Chain agrees with itself.*
 
 And under it, in the middle of the page, in the same hand and no other, a line that was not in it:
 

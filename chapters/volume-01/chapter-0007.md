@@ -12,7 +12,7 @@ Floodgate Four sat across the site like a piece of municipal jewellery: a steel 
 
 "I'm in your exclusion zone. I'm also the officer of record on an inspection that's supposed to be standing at the service court and isn't, and I'd like to know whether you're aware of that or whether somebody's going to have to tell you in writing."
 
-"Advocate Quill is aware of it. Advocate Quill rang my office at twenty to six and moved the date. Congratulations to both of you." Danner finally looked at him. "Now go and stand somewhere else, because in about twenty minutes I have to be a man who did this correctly on the record, and you being here is going to make it a conversation instead of a job."
+"Advocate Quill is aware of it. Advocate Quill rang my office at twenty to six and moved the date. Congratulations to both of you." Danner finally looked at him. "Now go and stand somewhere else, because in about fifty minutes I have to be a man who did this correctly on the record, and you being here is going to make it a conversation instead of a job."
 
 "No it isn't. You don't have to talk to me. You have to wind that gate and I'm going to be somewhere near it."
 
@@ -90,7 +90,7 @@ Somebody shouted from the bottom of the site: the low end of the street had wate
 
 ---
 
-They got about nine minutes.
+They got about as much time as they were going to get.
 
 Milo came down off the walkway at a run and the site came apart into a hundred separate problems that people were solving badly and fast. The pump crew were starting the second bank. Two of the drainage men were down in the trench with a plate. Fourteen people from the flood-control contractor were standing in the middle of the approach road doing nothing, because there was nothing they were allowed to do.
 
@@ -100,13 +100,13 @@ Milo got to the top of the approach road and put himself in the driver's eye.
 
 "Manual stop! Manual stop, Line 7, hand signal, hand signal—"
 
-He had no authority over a tram. He had a lantern out of his kit and a surveyor's habit, and he swung the lantern across the driver's cab, slow, twice, the way you do it on a private crossing, and Jo Lask put his brake on forty feet out and the tram stopped in the middle of the detour with a hundred and twenty people watching from a works site.
+He had no authority over a tram. He had a lantern out of his kit and a surveyor's habit, and he swung the lantern across the driver's cab, slow, twice, the way you do it on a private crossing, and Jo Lask put his brake on forty feet out and the tram stopped in the middle of the detour in front of the whole morning shift.
 
 "Jo!" Milo shouted up. "Get your crew off. I need four of them at the culvert arch with a line and a bar, and I need the rest of them holding this road, and I need you to tell me whether you can hold a tram here for twenty minutes without losing your licence."
 
 "I can hold it for as long as somebody's hand stays on the lamp." Jo was already coming down. "I have done it for a conductor who had a bereavement and a train that wasn't due. Rook, what is happening?"
 
-"Your line's got a hole under it. Pell — Pell, the light, the second hatch, if the light's out we're not using it—"
+"Your line's got a hole under it. Pell — Pell, the light, the second hatch, the light's still out past it and I don't know why—"
 
 "I'm not going anywhere near the second hatch," Pell said, without moving, and Milo thought: *good. That's the correct answer and I asked the question in front of eleven people and he gave the correct answer and I will not forget it.*
 
@@ -120,7 +120,7 @@ Down at the culvert, Jo's four conductors and two drainage men got a line on the
 
 At the service court, Lena Marr and Owen Fitch were on the low side with the storage cages still locked and a foot of water coming across the setts from the west, and it was not going to stop.
 
-Mara Quill arrived at seven with a Registry light-badge clipped to a soaked coat and a folded piece of paper in her hand, and Milo did not know how she had done it and did not ask until later, and what she had done was invoke, at twenty to six in the morning, the same protective finding that the hearing had written on the ninth, against the same risk, with a different date, which she was entitled to do and which she would be formally examined over.
+Mara Quill arrived at seven with a Registry light-badge clipped to a soaked coat and a folded piece of paper in her hand, and Milo did not know how she had done it and did not ask until later, and what she had done was invoke, at ten to seven in the morning, the same protective finding that the Directions Bench had written into the variation on the fifth, against the same risk, with a different date, which she was entitled to do and which she would be formally examined over.
 
 "It holds the site for one hour," she said. "For the purpose of clearing persons from the closure footprint. It does not stop the order. He is going to wind that gate and he is within his rights to wind it and I have just spent six weeks of standing on the fact that the Registry does what it says on the paper."
 
@@ -143,6 +143,16 @@ He got the field book out in the rain and wrote the marks in a hand that was sha
 He took a breath like a man stepping onto a tram.
 
 "Right," he said. "Then I'll call it."
+
+---
+
+He called it from the arch foot for nine minutes with his own book shut in his coat, and he called it the way a conductor calls a board, three, and then the interval, and then three again, out loud, with his whole chest, so that the whole of the works could hear a surveyor counting in threes and could decide for itself what that was.
+
+Jo's four conductors set their pace off it going up the setts. The drainage men in the trench set theirs off it coming out. Twice somebody a long way down the approach road shouted *what is he saying* and twice somebody nearer shouted back *he's saying the time* and nobody thought to ask a third question about it.
+
+And it held. That was the thing he had not been willing to bet on and had bet on anyway. It held because six different people in three different trades were all pacing themselves off the same voice, and not one of them was doing it for him.
+
+And then, at nine minutes past seven, Danner's come-along started up on the other side of the arch, and Milo turned his head to listen to the gate, and his voice went out of the count.
 
 ---
 
@@ -182,11 +192,11 @@ Milo put his hand on the arch stone and got it under his palm: sixty-nine, and t
 
 Milo looked at the chalk line on the wet setts, which stopped at the works fence, and at the two knots and the words *held by Jo Lask* chalked on the stone in a stranger's handwriting, and at the boy with a bicycle who had come back for his marks.
 
-"Pell," he said. "You take the lamp and you get out on the tram side, and you call the interval from up there, and you don't come down. Whatever it sounds like down there, you don't come down."
+"Pell," he said. "My voice is gone and that man has been listening to it for nine minutes. You take the lamp and you get out on the tram side, and you call the interval from up there, and you don't come down. Whatever it sounds like down there, you don't come down."
 
 "I said I'd—"
 
-"You said you'd call it for an hour and then go home. I'm calling in the first half of it." Milo's voice went, and he made it come back. "I need one person out there whose whole job is the count. That's the only thing I've got and you're the only one who can do it, and it's not a reward, it's a job, and I'd be a fool to spend you in there."
+"You said you'd call it for an hour and then go home and finish your round. I'm calling in the first half of it, and I will not ask you for it twice, and I am not giving it to you because it is a reward." Milo's voice went, and he made it come back. "I need one person out there whose whole job is the count. That's the only thing I've got and you're the only one who can do it, and it's not a reward, it's a job, and I'd be a fool to spend you in there."
 
 Pell Harrow stood on a wet embankment in a coat three sizes too big for him, and looked at the lane, and looked at the marks he had chalked.
 

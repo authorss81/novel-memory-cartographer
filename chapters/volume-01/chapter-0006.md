@@ -44,7 +44,7 @@ She had to put her cup down, which was a thing her hands were not supposed to do
 
 ---
 
-The room filled at ten past five with a hearing clerk, a Survey Enforcement officer named Cass Ardery with a file under his arm, two Recovery representatives who had been sent to be visible, and Milo Rook, who came in at eight minutes past with a coat that had not been on a bed and a chain over his shoulder, in a building he had no business being in.
+The room filled at five with a clerk from the Directions Bench, a Survey Enforcement officer named Cass Ardery with a file under his arm, two Recovery representatives who had been sent to be visible, and Milo Rook, who came in at eight minutes past with a coat that had not been on a bed and a chain over his shoulder, in a building he had no business being in.
 
 Orrin gave him the courtesy of the first word.
 
@@ -68,11 +68,13 @@ Orrin looked at her. "Advocate—"
 
 "The service court is where the residents keep their storage cages," Mara said, "and where two of them are standing at five o'clock this morning waiting for your inspection, and I have their names on an access request filed at twenty-three hundred, and if the inspection is refused they will be asked to leave by a foreman with a list, and they will lose the contents of those cages to a skip."
 
-Milo, at the back, said nothing. That was the whole of his contribution for the first forty minutes, and Mara found it harder to sit through than the argument.
+Milo, at the back, said nothing. That was the whole of his contribution for the first fifteen minutes, and Mara found it harder to sit through than the argument.
+
+The clerk ruled a line under what she had written, wrote the heading at the top of the page, and turned the pad round so that the room could read it. *Application to vary an order in force. Directions Bench, dawn sitting.*
 
 "The hearing is not until the fourteenth," Orrin said.
 
-"The hearing is on the fourteenth. The order is executable at dawn today. Those are two different facts and you have just relied on the first one out loud."
+"The hearing is on the fourteenth. This is a variation and it cannot become the hearing by running long. The order is executable at dawn today. Those are two different facts and you have just relied on the first one out loud."
 
 "I know which fact I relied on."
 
@@ -86,19 +88,19 @@ Ardery, the Enforcement officer, put his pen down. "Advocate, my instruction is 
 
 They gave it to her, which Mara did not expect, and which she suspected Orrin had calculated.
 
-No stay. The hearing stands on the fourteenth. But an emergency inspection of one shift is authorised at the old service court, beginning at the end of the working day on the ninth, under Survey Enforcement observation, with five named people: A. Fenn, L. Marr, O. Fitch, T. Rusk, J. Lask, and the Civic Atlas Office surveyor of record, and with the specific finding that the inspection is authorised *for the protection of persons in temporary accommodation* and that nothing found is to be treated as a finding on the order.
+No stay. The hearing stands on the fourteenth. But an emergency inspection of one shift is authorised at the old service court, beginning at the end of the working day on the ninth, under Survey Enforcement observation, with five named people — A. Fenn, L. Marr, O. Fitch, T. Rusk and J. Lask — and with the Civic Atlas Office surveyor of record, and with the specific finding that the inspection is authorised *for the protection of persons in temporary accommodation* and that nothing found is to be treated as a finding on the order.
 
 Mara read the wording twice before she agreed to it, because the finding was the whole of it, and the finding put the burden of the risk on forty-one people and not on the Registry.
 
 "You have given me the reason and taken the authority," she said.
 
-"I've given you the only reason the file will carry at half past seven on the ninth," Orrin said. "The authority is not mine to give. But Advocate — " and for the first time he dropped the room voice, "— if there is something in that service court that I don't know about, then I have been throttling the wrong end of this for six years and I will find that out on my own, from the paperwork, without any help from you or from him. Do you understand the difference between the two things you have been deciding about all night?"
+"I've given you the only reason the file will carry it at half past seven on the ninth," Orrin said. "The authority is not mine to give. But Advocate — " and for the first time he dropped the room voice, "— if there is something in that service court that I don't know about, then I have been throttling the wrong end of this for six years and I will find that out on my own, from the paperwork, without any help from you or from him. Do you understand the difference between the two things you have been deciding about all night?"
 
 "Yes," said Mara. "One of them can be undone."
 
 ---
 
-The annexes were pulled at twenty past five, and Mara read them alone in the records alcove while the hearing cleared.
+The annexes were pulled at half past five, and Mara read them alone in the records alcove while the sitting cleared.
 
 The original safety report was eleven pages, dated six years ago, and it described a genuine thing: a narrow collapse of alignment pressure in the pump-house reach, roughly nine feet across, offering one service, unstable, self-terminating in most exposures. It was a real hazard. It had been a real hazard. She had read this before, four times, and each time it had looked more like a reason and less like a problem.
 
@@ -130,7 +132,7 @@ Then she did the other thing, because she was still an advocate and not a saint,
 
 The notation was in the margin of the works perimeter sketch, in a small careful hand, and it was a bracket open to the right with a dot inside it, drawn at the point where the perimeter turned.
 
-She got her own book out, and turned to the last page, and looked at the enlargement Milo Rook had drawn for her at half past two that morning, which was not a mark but a very careful copy of a mark, drawn by a man who had spent three years drawing other people's marks, and she held the two at the same distance from the same lamp and made herself look at them for what they were.
+She got her own book out, and turned to the last page, and looked at the enlargement Milo Rook had drawn for her at half past two that morning, which was not a mark but a very careful copy of a mark, drawn by a man who had spent six years drawing other people's marks, and she held the two at the same distance from the same lamp and made herself look at them for what they were.
 
 Two bracket-and-dots, facing the same way, with the same slight pressure at the closing stroke.
 
@@ -158,7 +160,7 @@ She looked at him, and at the wall, and at the hand flat on the stone, and she f
 
 "I have to write it down. Say it."
 
-"I went into a route that is not on any map you hold," Milo said, "at approximately four hundred and ten metres from the disused platform end, and I went into it at a time of night when you should be able to account for me, and I came back out at a different point on the same alignment with a piece of printed route paper that was not in the office's stores, and I cannot reliably find a room I have been in for six years unless somebody draws me the way."
+"I went into a route that is not on any map you hold," Milo said, "at about sixty metres from the disused platform end, on the west face of the hoarding, and I went into it at a time of night when you should be able to account for me, and I came back out at a different point on the same alignment with a piece of printed route paper that was not in the office's stores, and I cannot reliably find a room I have been in for six years unless somebody draws me the way."
 
 She got her book out and wrote every word of it down in the flat voice she used in hearings, and when she had finished she turned the page round so that he could read what she had written, and the sentence *came back out at a different point on the same alignment* was the sentence that was going to matter, and both of them knew it.
 
@@ -194,4 +196,4 @@ He went out. Through the west windows, the light had begun.
 
 In the fourth room of the Hall of Wards, Mara Quill watched the terrace go grey and then gold, and thought about a nine-foot instability in a pump-house reach, and a page that had been swapped, and a name with nothing after it but *pending*.
 
-Down in the river core, at the old service court inside the works zone, Lena Marr had been standing since half past four with a tenancy file under her arm and her father's deed in a lockable cage on the wall behind her, and Owen Fitch had come at five to stand beside her without being asked and without saying why, and neither of them had a watch, and both of them had heard the works bell go at six, and neither of them knew that the gate was coming down at sunrise and that when it came down it would be wound to a foot and a half and left open, on the written advice of a competent and frightened man, and that everything the city was about to push into the ground would be pushed through the only piece of it still breathing.
+Down in the river core, at the old service court inside the works zone, Lena Marr had been standing since half past four with a tenancy file under her arm and her father's deed in a lockable cage on the wall behind her, and Owen Fitch had come at five to stand beside her without being asked and without saying why, and neither of them had a watch, and both of them had heard the works bell go at six the night before, and neither of them knew that the gate was coming down at sunrise and that when it came down it would be wound to a foot and a half and left open, on the written advice of a competent and frightened man, and that everything the city was about to push into the ground would be pushed through the only piece of it still breathing.

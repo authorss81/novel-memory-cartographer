@@ -4,9 +4,9 @@ They put the inspection point on a piece of flat ground above the service court,
 
 They were looking at a trestle table with a Registry cloth over it, on which there was a notice of inspection, a sheet for signatures, a marshal with a stamp, and a surveyor with a bandaged hand who had a piece of chalk in his fingers and had not drawn anything yet.
 
-That was the day. That was what the ninth of Sazur looked like: forty contractor's men at a five o'clock briefing, a Recovery officer with a clipboard, two Registry observers, Jo Lask's tram standing dead on the detour with the lamps on, six Streetkeepers who had turned up in their own clothes, and about thirty people from Cedar Court who had come to find out whether a court was still a street.
+That was the day. That was what the ninth of Sazur looked like: forty contractor's men at a three o'clock briefing, a Recovery officer with a clipboard, two Registry observers, Jo Lask's tram standing dead on the detour with the lamps on, five Streetkeepers who had turned up in their own clothes, and about thirty people from Cedar Court who had come to find out whether a court was still a street.
 
-Milo had not slept since the night before the sunrise. He had eaten something at eleven. His hand was bandaged and his left eye had a slow light behind it that came and went, and he had written the route from the clinic to this trestle table out three times on the back of a handbill and could not confirm any of it, so he had asked Pell to come and stand at the top of the ramp, and Pell was there, and had been since half past two, and had said nothing about it.
+Milo had not slept since the morning of the sixth. He had eaten something at eleven. His hand was bandaged and his left eye had a slow light behind it that came and went, and he had written the route from the clinic to this trestle table out three times on the back of a handbill and could not confirm any of it, so he had asked Pell to come and stand at the top of the ramp, and Pell was there, and had been since half past two, and had said nothing about it.
 
 "Right," Milo said. "Let's find out what this is for."
 
@@ -48,7 +48,7 @@ The destination was on no map in the Civic Atlas Office. He knew that in about a
 
 "You can. You've just read it."
 
-"I can read it. I can't say it out loud on a trestle table in front of forty men because the second I say it, it is a road I have asserted, and the second that is a road, the order is wrong, and the order being wrong is the *only* reason anybody in this yard would ever be able to fix this by anything other than a flood." He put his hand flat on the wallet. "It's in your attachment. It came out of an older survey book. Nobody has looked at it in six years because it was a maintenance schedule for a pump, and it is exactly the sort of thing that ends up carrying a name that got carried with it."
+"I can read it. I can't say it out loud on a trestle table in front of eighty people because the second I say it, it is a road I have asserted, and the second that is a road, the order is wrong, and the order being wrong is the *only* reason anybody in this yard would ever be able to fix this by anything other than a flood." He put his hand flat on the wallet. "It's in your attachment. It came out of an older survey book. Nobody has looked at it in six years because it was a maintenance schedule for a pump, and it is exactly the sort of thing that ends up carrying a name that got carried with it."
 
 "And if you used it? For the demonstration."
 
@@ -84,15 +84,15 @@ The public entrance was the service door, and it was a real door, and it opened 
 
 Somebody in the contractor's group laughed, and a woman at the back of the Cedar Court group said something short and vicious, and the marshal wrote down that there had been a comment.
 
-The first four people crossed the chalk line and went through the service door and stood on the landing in the ordinary flood-control works while Jo Lask counted them, and Pell moved the return mark, and the crowd watched, and nothing whatsoever happened.
+The first four people crossed the chalk line and went through the service door and stood on the landing in the ordinary flood-control works while the marshal counted them off against the signature sheet, and Pell moved the return mark, and the crowd watched, and nothing whatsoever happened.
 
 Then a Streetkeeper called Idar put his hand on the table.
 
-The four of them had been marking their own ways in and out of the yard on the fourth column of the inspection sheet all afternoon, in chalk, in the way a courier marks a round, and nobody had stopped them because nobody had thought of a reason to.
+The four of them, and Pell, had been marking their own ways in and out of the yard on the fourth column of the inspection sheet all afternoon, in chalk, in the way a courier marks a round, and nobody had stopped them because nobody had thought of a reason to.
 
-"You've got Rue's cut in the sheet," he said.
+"You've got my cut in the sheet," he said.
 
-Milo looked. He had, because Rue had drawn it in a year of practice and it was better than anything he would have drawn: the way out of the service court and along the fence line and through a gap in the hoarding and down to the low street, with two marks where you had to slow down.
+Milo looked. He had, because Idar had drawn it in a year of practice and it was better than anything he would have drawn: the way out of the service court and along the fence line and through a gap in the hoarding and down to the low street, with two marks where you had to slow down.
 
 "It's in the sheet," Idar said. "That sheet goes into a file. A file goes into an office. An office gives things to people." He did not take his hand off the table. "That's my cut. It is the only way a woman with a pram gets out of that court before seven in the morning, and if it's in an office file then it's a route that can be shut, and I have watched a route get shut in this district twice."
 
@@ -100,7 +100,7 @@ Milo looked. He had, because Rue had drawn it in a year of practice and it was b
 
 "You'll do it."
 
-"I'll do it." He took the pen and drew a line through it, and through Rue's, and through the second one, and through the fourth, and there were five of them, and they were the five best things on the sheet, and the sheet was now a drawing of a handrail and a door and a great many empty places. "There. And write that at the top: *no household routes are recorded in this document, on the surveyor's own motion, and no person has consented to one.*"
+"I'll do it." He took the pen and drew a line through it, and through Rue's, and through the other three, and there were five of them, and they were the five best things on the sheet, and the sheet was now a drawing of a handrail and a door and a great many empty places. "There. And write that at the top: *no household routes are recorded in this document, on the surveyor's own motion, and no person has consented to one.*"
 
 "Are you allowed to leave that out?" Idar asked. "Because the thing I don't want is a gap that somebody fills in later with an opinion."
 
@@ -124,7 +124,7 @@ She said it to Mara first, and then to Milo, and then out loud, twice, in front 
 
 Milo wrote it into the inspection sheet with his bandaged hand, in the fourth column, in full, including the tenancy, including the fact that she was asking and not consenting to a restoration.
 
-Then she walked the line, through the door, onto the landing, and back, and Jo Lask counted her, and there was no sound at all.
+Then she walked the line, through the door, onto the landing, and back, and the marshal counted her, and there was no sound at all.
 
 ---
 
@@ -146,7 +146,7 @@ Mara Quill's pen stopped moving.
 
 "I've got nowhere to live but that anyway," Owen said. "Where would the address be? On the fourth landing of a converted pump works with a stairwell that a woman called Fenn checks every night, at an address I can't give you because the room's not in a register, and where I sleep is my business and not yours." He looked at Milo for the first time. "You can put *one household refused* and that household's name can be the only thing in the whole of Alderquay I've ever wanted written down."
 
-He walked away. Not into the court and not out through the door. He went up off the flat ground onto the embankment ramp and away along the ordinary road, the way a man goes home, at a walking pace, in front of forty witnesses, and there was nothing anybody could do about it, and the yard watched him go.
+He walked away. Not into the court and not out through the door. He went up off the flat ground onto the embankment ramp and away along the ordinary road, the way a man goes home, at a walking pace, in front of eighty witnesses, and there was nothing anybody could do about it, and the yard watched him go.
 
 She wrote one line in the sheet and put her pen down and did not pick it up again for some time.
 
@@ -160,7 +160,7 @@ Somewhere behind that door, an old lane came up to the surface of the yard.
 
 He heard it, and everybody heard it, and the whole yard turned and looked at a service door in a flood-control wall that had a sound coming out of it that did not belong in it.
 
-And Milo Rook, who had spent eight years being the man in the room with the map, felt the shape of the correct action arrive in him complete and ready to execute: *a new turn.* Draw a new turn. Now. Here, on the slab, where every person in the yard could see it, chalked and called and made real, and the road would take it and the road would come up and the lane would be here, visible, held, a thing he had done.
+And Milo Rook, who had spent six years being the man in the room with the map, felt the shape of the correct action arrive in him complete and ready to execute: *a new turn.* Draw a new turn. Now. Here, on the slab, where every person in the yard could see it, chalked and called and made real, and the road would take it and the road would come up and the lane would be here, visible, held, a thing he had done.
 
 He had the chalk in his hand.
 
@@ -168,15 +168,15 @@ He did not put it on the ground.
 
 The book was in his coat, and he got it out one-handed, which is not an easy thing to do in a yard full of people, and it took him the length of a breath. He opened it on the damp slab under his own wrist, because that is what he did with the book, and there was nothing on the page.
 
-Twice in the two nights since the stop had turned up in the sheet, there had been two lines in it, and neither of them had told him anything he could carry. There was nothing now, at half past five in the afternoon, with a door in a wall talking and a yard deciding whether to answer it. He shut it and put it away, and what he thought about afterwards, for a long time afterwards, was not the pressure letting go. It was that a book which is silent for two days and then silent again on the afternoon it is most wanted is a book that is waiting for something, and he did not want to be near a book that was waiting.
+Twice on the one night since the stop had turned up in the sheet, there had been two lines in it, and neither of them had told him anything he could carry. There was nothing now, at five minutes to six in the afternoon, with a door in a wall talking and a yard deciding whether to answer it. He shut it and put it away, and what he thought about afterwards, for a long time afterwards, was not the pressure letting go. It was that a book which is silent for five days and then silent again on the afternoon it is most wanted is a book that is waiting for something, and he did not want to be near a book that was waiting.
 
-"JO," he shouted. "Don't answer it. Anyone — foreman, marshal, Jo — do not answer it. It is going to say it's the court stop. It will sound like the court stop. Do not answer anything."
+"Danner," he shouted. "Foreman. Don't answer it. Anyone — foreman, marshal, anybody in this yard at all — do not answer it. It is going to say it's the court stop. It will sound like the court stop. Do not answer anything."
 
-"Surveyor—" the marshal said.
+Two of the contractor's men had already got a hand up to shout back at it.
 
 "DO NOT ANSWER IT. Jo, close your doors. Close them now, and hold the tram, and let the next call go past without an answer."
 
-Jo Lask closed the doors of a Line 7 tram at half past five in the afternoon on a public instruction from a man with a bandaged hand, and the marshal wrote that down, and a contractor's foreman named Danner put both hands on the shoulders of two of his men and said, very quietly, *hold the line, hold the line, hold the line,* and for about eleven seconds there was no sound in that yard at all except a tram cooling off and the river.
+Jo Lask closed the doors of a Line 7 tram at five minutes to six in the afternoon on a public instruction from a man with a bandaged hand, and the marshal wrote that down, and a contractor's foreman named Danner put both hands on the shoulders of two of his men and said, very quietly, *hold the line, hold the line, hold the line,* and for about eleven seconds there was no sound in that yard at all except a tram cooling off and the river.
 
 Then the pressure let go, and the yard was a yard, and the service door was a service door, and someone started to laugh and then stopped.
 
@@ -206,7 +206,7 @@ The gate was at eighteen inches when the shift ended. It was at eighteen inches 
 
 Milo signed the report at ten past seven at the trestle table, by the light of a lamp, with most of them still standing in the yard refusing to go home.
 
-He wrote his own name. He wrote that he had crossed twice between the fourth of Sazur and the ninth, that he had been given a first orientation and that it had cost him a remembered route, that it would cost him more, and that he was reporting it because the cost belonged in the record and not in a private book.
+He wrote his own name. He wrote that he had crossed twice, on the fourth of Sazur and again on the sixth, that a first orientation blank had already cost him a remembered route, that it would cost him more, and that he was reporting it because the cost belonged in the record and not in a private book.
 
 Then he wrote: *The account of the alignment at the service court given in the order and its attachments is incomplete. This report does not identify what is incomplete and does not allege what caused it. This surveyor asserts that the incomplete account is material to the safety of the persons for whose protection the inspection was authorised, and nothing further.*
 

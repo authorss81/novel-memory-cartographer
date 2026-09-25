@@ -20,7 +20,7 @@ He had seen a hundred of these. That was the thing he could not get past, standi
 
 He wrote it in this one too, and then he wrote under it: *This is the geometry problem. The closure order puts this door nine feet in. The platform end-angle puts it four. Somebody changed one of them and then filed a report that used the other number.*
 
-Beyond the hoarding, the embankment was cut open in a long clean trench with the precision of a thing that cost a great deal: new sheet piling, a crane on silent tracks, a line of pumps running day and night into the river. The floodgate works were four hundred metres down. Between the platform and the works lay the stretch of alignment nobody had built anything on and nobody had signed, which was where the tram timetable now claimed there was a stop.
+Beyond the hoarding, the embankment was cut open in a long clean trench with the precision of a thing that cost a great deal: new sheet piling, a crane on silent tracks, a line of pumps running day and night into the river. The floodgate works were two hundred metres down. Between the platform and the works lay the stretch of alignment nobody had built anything on and nobody had signed, which was where the tram timetable now claimed there was a stop.
 
 He got out his book, wrote the time, and then stood very still with his head slightly turned, because there was something he needed to sort out before he could measure anything.
 

@@ -10,7 +10,7 @@ Iona Sen had a rule about mornings, which was that nothing important was decided
 
 He put down the fork.
 
-"Alder Quay," he said. "Along the Ferry Road, up past the rope market, second right at the chandler's, and then the long window, and the route room is the one with the north light."
+"Alder Quay," he said. "Along the Ferry Road, over the bridge, second left after the chandler's, and then the long window, and the route room is the one with the north light."
 
 "That is a route," said Iona Sen, "and it is not a memory, and you are going to have to work out which of those two things has stopped happening to you, and then you are going to have to go and stand in front of the north window and prove to yourself that the building is where you said it was, and when you have done that you are going to have to do it again tomorrow." She sat down opposite him. "How many rooms in this city can you get to by yourself now?"
 
@@ -42,7 +42,7 @@ It was that sort of day, and Dilley Farr came round the end of the refectory tab
 
 "Second time this year. It's a good year."
 
-He read the request a third time and then read it out loud to Dilley Farr in the office's own words, which is a thing he had been taught in his apprenticeship, and then he wrote a refusal at the bottom of it in four lines: that the book is not departmental property, that its earlier entries are the private measurements of a private person, and that he would supply on request any entry relating to the alignment at the service court, extracted, in the presence of a clerk, and not the book.
+He read the request a third time and then read it out loud to Dilley Farr in the office's own words, which is a thing he had been taught in his apprenticeship, and then he wrote a refusal at the bottom of it in four lines: that the book is not departmental property, that its earlier entries were taken for people who did not ask for them to be kept, and that he would supply on request any entry relating to the alignment at the service court, extracted, in the presence of a clerk, and not the book.
 
 "Send that," he said. "And Farr — send the extract myself. Don't let them pick what to take."
 
@@ -51,6 +51,28 @@ He read the request a third time and then read it out loud to Dilley Farr in the
 Then, as Milo was at the door, Farr said, to his back, in an entirely different voice:
 
 "You'll be able to get here, won't you. You'll just have to ask."
+
+---
+
+There was a man in a wet coat at the end of the corridor with his hands in his pockets, and he had been standing there long enough to have chosen the spot.
+
+Orrin Sable looked worse than he had on the fifth of Sazur, which Milo had not thought was possible.
+
+"You did it in front of eighty people," Orrin said. "I want to put one thing to you about that and then I am going to go and be somewhere else."
+
+"Go ahead."
+
+"Your map did not make the seam coherent. It made it legible." He said it without any heat in it at all, which was the worst way he said anything. "A route that gets drawn, and then watched, and then written down and signed, is a route that eighty people now believe in. A believed route is a used route. And a used route on that alignment is a route that will put water where the water is going anyway, and it will take a service door out of a flood-control wall on a Tuesday, and it will do it because the people in that yard have been told there is something there worth walking to."
+
+"And if I had drawn nothing?"
+
+"Then the door would have made exactly the same noise and nobody would have known what to call it, and it would have taken the same wall out on the next Tuesday." He took his hands out of his pockets. "That is my whole case and I am not going to improve it for you. The whole structure comes out to full flow on the twenty-second, and on that day the thing you have spent a week teaching eighty people to believe in is going to be standing in the way of a river. Say it to them. Before the twenty-second, and not after."
+
+He went off down the corridor without waiting for an answer.
+
+Milo Rook stood where he was for a while.
+
+Then he took his book out, and stood against the wall, and wrote the argument down in full, in the other man's words, without editing it, which was the only honest thing he could think of to do with it.
 
 ---
 
@@ -68,9 +90,9 @@ Mara Quill was in the corridor outside, in a coat that had been worn for two day
 
 "Then do it."
 
-"You've known me three days."
+"You've known me six days."
 
-"Four," Milo said, "and you read a notice out loud to me on a cold embankment instead of taking the book out of my hand, and you took an hour to make sure you had no authority to seize it, and you have a hole in your report the size of a man who won't be named. So do it."
+"Six," Milo said, "and you read a notice out loud to me on a cold embankment instead of taking the book out of my hand, and you took an hour to make sure you had no authority to seize it, and you have a hole in your report the size of a man who won't be named. So do it."
 
 "Write the application," Mara said. "Not the words. The *application*. You know the alignment better than the department does, and if the department draws it, the department draws it."
 
@@ -84,9 +106,9 @@ It has a threshold marked. It has a turn marked, and the turn is the handrail, a
 
 It has no witness mark. It has, in the place where a witness mark would go, four names and four sets of initials, and beside each one a line saying what that person has agreed to and when they may stop: *A. Fenn — door-check as she describes it, from the near side, evenings. May stop any night without notice. J. Lask — the live interval only, while the line runs. Not a standing duty. T. Rusk — names the reaches from memory, on request, and is under no obligation to supply them.*
 
-The fourth is Lena Marr, and it names her tenancy and her address, in full, in her own spelling.
+The fourth is Lena Marr, and it names her tenancy and her address, in full, in her own spelling, and beside her name it says that she is asking to be written down and is not consenting to a restoration, and that the difference is hers to draw and is not for anybody in this building to interpret.
 
-The fifth is a line that says: *One household has declined to be entered. No name, no address, no initials. The record has a hole in it and the hole is deliberate.*
+The fifth thing in that column is not a name at all. It is a line that says: *One household has declined to be entered. No name, no address, no initials. The record has a hole in it and the hole is deliberate.*
 
 And the right-hand third of the sheet is empty. It is not full of notes. It is not signed, and it is not reserved, and there is a heading at the top of it in Milo's own hand that says *for people who are not here yet*, and nothing else at all, and he left it empty on purpose, and he left it empty in front of Mara Quill, who looked at it for some time and then said, "That's the first thing you've drawn in six years that isn't frightened of being corrected."
 
@@ -144,7 +166,7 @@ At twenty past seven a bicycle came up the middle of the road and stopped.
 
 "Pell—"
 
-"I'm going south in the morning," Pell said, "and I'm going to be gone a while, and there's a route down there that people use to get to a village with no address on it, and I've been told by two different people in the last year that my brother's name is on a list at the far end of it, and one of them is a liar, and I don't know which, and I have to go and look." He shouldered his satchel. "So I'm not your chalk. Once a night, on the ninth, and after that I'm gone and you can ask Ada or you can ask Jo or you can ask a Streetkeeper, and if you ask me I'll say I'm not here."
+"I'm going south in the morning," Pell said, "and I'm going to be gone a while, and there's a route down there that people use to get to a village with no address on it, and I've been told by two different people in the last year that my brother's name is on a list at the far end of it, and one of them is a liar, and I don't know which, and I have to go and look." He shouldered his satchel. "So I'm not your chalk. I've been your chalk twice, the ninth and tonight, and after that I'm gone and you can ask Ada or you can ask Jo or you can ask a Streetkeeper, and if you ask me I'll say I'm not here."
 
 He got back on the bicycle.
 

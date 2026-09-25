@@ -6,7 +6,7 @@ Chapter prose now exists: `chapters/volume-01/chapter-0001.md` … `chapter-0010
 
 **Controller-owned and deliberately untouched:** `state/phase-ledger.json` and any `workspace/.../.done` marker. The phase prompt asks the writer to update the phase ledger; `AGENTS.md` and the system contract reserve that file for the controller, so it has not been edited. Closing this phase remains a controller action.
 
-**An independent review has now run on this batch, and its findings have been applied.** `logs/phase-002-batch-plan.review.log` records a full read of Chapters 1–10. Its central finding was that the batch's spine held and that the **state layer had drifted ahead of the prose**, asserting edits and beats that were never applied. Twelve repairs were made to Chapters 1, 3, 5, 6, 7, 8, 9 and 10 and the state files were reconciled to the corrected prose; the whole pass is logged as **CR-015**. No premise, rule, cost, antagonist, or calendar date moved. The review gate itself is still broken as a mechanism — see pending controller action 2 — but this phase is no longer self-checked only.
+**An independent review has now run on this batch, twice, and its findings have been applied.** `logs/phase-002-batch-plan.review.log` records a full read of Chapters 1–10. The first pass found that the batch's spine held but that the **state layer had drifted ahead of the prose**; twelve repairs were made and the state files reconciled to the corrected prose, logged as **CR-015**. A second independent pass then re-read the repaired batch and found two **blockers** and five **majors** that the first pass had missed — the most serious being that Chapter 8 had Jo Lask calling the interval from the tram side while he was trapped inside the loop, and that Chapter 3 and Chapter 6 gave the crossing point as 62 m and 410 m from the platform in the same sworn chain. Those and the rest are now fixed and logged as **CR-016**, with a verification pass confirming no blockers remain. No premise, rule, cost, antagonist, or calendar date moved in either pass. The review gate itself is still broken as a mechanism — see pending controller action 2 — but this phase is no longer self-checked only.
 
 Current volume: 1 (outline complete, Chapters 1–60)
 
@@ -46,14 +46,14 @@ Batch 1 as written:
 
 Volume 1 calendar now fixed on the page (later batches must not move these):
 
-- **4th of Sazur:** Chapters 1–5, late afternoon through the small hours.
-- **5th:** Chapter 6, pre-dawn, Hall of Wards.
-- **6th:** Chapter 7 at sunrise, Chapter 8 late morning and afternoon.
-- **9th:** Chapter 9, the one-shift public passage.
-- **10th:** Chapter 10, the clinic, the office, the corridor application, Cedar Court, Ferry Road.
+- **4th of Sazur:** Chapters 1–5, late afternoon through the small hours. The two Atlas residues both fall on this one night.
+- **5th:** Chapter 6, pre-dawn, Hall of Wards. This is a **Directions Bench variation**, not the hearing.
+- **6th:** Chapter 7 at sunrise (Milo calls the interval 7:00–7:09, Danner winds the gate at 7:09, Jo is in the loop by 7:12), Chapter 8 late morning (Jo out at ten past eight; the amended sheet on the wire tray at 11:40).
+- **9th:** Chapter 9, the one-shift public passage. The yard holds roughly eighty. The surge is at **five minutes to six**, not 5:30 or 5:55.
+- **10th:** Chapter 10, the clinic, the office, the corridor application, Orrin's argument in the corridor, Cedar Court, Ferry Road.
 - **11th–13th:** the Ferry Road pie shop; the carbon copy read in the alcove on the **13th**, the day before the hearing.
 - **14th:** the hearing sits, four days after the corridor application; the terrace at a quarter to eleven.
-- **11th:** Orrin’s contractor’s bond lapses.
+- **11th:** Orrin's contractor's bond lapses.
 - **14th:** the hearing sits. Mara is under review until it does.
 - **22nd:** the floodgate test; the eighteen-inch gate driven out to full flow.
 - **28th:** the timetable review, and the expiry of the temporary stay.

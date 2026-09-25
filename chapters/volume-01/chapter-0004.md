@@ -110,11 +110,11 @@ Then it was a hoarding again, and a sandbag, and a strap-bolt, and four inches o
 
 Pell Harrow was sitting on the ballast with his back against the platform's end wall, his satchel across his knees, and his bicycle on the ground beside him with one wheel still turning.
 
-"I've been doing that for fifty minutes," he said. "You don't know how long I've been doing that for."
+"Most of an hour," he said. "You don't know how long I've been doing that for."
 
 "How long did it take me?"
 
-"Forty minutes. Maybe forty-two. I counted forty-two and then I stopped counting because I started thinking about my round." The boy got up, unlocked his bicycle with shaking hands, and looked at Milo, and then at the hoarding, and then said, in a completely different voice, casually, as though it were nothing: "You went out through the middle, though. You came out the middle. There's no middle."
+"Forty minutes. Maybe forty-two. I counted forty-two and then I stopped counting, because I started thinking about my round." The boy got up, unlocked his bicycle with shaking hands, and looked at Milo, and then at the hoarding, and then said, in a completely different voice, casually, as though it were nothing: "You went out through the middle, though. You came out the middle. There's no middle."
 
 Milo put his hand on the sandbag and found that he was shaking, and that the shaking was worse in the hand than anywhere, and that his right palm had four nail-marks in it in a neat row and a headache that sat behind one eye and stayed there.
 
@@ -142,7 +142,7 @@ They got as far as the embankment steps before Milo stopped and turned round and
 
 But he could not tell you how he would get to it.
 
-Not in the way a man forgets a street. He knew the platform was two hundred metres south of the gate. He knew the third rail joint from the north end. He could have drawn the whole alignment from memory with his eyes shut, because he had been drawing it since he was nineteen.
+Not in the way a man forgets a street. He knew the platform was two hundred metres north of the gate. He knew the third rail joint from the north end. He could have drawn the whole alignment from memory with his eyes shut, because he had been drawing it since he was nineteen.
 
 He could not tell which way to go. Not approximately. Not badly. The question had no answer in it at all, the way a question about a name you have genuinely never learned has no answer, and he stood on the embankment steps in the dark with an empty direction in his head and felt, for the first time in his working life, a thing he had only ever read about in other people's reports: the sense of the ground going out from under a certainty.
 

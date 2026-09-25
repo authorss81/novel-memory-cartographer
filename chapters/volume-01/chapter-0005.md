@@ -6,7 +6,7 @@ Ada Fenn put the kettle on, which was the answer, and Milo Rook understood about
 
 Milo sat down.
 
-Cedar Court's kitchen was on the ground floor of a converted pump works, and it was warm and it was overcrowded and there were eleven people in it, and a table with a folding leaf in the middle of it, and a wall of hooks where coats went when they were dry. Somebody's kettle had been on the boil since before midnight and had boiled away twice. There were three people playing cards on a upturned crate and one of them was cheating and everybody knew.
+Cedar Court's kitchen was on the ground floor of a converted pump works, and it was warm and it was overcrowded and there were eleven people in it, and a table with a folding leaf in the middle of it, and a wall of hooks where coats went when they were dry. Somebody's kettle had been on the boil since before midnight and had boiled away twice. There were three people playing cards on an upturned crate and one of them was cheating and everybody knew.
 
 Mara Quill came in behind him and stayed by the door with her folder, which she put on the table and did not open.
 
@@ -164,7 +164,7 @@ She was quiet for a moment.
 
 "Yes," she said. "That is exactly why I asked you in a doorway."
 
-She opened the folder. "Orrin Sable has set an emergency hearing for first light. It is not a hearing into the timetable. It is a hearing on a variation to a works order, and under it the floodgate crew is authorised to throttle the western culvert down at sunrise and begin the closure. The culvert is where your pump-failure report is. The culvert is where the thin seam is. He is going to put a gate on the one piece of ground in that district that anybody has ever agreed is dangerous, and he will do it lawfully, at dawn, while half the people who would object to it are asleep in converted worker rooms."
+She opened the folder. "Orrin Sable has got a variation listed for first light. It is not a hearing into the timetable. It is a hearing on a variation to a works order, and under it the floodgate crew is authorised to throttle the western culvert down at sunrise and begin the closure. The culvert is where your pump-failure report is. The culvert is where the thin seam is. He is going to put a gate on the one piece of ground in that district that anybody has ever agreed is dangerous, and he will do it lawfully, at dawn, while half the people who would object to it are asleep in converted worker rooms."
 
 "And you cannot stop it."
 
@@ -196,7 +196,7 @@ He stood in a doorway at Cedar Court with his own book open on a table and a bra
 
 "That's fair too," Mara said.
 
-She came down the stairs. Above her, somebody's door closed, and the boy with the blanket asked a question nobody answered, and the block settled into the particular silence of forty-one people who had all grown up in the same six weeks.
+She came down the stairs. Above her, somebody's door closed, and the boy with the blanket asked a question nobody answered, and the block settled into the particular silence of forty-one people who had all been put through the same six weeks.
 
 She picked up her hat.
 

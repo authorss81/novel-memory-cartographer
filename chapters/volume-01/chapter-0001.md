@@ -1,6 +1,6 @@
 # Chapter 1: The Extra Stop
 
-The reprint came off the press on Tuesday, and by Thursday afternoon it had been argued about twice, which was four days faster than the route room usually managed to disagree with itself.
+The reprint came off the press on Tuesday, and by Thursday afternoon it had been argued about twice, which was two days faster than the route room usually managed to disagree with itself.
 
 Milo Rook signed the last correction sheet, blotted it, and slid it into the wire tray under the window. The room smelled of press ink, wet wool, and the boiled-off dregs in the kettle by the shelves. Beyond the glass the river was the colour of a wet slate roof, and the Alder Quay embankment works were visible as a pale notch in the far bank where the cranes stood.
 
@@ -42,7 +42,7 @@ Milo nodded. He was already reaching for the alignment sheet drawer, and Farr ca
 
 The alignment sheets lived in the tall drawers under the north windows, and finding one meant working backwards through six years of flood repairs. Milo pulled drawers until the drawer stops fought back, and then he found it: the reconstruction of the Alder Quay frontage from the year the works zone was first cut, when the district had been renumbered twice and the old platform service court had still been on the drawing.
 
-The court was there. A laundromat court, an unroofed square with a pump shed at its western end and a service door onto the flood-control wall. It was drawn in a thin draughting line and labelled only by a chainage, 4.2 kilometres from Quayside, which put it a shade over four kilometres along the alignment and nowhere a man would walk to in an evening. The line diagram on the reconstruction gave Bellwether a platform symbol: a short bar with a small square beside it.
+The court was there. A laundromat court, an unroofed square with a pump shed at its western end and a service door onto the flood-control wall. It was drawn in a thin draughting line and labelled only by a chainage, 4.13 kilometres from Quayside, which put it a shade over four kilometres along the alignment and nowhere a man would walk to in an evening. The line diagram on the reconstruction gave Bellwether a platform symbol: a short bar with a small square beside it.
 
 The square meant something in the tram authority's old notation. Milo knew two of the six meanings and had never learned the rest. It was not a notation the Civic Atlas Office used, and it was not in any manual on the shelf behind him.
 
@@ -101,7 +101,7 @@ Farr had come round the table and was standing very still with his hand on the b
 
 "Yes."
 
-"That circuit's been cut at the works box since the twenty-second of Sazur."
+"That circuit's been cut at the works box ever since the works order that closed it. Six years this month."
 
 "Yes," Milo said. He was already writing in his own book, the time against the printed time, the platform against the register against the address book where the name was not, and under it, because he wanted it written down in his own hand before it stopped looking true: *Speaker live on a cut circuit. Platform dark. No physical change visible. Do not strike the entry.*
 

@@ -25,7 +25,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 ## Pell Harrow
 
 - **Where he is:** gone south, possibly for some weeks, following a lead that puts Tern's name on a list at a village with no official address. He has said one of his two sources is a liar and he does not know which.
-- **What he did:** maintained the return mark for one shift, held the line in the yard, and called the interval from outside the loop in Chapter 4 (he reported “forty minutes, maybe forty-two, and then I stopped counting”) and again in Chapter 7. He marked the route to the route room and the bollard on Ferry Road, and then took his marks up again when the water went down, because he does not leave marks in ground people will walk back through.
+- **What he did:** held the count from outside the seam in Chapter 4 (he reported "most of an hour… I counted forty-two and then I stopped counting, because I started thinking about my round"), chalked the walk line and held the road with Rue and Idar in Chapter 7, took his marks up again when the water went down because he does not leave marks in ground people will walk back through, and in Chapter 8 called the interval from the tram side with the lamp and a bicycle bell. He marked the bollard on Ferry Road on the tenth, not the route to the route room. He has been Milo's chalk twice, the ninth and the tenth, and has said in terms that it will not be a third time.
 - **Boundary set:** one shift, then his own search. He has told Milo plainly that he is not Milo's chalk, and that "not gone" and "not here" are different.
 - **He is not recruited and not Milo's assistant.** He has a separate goal, and Milo's case has delayed it twice.
 
@@ -48,14 +48,14 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 ## Owen Fitch
 
 - **Where he is:** Cedar Court, fourth floor, and the ordinary road.
-- **What he has done:** refused the order, the waiver, the count, the map, the report, and the third door. He walked home the ordinary way in front of forty witnesses. He has agreed to one thing: the *refusal itself* being recorded, as *one household has declined to be entered*, with no name, no address, no initials — on the condition that the refusal exists in more than one book so it cannot be got at. He has agreed to check the third-floor stairwell once a night while Ada is ill, on his own terms, and has said he is not doing it for Milo or for Mara.
+- **What he has done:** refused the order, the waiver, the count, the map, the report, and the third door. He walked home the ordinary way in front of eighty witnesses. He has agreed to one thing: the *refusal itself* being recorded, as *one household has declined to be entered*, with no name, no address, no initials — on the condition that the refusal exists in more than one book so it cannot be got at. He has agreed to check the third-floor stairwell once a night while Ada is ill, on his own terms, and has said he is not doing it for Milo or for Mara.
 - **His standing counterweight:** Lena's answer and Owen's answer are both correct and neither will accept the other. The Volume 1 final map has to hold both.
 - **His cost is real:** the report has a hole in it where his address should be, and that hole is what makes the refusal defensible.
 
 ## Jo Lask
 
 - **Where he is:** back on the road on Line 7, on the detour timetable. In Chapter 9 he closed his tram’s doors on a public instruction from a man with a bandaged hand and held the interval against a pressure surge, and the marshal wrote that down. He has not asked for his job back and has not been suspended; the cost of the Chapter 9 hour is the hearing on the 14th, not a disciplinary record.
-- **What he did:** held a tram with a hand signal for twenty minutes in Chapter 7; walked the line; carried a bar in a sluice arch; called the live interval for the ninth; and in Chapter 8 stopped the loop himself, on his own, and counted himself out over 219 paces. He has a damaged ear for the interval, admitted it in front of a room, and did not report it.
+- **What he did:** held a tram with a hand signal while the works ran the diversion in Chapter 7; walked the line; carried a bar in a sluice arch; closed his tram's doors on Milo's public instruction during the Chapter 9 surge; and in Chapter 8 stopped the loop himself, on his own, and counted himself out over 219 paces. He has a damaged ear for the interval, admitted it in front of a room, and did not report it.
 - **His third-turn reading:** the third call is a handover — whoever is holding the door hands the count on. He also holds the strongest argument that the bell at that end of the line was always a works bell and Bellwether never had one.
 - **What he wants:** the timetable and the workers' routes made truthful, even where that means admitting nobody was given a safe way home during the original closure. Milo's provisional plan says *the live interval only, not a standing duty* — the first time in eleven years anyone has put that in writing for him.
 
@@ -72,6 +72,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 - **Pressure, made concrete:** a standing instruction from the Prefect's office that flood-season orders be executed inside the season, and a contractor's bond that lapses on the 11th of Sazur. He is legible and unexcused.
 - **What he has conceded:** he stopped the gate at eighteen inches rather than sealing it, in public, and told the room he was about to do something half of them would call a cover-up. He will bring the file to the hearing himself if the culvert turns something up in the next three days.
 - **His method is not sympathetic:** the waiver, the request for the notes, the insistence that the hazard is the only fact in the district.
+- **His best argument, given to Milo face to face in the Chapter 10 corridor and not answered:** *your map did not make the seam coherent, it made it legible; a believed route is a used route, and on the twenty-second it will be standing in the way of a river.* He demanded Milo say it to the yard **before** the test and not after. Milo wrote the argument down in Orrin's own words without editing it. This is the batch's sharpest open problem and the next batch should not let it be resolved by reassurance.
 - **His pressure has just become public:** the floodgate test is on the 22nd and the gate will be driven out to full flow.
 
 ## Dr Iona Sen
