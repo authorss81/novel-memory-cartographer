@@ -111,7 +111,7 @@ Orrin Sable had been at the back of that yard for twenty minutes and nobody had 
 
 "Put it on the record of a flood-control project that is running out of money and time on a district levy," said Orrin Sable. "Which is not worth very much. And tell you that the district flood line is at nine inches on that street and the water went past six on the sixteenth and it is going to go past nine by the weekend unless somebody puts a pump on it, and I am going to put three pumps on it tonight with a man I steal from the eastern works, and none of that is in the drainage division and none of that is in anybody's schedule, and I would like it noticed that I have said the number and that the number is the only part of this I could do anything about."
 
-He left at half past four, and Dilley Farr's office in the Civic Atlas building had a telephone in it, and there was a Directions Bench sitting on the Tuesday after next, and Milo Rook wrote the evening down at nine o'clock and it is four lines and one of them is a number and one of them is a sentence he has not finished.
+He left at half past four, and Dilley Farr's office in the Civic Atlas building had a telephone in it, and there was a Directions Bench sitting on the Tuesday, and Milo Rook wrote the evening down at nine o'clock and it is four lines and one of them is a number and one of them is a sentence he has not finished.
 
 *Sixteenth of the month, 21.00. A foreman wrote a word on a return and lost two days of an eleven-week job and half his rate over the word* subsidence, *and the return he refused to sign went up on a board in his employer's hand saying* none observed, *and the trench had four feet in it.*
 

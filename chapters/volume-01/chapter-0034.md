@@ -1,6 +1,6 @@
 # Chapter 34: A Blank Left by Accident
 
-He asked Jo Lask first, and he asked him in writing, and he asked him on the Monday morning the sixth of the month in the shed at Alder Quay where the non-driving work was, and he wrote the request out in full the night before because he had learned that a question about a person's labour that is asked out loud is a question that can be improved on while it is being asked.
+He asked Jo Lask first, and he asked him in writing, and he asked him on the Monday morning the tenth of the month in the shed at Alder Quay where the non-driving work was, and he wrote the request out in full the night before because he had learned that a question about a person's labour that is asked out loud is a question that can be improved on while it is being asked.
 
 *Mr Lask. I am asking for one thing and I am not asking you to explain why you say no.*
 
@@ -72,7 +72,7 @@ That was all. That was the whole of the event. There was no vision and no voice 
 
 He got the book out on the flat ground above the coal hatch, standing up, with the machine going on the other side of the wall, and the page was not clean.
 
-It came out in his own hand in pencil, in the middle of the page, with no lead-in and no lead-out, and it was four words long.
+It came out in his own hand in pencil, in the middle of the page, with no lead-in and no lead-out, and it was six words long.
 
 *A blank left by accident closes.*
 
@@ -80,7 +80,7 @@ He read it three times, and he understood inside about two minutes that it was n
 
 He wrote the limit on the facing page before he did anything else with it, in his own hand, and dated it, because that is what he does and because on the ninth minute of a crossing in August he did not and it cost a woman four days of being afraid.
 
-*Tenth of the month, 14.30. One line from the book, four words. It describes the rota and it does not tell me who fills a blank or whether a blank should be filled, and it arrived ten seconds after I came out and not before, which means it is not a warning about going in. If I take it as a warning it is a warning about the sheet, and the sheet is five lines and one line has a name and a light on and a person who has not come down, and the only thing in this district that could be described as an accidental blank is that line. I am not going to ask the person on it. I am not going to mention it to Rue. I am not going to put the book near that yard for a week.*
+*Tenth of the month, 14.30. One line from the book, six words. It describes the rota and it does not tell me who fills a blank or whether a blank should be filled, and it arrived ten seconds after I came out and not before, which means it is not a warning about going in. If I take it as a warning it is a warning about the sheet, and the sheet is five lines and one line has a name and a light on and a person who has not come down, and the only thing in this district that could be described as an accidental blank is that line. I am not going to ask the person on it. I am not going to mention it to Rue. I am not going to put the book near that yard for a week.*
 
 ---
 

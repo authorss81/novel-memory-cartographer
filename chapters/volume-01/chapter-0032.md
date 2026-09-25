@@ -42,7 +42,7 @@ Danner put the rod down.
 
 "The works took water down that alignment on the twenty-second of Sazur and the ground settled nine inches over forty feet. That is on your own signed report and it is true and it is now on the public record. A believed route is a used route — you wrote that down in a yard at my request and I read the copy, so I know you have it in your own hand." He was not rushing and he was not performing. "I want to put the other half of that sentence next to it. A made route is a used route. Not a believed one. A *made* one. Eleven weeks of regrading takes a route and turns it into a surface, and a surface is the only thing a person can stand on without somebody's permission, and I am telling you that there is something at the low end of that reach that has been asking the same question every evening for six years and the reason it is still asking is that nobody is standing there to answer it."
 
-"Somebody is standing there," said Milo Rook. "On a rota, in a satchel, in a five-storey building, four names and a line through one of them."
+"Somebody is standing there," said Milo Rook. "On a rota, in a satchel, in a five-storey building, five names and a line through one of them."
 
 "There is a rota," said Orrin Sable. "There is a rota in a satchel belonging to a courier round, and it has no standing, no authority, no inspector, and no power to be inspected, and every one of its five lines can be crossed off by the person it belongs to and by nobody else, which means that the day the last person crosses theirs off, that rota reads as empty, and a document that reads as empty is a document that never existed."
 
@@ -102,7 +102,7 @@ He shut it and put it away and wrote the note on the facing page instead, and it
 
 ---
 
-The plate went into the form at ten past four that afternoon, and the district works office returned it stamped at nine the following morning, the ninth being a Thursday, and the notice went up on the works-office hoarding at ten past nine with a drawing pin, because that is how a thing becomes true in Alderquay.
+The steel plate went into the stores form at ten past four that afternoon, and the district works office returned the variation stamped at nine the following morning, the seventh being a Tuesday, and the notice went up on the works-office hoarding at ten past nine with a drawing pin, because that is how a thing becomes true in Alderquay.
 
 **SERVICE DOOR — VARIATION APPLIED FOR**
 *Door: personnel, flood-control wall, low end of withdrawn alignment, aperture 2 ft 6 in.*
@@ -111,12 +111,12 @@ The plate went into the form at ten past four that afternoon, and the district w
 *Effect on drainage: gate line unchanged. Culvert unaffected. Low point of alignment to remain clear of standing water.*
 *Alternative considered: none available. Aperture cannot be reduced without backing water into the works zone and the low streets.*
 
-It was read by about two hundred people in the district over the following three days, and there is a line at the foot of it in Danner's handwriting, added on the Sunday morning after, which reads *alternative considered: none, and I have written it twice because the first time I wrote it I left a space and a space on that form would have meant a person could put something in it.*
+It was read by about two hundred people in the district over the following three days, and there is a line at the foot of it in Danner's handwriting, added on the Sunday morning after, which reads *alternative considered: none, and I have written it twice, once on the form on the Monday and once on the notice on the Tuesday, because the first time I wrote it I left a space and a space on that form would have meant a person could put something in it.*
 
-Milo Rook read it on the Wednesday evening at the office, standing up, because Danner had put it up himself and because a notice a foreman has walked out and put up with his own hands is a different object from a notice a clerk has laid on a table.
+Milo Rook read it on the Tuesday evening at the office, standing up, because Danner had put it up himself and because a notice a foreman has walked out and put up with his own hands is a different object from a notice a clerk has laid on a table.
 
 He wrote the seventh of the month down in four lines and the seventh was a Tuesday and there was nothing in them.
 
-*Tuesday the seventh. The plate is on the notice. The alternative box is filled in a foreman's own hand, twice, and the only reason it is filled in is that he did not want to leave a space on a district form, which is a thing I have thought about for two days and cannot put down.*
+*Tuesday the seventh. The plate is on the notice, and the box is on the notice, and the six days are on the notice, and the alternative box is filled in a foreman's own hand and not a clerk's, and the only reason it is filled in is that he did not want to leave a space on a district form, which is a thing I have thought about all evening and cannot put down.*
 
 *Crossings: five. Losses: seven. The join at the old court is seven tenths out and the book was silent on it and I have written that down because the last time the book was silent I got a line about a handrail, and this time I got nothing, and I would like it on the page that I noticed the difference and did not do anything about it.*

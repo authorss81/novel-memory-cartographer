@@ -156,4 +156,4 @@ Milo Rook went to the office that evening and wrote the day down, and it is four
 
 *He is going to exclude me. He told me on the ramp at four o'clock on the Saturday before he does it and he told me because he thought I would want to know, and there is a kind of officer in that which is worse for me than the other kind, and I have not worked out yet which kind he is.*
 
-*Crossings: five. Iona Sen has the tally and the tally is five. The eighth route is still on the list at seven and I have not lost one today. The line home is in the book in my own hand and is complete and any person can be asked to walk it. Nothing in the book tonight. Field Book sound.*
+*Crossings: five. Iona Sen has the tally and the tally is five. The list of what I have lost is at seven and there has never been an eighth of it, and I have not lost one today. The line home is in the book in my own hand and is complete and any person can be asked to walk it. Nothing in the book tonight. Field Book sound.*

@@ -163,7 +163,7 @@ Mara Quill stood quite still for a moment.
 
 They walked to the turnstiles together, which they had not done since September, and neither of them said anything about that, and at the north end of the corridor she said one more thing.
 
-"You are not going to be able to be in a room with me on the third of October and I have known that since the twenty-eighth of Sazur, and you have known it since the fourteenth, and neither of us has said it, and I am not saying it now either. I am saying that the level goes to Danner and that on Thursday I am going to ask him, and that if he says no then I am going to do the thing you have just refused to let me do without asking, because it is seven days and I am the advocate of record and I am not going to let my own scruple be the reason this district loses a document."
+"You are not going to be able to be in a room with me on the twenty-first of October and I have known that since the twenty-eighth of Sazur, and you have known it since the fourteenth, and neither of us has said it, and I am not saying it now either. I am saying that the level goes to Danner and that on Thursday I am going to ask him, and that if he says no then I am going to do the thing you have just refused to let me do without asking, because it is seven days and I am the advocate of record and I am not going to let my own scruple be the reason this district loses a document."
 
 He walked to the chandler's and up fourteen steps, and he did not try the route, because it was gone, and because it had been gone since the twenty-third of Sazur and he had stopped testing it, and he wrote the evening down in three lines and the third line was not about the level.
 

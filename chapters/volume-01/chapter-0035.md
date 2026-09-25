@@ -34,13 +34,13 @@ Milo Rook read it twice on the flat ground above the low end, standing up, in th
 
 "They are not," said Danner.
 
-"They are right, and they are right in the way paragraph six is right, and I want you both to hear the shape of it because it is the same shape and I have been waiting since the twenty-eighth of Sazur for somebody to put it in a different document." He gave them the book out of his coat and found the page, which was the page with four words on it from the Friday, and then found the earlier page, which was the one from August.
+"They are right, and they are right in the way paragraph six is right, and I want you both to hear the shape of it because it is the same shape and I have been waiting since the twenty-eighth of Sazur for somebody to put it in a different document." He gave them the book out of his coat and found the page, which was the page with six words on it from the Friday, and then found the earlier page, which was the one from August.
 
 "The works' own report, six years ago, first week. Paragraph six. The three calls are not a signal to persons and indicate no entry and no refusal." He shut it. "That is a true sentence. It is a true sentence about a bell, made in the first week by an engineer about a sequence, and it governed this case for six years, and nobody could correct it from inside the report, because there is no box on a safety report for *this is a bell and also a person*."
 
 "Milo," said Danner.
 
-"No, listen, because this one has got a box on it and the box is worse." He turned the folder round. "It says no rota is maintained by the district, by the works, or by any party having authority in this matter. Not one word of that is untrue. There is a rota. It is a sheet of accountancy paper folded in three in a satchel on a courier round and it has five lines and four people behind four of them and a promise at the foot that anyone can cross their own name off and nobody else crosses it for them. And there is no party in this district with authority over that sheet, and there could not be, because the whole design of it is that a landlord cannot ask about it and a clerk cannot inspect it and the day somebody with authority can see it, it stops working, and everybody who has ever used it knew that before the district did."
+"No, listen, because this one has got a box on it and the box is worse." He turned the folder round. "It says no rota is maintained by the district, by the works, or by any party having authority in this matter. Not one word of that is untrue. There is a rota. It is a sheet of accountancy paper folded in three in a satchel on a courier round and it has five lines and five names, four people behind four of those names, and a fifth line with a name on it and nobody behind it, and a promise at the foot that anyone can cross their own name off and nobody else crosses it for them. And there is no party in this district with authority over that sheet, and there could not be, because the whole design of it is that a landlord cannot ask about it and a clerk cannot inspect it and the day somebody with authority can see it, it stops working, and everybody who has ever used it knew that before the district did."
 
 "So the report is a lie," said Cass Ardery.
 
@@ -88,11 +88,11 @@ Mara Quill had been in the yard for an hour and eleven minutes without saying an
 
 She picked up her bag.
 
-"So in October there will be a report that says nobody is there," she said, "and there will be four accounts that say a great deal was, and one mechanic who will not put his name to his own because he has got four years of a pension, and the thing that decided the sixth of six years ago will decide it again on the eighth of October, and it will decide it in about eleven seconds."
+"So in October there will be a report that says nobody is there," she said, "and there will be four accounts that say a great deal was, and one mechanic who will not put his name to his own because he has got four years of a pension, and the thing that decided the sixth of six years ago will decide it again on the twenty-first of next month, and it will decide it in about eleven seconds."
 
 Milo Rook said, "The difference is that the sixth time there were forty-one people in a court and this time there is a plate going on tomorrow at ten past six in the morning."
 
-"Yes," said Mara Quill. "And the plate is not what I am frightened of. I am frightened of the eighth of October, and I have got ten days, and I do not know what to put in front of a Bench, and none of the four of us has any idea what to put in front of a Bench."
+"Yes," said Mara Quill. "And the plate is not what I am frightened of. I am frightened of the twenty-first of next month, and I have got ten days, and I do not know what to put in front of a Bench, and none of the four of us has any idea what to put in front of a Bench."
 
 ---
 

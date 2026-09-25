@@ -4,7 +4,7 @@ The round went out at eight on Wednesday the eighth of the month and came back a
 
 Milo Rook was there at ten past four because he had asked in writing at ten past five, and the answer on the table said *You'll want to be here at ten past and not a minute earlier, and you'll want Rue and not me, and if I have to hold this conversation I'll do it standing up in the street.*
 
-"Five lines," said Rue. "Five names on it. One line through one of them and the line's hers and it stays where she put it. And four of those five names have somebody behind them, and I have counted."
+"Five lines," said Rue. "Five names on it. One line through one of them and the line's hers and it stays where she put it, and I count that line as having a person behind it, because she is the one who put it through and nobody has put it back. That is four people behind four of the five names. The fifth is the fifth floor and nobody is behind the fifth. I have counted and I will say it the same way every time anybody asks me, because the day I say it a different way is the day the sheet is a lie."
 
 "Who is on the ground?"
 
@@ -82,13 +82,13 @@ Mara Quill had not moved.
 
 Nobody said anything for a while, and a machine down the line made a noise, and it was the only noise.
 
-"So I will not swear it," he said. "And I would like it noticed that nobody has argued with me. Miss Quill, you could argue with me. You have a Bench in three weeks and four people and you said on the second of the month, in front of forty people, what would happen if a man refused, and I have thought about that sentence every day and it is correct and it is the whole of what is left, and I have no answer to it and I have had six days to find one."
+"So I will not swear it," he said. "And I would like it noticed that nobody has argued with me. Miss Quill, you could argue with me. You have a Bench in thirteen days and four people and you said on the second of the month, in front of forty people, what would happen if a man refused, and I have thought about that sentence every day and it is correct and it is the whole of what is left, and I have no answer to it and I have had six days to find one."
 
 "I do not need to argue with you," said Mara Quill. "I have your account. It is in my hand, it is dated, and it has your name at the foot of it, and it goes to a Bench in October unsworn, and it is still evidence. It is worse evidence. I told you that on the second and you are now finding out what worse means, and I am sorry about it, and I am not going to soften it, because you would not want me to."
 
 "I do not want you to."
 
-"Then here is what you have handed me, and I would like it said where the other three can hear it, because they are going to be asked." She squared the sheet in front of her. "Three sworn accounts and one unsworn. The Bench takes a sworn joint account of three people and a document, and a separate unsworn account of a mechanic, in a different hand, unsigned, in an advocate's writing. It cannot weigh them against each other. It can only read them. And what it will read, in eight weeks' time, is three people who agree and one man who does not, and it will have no way at all of knowing that the man who does not is the only one of the four who ever gave us anything that nobody else in the district had."
+"Then here is what you have handed me, and I would like it said where the other three can hear it, because they are going to be asked." She squared the sheet in front of her. "Three sworn accounts and one unsworn. The Bench takes a sworn joint account of three people and a document, and a separate unsworn account of a mechanic, in a different hand, unsigned, in an advocate's writing. It cannot weigh them against each other. It can only read them. And what it will read, on the twenty-first, is three people who agree and one man who does not, and it will have no way at all of knowing that the man who does not is the only one of the four who ever gave us anything that nobody else in the district had."
 
 "I am not going to argue with that," said Tomas Rusk, "and I would like it noticed that I have not argued with you about anything, because I have not got an argument. I have got a knee and four years."
 
@@ -102,7 +102,7 @@ The yard had eleven people in it by half past four and Rue had brought the sheet
 
 "Say the count," said Rue.
 
-Nobody argued with her, and the yard counted, and the count was that a check has been going out at six o'clock every evening for six years and there are five lines on a sheet and four people behind four of them and one line with a name and a light on and nobody answering a door, and a woman of sixty-eight on the third floor who is not on the sheet and will not be, and has said the whole of it in a yard of about forty people and is not going to be asked again.
+Nobody argued with her, and the yard counted, and the count was that a check has been going out at six o'clock every evening for six years and there are five lines on a sheet and four people behind four of the five names, the line with the stroke through it among the four, and one line with a name and a light on and nobody behind it and nobody answering a door, and a woman of sixty-eight on the third floor who is not on the sheet and will not be, and has said the whole of it in a yard of about forty people and is not going to be asked again.
 
 Milo Rook did not write any of it down.
 
