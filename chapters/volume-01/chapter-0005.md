@@ -130,7 +130,7 @@ She went up. Milo stood in the stairwell and counted his own floors out loud and
 
 ---
 
-Here was the thing he was going to have to think about later, at three in the morning, with a headache: at some point between the notice being read out and Ada putting the kettle on, he had looked at that woman and seen a witness. Not a person. A *witness* — a set of conditions his office could have used, a hand on a door keeping a pressure-pattern legible, the last live thing in a place that had lost two other things and would therefore keep anything at all.
+Here was the thing he was going to have to think about later that night, in a doorway, with a headache: at some point between the notice being read out and Ada putting the kettle on, he had looked at that woman and seen a witness. Not a person. A *witness* — a set of conditions his office could have used, a hand on a door keeping a pressure-pattern legible, the last live thing in a place that had lost two other things and would therefore keep anything at all.
 
 He had thought, in some part of him, the sentence *this is the only one who can hold the street open*, and he had felt the shape of a plan begin to assemble itself around her like a hand closing.
 
@@ -138,7 +138,7 @@ And she had not been a witness. She had been a woman who had been struck out of 
 
 He wrote it down. Not in the book. On the back of his own hand, in pencil, so it would not be legible as a survey record: *Do not use a person as a condition.*
 
-He did not become a different man. He still wanted the third turn explained. He still wanted, in a way he was not going to be proud of for a long time, a map of that lane with his mother's shape somewhere in it. But he wrote the sentence down, and he put the book away, and he let the question go closed for the night, which was the single largest thing he had done in two years.
+He did not become a different man. He still wanted the third turn explained. He still wanted, in a way he was not going to be proud of for a long time, a map of that lane with his mother's shape somewhere in it. But he wrote the sentence down, and he put the book away, and he let the question go closed for the night, and wrote the time beside it, and did not open it again before he slept.
 
 ---
 
@@ -174,7 +174,7 @@ Milo took the book out of his coat. It had been in his coat for six years and ha
 
 He opened it on the table in the doorway, and turned it round so that she could read it, and put his thumb on the page with the bracket-and-dot, and then he took his thumb off.
 
-"There's a mark in the margin of the printed sheet," he said. "Old ink. It's older than the stock it's on. Somebody's hand, and not one of ours. There's a hand in the alignment file too, or there will be when you look, and I have never seen it before tonight and I have been in that drawer a hundred times."
+"There's a mark in the margin of the printed sheet," he said. "Old ink. The ink is older than this week's paper, because it arrived wet, and it arrived pressed, and it was not made for this print run. Somebody's hand, and not one of ours. There's a hand in the alignment file too, or there will be when you look, and I have never seen it before tonight and I have been in that drawer a hundred times."
 
 "Rook," said a voice from the top of the stairs.
 

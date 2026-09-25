@@ -30,11 +30,11 @@ The ordinary measurements came out ordinary. He set a baseline from the north ra
 
 He tried the boundary four ways.
 
-First by chain: he measured from the platform's end wall outwards in ten-metre increments to forty, marking each with a small cross of chalk on the ballast. The rail is on a left-hand curve there, a shallow one, and the ten crosses marched away up the ballast shoulder in a clean line while the ballast itself curved, and when he came back and looked at the marks from the platform, they did not lie in a straight line. He measured them again. They were in a straight line. He looked at them from the fence.
+First by chain: he measured from the platform's end wall outwards in ten-metre increments to forty, marking each with a small cross of chalk on the ballast. The rail is on a left-hand curve there, and the alignment drawing had it as a shallow one for the whole of the visible rail, and the ten crosses marched away up the ballast shoulder in a clean line while the ballast itself curved, and when he came back and looked at the marks from the platform, they did not lie in a straight line. He measured them again. They were in a straight line. He looked at them from the fence.
 
 They were not in a straight line from the fence.
 
-He went and got the surveyor's trick for it — a length of string with a plumb bob, set up as a straight sight — and sighted back along his own crosses, and they were straight. And when he shut one eye and looked without the string, he could see that the crosses were following the curve of the rail, not the line he had measured, and he could not see how. He put his hand flat on the two nearest and they were four inches apart where his measurements said they were eleven.
+He went and got the surveyor's trick for it — a length of string with a plumb bob, set up as a straight sight — and sighted back along his own crosses, and they were straight. And when he shut one eye and looked without the string, he could see that the crosses were following the curve of the rail, not the line he had measured, and he could not see how. He put his hand flat on the two nearest and they were four inches apart where his measurements said they were eleven. Eleven inches off a ten-metre chord came to a radius of about forty-five metres, and the alignment drawing had this reach as a gentle curve. Forty-five metres is not a gentle curve. Forty-five metres is a street that has to go somewhere.
 
 He wrote: *Chalk crosses read two ways. One way they are where I put them. One way they are where the curve is. Do not trust a straight sight on this ground without a second instrument.*
 
@@ -100,7 +100,7 @@ He walked to the gate and back along the chalk. Fine. He walked it blind, with h
 
 He wrote: *Chalk line, one pass. Fine. It is only a mark made tonight. The book did not say it wanted a mark made tonight.*
 
-That was the whole of it, and it was the part of the night that frightened him.
+That was all of it, and it was the part of the night he was frightened of.
 
 Because the line in the book had not said *a mark is missing*. It had not asked for one. It had said a return mark *is* missing, in the flat voice of a clerk reporting the state of a thing, and Milo had gone out and made one, and made a good one, and it had satisfied nothing at all. The page sat there in the lantern light, and whatever was looking at it through the paper had not moved, and had not been satisfied, and had not been given anything.
 

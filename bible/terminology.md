@@ -152,7 +152,7 @@ Introduced by `outline/volume-01.md` and fixed for the volume. Later batches and
 
 **Lena Marr** — Cedar Court tenant and organizer who filed the housing case; wants a usable address and services, not a memorial. In Chapter 9 she chooses to be walked out and named in the public report.
 
-**Owen Fitch** — Cedar Court tenant and former Bellwether doorman who refuses to be entered on any map or list. His refusal costs the team a usable address and is treated as a legitimate choice.
+**Owen Fitch** — Cedar Court tenant and former Bellwether doorman who refuses to be entered on any map or list. His refusal costs the team a usable address and is treated as a legitimate choice. **Load-bearing for the Chapter 30 reversal:** the handover reading of the third turn is his, and he is the man `state/character-state.md` keeps on the board for the volume's turn. Two facts are on the page and must not drift: his **initials** are on the Registry instrument of the 5th-of-Sazur one-shift inspection (Mara named him because the protective finding required persons in temporary accommodation), so his refusal is a refusal *on top of* an existing entry, not an absence from one; and from the 10th he takes the **third-floor stairwell check** off Ada Fenn while she is ill, once a night, on his own terms, revocable at will, and unwritten.
 
 **Tomas Rusk** — Pump-house mechanic who survived the original accident; wants the record corrected and fears his own silence made the danger worse.
 
@@ -167,6 +167,16 @@ Introduced by `outline/volume-01.md` and fixed for the volume. Later batches and
 **Danner** — Contractor’s foreman at Floodgate Four. Winds the gate to eighteen inches of sill by hand in front of witnesses, writes the aperture on the form himself, writes *no window* on it twice when the ninth of Sazur occupies the site, and prices every day of delay against the bond. First name has not been used on the page. Legible, unexcused, and not the villain.
 
 **Rue** and **Idar** — Streetkeepers in Pell Harrow’s delivery round. In Chapter 7 they hold the road at the works approach with lamps; in Chapter 9 they mark their own ways in and out of the service court on the official inspection sheet, and Idar is the one who makes Milo strike them out of it. They appear as themselves, not as a faction.
+
+### Minor proper nouns fixed for Volume 01
+
+Names that have entered the prose and are not to be renamed, re-spelled, or re-gendered. Each is load-bearing in the way noted.
+
+- **Verrick** — A pump fella on the reach, named in Ada Fenn’s account and on **Lena Marr’s mother’s list**, which has one of its eleven lines through with the reason *came back at the third*. Verrick is the man who called *clear* to a woman at a door on the night of the closure. He is **alive and in the works yard as of Chapter 8, and he never appears on the page**: Chapter 9's yard does not show him or name him, and nobody has asked him anything. He is not a ghost and not an apparition, and Volume 1 does not establish which of the three accounts of the third turn his story supports. Later batches may use him as a person who can be asked; they may not have him confirm the evacuation reading, and they may not turn him into a device.
+- **Ardin Ossick** — The old surveyor who taught Milo the surveyor’s least respectable method, using the eye to find a seam in a street before the chain admits there is one. Named once, in Chapter 3, and never again on the page. Do not bring him back as a conveniently living master; if he returns, he returns as a debt Milo already owes.
+- **Mabb** — Old Mabb, asleep on the third floor of Cedar Court and the reason Ada goes up. Named once, in Chapter 5, as part of her floor count. Not a plot instrument; a person who will not answer.
+- **Wragg Street** — The sluice where Milo came through in his second year and told Iona Sen it was a sprain. A real piece of the river core, not a symbol, and not a seam. Named once, in Chapter 8, and never explained. Do not use it as a recurring omen.
+- **Neris Rook** and **Soren Rook** — Milo’s mother and father. **Neris is named to the reader only as a memory of a voice and a shape in a route, and must not be resurrected, restored, or confirmed present.** **Soren must not be named as the annotating hand anywhere in Volume 1.** The Chapter 1 clue and the Chapter 6 annex share one hand; the Chapter 10 carbon pair does not resolve.
 
 ## Grammar names in prose
 

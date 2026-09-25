@@ -33,10 +33,10 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 
 ## Ada Fenn
 
-- **Where she is:** Cedar Court, third floor, ill with the flu for part of the batch.
+- **Where she is:** Cedar Court, third floor, ill with a fever and looking after the boy for part of the batch. Owen names her illness in the Chapter 9 yard; Milo puts it on the page in Chapter 10 as the reason the provisional plan has no door-check written into it. She is never asked to hand the check over and never says she cannot do it.
 - **What she has given:** the fact that the third strike still comes through her hand; the door-check, in full, as a practice; the standing agreement to share only what she is willing to share; the account of a polite young man from Crown Heights who asked her what the third bell was for, nine years ago, and whose answer turned up eleven months later in a document she never showed him.
 - **What she has refused:** to prove the old route, to speak for the Registry, to be read into a file, to stand in the third turn for anyone including Milo, and to be used as a condition of a map. The lane has not punished her for refusing, and the volume must not treat her refusal as a problem to solve.
-- **Revocable, structurally load-bearing, and known to be.** Owen Fitch has taken the third-floor check off her while she is ill, once a night, on his own terms. Later batches must build a rota and a written schedule, not a dependency.
+- **Revocable, structurally load-bearing, and known to be.** On the 10th Owen Fitch takes the third-floor stairwell check off her: once a night, going up, not the ground floor, stopping whenever he likes, and not written down anywhere. Milo asked him to; Owen agreed, told him to tell Ada herself and not the yard, and predicted that Milo would do the correct thing and then the other thing. Later batches must build a third source — a rota, a written schedule, a door-check another resident can perform — not a dependency, and must keep Ada's withdrawal legitimate pressure rather than a fault to fix.
 
 ## Lena Marr
 
@@ -48,9 +48,10 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 ## Owen Fitch
 
 - **Where he is:** Cedar Court, fourth floor, and the ordinary road.
-- **What he has done:** refused the order, the waiver, the count, the map, the report, and the third door. He walked home the ordinary way in front of eighty witnesses. He has agreed to one thing: the *refusal itself* being recorded, as *one household has declined to be entered*, with no name, no address, no initials — on the condition that the refusal exists in more than one book so it cannot be got at. He has agreed to check the third-floor stairwell once a night while Ada is ill, on his own terms, and has said he is not doing it for Milo or for Mara.
+- **What he has done:** refused the order, the waiver, the count, the map, the report, and the third door. He walked home the ordinary way in front of eighty witnesses. He has agreed to one thing: the *refusal itself* being recorded, as *one household has declined to be entered*, with no name, no address, no initials — and he requires the initials the Registry already holds to be written against that same line, so that a reader in twenty years can see he knew he was on the sheet and said no anyway. He has also agreed to check the third-floor stairwell once a night while Ada is ill, on his own terms and in his own words, and to tell Ada herself and not the yard.
+- **The initials.** Mara put O. Fitch on the Registry instrument of the 5th-of-Sazur one-shift inspection because the protective finding required persons in temporary accommodation, told him in the Chapter 9 yard that she had done it, and could not take him off it. His refusal is therefore made *on top of* an existing entry rather than instead of one, and Milo has said aloud on the landing that the paper is not clean. Do not let a later batch treat his line in the plan as an absence from the record.
 - **His standing counterweight:** Lena's answer and Owen's answer are both correct and neither will accept the other. The Volume 1 final map has to hold both.
-- **His cost is real:** the report has a hole in it where his address should be, and that hole is what makes the refusal defensible.
+- **His cost is real:** the report has a hole in it where his address should be, and that hole is what makes the refusal defensible — and the hole now has his initials sitting next to it, which makes it defensible for a different and better reason: he is on the record refusing.
 
 ## Jo Lask
 
@@ -79,7 +80,7 @@ Updated after Volume 01 Batch 0001 (Chapters 1–10). Keep this file to immediat
 
 - **Where she is:** the clinic, treating Milo's hand and his exposure.
 - **What she has given:** the medical account of the orientation cost — the page is sound and the man is not — and three rules. She has not explained the Atlas, and she has not spoken about her own past.
-- **She remembers him** as the twenty-three-year-old who called a seam injury a sprain and went back out. She has known him before this batch; what she knows and has not said is untouched.
+- **She remembers him** as the twenty-five-year-old who called a seam injury a sprain and went back out. She has known him before this batch; what she knows and has not said is untouched.
 
 ## Cass Ardery, Danner, and Dilley Farr
 

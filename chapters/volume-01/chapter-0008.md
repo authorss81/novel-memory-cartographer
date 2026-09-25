@@ -14,7 +14,7 @@ The lane was four feet wide and had brick on both sides and eighty feet of rail 
 
 "I'm not walking, I'm *going*." He said it as a joke and it did not come out as one. "There's a turn. There's a turn, Rook, and it's right there, and it's the only one that isn't a wall, and I've been going round for a bit and I've counted, and if I stop going round then I stop moving, and if I stop moving—"
 
-"I know. Don't do it." Milo got his book out with his free hand and did not open it, because he could not see the page. "Jo, I'm not going to bring you out by telling you which way to go. That's the whole of what's wrong with this place and it's the whole of what's wrong with me, and if I stand here and give you a route, this thing will take the shape of what I told you, and in four months I will have taught a road to lie."
+"I know. Don't do it." Milo got his book out with his free hand and did not open it, because he could not see the page. "Jo, I'm not going to bring you out by telling you which way to go. That's what is wrong with this place and it's what is wrong with me, and if I stand here and give you a route, this thing will take the shape of what I told you, and in four months I will have taught a road to lie."
 
 "Then what are you going to do?"
 
@@ -50,19 +50,19 @@ Above, on the tram side, a bicycle bell went once, and then Pell Harrow's voice 
 
 "All Line 7. All Line 7. This is a service call, we are at the court, we are holding at the court, stand by the wall and do not step into the lane—"
 
-"That's Pell," said Rue, from the ramp. "He's been calling it for four minutes. Idar says he's going to lose his voice by eleven."
+"That's Pell," said Rue, from the ramp. "He went up with the lamp at seven and he's most of the hour through on the count he said he'd give you. Idar says he's going to lose it altogether by eleven."
 
 "Tell Lena she's needed."
 
 ---
 
-Lena Marr was on the landing above the flood with a sheet of paper in her hand, and it was her mother's rent-book page, and she had it because she had gone into the water for it.
+Lena Marr was on the landing above the flood with a sheet of paper in her hand, and it was her mother's rent-book page, and she had it because she had gone into the water for it. They had been up there since before the water came, and it had been going the better part of an hour, and in that hour the whole of the rescue had narrowed to a woman reading out loud and a man who would not be moved, and both of them had the settled look of people who had been at this a long time and intended to be at it longer.
 
 "No," Owen Fitch said.
 
 "You don't have to—"
 
-"I said no." He was sitting on the top step with his coat over his knees, dry, because he had not gone into the service court at all; he had stood on the landing and refused, and had been refusing for an hour and a half, and his hands were perfectly steady. "You read it. I don't answer to it."
+"I said no." He was sitting on the top step with his coat over his knees, dry, because since the water came he had not gone back down into the court at all; he had stood on the landing and refused, and had been refusing the whole time, and his hands did not move at all. "You read it. I don't answer to it."
 
 "Lena—"
 
@@ -74,7 +74,7 @@ Lena Marr was on the landing above the flood with a sheet of paper in her hand, 
 
 She crouched down beside him anyway, which was her right and her way, and got her paper against her knee.
 
-"There's forty-one names on this," she said. "And eleven lines through with a reason, and one of the reasons is *came back at the third*, and his name is Verrick and he's in the works yard and he was the one who called *clear* to a woman at a door." She did not look up. "I'm not counting you. I've never counted you. I'm telling the street you're there, and those are different, and you can hate it and I'll still read it."
+"There's forty-one names on this," she said. "And eleven lines through with a reason, and one of the reasons is *came back at the third*, and his name is Verrick — a different name from the Venn in your ledger, and I'd thank you not to put the two in the same breath — and he's in the works yard and he was the one who called *clear* to a woman at a door." She did not look up. "I'm not counting you. I've never counted you. I'm telling the street you're there, and those are different, and you can hate it and I'll still read it."
 
 Owen Fitch said nothing, and did not move, and was not asked again, and after a while he got up and went and stood at the rail on the other side of the court where he could see the water and could not be called.
 
@@ -134,7 +134,7 @@ Not turned. *Stopped*, in the way a tram stops, dead in the water, facing a wall
 
 "Milo. Where—"
 
-"Here. And you can't see me, and that's right, and I'm not going to make it easier. Here's the turn. There is no turn." Milo put both hands on the brick. "There is no turn anywhere in here, Jo, and I've walked the whole of it, and I know that's not true in the way I mean it, and it's true in the way that matters. There is no *new* one. The only new one is the one where the road doesn't get what it wants, and that's the one you're standing in right now because you stopped."
+"Here. And you can't see me, and that's right, and I'm not going to make it easier. Here's the turn. There is no turn." Milo put both hands on the brick. "There is no turn anywhere in here, Jo, and I've walked all of it, and I know that's not true in the way I mean it, and it's true in the way that matters. There is no *new* one. The only new one is the one where the road doesn't get what it wants, and that's the one you're standing in right now because you stopped."
 
 "Stopped," Jo said. "I've stopped. I've been going round since the gate went down and I've just—"
 
@@ -142,7 +142,7 @@ Not turned. *Stopped*, in the way a tram stops, dead in the water, facing a wall
 
 "Do you want it to have been me?"
 
-There was a silence, and in it Milo heard the water go round the far side of the circle, and heard a bicycle bell go once above the world, and understood that the whole of what he had done for six years as a surveyor — the careful measurements, the chain, the discipline, the not-filling-in-the-blank — had come down to a man standing still in a road on purpose.
+There was a silence, and in it Milo heard the water go round the far side of the circle, and heard a bicycle bell go once above the world, and understood that six years of careful measurement, and the chain, and the discipline, and the not-filling-in-the-blank, had come down to a man standing still in a road on purpose.
 
 "Yes," said Jo Lask. "I want it to have been me."
 
@@ -174,17 +174,21 @@ Nobody spoke for a while. The works site was loud in the way that forty people m
 
 "He counted it out," Pell Harrow said. He had a bicycle bell in his hand and he was not looking at Jo, he was looking at Milo. "Rook, he counted it out. Two hundred and nineteen. He was on the mark the whole time, he didn't go round once after he stopped."
 
+"And your hour's up."
+
+"My hour's up," Pell said. "I'm going to go and finish my round and I'm not going to pretend I did two of them, and if anybody asks me what I did for an hour out there, they're going to have to take my word for it, because there is not a single mark in it anywhere and there is not a single bell on that embankment either." He set the lamp down on the kerb out of Milo's reach. "You keep that one."
+
 Jo Lask sat in eight inches of water with his head in his hands and said, over and over, in a voice that had nothing in it, that he had stopped, and that he had stopped on his own, and that nobody had told him where to go.
 
 ---
 
-Dr Iona Sen looked at Milo Rook for about four seconds before she said anything at all, and the four seconds were the longest anybody in the room had given him since Tuesday.
+Dr Iona Sen looked at Milo Rook for about four seconds before she said anything at all.
 
 "You," she said. "You were the one who came through the Wragg Street sluice in your second year and told me it was a sprain. Do you remember that?"
 
 "No."
 
-"You told me it was a sprain and you went back out. You were twenty-three." She turned to the nurse. "Water, and the small glass, and no conversation for ten minutes."
+"You told me it was a sprain and you went back out. You were twenty-five, in your second year, and that was five years ago, and you have been correcting my sheets ever since." She turned to the nurse. "Water, and the small glass, and no conversation for ten minutes."
 
 She was fifty-four and had a way of making a room behave that had nothing to do with rank. She cleaned the split in Milo's palm where his own thumbnail had gone through it on the arch stone, and she pressed, and she watched his face, and she asked him four questions in an order that made it obvious she already knew all four answers.
 
@@ -230,7 +234,7 @@ Tomas Rusk was waiting on the bench outside when Milo came out with his hand ban
 
 "Why now?"
 
-"Because this morning I heard that sound and I knew what it was and I said it out loud on a gantry to eleven people, and eleven people heard it, and now it's a fact instead of a memory, and while it's a fact I can be the one who says the rest of it." He tapped the file. "Bell schedule's in there. Work bell, works shift times, three calls and the interval, all of it, printed, with the reach it applies to. That's not ours. Ours is the works bell, and I can put our bell next to yours and yours comes off the works bell. That's the whole of it and I'd like it to be the whole of it."
+"Because this morning I heard that sound and I knew what it was and I said it out loud on a gantry to eleven people, and eleven people heard it, and now it's a fact instead of a memory, and while it's a fact I can be the one who says the rest of it." He tapped the file. "Bell schedule's in there. Work bell, works shift times, three calls and the interval, all of it, printed, with the reach it applies to. That's not ours. Ours is the works bell, and I can put our bell next to yours and yours comes off the works bell. That's the whole claim and I'd like it to stay the whole claim."
 
 Milo did not take the file.
 
@@ -242,7 +246,7 @@ Milo did not take the file.
 
 He stood on the bench-end in the thin morning light with the file against his chest, a fifty-year-old mechanic who had been a witness twice in his life and had hated it both times.
 
-"Because the bell schedule's no good on its own," he said. "You put that page in front of a court, they'll hear *what the bells were for*, and they'll have a nice tidy thing where the bells were a works signal and the whole business is a flood matter and a bad closure and nothing anybody meant. And it isn't. I was second shift. I was on the reach at ten to two on the night they closed the lane, and the third bell went and nobody came, and the foreman walked the reach himself, alone, without a bell, with a lamp, because the third bell had been answered by the *people* and the people had already been sent down to Cedar Court on the strength of the first two." He put his hand flat on the file. "So you can have my page, Rook, the day you can tell me why the road was shut in the middle of the run. Not what the bells were for. Why it shut."
+"Because the bell schedule's no good on its own," he said. "You put that page in front of a court, they'll hear *what the bells were for*, and they'll have a nice tidy thing where the bells were a works signal and the whole business is a flood matter and a bad closure and nothing anybody meant. And it isn't. I was second shift. I was on the reach at ten to two on the night they closed the lane, and the third bell went and nobody came, and the foreman walked the reach himself, alone, without a bell, with a lamp, because the third bell had been answered by the *people* and the people had already been sent down to Cedar Court on the strength of the first two." He turned the wallet over and shut it. "So you can have my page, Rook, the day you can tell me why the road was shut in the middle of the run. Not what the bells were for. Why it shut."
 
 "That's not an answer I can give you tonight."
 

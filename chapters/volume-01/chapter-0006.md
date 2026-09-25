@@ -168,7 +168,7 @@ She got her book out and wrote every word of it down in the flat voice she used 
 
 "No you are not." He was awake suddenly, and hard. "I gave you the page. I gave you the mark. You don't get the rest and I'm not going to hand it over and watch a clerk photograph it."
 
-"I am not going to photograph it. I have no authority to seize it and I have just spent an hour making sure I still have none, so that nobody can say a Registry advocate confiscated a private notebook in a hearing about a hazard." She closed her book. "I am going to ask you to read it to me, out loud, in this corridor, from the first page to the last, and I am going to write down anything you say, and you are going to correct me when I write it wrong. That is the whole of the procedure. It is a small procedure and it is the only one I have, and if you refuse it, then on the ninth I have to file that I could not account for you, and you know exactly what that does to a person who is the only witness in this district."
+"I am not going to photograph it. I have no authority to seize it and I have just spent an hour making sure I still have none, so that nobody can say a Registry advocate confiscated a private notebook in a hearing about a hazard." She closed her book. "I am going to ask you to read it to me, out loud, in this corridor, from the first page to the last, and I am going to write down anything you say, and you are going to correct me when I write it wrong. That is all of it. It is a small procedure and it is the only one I have, and if you refuse it, then on the ninth I have to file that I could not account for you, and you know exactly what that does to a person who is the only witness in this district."
 
 They stood in the corridor.
 
@@ -178,7 +178,7 @@ They stood in the corridor.
 
 "That is the parts you want."
 
-"It is the whole of the parts I have to have." She looked up at him. "And Rook — I have a routing slip with my own block capitals on it from six years ago that says I saw an address was affected and passed it on. I have spent the whole night finding out how much of that is a box on a form. So you may tell me what you got wrong, and you may be angry about it, and I will not use any of it. That is not kindness. It is because the first person who takes it out of your hands will not be offering me that."
+"It is everything I have to have." She looked up at him. "And Rook — I have a routing slip with my own block capitals on it from six years ago that says I saw an address was affected and passed it on. I have spent the whole night finding out how much of that is a box on a form. So you may tell me what you got wrong, and you may be angry about it, and I will not use any of it. That is not kindness. It is because the first person who takes it out of your hands will not be offering me that."
 
 Milo Rook read his own book out loud in the west corridor of the Hall of Wards from half past five until six, in order, and corrected her four times, twice in his own favour and twice against it.
 

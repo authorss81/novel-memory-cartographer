@@ -162,7 +162,7 @@ And the water went where Tomas Rusk had said it would go.
 
 It came up out of the old alignment in the service court and across the setts in a moving brown sheet with a foam edge, and it was ankle-deep in ninety seconds and shin-deep in three minutes, and it put the old service court and the low end of the street and the top of the approach road under one continuous moving surface, and it did that because a lawful and careful compromise had pointed it there.
 
-Milo was on the handrail side with Jo's four conductors and got Lena Marr and Owen Fitch as far as the first landing before it went. Then the arch side separated from the works side, and the water came up the ramp, and Jo Lask — who was on the arch side, who had gone in to help a drainage man get a plate out of the sump, who was thirty and who thought his job was holding a door — was on the far side of a moving street of water, seventy feet away, with the rest of the works crew behind him and the Line 7 tram above and a hand signal lamp on a stretcher pole that nobody was holding any more.
+Milo was on the handrail side with Jo's four conductors and got Lena Marr and Owen Fitch as far as the top landing before it went. Then the arch side separated from the works side, and the water came up the ramp, and Jo Lask — who was on the arch side, who had gone in to help a drainage man get a plate out of the sump, who was thirty and who thought his job was holding a door — was on the far side of a moving street of water, seventy feet away, with the rest of the works crew behind him and the Line 7 tram above and a hand signal lamp on a stretcher pole that nobody was holding any more.
 
 "Pell — the lamp. Anyone. The lamp—"
 
@@ -174,7 +174,7 @@ And Jo Lask, from seventy feet off, on a street that was four feet wide and had 
 
 He walked backwards.
 
-The rails went under his feet and he did not fall, and the sound of the tram on the detour above came down through the embankment, and the sound arrived out of order, and Milo Rook felt it arrive in his sternum before his ears, and it was a tram bell. One. Then a long space, and then the second, and then the third, and the whole 140 metres of the alignment folded in on itself like a hand closing, and the current on that stretch of the old lane stopped dead, and Jo Lask stood in eight inches of dead water in a lane that was now going nowhere at all with his arms out.
+The rails went under his feet and he did not fall, and the sound of the tram on the detour above came down through the embankment, and the sound arrived out of order, and Milo Rook felt it arrive in his sternum before his ears, and it was a tram bell. One. Then a long space, and then the second, and then the third, and the whole three hundred and forty feet of it folded in on itself like a hand closing, and the current on that stretch of the old lane stopped dead, and Jo Lask stood in eight inches of dead water in a lane that was now going nowhere at all with his arms out.
 
 The water around him started going in a circle.
 

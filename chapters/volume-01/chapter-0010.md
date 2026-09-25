@@ -86,7 +86,7 @@ Mara Quill was in the corridor outside, in a coat that had been worn for two day
 
 "Go on."
 
-"I am going to file a supplemental application for a temporary stay. Not an objection. Not a review. A stay, limited to the period until the next timetable review on the twenty-eighth, on the grounds that the order's account is incomplete and that the incompleteness is material." She looked at him. "A stay does not suspend the order. A stay prevents the route being re-cut around the service court before the hearing. In four days, when the hearing sits, I have to win, or the stay dies and everything after today is a description of a place that used to exist. And if the hearing finds against me, the review stops being about the ninth and becomes about me, and I lose preferred access, which means I never again get to walk into a file in Crown Heights without a supervisor standing at the door, and I go back to intake. I do not go on to anything. That is the whole of the price."
+"I am going to file a supplemental application for a temporary stay. Not an objection. Not a review. A stay, limited to the period until the next timetable review on the twenty-eighth, on the grounds that the order's account is incomplete and that the incompleteness is material." She looked at him. "A stay does not suspend the order. A stay prevents the route being re-cut around the service court before the hearing. In four days, when the hearing sits, I have to win, or the stay dies and everything after today is a description of a place that used to exist. And if the hearing finds against me, the review stops being about the ninth and becomes about me, and I lose preferred access, which means I never again get to walk into a file in Crown Heights without a supervisor standing at the door, and I go back to intake. I do not go on to anything. That is the whole price and there is no discount on it."
 
 "Then do it."
 
@@ -128,7 +128,7 @@ And Owen Fitch came out on the landing above, four storeys up, and looked down a
 
 Milo went up.
 
-They talked on the landing for twenty minutes with the river going past below them and the court behind them and the whole of it in view, and Owen Fitch said almost nothing, and then at the end he said:
+They talked on the landing for twenty minutes with the river going past below them and the court behind them and all of it in view, and at the end of it Owen Fitch said:
 
 "You've written *one household*."
 
@@ -136,19 +136,77 @@ They talked on the landing for twenty minutes with the river going past below th
 
 "And there's no name on it and no address and no initials and no nothing, and that's not a mistake, that's a hole you made on purpose so that there's a place in your paper where I am and nobody can use it."
 
-"Yes."
+"It's not clean," Milo said. "You know it isn't, because you read it off Quill's sheet in the yard yesterday. What I have on that paper is nothing at all. What the Registry has is your initials on the fifth, under an inspection of one shift, and a chainage, and a finding about persons in temporary accommodation, and no name and no address against your initials anywhere on the page."
+
+"And if somebody comes with a warrant and asks the Registry who F. was."
+
+"Then you're a set of letters on a works inspection with a date and a place, the way every other person who ever stood in a yard is a set of letters on a works inspection." He hooked his thumbs over the rail, which was a thing he did instead of putting his hands in his pockets. "I checked it. That is all I have for you, and it's smaller than the fifth's page and I can't make it any bigger without writing your name somewhere, and that is the trade and you don't have to take it tonight."
+
+"Take it," said Owen Fitch. "Put *one household refused* in, and put the initials you already have against it in the same line of the report, like I said in the yard, and leave the right-hand third where it is."
 
 "And you told Quill before you told me, and before that you told the marshal, and the marshal's got it in a book now."
 
 "Yes," Milo said. "If it's only in your head it's a favour. If it's in three books where it can't be got at, it's a record, and a record can be argued with. A favour can only be refused."
 
-He looked out at the river for a while.
+He looked out at the river for a while, down past the yard where eleven people were still standing about with eleven inches of paper in their hands.
 
-"My mother used to check that stairwell," he said. "Three times a night, before. And nobody's checked it since, because the woman who does it is on the third floor and she's got the flu and there's a boy with a blanket." He went back in, and shut the door, and then opened it again. "I'll do the third floor. Once a night. Not the whole thing. And I'm not doing it for you and I'm not doing it for Quill, and if you write that down I'm going to want to know what the next line is, because you never put a blank in anything in your life and I'm waiting to see what the blank is for."
+"You've written her down as a term," he said.
 
-"The blank's for people who aren't here yet."
+"I have."
 
-"Huh," said Owen Fitch, and shut the door.
+"*May stop any night without notice.*" Owen recited it without looking at the sheet, which meant he had read it for a long time. "And she's ill."
+
+"She's got a fever and a boy and three floors of stairs, and she has never once asked anybody to take a turn at it, and she will not ask you, and she told me to my face."
+
+"Then the term is live and nobody is holding it. She's stopped asking. She's stopped and she hasn't told you, because nobody tells you anything, Rook, that's the whole finding of the last four days." He turned round. "You've a plan here with nobody doing the doors in it."
+
+"I know."
+
+"How do you know?"
+
+"Because it isn't in the margin. I have looked for it twice since I wrote that line and there is nowhere on that sheet that says what happens to this on the morning Ada Fenn does not go up." Milo turned with him. "I drew a handrail and called it a plan and I thought the terms line was the honest part. It isn't. The honest part is the bit I left out, and I left it out because I could not make it fit in a column."
+
+Owen Fitch did not say anything for a while.
+
+"Then it isn't a plan," he said. "It's a list of people you're standing on."
+
+"Yes."
+
+"Whose are the four names?"
+
+"Fenn, Lask, Rusk, Marr."
+
+"And the fifth line is me."
+
+"And the fifth line is you, with nothing on it, and I am not going to put anything on it. Which is why I have been standing on this landing for twenty minutes instead of going downstairs."
+
+"Say it, then."
+
+"Take the third floor off her." Milo said it with no version of it ready. "Not for the record. Not as a term. Once a night, on your own way up, and you stop whenever you want to stop. And if anybody ever asks you why, you tell them you are the man who refused to be entered. That's true, and my handwriting isn't anywhere in it."
+
+"You want me to take a job so that nobody in the building has to say out loud that the plan depends on her."
+
+"I want that said too. Out loud. In the yard, in front of the people who are about to walk through it." He heard himself doing it, and did not stop. "I'd like it written down in the same hand as the refusal, because it comes off the same man, and I can't do that either, and that is the part I have been standing here about. Anybody reading that sheet would not be able to tell which of us is protecting her and which of us is protecting me, and I would rather the sheet said so honestly than have me draw it in two tidy columns."
+
+Owen Fitch looked at him for a long moment.
+
+"Third floor," he said. "Once a night, going up. Not the ground floor. And I'll stop when I like, and if any of that goes in your paper I'll say I never said it."
+
+"None of it goes in."
+
+"You'll do the correct thing and then you'll do the other thing, like you did with the reaches."
+
+"Yes," said Milo Rook. "Probably."
+
+"And that empty third down the right-hand side. What's that for?"
+
+"People who aren't here yet."
+
+"You don't know who any of them are."
+
+"No," said Milo. "It's the only part of the sheet I could put a straight line under."
+
+Owen Fitch went back in, and shut the door, and then opened it again, and said, "You can tell Fenn herself. Not the yard. If it goes round the yard she stops doing it altogether, and then you'd be doing it to prove a point, and she'd be the one who paid for it."
 
 ---
 
@@ -176,7 +234,7 @@ He got back on the bicycle.
 
 At nine o'clock that night, in a corridor in Crown Heights, Mara Quill filed her supplemental application for a temporary stay, and it was granted at ten past two the following afternoon, and it runs until the timetable review on the twenty-eighth of Sazur and no longer, and it prevents the route being re-cut around the service court, and it does not restore a name, and it does not lift the order, and it does not say that a street exists.
 
-It is the smallest thing she has ever filed and it is the first thing she has ever filed that she believes will hold.
+It is two pages, and it is the smallest thing she has ever filed, and she read it back to herself in the corridor twice to check that there was nothing in it she could not afford to lose.
 
 He ate at the counter of the Ferry Road pie shop on the eleventh and the twelfth and the thirteenth, because the pie shop is between the chandler's and the blue door, and because a counter is a fixed thing with a fixed view of a door, and because the four hundred metres between the two were four hundred metres he could not be trusted with.
 
@@ -194,7 +252,7 @@ Milo looked at the door, which was eleven feet away, and could not have said wit
 
 She wiped the counter, came round the end of it, and took her cardigan off the back of the stool. "Then I'll walk you round the corner, because the corner is the hard part, and after the corner you've got the chandler's, and the chandler's you know. And I'm not going to talk to you, because there's nothing to say and you'd only answer me polite and be standing in a road again."
 
-So she walked him round the corner, and turned back at the chandler's, and said, "Blue door's the one with the plate gone off it," and that was the whole of the help she gave him and it was more than he had expected from anybody that week. He slept nine hours on the second night, which was more than he had slept in one go in three weeks. And on the way back on the third evening he stopped at the pie shop again for the length of one cup of tea, and he has not entirely decided whether that is a solution or a new problem.
+So she walked him round the corner, and turned back at the chandler's, and said, "Blue door's the one with the plate gone off it," and that was all the help she gave him, and it was more than he had expected from anybody that week. He slept nine hours on the second night, which was more than he had slept in one go in three weeks. And on the way back on the third evening he stopped at the pie shop again for the length of one cup of tea, and he has not entirely decided whether that is a solution or a new problem.
 
 On the thirteenth, the day before the hearing, Mara sent for him and would not let him read it anywhere else.
 
@@ -242,7 +300,7 @@ And underneath it: *Lower mark. Different lead, different pressure, different ha
 
 "So I don't know who asked which question, and I don't know whether either of them is asking me, and I don't know whether it is one man with two pencils or two men at one table, and if I take this to the fourteenth and say *the same hand*, I will be relying on a comparison of a hand, and a hand is not evidence, and I have watched a man in this building lose a case on a hand."
 
-She put her pen down.
+Mara shut the cover on it.
 
 "Then do not take it to the fourteenth," she said. "Take the attachment in as an attachment. Let the questions sit on the page. And when somebody in this building eventually asks you whether the annotating hand is one person, you will have a piece of paper that says *I do not know*, in your own writing, dated, from the day before anybody asked you."
 

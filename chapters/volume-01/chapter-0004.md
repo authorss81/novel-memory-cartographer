@@ -82,7 +82,7 @@ He wrote under it: *Incomplete. Does not say who is counting or what. Do not bui
 
 He went to the hoarding door. He did not go through it.
 
-He put his hand flat on the iron and said, out loud, in a voice that came out cracked: "Pell."
+He set his palm against the cold iron and said, out loud, in a voice that came out cracked: "Pell."
 
 And then, because he had no idea what the correct form of this was and no time to find one, he said: "I am at the third door and I am not taking it. I am at the service court, the one with the washing line, and there are three doors and the third one is the one you don't fill. I can see the numbers. I can see the pump shed. Tell me if that's wrong."
 

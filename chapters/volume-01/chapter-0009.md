@@ -6,7 +6,7 @@ They were looking at a trestle table with a Registry cloth over it, on which the
 
 That was the day. That was what the ninth of Sazur looked like: forty contractor's men at a three o'clock briefing, a Recovery officer with a clipboard, two Registry observers, Jo Lask's tram standing dead on the detour with the lamps on, five Streetkeepers who had turned up in their own clothes, and about thirty people from Cedar Court who had come to find out whether a court was still a street.
 
-Milo had not slept since the morning of the sixth. He had eaten something at eleven. His hand was bandaged and his left eye had a slow light behind it that came and went, and he had written the route from the clinic to this trestle table out three times on the back of a handbill and could not confirm any of it, so he had asked Pell to come and stand at the top of the ramp, and Pell was there, and had been since half past two, and had said nothing about it.
+Milo had not had a whole night since the morning of the sixth. He had eaten something at eleven that morning. His hand was bandaged and his left eye had a slow light behind it that came and went, and he had written the route from the clinic to this trestle table out three times on the back of a handbill and could not confirm any of it, so he had asked Pell to come and stand at the top of the ramp, and Pell was there, and had been since half past two, and had said nothing about it.
 
 "Right," Milo said. "Let's find out what this is for."
 
@@ -22,7 +22,7 @@ The finding said *for the protection of persons in temporary accommodation*, and
 
 "There isn't a second half."
 
-"There's a second half. It's: if the answer is that it does affect them, then what happens. And if the answer is that it doesn't, then the order goes ahead at the fourteenth and the culvert gets opened out for the test on the twenty-second and there's a flood in it, and about two hundred people sleep in a building with a footpath behind it." He looked at her. "Both of those are the answer. The second half is just: the order is still valid either way."
+"There's a second half. It's: if the answer is that it does affect them, then what happens. And if the answer is that it doesn't, then the order goes ahead at the fourteenth and the culvert gets opened out for the test on the twenty-second and there's a flood in it. Your forty-one are not the ones who go first, either. The water takes the low streets off that court before it reaches a fourth-floor landing, and the levy households down there are holding two hundred and something in temporary rooms this month, and none of them is on a page of yours and none of them has a tenancy file." He looked at her. "Both of those are the answer. The second half is just: the order is still valid either way."
 
 She did not look away.
 
@@ -48,7 +48,7 @@ The destination was on no map in the Civic Atlas Office. He knew that in about a
 
 "You can. You've just read it."
 
-"I can read it. I can't say it out loud on a trestle table in front of eighty people because the second I say it, it is a road I have asserted, and the second that is a road, the order is wrong, and the order being wrong is the *only* reason anybody in this yard would ever be able to fix this by anything other than a flood." He put his hand flat on the wallet. "It's in your attachment. It came out of an older survey book. Nobody has looked at it in six years because it was a maintenance schedule for a pump, and it is exactly the sort of thing that ends up carrying a name that got carried with it."
+"I can read it. I can't say it out loud on a trestle table in front of eighty people because the second I say it, it is a road I have asserted, and the second that is a road, the order is wrong, and the order being wrong is the *only* reason anybody in this yard would ever be able to fix this by anything other than a flood." He took the wallet off the trestle and held it against his chest with his bandaged hand. "It's in your attachment. It came out of an older survey book. Nobody has looked at it in six years because it was a maintenance schedule for a pump, and it is exactly the sort of thing that ends up carrying a name that got carried with it."
 
 "And if you used it? For the demonstration."
 
@@ -76,7 +76,7 @@ Pell and four Streetkeepers with the return mark, moving it up the ramp on a sch
 
 Ada Fenn, who had come down in a clean coat and had refused to go within twenty feet of the water, describing the door-check.
 
-And Milo, on the near side, with his back to the crowd, calling the interval out of his own throat in three, which is the only thing he could contribute that afternoon, and which was not enough and was the correct amount.
+And Milo, on the near side, with his back to the crowd, calling the interval out of his own throat in three, and nothing else, for the whole of that afternoon.
 
 The public entrance was the service door, and it was a real door, and it opened on a real landing, and it was a door in a wall in Alder Quay, and Milo chalked its frame and said so, out loud, to the yard, twice.
 
@@ -138,15 +138,25 @@ Nobody spoke.
 
 Mara Quill's pen stopped moving.
 
-"You're not on a list," she said. "I want to be clear about that, and I want it minuted. There is no list. There is a report, and the report is going to record that one household refused to be entered, and refused means the record has a hole in it where an address should be, and that hole is going to be visible to every official who reads that file for the next twenty years."
+"You're not on a list," she said, and then she stopped, because her own hand had put his initials on a Registry instrument at first light on the fifth, and she had read that page twice and signed it, and she went into the satchel and brought out the folded instrument and looked at it in the open. "Mr Fitch. Come and read the top of it."
+
+She held it out and did not let go of it until he had it flat against his own two hands, the way you hand somebody a plate of glass.
+
+"Fenn. Marr. Fitch. Rusk. Lask," he read, in the order it was written. Then he did not move.
+
+"That is an emergency inspection of one shift, authorised at the old service court for the end of the working day on the ninth, and it names five people, and you are the third set of initials on it. It came down with the order and I agreed to it, and I did not have to name you, and I named you anyway, because the finding said *for the protection of persons in temporary accommodation* and you were one."
+
+"That was the fifth."
+
+"The fifth. You were a person in temporary accommodation and there was no wording that got you into that yard without initials, and I want it minuted that I have not been hiding it. It has been in the satchel since the fifth." She held the page out. "There is no list of residents. There is an inspection sheet, and your initials are on it, and I cannot get them off it, and neither can you, and neither can Rook, and the only thing anybody in this yard can still do is write a line in the inspection sheet that says one household refused to be entered, in full, and be able to stand behind it. That line is going to cost you the address anyway, and now it is going to cost you the initials too, and I would rather you heard that from me in a yard full of people than out of a file in six years."
 
 "Good," Owen said.
 
 "That is not free, Mr Fitch. That is expensive, and you know what it is going to cost, and I am telling you what it costs now because nobody in this yard is going to tell you honestly and I am not going to let you find out in ten years."
 
-"I've got nowhere to live but that anyway," Owen said. "Where would the address be? On the fourth landing of a converted pump works with a stairwell that a woman called Fenn checks every night, at an address I can't give you because the room's not in a register, and where I sleep is my business and not yours." He looked at Milo for the first time. "You can put *one household refused* and that household's name can be the only thing in the whole of Alderquay I've ever wanted written down."
+"I've got nowhere to live but that anyway," Owen said. "Where would the address be? On the fourth landing of a converted pump works with a stairwell that a woman called Fenn checks every night, at an address I can't give you because the room's not in a register, and where I sleep is my business and not yours." He looked at Milo for the first time. "And there is no point in any of you protecting me now, because you already wrote me down on the fifth, and you did it to keep me out of a worse file, and I have spent four days making sure it could not be got at, and there it is in your satchel in front of me." He put his hands back in his pockets. "Put *one household refused*. And put the initials you already have against it, in the same line, so that whoever reads it in twenty years can see that I knew I was on your sheet and said it out loud and said no anyway. That is the only thing I have ever wanted written down."
 
-He walked away. Not into the court and not out through the door. He went up off the flat ground onto the embankment ramp and away along the ordinary road, the way a man goes home, at a walking pace, in front of eighty witnesses, and there was nothing anybody could do about it, and the yard watched him go.
+He walked away. Not into the court and not out through the door. He went up off the flat ground onto the embankment ramp and away along the ordinary road, the way a man goes home, at an ordinary pace, in front of eighty witnesses, and there was nothing anybody could do about it, and the yard watched him go.
 
 She wrote one line in the sheet and put her pen down and did not pick it up again for some time.
 
@@ -186,11 +196,11 @@ Lena Marr was standing at the X, very white, and had been the one nearest the do
 
 "Say it," she said. "Whatever it was. Say what it was or somebody will say it wrong."
 
-Milo swallowed, and looked at the crowd, and made himself do the thing that was going to cost him the most that day, which was to describe his own method out loud in a yard full of strangers.
+Milo swallowed, and looked at the crowd, and made himself describe his own method out loud, in a yard full of strangers, with nobody there to correct him.
 
 "It offered me a door," he said. "Not a street. A door. It wanted somebody to open it and answer it, and if we'd answered it, we'd have got a turn out of it, and the turn would have been mine, and I would have been standing in this yard with a line I'd drawn and it would have looked exactly like a restoration." He held up the chalk. "And the reason I'm not holding a resolution is that I'm tired and I've been across twice and my sense of direction is gone, and because a line that can be drawn by one tired man on an afternoon is not a road, it's a piece of chalk."
 
-The yard took that badly, which was correct. Somebody at the back said *that's all you've got?* and a woman said *that's all any of us have got* and they argued for a while.
+The yard took that badly. Somebody at the back said *that's all you've got?* and a woman said *that's all any of us have got* and they argued for a while.
 
 Danner came up to the trestle table and looked at the notice and then at the gate log and then at the marshals.
 
