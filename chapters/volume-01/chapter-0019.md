@@ -10,17 +10,17 @@ Lena Marr came back from the low streets at twenty past four in the morning of t
 
 Mara Quill said, "Did you tell her?"
 
-"I told her at half past ten this morning and I told her in about four sentences because I had them ready and because I have had six years of practice at being the person who says a thing to somebody in four sentences, and I have never once been glad of it." Lena looked at the tea. "She asked me three questions. She asked whether anybody had been to see him. She asked whether they'd paid. And she asked where he was buried."
+"I told her at half past ten yesterday morning and I told her in about four sentences because I had them ready and because I have had six years of practice at being the person who says a thing to somebody in four sentences, and I have never once been glad of it." Lena looked at the tea. "She asked me three questions. She asked whether anybody had been to see him. She asked whether they'd paid. And she asked where he was buried."
 
 "And?"
 
-"And I couldn't answer the third one, and I've had four hours to try." Lena put the cup down on the step. "Tomas's roll gives me her name and her address on the closure night. The district gives me a disposal authority for a body recovered from the culvert, and the disposal authority names a cemetery, and the cemetery's register for that district was not kept after the closure because the district was not a district any more, and so there is a man who worked a pump for thirty years, whose widow has been eleven years in four rooms behind a boatyard, and there is no record anywhere in Alderquay of where they put him."
+"And I couldn't answer the third one, and I've had eighteen hours to try." Lena put the cup down on the step. "Tomas's roll gives me her name and her address on the closure night. The district gives me a disposal authority for a body recovered from the culvert, and the disposal authority names a cemetery, and the cemetery's register for that district was not kept after the closure because the district was not a district any more, and so there is a man who worked a pump for thirty years, whose widow has been eleven years in four rooms behind a boatyard, and there is no record anywhere in Alderquay of where they put him."
 
 Rue said, "That's a filing cabinet, not a grave."
 
 "I know it's a filing cabinet. I've been in a Registry records alcove with a woman who's spent six years finding out what's in filing cabinets." Lena's voice went, briefly, and came back. "I told her I would find out. And I want it on the record in this yard that I said it, and that I don't know whether I can, and that I said it anyway, because that's the whole of what I have ever been able to give anybody and I'd rather give it than promise it."
 
-She drank her tea then, all of it, in about four seconds, the way a person does when they have been sitting on something for four hours.
+She drank her tea then, all of it, in about four seconds, the way a person does when they have been sitting on something for eighteen hours.
 
 "She's alive," she said. "That's the sentence. Whatever else there is, she's alive, and nobody had told her, and it isn't a ghost and it isn't a mystery, it's a ledger line with *pending* on it and a man who was told to keep a book and didn't open it, and I would like it observed that she asked me whether he'd been paid, which means that in this city a woman expects to be paid before she expects to be told."
 
@@ -70,7 +70,7 @@ Milo turned the certified copy over, and the light went through the paper, and h
 
 "And?"
 
-"And I have got four documents now, and every one of them has the same note against it, and the note is *consistent with, not sworn to, and no more than that*, and I have written it four times, and I am aware that I want a fifth." He put the pen down. "And I am not going to chase it today, because in seven hours the gate is wound out."
+"And I have got four documents now, and every one of them has the same note against it, and the note is *consistent with, not sworn to, and no more than that*, and I have written it four times, and I am aware that I want a fifth." He put the pen down. "And I am not going to chase it today, because in fourteen and a half hours the gate is wound out."
 
 ---
 
@@ -100,7 +100,7 @@ She had come down in her coat to find Rue and she had said, "Take my name off it
 
 "You don't have to."
 
-"I want it off." She had a cardigan on over her arm, which was the one she had gone back in for, and she had washed her face. "I was on the second floor nine days and I have not been out of my own front door since and I am not going to be able to, not for a while, and there is no sense in a piece of paper going up four flights of stairs for somebody who can't answer the door."
+"I want it off." She had a cardigan on over her arm, which was the one she had gone back in for, and she had washed her face. "I have been on the second floor three days and I have not been out of my own front door once since, and I am not going to be able to for a while, and there is no sense in a piece of paper going up four flights of stairs for somebody who can't answer the door."
 
 "Anyone can cross their own name off," Rue said. "Nobody else crosses it for them."
 
@@ -108,7 +108,7 @@ She had come down in her coat to find Rue and she had said, "Take my name off it
 
 Milo Rook was not in the yard when it happened. He heard about it from Rue on the ferry steps at half past four, and he asked whether anybody had said anything, and Rue said that Owen Fitch had said one thing, which was that a list with a line through it on it was worth more than a list with a name on it, and that he had said it to Ilse Oller and not to the yard, and that he had not come down for it.
 
-By nine o'clock that night the paper had a name on two of its five lines, and one of the two had been struck through in pencil in the woman's own hand, and the fourth floor and the fifth floor of a five-storey building had nothing against them anywhere in the district. The round was two out of four. It had not run on the twenty-first, and it would not run on the twenty-second, because the works footprint was shut and the reason it would not run was a floodgate test.
+By nine o'clock that night the paper had a name on three of its five lines, and one of the three had been struck through in pencil in the woman's own hand, and the fourth floor and the fifth floor of a five-storey building had nothing against them anywhere in the district. The round was two out of four. It had not run on the twenty-first, and it would not run on the twenty-second, because the works footprint was shut and the reason it would not run was a floodgate test.
 
 ---
 
@@ -138,6 +138,6 @@ Milo Rook stood at the bottom of the steps with a folder under his arm and had n
 
 "Mr Rook," Orrin said, from the step. "You did what I asked and I am not going to pretend it changed anything, and I want to be exact about why, because I have read your page and you have read mine and we have both been scrupulous and it has got us exactly nowhere.
 
-"Your map is legible and mine is lawful. The road is the road and the order is the order, and in five hours the whole structure comes out to full flow, and the thing we are both standing next to is a door that neither of us is allowed to close. So say to them what you like, and I shall read it in a file in a week's time, and neither of us will have said the thing that matters, and that is the correct outcome of an honest dispute in a district with six days' notice and no variation."
+"Your map is legible and mine is lawful. The road is the road and the order is the order, and in an hour the whole structure comes out to full flow, and the thing we are both standing next to is a door that neither of us is allowed to close. So say to them what you like, and I shall read it in a file in a week's time, and neither of us will have said the thing that matters, and that is the correct outcome of an honest dispute in a district with six days' notice and no variation."
 
 The works bell went at ten to six, and Danner's men started the winch, and Milo Rook stood in a yard and understood that on this particular morning he had been on the wrong side of the correct procedure, and that the correct procedure had been built by people who had watched a man with a lever once.

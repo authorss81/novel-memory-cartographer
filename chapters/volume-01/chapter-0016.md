@@ -6,7 +6,7 @@ Mara Quill had been in the building since half past six in the morning and she h
 
 "You don't have to—"
 
-"I have wanted to do this since the sixth." She turned the sheet round. "This is a copy of the intake routing slip for the Bellwether file, dated six years ago, and I have taken it out of the file four times since the fourteenth and read it, and I did not take it out of the building, and I want that on the front of what I am about to say."
+"I have wanted to do this since the sixth." She turned the sheet round. "This is a copy of the intake routing slip for the Bellwether file, dated six years ago, and I have taken it out of the file four times since the hearing and read it, and I did not take it out of the building, and I want that on the front of what I am about to say."
 
 "Four times."
 
@@ -24,11 +24,11 @@ Milo looked at it for a long time.
 
 "What does that look like?"
 
-"It looks like two letters, and the first has a straight left side." She took her hand off it. "There. Now you have it and I have said it out loud, and I want you to understand what it has cost me to say it, because I have been carrying it alone for four days and there is nobody in the Registry I can hand it to. The review panel cannot have it, because the review panel is being run by Continuity Records and would give it to whoever it likes. The Bench cannot have it, because the Bench is the fourteenth and it is over. My own supervisor cannot have it, because — " she stopped, and started again — "because in six years my own supervisor has never once read a page in a file she routed, and if I hand her one now, that is what I will be told, and it will be true, and it will be the last thing I do."
+"It looks like two letters, and the first has a straight left side." She took her hand off it. "There. Now you have it and I have said it out loud, and I want you to understand what it has cost me to say it, because I have been carrying it alone for three days and there is nobody in the Registry I can hand it to. The review panel cannot have it, because the review panel is being run by Continuity Records and would give it to whoever it likes. The Bench cannot have it, because the Bench is the fourteenth and it is over. My own supervisor cannot have it, because — " she stopped, and started again — "because in six years my own supervisor has never once read a page in a file she routed, and if I hand her one now, that is what I will be told, and it will be true, and it will be the last thing I do."
 
 "Mara."
 
-"Two more things and then you can say whatever it is you came to say." She put the sheet face down. "Second: I have not told the review. That is a disciplinary matter and I know it is a disciplinary matter and I have decided to hold it, and I want you to understand that I have made that decision about eleven times in four days and each time I have talked myself out of it using a different and increasingly poor argument. The best of the arguments is that if I am finished, the file is finished. That is a bad argument. It is the argument I would use on someone else."
+"Two more things and then you can say whatever it is you came to say." She put the sheet face down. "Second: I have not told the review. That is a disciplinary matter and I know it is a disciplinary matter and I have decided to hold it, and I want you to understand that I have made that decision about eleven times in three days and each time I have talked myself out of it using a different and increasingly poor argument. The best of the arguments is that if I am finished, the file is finished. That is a bad argument. It is the argument I would use on someone else."
 
 "And the third thing?"
 
@@ -104,7 +104,7 @@ The yard was very quiet.
 
 ---
 
-The yard at six in the evening on the nineteenth had twenty-two people in it, which was the most it had held since the ninth, and it held them because Lena Marr had said in the morning that the twenty-second was eight days off and that people were entitled to know what was going to be attempted in front of them.
+The yard at six in the evening on the nineteenth had twenty-two people in it, which was the most it had held since the ninth, and it held them because Lena Marr had said in the morning that the twenty-second was three days off and that people were entitled to know what was going to be attempted in front of them.
 
 Milo Rook had come down with a table leg out of the chandler's yard, and Rue had folded the accountancy paper out of the satchel and pinned it to the wall of the porch with four drawing pins, and the yard looked at it while he talked.
 
@@ -148,4 +148,4 @@ And from the yard, over the low wall, from the flat ground above the service cou
 
 "Tuesday," he said. "That is what it sounded like on Tuesday. That is the pitch of it exactly."
 
-Milo Rook stood in a yard with a table leg and twenty-two people in it and did not say the sentence, because he had promised on the tenth to say it out loud, in a yard, before the twenty-second and not after, and he had six days' notice that he had made that promise to a man with two files and a bad conscience in a corridor, and he had not yet worked out how a man says a thing out loud in a yard of people he has let down twice without it being a speech.
+Milo Rook stood in a yard with a table leg and twenty-two people in it and did not say the sentence, because he had promised on the tenth to say it out loud, in a yard, before the twenty-second and not after, and he had nine days' notice that he had made that promise to a man with two files and a bad conscience in a corridor, and he had not yet worked out how a man says a thing out loud in a yard of people he has let down twice without it being a speech.

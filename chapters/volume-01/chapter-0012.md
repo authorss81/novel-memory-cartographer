@@ -166,10 +166,10 @@ They walked back down to the water together because Owen was going that way anyw
 
 "You'll not find one. The register says—" Mara stopped, and Milo, walking on their right, watched her arrive at the edge of a thing she could have said on the fourteenth and had not, in a room.
 
-"The register says the head of household for that block is the oldest man in it," she said, "and he is asleep on the third floor, and he has been asleep since Tuesday, and there is no provision in any document in this building for asking a man who is asleep to sign something."
+"The register says the head of household for that block is the oldest man in it," she said, "and he is asleep on the third floor, and there is no provision in any document in this building for asking a man who is asleep to sign something."
 
-"Was he awake before Tuesday?" Milo said.
+"How long has he been asleep?" Milo said.
 
-"He was awake on Saturday. He asked Owen for a light." Mara shouldered her satchel. "He is sixty-eight years old, Mr Rook, and the reason nobody has been able to speak for that block for six years is that the only person the city recognised as able to speak for it has been asleep since the night of the closure, and every clerk who has come to that counter since has been entirely correct, and every one of them has gone away again."
+"Six years, and there is one exception." Mara shouldered her satchel. "He was awake on Saturday the sixth. He asked Owen for a light. He is sixty-eight years old, Mr Rook, and the reason nobody has been able to speak for that block in all that time is that the only person the city recognised as able to speak for it has been asleep since the night of the closure, and every clerk who has come to that counter since has been entirely correct, and every one of them has gone away again."
 
 Owen Fitch said, from the other side, without stopping: "He's not asleep. He's asleep and I'm three doors down. That's not the same as him not being there, and it's not the same as him being available, and I'd thank you not to write him down as either one."

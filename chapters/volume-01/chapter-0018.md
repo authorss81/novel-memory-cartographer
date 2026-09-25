@@ -50,11 +50,11 @@ The marshal said, "Is that a thing somebody wants in a record?"
 
 ---
 
-The round did not run on the twenty-first, because two thirds of its route was inside the works footprint and the works footprint was sealed at four o'clock for the test, and Rue had said so at nine in the morning in a chandler's yard in nine words: *I've not got a round. I've got a list and nowhere to put it.*
+The round did not run on the twenty-first, because two thirds of its route was inside the works footprint and the works footprint was sealed at four o'clock on the twenty-second for the test, and Rue had said so at nine in the morning in a chandler's yard in nine words: *I've not got a round. I've got a list and nowhere to put it.*
 
 She put the accountancy paper on the porch wall of Cedar Court at half past seven in the evening with four drawing pins in it, and the third-floor line had a new line under it in a different hand, and the new line said *Wed: Rue* and had no times on it and no terms.
 
-Six lines. Nine people. A round that had not run since Friday.
+Five lines. Nine people. A round that had not run since Friday.
 
 The marshal came at half past seven with a stamp and a sheet of signatures, and Milo Rook looked at the sheet and then at the yard and said, "There isn't any authority for this."
 
@@ -82,7 +82,7 @@ The ground floor came out in eleven minutes and it was the least dramatic eleven
 
 The second floor came out in nine.
 
-The third floor took forty minutes, because Ada Fenn did it her way and at her speed and would not be hurried, and she went up with a lamp and she called the floors out loud the way she had taught a surveyor to do on the fourth of Sazur, and she brought down four people and a cat in a laundry bag, and she did not once ask anybody to help her.
+The third floor took forty minutes, because Ada Fenn did it her way and at her speed and would not be hurried, and she went up with a lamp and she called the floors out loud the way she had taught a surveyor to do on the fourth of Sazur, and she brought down four people, and a cat in a laundry bag, and she did not once ask anybody to help her.
 
 The count was Rue's, from the top of the path by the second hatch, with the lamp and a trade counter, and she was good at it, and at the second call she came in four seconds slow and nobody had noticed and Milo had.
 
@@ -164,7 +164,7 @@ He was standing at the end of the yard with the bicycle bell in his hand and he 
 
 Nobody had said a word.
 
-Then Ada Fenn said, from the bottom of the outside stairs, with a laundry bag over her arm and a cat complaining in it, "Right. The drill is finished. Not the round and not the door-check and not the count, the drill. It's finished and I'm calling it and there's a person on those stairs who is going to bed now and she is not going up them alone, and Owen's coming with me because he's here, and none of you are going to help and I'll not have it."
+Then Ada Fenn said, from the bottom of the outside stairs, with her hand on the laundry bag over Owen's arm and a cat complaining in it, "Right. The drill is finished. Not the round and not the door-check and not the count, the drill. It's finished and I'm calling it and there's a person on those stairs who is going to bed now and she is not going up them alone, and Owen's coming with me because he's here, and none of you are going to help and I'll not have it."
 
 She went up. Owen Fitch went up behind her. And the yard stood about on the wet ground in the rain and did not make the sort of noise a yard makes when something has worked.
 

@@ -36,7 +36,7 @@ It was a child's, and it had been in the slot for nine days, and the enrolment d
 
 "Then it's gone," Milo said.
 
-"It's not gone, it's nine days late, and a school is not a court, and a school keeps a place for a child for eleven days and then it gives it away." Rue said it without any heat at all, which was the way she said everything. "Her mother's been down twice. The first time the woman at the door said the child wasn't on the list, and the second time the woman at the door was kinder and said the child would have to be re-enrolled, and the child's mother said she'd lost the paper, and the woman at the door said everybody loses the paper."
+"It's not gone, it's two days late, and a school is not a court, and a school keeps a place for a child for eleven days and then it gives it away." Rue said it without any heat at all, which was the way she said everything. "Her mother's been down twice. The first time the woman at the door said the child wasn't on the list, and the second time the woman at the door was kinder and said the child would have to be re-enrolled, and the child's mother said she'd lost the paper, and the woman at the door said everybody loses the paper."
 
 "They'll take her back in without the paper," Milo said. "Any school in this district will. It's a legal thing to do and every head teacher does it and it takes four minutes."
 
@@ -144,7 +144,7 @@ She put it in the satchel, in the fold, with the nine stops.
 
 ---
 
-"There's six lines on it," Milo said, "and there's forty-one people in that building, and I have got five names."
+"There's five lines on it," Milo said, "and there's forty-one people in that building, and I have got five names."
 
 "Yes."
 

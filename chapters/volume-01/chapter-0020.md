@@ -84,7 +84,7 @@ And the same pair was here, on a bound register in the repository of the Registr
 
 He wrote it down, and wrote the date, and wrote the page, and then he wrote, in his own hand, underneath, the sentence he had now written four times in a fortnight:
 
-*Third document with a pair. Three documents, three pairs, and in every one of them the upper and the lower are in different hands, and in every one of them the lower one asks who gave the order. That is a structure and I am not going to call it a structure, and I want the next one more than I have ever wanted anything, and I am recording on the twenty-second of Sazur that I have lost the ability to tell the difference between a document and a habit.*
+*Second document with a pair. Two documents, two pairs, and in both of them the upper and the lower are in different hands, and in both of them the lower one asks who gave the order. That is a structure and I am not going to call it a structure, and I want the next one more than I have ever wanted anything, and I am recording on the twenty-second of Sazur that I have lost the ability to tell the difference between a document and a habit.*
 
 He gave the register back. The clerk put the lid on the box. The marshal stamped it and it went back up the embankment in a lorry, and a man in a dry coat went to Crown Heights with it, and the copy register of the Registry of Continuance went home to a shelf with eleven days of it unexplained in it.
 
@@ -140,7 +140,7 @@ At the bottom she stopped and looked back up the bank at the works, where the wi
 
 "Will you run the round tomorrow?"
 
-"Two out of four." She shouldered the satchel. "Nine stops, and a list with a name on two lines and one of them struck through, and a five-storey building with three floors of it that nobody's written down, and that's the whole of the arrangement for now, and 'for now' is doing a great deal of work in that sentence. And the twenty-eighth is six days off and the stay's the only thing that's holding the route round that corner, and when that goes I don't know what the round is. Ask me again then."
+"Two out of four." She shouldered the satchel. "Nine stops, and a list with a name on three lines and one of them struck through, and a five-storey building with two floors of it that nobody's written down, and that's the whole of the arrangement for now, and 'for now' is doing a great deal of work in that sentence. And the twenty-eighth is six days off and the stay's the only thing that's holding the route round that corner, and when that goes I don't know what the round is. Ask me again then."
 
 Then she went up the ramp with the lamp going and did not wait, and Milo Rook got on a tram at the foot of the embankment with a folded sheet in his coat and a field book that had been silent since the fourth of Sazur, and rode it down the hill with the whole of the river core laid out flat on both sides of the water, doing exactly what it had been built to do, and everything in it working, and not one part of it knowing his name.
 

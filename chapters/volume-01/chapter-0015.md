@@ -114,7 +114,7 @@ In the yard, on the fourth-floor landing — the real one, the one with the rail
 
 He had it because Milo had asked him, in the yard, on Wednesday, whether it was true that a man went up the third floor at night, and Owen had said yes, and Milo had said *I want to see how it's laid out*, and Owen had said *you've seen the stairs*, and Milo had said *I'd like to see it on a sheet*, and Owen had said *no*, and then, four minutes later, *all right, but you'll bring it back, and you'll not write my name on it, and you'll not tell the yard why you wanted it.*
 
-He had told him his name on it. He had not told him why he wanted it, and Owen had not asked, and had handed it over anyway, on a Tuesday, to a man he had known for a week.
+He had not told him his name on it. He had not told him why he wanted it, and Owen had not asked, and had handed it over anyway, on the Thursday, to a man he had known for a week.
 
 Milo said, "It was a false route."
 

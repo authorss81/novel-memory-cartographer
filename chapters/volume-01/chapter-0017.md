@@ -74,7 +74,7 @@ Then he said, "That's the argument. It's not mine, it's Officer Sable's, and he 
 
 He told them about the rod. He told them about eleven feet, and the lead lateral, and the ground the record does not have. He told them that the official drainage record says the low streets drain west into the culvert along a line laid in 1904 and checked sound, and that the drain opposite the wall with the old paint on it comes up in a dry week and has done for eleven years, and that on Monday morning the works are going to drive a river through a pipe the size of his thumb in ground that is not on the drawing.
 
-He told them that a woman on the second floor went through a wall on Wednesday because of him, and that Ilse Oller was at home and would not come down, and that Ada Fenn had spent an afternoon getting her out, and that this was on the page and a half with his name on it.
+He told them that a woman on the second floor went through a wall on Thursday because of him, and that Ilse Oller was at home and would not come down, and that Ada Fenn had spent an afternoon getting her out, and that this was on the page and a half with his name on it.
 
 And then he said the two sentences he had come down to say.
 
@@ -158,7 +158,7 @@ They looked at each other.
 
 "So whoever wrote the replacement page had your book."
 
-"Or had a page out of it." He shut the wallet. "That's the thing I have not been able to say out loud for six days, Rook, so I'll say it now. Somebody read my book to write that page, and there is only one of it, and it does not leave my house, and that means either somebody sat in my kitchen, and there is a list of who has been in my kitchen, or somebody lifted a page out of it, and it went back in, because it's all there, I have checked it twice, and I would notice."
+"Or had a page out of it." He shut the wallet. "That's the thing I have not been able to say out loud for fourteen days, Rook, so I'll say it now. Somebody read my book to write that page, and there is only one of it, and it does not leave my house, and that means either somebody sat in my kitchen, and there is a list of who has been in my kitchen, or somebody lifted a page out of it, and it went back in, because it's all there, I have checked it twice, and I would notice."
 
 "And the other thing."
 

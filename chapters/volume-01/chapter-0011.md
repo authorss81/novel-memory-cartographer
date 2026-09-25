@@ -2,7 +2,7 @@
 
 The sitting was listed for eleven and began at eleven and finished at twenty to two, and in that time Milo Rook established four things, three of which he had expected and one of which he had not.
 
-The second room of the Hall of Wards held forty-one chairs and had nine people in them, and the nine were a bench of three, a clerk, a Registry solicitor, a Recovery officer who had come to be visible, Orrin Sable with two files, Advocate Quill with one, a surveyor of record who had been asked to sit at the back, and a woman in a blue work coat who had come to the back and said nothing to anybody.
+The second room of the Hall of Wards held forty-one chairs and had ten people in them, and the ten were a bench of three, a clerk, a Registry solicitor, a Recovery officer who had come to be visible, Orrin Sable with two files, Advocate Quill with one, a surveyor of record who had been asked to sit at the back, and a woman in a blue work coat who had come to the back and said nothing to anybody.
 
 Ada Fenn had a fever on the eleventh. On the fourteenth she had come, and she had sat six rows from the back, and Milo had not known she was in the room until he turned round at ten past one to look at the clock.
 
@@ -140,9 +140,9 @@ Orrin got him in the corridor at two o'clock, and did it the way he had done it 
 
 "The chair gave you the floor twice. You were the officer of record and you were asked whether the demonstration of the ninth established that the alignment could be used or could not, and you said that it established neither, and then the chair asked you what you thought it established, and you said that you had not been asleep, and that is a sentence a man says when he has a better one and does not want the cost of it."
 
-"I've got six days."
+"I've got eight days."
 
-"You've got six days and a yard, and the yard is the only place in this district where a thing said out loud stops being a rumour." Orrin had his hand on the door frame and was not looking down the corridor. "I am not asking you to agree with me. I have stopped expecting that. I am asking you to say the sentence in front of the people who are going to be standing behind a wall on the twenty-second, instead of behind me."
+"You've got eight days and a yard, and the yard is the only place in this district where a thing said out loud stops being a rumour." Orrin had his hand on the door frame and was not looking down the corridor. "I am not asking you to agree with me. I have stopped expecting that. I am asking you to say the sentence in front of the people who are going to be standing behind a wall on the twenty-second, instead of behind me."
 
 Milo thought about the woman six rows from the back, and about the fact that she had come to a hearing she had no standing in, on her own feet, with a fever, to watch forty people say things about a lane.
 
@@ -176,7 +176,7 @@ At Alder Quay she got off at the wrong stop for her, on purpose, and stood on th
 
 "Ada—"
 
-"I'm not angry, and I'm not helping, and those are both correct, and I've been ill since Friday, so I'm going to say the true thing and you're not going to like it." She had her hand on the rail. "You've been in front of nine people in that room today and not one of them was a household. There was you, and there was that woman with the file, and there was that man with two files, and there was me, and I'm not a household, I'm a woman in a coat who can't get up three floors. If a thing can't say who's in it, it isn't a thing that can be argued about, it's a thing that gets decided about you."
+"I'm not angry, and I'm not helping, and those are both correct, and I've been ill since Friday, so I'm going to say the true thing and you're not going to like it." She had her hand on the rail. "You've been in front of ten people in that room today and not one of them was a household. There was you, and there was that woman with the file, and there was that man with two files, and there was me, and I'm not a household, I'm a woman in a coat who can't get up three floors. If a thing can't say who's in it, it isn't a thing that can be argued about, it's a thing that gets decided about you."
 
 "I know."
 
