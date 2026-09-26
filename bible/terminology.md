@@ -1005,3 +1005,99 @@ Completed by the office on a Thursday, in about a minute and a half, in a box, w
 ## Cast, and what changed in them
 
 **BETTINA SALLOW, fifty-four, ninth desk on the left — the person the volume's midpoint is named by. Ordinary, has a job, refused three things, gave one, is not thanked, has no power, and is not the woman of fifty-four with a plot number.** **Coll Sarrowe, forty-four — the block's working day and a correct refusal of a figure, and the run on the bank is set facing out and it took him a fortnight to work out and he has not mentioned it. ROY PRYCE, fifty-four — a second box with his name in it, a card in a bin, a hedge of his own he does not want written down, twenty-three weeks exactly past four months, nobody is going to ask him, and the seventy-eight words were not said twice and he did not sign either side and he asked nobody for anything. PELL HARROW, seventeen — asked for one thing in a yard and said no in four seconds and was right, and the cost is that he was asked, and Tern is still not found. CASS ARDERY — said the sentence of the book in nine seconds and is right, and nobody was added above him. THE MAN OF ABOUT FIFTY IN THE ROOM WITH FOUR MACHINES — given a use he did not know the purpose of, and a printed side now describes the office he is in. THE MAN OF ABOUT FIFTY WITH A MOWER — refused to be a party to a boundary and has said he is not going to say it again to anybody. THE MAN OF ABOUT FORTY-ONE ON NO LIST AT ALL — nine words, once in this block, no total printed, and the number of words is nine and the number of occasions is a different number. MARA QUILL, thirty-one — four dashes in a cell with a pen, a district with an address she did not choose, a disagreement a fourth time, unrepaired, colder, and the custody register page untouched for the tenth consecutive block.** **THE FISHMONGER WAS NOT GIVEN A NAME, NOT THANKED, NOT PUT ON A LIST, and did not say the standing answer again. The man of about forty who sweeps the Row has still not been asked for his twenty-eight undated words. The man of about sixty at a shed eleven minutes away still does not know that a piece of paper exists and is not going to be told, and the second side of the sheet is right about every Wednesday because of him. The man of about twenty-six in a high-visibility jacket is not in this block. Barnaby Pike is not in this block, was not sent to, and has not been gone to since the twenty-eighth of August. Sabra Trewin and Garn Ollerton were not asked about anything. Percy did not go out in September and is not an office. Ada Fenn is not named and not referred to, and the count of a woman of sixty-eight on nothing stands at EIGHT.** The standing last line stands, unimproved, in the nine Field Book entries of this block (Chapters 161, 162, 163, 164, 166, 167, 168, 169 and 170; Chapter 165 has none): ***the writer of the map is not the maintainer of anything, and that is a list of about fourteen other people and not one of them has been asked to be on it.***
+
+---
+
+# Volume 03 local register, fifth block (Chapters 171–180) — *A Schedule Is A Thing That Is Either Maintained Or Not Maintained*
+
+## The schedule, and the four printed sides
+
+**A PROPOSAL IS NOT A SCHEDULE AND A SCHEDULE IS A THING THAT IS EITHER MAINTAINED OR NOT MAINTAINED, AND THE SENTENCE IS PRINTED AT THE TOP OF THE INSTRUMENT IN THE OFFICE'S OWN WORDS.** He read it off a board, wrote it on the back of his own hand in pencil, and rubbed it out, because a thing on the back of your hand is a thing on your hand.
+
+> **SCHEDULE OF DISTRICTS — SEASON 4 (PROPOSED)**
+> *Surface and drainage maintenance. Column 3: districts at the present rating. Column 4: districts proposed to be withdrawn from maintenance. **A district is either maintained or it is not maintained.** This schedule is printed from the district list, which is a hundred and forty years old and has never been printed from a list of offices.*
+> *A district with no correspondence address will be completed by this office.*
+
+> **SCHEDULE OF DISTRICTS — SEASON 4 (PROPOSED) — AMENDMENT 1**
+> *Additional entries. Column 4: districts proposed to be withdrawn from maintenance. To be completed by the office. A district with no correspondence address will be completed by this office.*
+
+> *COBB LOCK — District 214. No correspondence address. No maintained works of record. Ground (d). Length of frontage 410 yd. **PROPOSED FOR WITHDRAWAL.***
+> *Person responsible for maintenance up to the date of withdrawal: **none of record***
+
+**THE ELEVEN STREETS IS NOT A DISTRICT ON IT AND NEVER HAS BEEN ON ANY INSTRUMENT IN THIS CITY, AND IT IS ON THE SCHEDULE ANYWAY, IN A REMARKS COLUMN, IN A DARKER TYPEFACE, OFF A CONTRACT.**
+
+> *No district number. No correspondence address. Works contract 3rd qtr (R. PRYCE), expired 31 August. Ground (d). **NOT TO BE MAINTAINED.***
+
+**THE FOUR PRINTED SIDES, DATED, AND THE INHERITED COUNT OF TWO WAS TRUE AS OF THE THIRTIETH OF SEPTEMBER AND IS FOUR AS OF THE THIRTIETH OF OCTOBER: 20 Aug, 17 Sep, 1 Oct, 22 Oct — seventy-one days between the first and the fourth, twice on a wall or a board and twice in a building. ALL FOUR NAME THIS DISTRICT AS A THING THAT IS NOT GOING TO BE MAINTAINED, AND IT HAS NEVER ONCE BEEN ON A PRINTED SIDE AS A PLACE.** A later block may not discharge, vary or withdraw any of them, may not put a counter-statement next to any of them, may not name a person behind the office that completed any of them, and may not make any of them a fraud.
+
+## A length, and a rate, and a sum of money
+
+**A LENGTH IS A THIRD KIND OF PLACE AND IS NOT A REMNANT, AND A LENGTH OF FRONTAGE IN A SCHEDULE OF QUANTITIES IS A FIGURE ABOUT A SET OF WORKS AND IS NOT A FIGURE ABOUT A PLACE.**
+
+> **RETURN OF SCHEDULED WORKS — SEASON 4 (PROPOSED)**
+> *To be completed by the district. State the length of frontage, in yards, proposed for maintenance in the season. A district with no correspondence address will be completed by this office.*
+
+**A SCHEDULE WANTS A QUANTITY, AND A QUANTITY IS A LENGTH, AND THAT IS NOT THE DESIGN WORKING AGAINST ANYBODY, THAT IS A QUANTITY.** Eleven streets: **two thousand three hundred and forty yards.** The bridge: **one thousand and ninety yards.** Cobb Lock: **four hundred and ten yards, which is a quarter of a mile, and a village of a hundred and forty people is not a quarter of a mile of frontage.**
+
+**AND A FIGURE ON A SCHEDULE IS NOT A MEASUREMENT. A FIGURE ON A SCHEDULE IS A PRICED MEASUREMENT. A DISTRICT WITH NO RATEABLE UNIT HAS NO RATE, AND IT DID NOT NEED ONE, BECAUSE THE RATE WAS ON THE CONTRACT, AND THE CONTRACT HAS GONE. THE ELEVENTH STREETS IS NOW A SUM OF MONEY AS WELL AS A ROW AND A BOX AND A NAME, and it is the first thing in eight months that has been about money.**
+
+## One box, and the difference between the two entries
+
+**THE ELEVEN STREETS IS ON THAT SCHEDULE AS A SET OF WORKS WITH A MAN'S NAME IN IT, AND IT GOT IN BECAUSE A CONTRACT EXISTS, AND A CONTRACT HAS A DATE AND THE DATE HAS GONE, AND SO IT HAS A WAY OUT OF IT THAT NOBODY HAS TO DO ANYTHING ABOUT. COBB LOCK IS ON THAT SCHEDULE AS A PLACE WITH NOBODY IN IT, AND IT IS A DISTRICT, AND A DISTRICT IS A DISTRICT FOR EVER, AND THERE IS NO CONTRACT TO END AND NOBODY IN THIS CITY TO WHOM ONE COULD BE GIVEN.**
+
+**A THING THAT IS WITHDRAWN BECAUSE A DOCUMENT RAN OUT CAN COME BACK. A THING THAT IS WITHDRAWN BECAUSE IT IS A PLACE CANNOT COME BACK AT ALL. AND THE DIFFERENCE BETWEEN THE TWO ENTRIES IS ONE BOX, AND THE BOX ON ONE OF THEM SAYS A MAN'S NAME AND THE BOX ON THE OTHER ONE SAYS *NONE OF RECORD*, AND THE ONE WITH THE MAN'S NAME IN IT IS THE EASIER ONE.**
+
+**A DISTRICT WITH A NAME IN A HUNDRED-AND-FORTY-YEAR-OLD LIST CAN BE ENTERED IN A COLUMN, AND A NAME IN A LIST IS NOT A POST, AND THOSE TWO FACTS HAVE BEEN TRUE SIDE BY SIDE SINCE ABOUT 1911 AND NOBODY HAS EVER FOUND IT INCONVENIENT.** *None of record is a true statement, and it is the truest thing on that sheet.* A description of a place is how a person gets found, and a description of a place is correct.
+
+## A schedule has three states and a printed instrument has two of them on it
+
+**A DISTRICT WITH NOTHING TO MAINTAIN CANNOT BE WITHDRAWN FROM MAINTAINING IT.** There is no works contract in eleven streets, so there is no gang, no sheet, no rack, no tin going anywhere and no satchel, and no apparatus on that road that anybody maintains, and there has not been one since the spring. **The withdrawal has nothing to act on and it is correct and it is not curable and it is not a fault.**
+
+**AND IT IS NOT THE SAME AS BEING MAINTAINED. A SCHEDULE HAS THREE STATES IN PRACTICE AND IT IS A PRINTED INSTRUMENT WITH TWO OF THEM ON IT, AND THE THIRD IS A ROAD THAT IS NOT MAINTAINED AND WAS NOT MAINTAINED, AND THE DIFFERENCE BETWEEN THAT ROAD AND A MAINTAINED ROAD IS A LINE IN A COLUMN IN A BUILDING IN CROWN HEIGHTS AND NOTHING WHATEVER ON THE GROUND.** A document that says a thing is going to happen is not the thing happening. **A dash is not a zero. An absence is not a form. A withdrawal of nothing is not a maintenance.**
+
+## Two places, one Tuesday, and they are opposite
+
+**A TUESDAY IS THE ONLY DAY OF THE WEEK HE HAS, AND THE ANSWER IS NOT THAT HE HAS NOT TRIED HARD ENOUGH. HE HAS GOT A TUESDAY.** Mondays and Thursdays are the round. Fridays are the flatbed, four miles the other way and back, and he sleeps in his own bed. Tuesdays are a van that belongs to a firm and has two stops and then the yard. **There is no bus and there has not been one since about 1961.**
+
+*ONE. A village eleven miles the other way.* / *TWO. A building in Crown Heights, about a mile from where that schedule was drafted, and a drawer in it, and a sheet of street numbers in the drawer, and about nine hundred of those drawers in this city.*
+
+**THEY ARE OPPOSITE AND GOING TO ONE OF THEM UNDOES THE OTHER ONE: an objection is the only thing that can stop a schedule, and an objection has to be filed against something, and something has to be addressable, and a number comes out of that drawer — so going to the drawer is how the village gets protected and it is also how the village gets a number, and the number is in every column of every schedule in this city for ever.** *Going and not going are not two halves of one thing. **Going is what un-does it.*** And: **the thing that would tell him which one to do is inside one of the two, and he cannot know without going, and going is the choice.** The village is **eleven miles**; Mireward is four; the two are not folded.
+
+## The refusals, and the three doors
+
+**A LANDING IS NOT A RATEABLE THING. THAT IS NOT MINE. THAT IS A DEPARTMENT'S.** Frontage is a thing you measure along an edge that faces something, and a landing is a place a boat stops, and a place a boat stops is not a length and cannot be put in yards by anybody. **PUT FOUR IN THAT BOX AND IT WILL BE WRONG, AND WRONG IS WORSE THAN A BLANK, BECAUSE A BLANK GETS ASKED ABOUT AND WRONG GETS BELIEVED. THAT IS NOT A RULE I HAVE. THAT IS A TUESDAY.** A mooring number is a place, and a place is a thing you can write to, **and the day you can write to a landing is the day there is somebody to write to about, and there is nobody to write to about.**
+
+**A YARDAGE IS ABOUT NOW. A DATE IS A THING THAT HAPPENED. AND THERE IS NO COLUMN ANYWHERE IN THIS CITY FOR A THING THAT HAPPENED.** And underneath it: **there is a jar on this table with thirty-one years of wages in it in coin and there is no wage and no employer and no name of mine on anything, and there is not one of us in this district that can be produced.**
+
+**NINE WORDS, AND NO TOTAL: *No. I carry them. I have never made one.*** The number of words is nine and the number of occasions is a different number and neither was counted.
+
+**THERE ARE THREE DOORS AND HE HAS KNOCKED ON NONE OF THEM.** A woman of thirty-four in a schoolroom has said no to four people this year and was not asked. A woman of fifty-four at the ninth desk on the left said on the twenty-ninth of September that a second question would get the same answer, **and he did not ask a second question and has not written to her, because a letter would make her a correspondent of this district, and a correspondent of this district is a party, and a party is a person.** A bus goes past the end of the street every twenty minutes on a weekday, two of them a day go eleven miles, and he has been on one of them twice, and he has not used one since the second of January.
+
+## A day is worked from the back
+
+**A DAY IS NOT WORKED FROM THE FRONT. A DAY IS WORKED FROM THE BACK, AND YOU FIND OUT WHAT IT IS GOING TO COST YOU BY WORKING OUT WHERE YOU ARE GOING TO FINISH.** Twenty-six years, four landings, and a different order on a Friday in October than on the Friday before, and nobody said a word about it. **SHE DID NOT TEACH HIM THAT AND SHE DOES NOT KNOW SHE DID IT, AND SHE IS NOT GOING TO COME TO ELEVEN STREETS, AND NOBODY IS GOING TO THANK HER.** A ferry route is a ferry route, twenty-six years is not a record, a jar on a table is not a wage, and **a route that cannot be produced cannot be asked after.**
+
+## The day counts and the calendar, registered so a later batch cannot re-derive them
+
+**Page home, day one = the twenty-fourth of November. Token, day zero = the seventh of December. Plate, from the sixth of April. Condition column, empty since the twelfth of February and NOT THERE as of the thirty-first of August. Foreman's clock, over four months. The chain is COUNTED FORWARD FROM A CHAPTER HEADING AND NEVER COPIED OUT OF A STATE FILE. NO CALENDAR YEAR MAY BE ATTACHED TO THE PRESENT-DAY CHRONOLOGY, TO A DAY ON THE CHAIN, TO A DAY-COUNT OR TO ANY EVENT; the years on the page are the ages of objects, buildings, institutions and ways of doing things, and a new one may not be added. The only year this block names is about 1919, on the rate in a third-quarter contract, and 1919 is already on the permitted list.**
+
+| Date | Weekday | Page home | Token | Plate | Condition col. | Foreman over 4 months | Printed in Ch. |
+|---|---|---|---|---|---|---|---|
+| 1 Oct | Thu | 312 | 298 | 178 | 231 | 23 w 1 d | 171 |
+| 2 Oct | Fri | 313 | 299 | 179 | 232 | 23 w 2 d | 172 |
+| 6 Oct | Tue | 317 | 303 | 183 | 236 | 23 w 6 d | 173 |
+| 13 Oct | Tue | 324 | 310 | 190 | 243 | 24 w 6 d | 174 |
+| 16 Oct | Fri | 327 | 313 | 193 | 246 | 25 w 2 d | 175 |
+| 22 Oct | Thu | 333 | 319 | 199 | 252 | 26 w 1 d | 176 |
+| 23 Oct | Fri | (334) | (320) | (200) | (253) | (26 w 2 d) | 177 — her half, unprinted |
+| 26 Oct | Mon | 337 | 323 | 203 | 256 | 26 w 5 d | 178 |
+| 29 Oct | Thu | 340 | 326 | 206 | 259 | 27 w 1 d | 179 |
+| 30 Oct | Fri | **341** | **327** | **207** | **260** | **27 w 2 d** | 180 |
+
+**THE FIGURES IN PARENTHESES ARE CARRIED FROM THE COUNTED CHAIN AND ARE NOT PRINTED IN CHAPTER 177. THE TWO REGISTERS MUST NOT BE MERGED.** The plate is never reported and the decision was made on the first of June and is **told to nobody**, and four people in this city know it is in that grass and have said nothing about it. **The condition column is not to be faulted, no new cumulative figure is to be printed for it or for the reason column, the second tin is at thirty-seven and there is no thirty-eight, and on the thirty-first of August the condition column stopped being a column at all.** **The list on the facing page reads twenty-nine and did not move once in thirty days, and an interval of one day is not a pair, and a pair is a fact about where he was and not about what happened; the elapsed-day figures in this block are 77, 78, 89, 92, 98, 102, 105 and 106, all counted forward from the sixteenth of July and not from any state file. NO ORDINAL IS PRINTED FOR THE PAIR REASON ANYWHERE IN THIS BLOCK, WHICH IS CORRECT.**
+
+## Cast, and what changed in them
+
+**MARO QUILL, thirty-one — the block's second Mara-POV chapter after Chapter 30, and the only chapter in it in which Milo Rook finds nothing. A cross-reference of schedules against the district list came on to her counter, Cobb Lock was in column four, and her own row had four dashes and will have five in October, and she initialled the sheet in about four seconds and telephoned nobody, and there is no number on the sheet because a district with no correspondence address has no number. The disagreement is the fifth, colder, and HE DID NOT SAY HIS HALF, and she did not supply it for him, and that is the new part. The custody register page untouched for the eleventh consecutive block; the season not told; the line not described; the twenty-ninth not in the room. SABRA TREWIN, thirty-four — her village's name went onto a printed side and she was not asked and is not going to be told and is not frightened, and a person who has never been asked cannot refuse. ROY PRYCE, fifty-four — HIS NAME IS NOW IN THREE PLACES ON THREE PRINTED SIDES AND IN ONE BOX THAT SAYS HE IS NOT THERE, and he signed none of them, and he asked nobody for anything, and the seventy-eight words were not said again, and there is no reason on earth why they would be. BARNABY PIKE, sixty-one — the failure's cost, and the only protection he has is that he cannot be produced, and he said so in under a hundred words, and he was right, and Milo Rook cannot ask him whether it was all right. GARN OLLERTON, thirty-seven — the working day, the refusal in pencil, and the changed method, and none of it is a word. THE MAN OF ABOUT FIFTY WITH A MOWER — said the boundary thing is finished and will not say it again, walked nine feet onto the far half and came back, refused to be a second stop, and said *you did not ask me at the gate*; and MILO ROOK DID NOT WRITE ANY OF IT DOWN, and Chapter 173 has no Field Book entry. CASS ARDERY — said *none of record is a true statement and it is the truest thing on that sheet* and *in about four years one of those two entries is going to be the whole of what either place is on the record as*, and nobody was added above him. THE MAN OF ABOUT FORTY-ONE ON NO LIST AT ALL — nine words, once, no total printed. THE MAN OF ABOUT FIFTY IN THE ROOM WITH FOUR MACHINES — not in this block's scenes, and named in the final inventory as a man who has been given a use and a description of a place and has been told neither. BETTINA SALLOW — the third door, shut, and he did not knock on it.**
+
+**THE FISHMONGER WAS NOT GIVEN A NAME, NOT THANKED, NOT PUT ON A LIST, and did not say the standing answer again. The man of about forty who sweeps the Row has still not been asked for his twenty-eight undated words. The man of about sixty with a shed eleven minutes away was on the Row on Thursday the twenty-ninth of October, said good morning, does not know that a piece of paper exists and is not going to be told. Ada Fenn is not named and not referred to and the count stands at eight across eight chapters of Volume 02 and is not nine.**
