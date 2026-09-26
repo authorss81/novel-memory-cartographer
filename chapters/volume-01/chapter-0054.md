@@ -36,7 +36,7 @@ The interval came at about ten to two in the afternoon, out of the canyon from t
 
 Doreen Sankey was at the ground-floor door of Cedar Court on the coal hatch side at about ten to two, with Rue four seconds later at the north door, and about twenty-two of the twenty-six names on Rue's sheet were in or near the building, and the day had not gone as anybody expected and the sheet was not used for anything that day, and nobody has ever found out why not.
 
-Danner's crew had the gate at full flow until about two o'clock and it was standing open in the sight of about eleven people including a cartographer and a foreman, and nobody had thought about that, and it is in the file that the aperture was returned to twenty-four inches at **14.06**, which is sixteen minutes after the check went out.
+Danner's crew had the gate at full flow until about two o'clock and it was standing open in the sight of about eleven people including a cartographer and a foreman, and nobody had thought about that, and it is in the file that the aperture was returned to twenty-four inches at **14.06**, which is fourteen minutes after the call that asked went out.
 
 The second call went at eight minutes to two. The plant stopped. Twenty-nine seconds, which is the shaft, and thirty-one, which is the street, and the two of them are both true and a mechanic of sixty-one gave the district that in November and has not been asked about it since.
 

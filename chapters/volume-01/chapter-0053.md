@@ -117,7 +117,7 @@ The field work of the week was nine feet of trench through a made path, a trench
 
 The soft lens did what the book said it would do. The rod went in nine feet and stopped, as it has done since the seventeenth of last month, and on the Friday the twenty-eighth of the month at about half past ten in the morning Danner had a reading off it and said one word, which was *there*, and then said the rest of it, which was that the two feet were all of it, and the ground had stopped, and he was not going to be the man who says a number like that twice.
 
-Mr Rennick had asked him for eleven days in the middle of last month and brought him back for five, from Monday the first, and the five are the first to the fifth because the first is the day the ground stopped and a man who is paid for six more days than the window needs is a man who signs on the first out of nerves, and the first day of it is the first, and it is the first day of a level on ground that stopped about four hours before anybody could get a rod into it, and Milo Rook wrote both of those things down in the same line and did not like doing it.
+Mr Rennick had asked him for eleven days in the middle of last month and brought him back for five, from Monday the first to the Friday, and the four-day window the reading needed was the second to the fifth, so the day he has been paid for and not used is the first, and it is the first day of a level on ground that stopped about four hours before anybody could get a rod into it, and Milo Rook wrote both of those things down in the same line and did not like doing it.
 
 He came and found Milo Rook at the top of the trench and said the whole of it out loud, standing there, with nine men about them.
 
@@ -137,7 +137,7 @@ He reached for the form and then did not take it out.
 
 "That is what you wrote on the tenth of last month."
 
-"That is what I wrote on the tenth of last month and I wrote it at ten past five in the afternoon on a Monday in the rain in a porch with about eleven people about, and the office took it, and the office initialled it, and the office did nothing with it at all," said Danner. "So I am going to write it again, on the form, on the fourth, and I am going to tell you why I am writing it twice. The first time I wrote it in a porch it was a thing said by a man. A thing said by a man is a thing a room can decide was said by a man who was upset. On the form it is a thing said by the certifying officer in the box that only takes it, and it goes into the file with the level, and it cannot be separated from the level, and anybody who takes the level out of that file has to take the sentence out with it."
+"That is what I wrote on the tenth of last month, at ten past five in the afternoon on a Monday in the rain in a porch with about eleven people about, and the office took it, and the office initialled it, and the office did nothing with it at all," said Danner. "So I am going to write it again, on the form, on the fourth, and I will tell you why I am putting it in twice. The first time it was a thing said by a man in a porch. A thing said by a man is a thing a room can decide was said by a man who was upset. On the form it is a thing said by the certifying officer in the box that only takes it, and it goes into the file with the level, and it cannot be separated from the level, and anybody who takes the level out of that file has to take the sentence out with it."
 
 He put the roll back under his arm.
 
@@ -163,7 +163,7 @@ It asked, at the interval, at about ten to two on the twenty-eighth, and Doreen 
 
 *Twenty-eighth of the month, 22.40. Nine remembered routes, and eight of them were there this morning, and the ninth is a page and not a route, and I have been near to counting them as one thing twice today and both times I stopped.*
 
-*Four attempts, and the fourth is a woman of sixty from a fourth floor who said four seconds to me at a door at eleven o'clock on a Wednesday and would not say another word about it, and a boy of seventeen who told me to go round the front and up the second stair and did not put his bicycle down and did not look back, and it is now the third time anybody in this district has marked a route for me and I have asked every one of them for nothing, and the mark is not a favour and it is not a debt and I have been told by a doctor that it is the ordinary condition of a man in my condition and by a woman with a satchel that it is nobody's business.*
+*Four attempts, and the fourth is a woman from a fourth floor who said four seconds to me at a door at eleven o'clock on a Wednesday and would not say another word about it, and a boy of seventeen who told me to go round the front and up the second stair and did not put his bicycle down and did not look back, and it is now the third time anybody in this district has marked a route for me and I have asked every one of them for nothing, and the mark is not a favour and it is not a debt and I have been told by a doctor that it is the ordinary condition of a man in my condition and by a woman with a satchel that it is nobody's business.*
 
 *And the first stage is not worse. Eight is eight. I have been to six of the eight this week and lost none of them and I do not understand that and I am not going to write down what it might mean.*
 
