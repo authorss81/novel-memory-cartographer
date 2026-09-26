@@ -872,7 +872,7 @@ Batch 0001 leaned on the region and on a bridge, as `outline/volume-03.md` requi
 
 # Volume 03, Batch 0002 (Chapters 141–150) — *The Order Is Not A Weather Report*
 
-**Ten chapters, 25,658 words (`wc -w` after the writer's own repair pass and after the sixteenth-pass repair in `CR-047`: 2,591 / 2,304 / 2,548 / 2,722 / 1,768 / 3,709 / 2,023 / 2,457 / 1,868 / 3,668). Friday the third of July to Monday the twentieth of July, eighteen days. POV is Milo Rook throughout. Volume 02 remains closed at Chapter 130 and nothing in these ten chapters discharges, restores, varies, withdraws, re-authors or re-lists anything in it.**
+**Ten chapters, 25,709 words (`wc -w` after the writer's own repair pass, after the sixteenth-pass repair in `CR-047` and after the seventeenth-pass repair in `CR-048`, which replaced a reference to a chapter number inside a Field Book entry with what is on the page in Chapter 136: 2,591 / 2,304 / 2,548 / 2,722 / 1,768 / 3,709 / 2,023 / 2,457 / 1,868 / 3,719). Friday the third of July to Monday the twentieth of July, eighteen days. POV is Milo Rook throughout. Volume 02 remains closed at Chapter 130 and nothing in these ten chapters discharges, restores, varies, withdraws, re-authors or re-lists anything in it.**
 
 ## The instrument, and what it is
 
