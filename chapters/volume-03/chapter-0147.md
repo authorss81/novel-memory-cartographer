@@ -40,7 +40,7 @@ The records counter is open to the public on a Saturday morning from about ten a
 
 ---
 
-**And then they had the disagreement, and it is the one this volume is going to have, and it is correct on both sides, and it is not repaired here and it is not going to be repaired in this volume.**
+**And then they had the disagreement, and it is the worst one they have had, and it is correct on both sides, and neither of them gave way in it, and it was not repaired in about nine minutes on a Saturday morning at a public counter with two people waiting, and it is not going to be repaired by either of them.**
 
 "You should put the district's answer on the record."
 
@@ -96,7 +96,7 @@ And the ninth row from the bottom, in a typeface half the size:
 
 **Nothing romantic happened on the eighteenth of July and nothing is going to.**
 
-There is no kiss in this chapter and there is no declaration and there is no jealousy scene and there is no rescue, and she did not soften the drawer, and he did not ask about it for the eighth consecutive block, and it is hers and only hers and it is in a drawer with a coat in it and it was not produced, not named, not confessed to and not mentioned in the words either of them used.
+She did not soften the drawer, and he did not ask her about it, and he has not asked her about it since the fifth of May, and it is hers and only hers and it is in a drawer with a coat in it and it was not produced, not named, not confessed to and not mentioned in the words either of them used, and there was no rescue in it and neither of them wanted one.
 
 **And on the way out he did not ask her a second thing, and she did not offer a second thing, and he wrote it down on the Sunday night in about nine words and the nine words are that his not-asking about the drawer and his not-asking about the line are the same act and he has known that since the fifth of May and has done nothing about it, and a date is a column, and he has now put a date on the not-asking and that is two columns where there used to be one.**
 

@@ -1,12 +1,12 @@
 # Chapter 143: As Far As The Third Post
 
-**The flatbed from a yard at Cobb Lock comes in on a Friday morning at about a quarter to seven and goes back on the Friday afternoon and it does not wait either way.** There are two motor vehicles a week in Mireward and neither of them waits, and one of them is a lorry to a yard at the north end that comes in on a Thursday morning, and there is one tractor, and there has not been a bus since about 1961.
+**The flatbed comes in.** It leaves the city end at about a quarter to seven on a Friday morning and it is here in Mireward at about half past ten, with the week's post and the sacks on the bed, and it goes back to the city on the Friday afternoon and is in the yard there at about half past four, and it does not wait either way. There are two motor vehicles a week in Mireward and neither of them waits, and the other one is a lorry to a yard at the north end that comes in on a Thursday morning, and there is one tractor, and there has not been a bus since about 1961.
 
-He was standing at the gate at ten to seven on Friday the tenth of July with a bag and a coat over his arm, and the driver did not ask him anything, and he got off where the driver was going, and the driver went back at about four in the afternoon.
+He was standing at the gate at ten to seven on Friday the tenth of July with a bag and a coat over his arm, and the driver did not ask him anything, and he got off here at about half past ten where the driver was going, and the driver went back at about four in the afternoon.
 
 **He did not go out on the tenth in order to be in Mireward. He went out on the tenth because the last day for the district's answer was the tenth and the only vehicle that would have carried an envelope back to a building about eleven miles away went back at about four, and he was standing at a gate at ten to seven with the form in his bag, and he has written down in his own book that the second reason is the one that was true and the first one is the one he would have written in.**
 
-**The weekly sheet went into the rack on the Friday the tenth of July at about half past eleven in a building about eleven miles away, and the second tin on the bottom shelf of the plan room went to thirty, and neither of those needed him and nobody telephoned and the sheet is right about that as well.**
+**The weekly sheet went into the rack on the Friday the tenth of July in a building about eleven miles away, and the second tin on the bottom shelf of the plan room went to thirty, and neither of those needed him and nobody telephoned and the sheet is right about that as well, and neither of those is anywhere he went that day.**
 
 ---
 
