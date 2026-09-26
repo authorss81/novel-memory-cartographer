@@ -1,13 +1,13 @@
 # Chapter 76: Six Columns And A Seventh
 
-On the morning of Tuesday the thirteenth of January, in the route room of the Civic Atlas Office, on the second of the two tables under the north window, a man of about thirty wrote a form.
+On the morning of Saturday the tenth of January, in the route room of the Civic Atlas Office, on the second of the two tables under the north window, a man of about thirty wrote a form, and then he put it in the inside pocket of a coat and carried it to the north end of a hundred and ten yards that is not a street, and it came back to that table on the Tuesday morning face up, because there is nowhere in that room to put a thing that nobody is supposed to see.
 
 It is on a piece of accountancy paper and it is headed in his own hand:
 
 > **BACK LENGTH (unnumbered) — MAINTENANCE**
 > *Between Alder Quay interchange and the water stairs. Approx. 600 yd, comprising the down loop and the quay service access. Not a street. Not a road. Not a gap. No rateable unit and no address.*
 
-And it has seven columns, and the first six are the gang's own, because he copied them off a weekly sheet for the week of the fifth which he had gone down to the quay section office on the Monday to look at and which was on the desk of a works clerk of forty-six who had gone out to the fitter's shop and had not come back for nine minutes.
+And it has seven columns, and the first six are the gang's own, because he copied them off a weekly sheet for the week of the fifth which he had gone down to the quay section office on Monday the fifth to look at and which was on the desk of a works clerk of forty-six who had gone out to the fitter's shop and had not come back for nine minutes, and it had one walk on it and that was the walk of that morning.
 
 > *Date. Length. Men. Hours. Work done. Condition. Signature.*
 
@@ -15,11 +15,11 @@ And the seventh is this:
 
 > *If any of them stops.*
 
-He wrote the seventh column before he wrote anything else on the page, and it took him about four seconds, and he has written down that it took him four seconds and that he thought about it first.
+He wrote the seventh column before he wrote a single line under any of the other six, and it took him about four seconds, and he has written down that it took him four seconds and that he thought about it first, and the thinking-about-it is the part he cannot account for.
 
 ---
 
-**He is not a villain and this is not a story about a man who went wrong. It is a story about a man who could not leave a space alone, and the space was correct and the shape was correct and the six columns are the six columns of a form that has worked in this city for a hundred and forty years, and he copied them at about ten past ten in the morning on the thirteenth of January and then he broke the form in about four seconds.**
+**He is not a villain and this is not a story about a man who went wrong. It is a story about a man who could not leave a space alone, and the space was correct and the shape was correct and the six columns are the six columns of a form that has worked in this city for a hundred and forty years, and he copied them at about ten past ten in the morning on the tenth of January and then he broke the form in about four seconds.**
 
 Because six columns cannot tell anybody anything about what happens next.
 
@@ -49,7 +49,7 @@ He got as far as the scale and then he stopped, in the middle of a line, at abou
 
 **He wrote *I. Marsden, 74* on the line and then he put a line through *Ivy Marsden, 74, 31 years* and the strike went through the whole of it and the name is completely legible underneath it and he did not write the date against the strike, and he did not write why, and he did not write anything after the dash, and he folded the sheet in three and put it in the inside pocket of a coat and walked a hundred and ten yards and went home.**
 
-Nobody saw him do it. That is on the page and it is the reason it is his, because the whole of this district's last four months have been a discovery that a document is dangerous, and he has had a rule about it since the fourth of Sazur, written in his own book, in about nine words, and it is: *a map with no rule at the foot is an invitation to whoever has got a pen.*
+Nobody saw him do it. That is on the page and it is the reason it is his, because the whole of this district's last four months have been a discovery that a document is dangerous, and he has had a rule about it since the fourth of Sazur, written in his own book, in about seventeen words, and it is: *a map with no rule at the foot is an invitation to whoever has got a pen.*
 
 He had written the seventh column without a rule at the foot.
 
@@ -97,7 +97,7 @@ She gave the sheet back to him, face down.
 
 ---
 
-**And on the Tuesday afternoon at about twenty past three, in the plan room of the Civic Atlas Office, a man of thirty-one years opened a drawer.**
+**And on the Tuesday afternoon at about half past five, in the plan room of the Civic Atlas Office, a man of thirty-one years opened a drawer.**
 
 There is a rule at the foot of the gang's weekly sheet, and it is in a foreman's hand, and it is the rule at the foot of the district's turn sheet, and it is the rule at the foot of Milo's own three feet of accountancy paper, and it is this:
 
@@ -115,7 +115,7 @@ There is a rule at the foot of the gang's weekly sheet, and it is in a foreman's
 
 **The Field Book, Tuesday the thirteenth of January, 23.55, and he did not sit down for this one.**
 
-*Thirteenth, 23.55. I am standing up and I am going to write this standing up because I sat down on Saturday and that is how it started.*
+*Thirteenth, 23.55. I am standing up and I am going to write this standing up because I sat down in that room on Saturday morning with a form that works and that is how it started, and it came back to that table on the Tuesday morning and it has been face up on it ever since in front of everybody who comes in, and nobody has asked me about it once.*
 
 *Saturday, about half past ten in the morning, at the north end of a hundred and ten yards that is not a street, in a coat with the button off. I wrote six lines about six people and one of them is a woman of seventy-four and I wrote her name and her age and her thirty-one years and then I put a line through it and I did not date the strike and I did not write a reason and I did not write anything after the dash, and I folded the page in three and put it in a pocket and walked home, and nobody saw me do it, and that is the whole of my defence and it is not a defence.*
 

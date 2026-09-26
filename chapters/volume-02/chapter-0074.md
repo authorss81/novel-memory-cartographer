@@ -98,7 +98,7 @@ And nobody at the table put a name to him, and about four people have said since
 
 *Eighth, 20.20. Four lines and no more, because I have had nothing of my own to write down for four days and I am not going to manufacture a page out of somebody else's work.*
 
-*First: a drain in a down loop that still talks, and a man of twenty-six who has been listening to it twice a week for two years because a man of about forty told him to in 1971 and neither of them has ever mentioned it, and a woman with a satchel asked him one question on a Thursday morning and he answered her and not me, and he was right to, because she is the person and I am not.*
+*First: a drain in a down loop that still talks, and a man of twenty-six who has been listening to it twice a week for two years because a man of about forty on that gang put him on to it, and neither of them has ever mentioned it, and neither of them has ever mentioned the mark on the cover either, which is in about 1971 and is older than both of them by a long way, and a woman with a satchel asked him one question on a Thursday morning and he answered her and not me, and he was right to, because she is the person and I am not.*
 
 *Second: a woman of thirty-eight has a copy of a copy of a carbon in her coat and it is the worst of about ten pieces of paper in kitchens in this district and a clerk of fifty-one said so in her own office and then gave it to her anyway.*
 

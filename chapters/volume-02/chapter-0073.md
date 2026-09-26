@@ -55,7 +55,7 @@ Hester Coombe, depot clerk, Alder Quay, fifty-one, twenty-two years, came of her
 
 "Go on."
 
-"The fault box is completed from the car's own return." She had the return's carbon on the table and she did not open it, because she had it by heart and has said so since. "The conductor's return has six columns. Three of them are times and one of them is fares and one of them is who was on the car. The last one is a line at the bottom where the conductor signs when the car is back. On the twenty-second of December that return said *thirty-one fares, a conductor's pass, a driver's pass*, and it said in the alighted column that twelve people got off at the Alder Quay interchange, nine at the water stairs, and ten at Crown Heights, and it was signed at four thirty-six by a conductor of thirty-eight who had been on that car since twenty to eight on the sixteenth of December, which is five days and about eight hours."
+"The fault box is completed from the car's own return." She had the return's carbon on the table and she did not open it, because she had it by heart and has said so since. "The conductor's return has six columns. Three of them are times and one of them is fares and one of them is who was on the car. The last one is a line at the bottom where the conductor signs when the car is back. On the twenty-second of December that return said *thirty-one fares, a conductor's pass, a driver's pass*, and it said in the alighted column that twelve people got off at the Alder Quay interchange, nine at the water stairs, and ten at Crown Heights, and it was signed at four thirty-six by a conductor of thirty-eight who had been on that car since seven fifty-two on the morning of the sixteenth of December, which is five days and two hours."
 
 She stopped for about four seconds.
 
@@ -120,7 +120,7 @@ Milo Rook did not know then. He wrote in his own book that evening that Advocate
 
 "There is not a person in that minute," said Rue, in the corridor, at about ten past one, with about nine people around her. "There is a reference number and a blank line and a filing number in a box, and in about four years somebody is going to read *the committee has been unable to identify the person who requested the amendment* and put it next to a form and say *well, at least they tried*, and it will be the best sentence in the file and it will not have cost anybody anything."
 
-"And it is the best thing anybody in this city has written down about that amendment," said Milo Rook, "and it is eleven days old and it is on a piece of paper in a room above a canteen and there is no copy of it in this district, and I am not going to ask for one, and I want that written down as a decision and not as modesty."
+"And it is the best thing anybody in this city has written down about that amendment," said Milo Rook, "and it is three months old and it is on a piece of paper in a room above a canteen and there is no copy of it in this district, and I am not going to ask for one, and I want that written down as a decision and not as modesty."
 
 ---
 

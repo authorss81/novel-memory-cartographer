@@ -1,6 +1,6 @@
 # Chapter 72: There Is No Box For It
 
-The gang was on the back length at half past seven on the morning of Monday the fifth of January and it was the first walk of a week that runs to Sunday, and the sheet for that week has two dates in it and two entries in the hours column and the reason column empty on both, and the foreman wrote it standing at the wall the way he does.
+The gang was on the back length at half past seven on the morning of Monday the fifth of January and it was the first walk of a week that runs to Sunday, and the sheet for that week has one date in it so far and one entry in the hours column and the reason column empty on it, and the foreman wrote it standing at the wall the way he does.
 
 A foreman's week is not a walk. A walk is fifty minutes on a Thursday morning and everybody in this district has the shape of it in their heads wrong, because a walk is the part you can see, and a week is eleven men in four rooms above a fitter's shop from about nine in the morning and the requisition for the week's stores and the returns for the previous week and a kettle and a radio and a man of about fifty-four going through about four hundred small things in his own order, none of which is a decision and all of which is the job.
 
@@ -68,11 +68,11 @@ Dilley Farr was in the route room with a repair schedule on the board and about 
 
 "I am not putting a reference on your schedule. It is a cross-reference from the index to—"
 
-"You are putting a reference on my schedule and it does not matter whose paper it is on, because a cross-reference is a reference and I have four lengths and a number against each of them and the numbers are mine and they mean one thing, which is the drainage and inspection of that length. If your number goes next to my number then a man in four years reads a row with two numbers on it and a column headed *reference* and the only question that row will ever be asked is *what is the second one for*, and the answer is going to be a length of tram route that cannot be given a street, and there is going to be an officer in an office who reads that row and writes *maintenance length* in a box, and *maintenance length* is a phrase that means the same thing as *not a place* for about four years, and then it means the same thing as *not yet a place*, and then one of my eleven men is going to have a car on a length and a document about it, and I am not having that on a Monday in January."
+"You are putting a reference on my schedule and it does not matter whose paper it is on, because a cross-reference is a reference and I have four lengths and a number against each of them and the numbers are mine and they mean one thing, which is the drainage and inspection of that length. If your number goes next to my number then a man in four years reads a row with two numbers on it and a column headed *reference* and the only question that row will ever be asked is *what is the second one for*, and the answer is going to be a length of tram route that cannot be given a street, and there is going to be an officer in an office who reads that row and writes *maintenance length* in a box, and *maintenance length* is a phrase that means the same thing as *not a place* for about four years, and then it means the same thing as *not yet a place*, and then one of my eleven men is going to have a car on a length and a document about it, and I am not having that on a Thursday in January."
 
 He looked at the clipboard and then at the wall, which is the last pitch on Saltmarket Row on the other side of it.
 
-"Ask me again in about four months," he said, "when you know what a fella in an office is going to say to me, and ask me then and not now, because now it is a Tuesday practice and in four months it is a document and I have been a foreman for thirty-one years and I know the difference between them to the day."
+"Ask me again in about four months," he said, "when you know what a fella in an office is going to say to me, and ask me then and not now, because now it is a Thursday practice and in four months it is a document and I have been a foreman for thirty-one years and I know the difference between them to the day."
 
 ---
 
@@ -112,7 +112,7 @@ He put the kettle down on its ring.
 
 **The Field Book, Tuesday the fifth of January, 23.40, a front room, standing up.**
 
-*Fifth, 23.40. I have been refused three times in two days by three people who were right three times and I want the three in the book with who did them and what they said and I do not want them softened.*
+*Fifth, 23.40. I have been refused three times in four days by three people who were right three times and I want the three in the book with who did them and what they said and I do not want them softened.*
 
 *A works clerk of forty-six: a reference is a place other people can write into, and not one of the nine people who can find my four numbers has a shovel, and the number I have wanted to put on that length is a hole with a sign over it.*
 

@@ -16,7 +16,7 @@ Rue put seven days into the round. The round is a round of seven stops and eleve
 
 "Seven days instead of five. It is not five extra stops, it is seven extra days, and the days are the expensive part and everybody in this yard knows it and nobody is going to say it for me. If somebody dies on the Tuesday of that week and I am out on the Friday with a satchel instead of a woman of sixty-three, then I have done this and got it wrong, and if I do not do it and somebody dies, then I have done nothing and got it right, and I would rather be the second one, and I am not going to be asked about that again this year."
 
-And the tram authority did nothing, and the Registry did nothing, and the Civic Atlas Office did nothing at all until about two o'clock on the Monday afternoon of the nineteenth, when a man of about thirty opened a drawer and tried to enter four pages into a plan chest and could not.
+And the tram authority did nothing, and the Registry did nothing, and the Civic Atlas Office did not do anything about the four pages at all until about two o'clock on the Monday afternoon of the nineteenth, when a man of about thirty opened a drawer and tried to enter four pages into a plan chest and could not.
 
 ---
 
@@ -30,9 +30,9 @@ This had none of the three. It is four pages with a heading in capitals and a da
 
 ---
 
-**And then he did the only thing anybody in the district could do with a name on the fourth page, which was to write a query, and the query is on the page because it is four lines and because he got it wrong and the getting it wrong is the finding.**
+**And on the Friday of the week before last he did the only thing anybody in the district could do with a name on the fourth page, which was to write a query, and the query is on the page because it is four lines and because he got it wrong and the getting it wrong is the finding.**
 
-A district returns query goes to the district's own drainage section, on a printed form, and the printed form has a box for the district and a box for the quarter and a box for the *return required*, and the form is about ground and drainage and the boxes are about the ground. Milo Rook filled it in at about half past two on the Monday afternoon in the route room and it went into the internal post on the Tuesday and the internal post is a man of about fifty with a bag who takes eleven streets of Crown Heights in about ninety minutes and Mireward is not eleven streets of Crown Heights.
+A district returns query goes to the district's own drainage section, on a printed form, and the printed form has a box for the district and a box for the quarter and a box for the *return required*, and the form is about ground and drainage and the boxes are about the ground. Milo Rook filled it in at about half past two on the Friday the ninth in the route room and it went into the internal post the same afternoon and the internal post is a man of about fifty with a bag who takes eleven streets of Crown Heights in about ninety minutes and Mireward is not eleven streets of Crown Heights.
 
 What came back on the Friday the sixteenth was a **card**, and it is a printed card and it is the size of a postcard and it comes out of a machine that prints about nine hundred of them a month, and it is in the returns list, and it is not an answer to anything.
 
@@ -45,7 +45,7 @@ What came back on the Friday the sixteenth was a **card**, and it is a printed c
 
 "The column for *officer responsible* is not filled in," said Milo Rook. "Not by error. Look at the type. It is the same type as the reason column, which is the machine's own, and the officer column is a line under words and a line under words is a place a person writes anything at all, and the reason column is the machine printing a dash because there is no officer to print a dash against."
 
-He had learned that about a line under words in December, from a form about a tram, and it took him four days to see it on a card about a district.
+He had learned that about a line under words in December, from a form about a tram, and it took him seven days to get it back as a card about a district, and the seven days were not the part that was wrong.
 
 ---
 
@@ -63,7 +63,7 @@ He had learned that about a line under words in December, from a form about a tr
 
 **And on the Monday the nineteenth at about half past four in the afternoon, in the route room, a man of thirty-one years said the thing that is the actual answer of anything anybody has said about Mireward, and it is the second half of a sentence he said in December and it is the other half, and the December half was right.**
 
-"In December I told you that Mireward is entered as stable because there is nothing in it," said Dilley Farr. "I was right and it was not finished, and I have thought about the rest of it for three weeks and here it is. **Nothing is a very good answer and it is very hard to argue with, and I have watched it get written on four hundred sheets about this city. And what I have found out since is that the moment you put nothing in a *column* it stops being nothing and becomes a hole with a heading on it.** A hole with a heading on it is worse than nothing, because a heading is a thing somebody can look up. And Mireward is going to be looked up. There are eleven weather-driven seam events in a season, the first one is in nine days, four of them are in the river core, one is in the Outer Reach, and the rest are unallocated and will be allocated on the day, and there is a district on that list with a heading and no number under it, and when the day comes somebody in an office is going to have to put an allocation under that heading, and **the only thing anybody in this city has ever been able to put under a heading is a thing somebody has been to look at.**"
+"In December I told you that Mireward is entered as stable because there is nothing in it," said Dilley Farr. "I was right and it was not finished, and I have thought about the rest of it for three weeks and here it is. **Nothing is a very good answer and it is very hard to argue with, and I have watched it get written on four hundred sheets about this city. And what I have found out since is that the moment you put nothing in a *column* it stops being nothing and becomes a hole with a heading on it.** A hole with a heading on it is worse than nothing, because a heading is a thing somebody can look up. And Mireward is going to be looked up. There are eleven weather-driven seam events in a season, the first one is in a week and one day, four of them are in the river core, one is in the Outer Reach, and the rest are unallocated and will be allocated on the day, and there is a district on that list with a heading and no number under it, and when the day comes somebody in an office is going to have to put an allocation under that heading, and **the only thing anybody in this city has ever been able to put under a heading is a thing somebody has been to look at.**"
 
 "And nobody has been."
 
@@ -71,7 +71,7 @@ He had learned that about a line under words in December, from a form about a tr
 
 ---
 
-**And at about five o'clock on the Monday evening a boy of seventeen was on the round and nobody said anything about it.**
+**And at about five o'clock on the Monday evening a boy of seventeen was in the yard and nobody said anything about it.**
 
 He had gone up the south on the twenty-eighth of December and had come back on the nineteenth of January, which is twenty-two days, and he came back on his own money and he did not telephone and he was on the round at eight in the morning, out at eight and in at four, and he did not say anything about where he had been and about four people in this district have said that the not-saying was the whole of what he had come back with.
 
@@ -83,7 +83,7 @@ He put a card on the trestle table under a brick, face up, the way a card goes, 
 
 It is blank. It is a courier's card, the same card he has had since November, and it is about two inches by three, and it has a line ruled across the middle and the line is blank, and there is nothing on either side of it, and it is dated in his own hand at the bottom in the way he dates everything, and the date is the nineteenth of January.
 
-**A man of seventeen went eleven days up the south on a lead about a brother and came back with a blank card and put it on a table under a brick, and there is no document anywhere in Alderquay that says what that means and there never will be, and the list in the tin is not a finding and Ostrow confirms nothing and Tern is not found.**
+**A man of seventeen went twenty-two days up the south on a lead about a brother and came back with a blank card and put it on a table under a brick, and there is no document anywhere in Alderquay that says what that means and there never will be, and the list in the tin is not a finding and Ostrow confirms nothing and Tern is not found.**
 
 ---
 

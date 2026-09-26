@@ -14,7 +14,7 @@ The sheet went into the rack on the Friday the second at about ten in the mornin
 
 **And the city did not stop, and this is the sentence the first of January is actually about.**
 
-At ten past six in the morning a man of about forty swept a hundred and ten yards of row badly from the top end to the bottom end, because he sweeps it. At half past five the evening before, a woman of about forty-five called the lot prices from a doorway in about two minutes with no fish. At half past five the evening before, a coffee man of about sixty put his hand on the corner of the same wall for about four seconds and took it away again and walked eleven minutes back to a shed at Cardew Docks in his own time for a stall that opens at six.
+At ten past six in the morning a man of about forty swept a hundred and ten yards of row badly from the top end to the bottom end, because he sweeps it. At about twenty past five the evening before, a woman of about forty-five called the lot prices from a doorway in about two minutes with no fish. At half past five the evening before, a coffee man of about sixty put his hand on the corner of the same wall for about four seconds and took it away again and walked eleven minutes back to a shed at Cardew Docks in his own time for a stall that opens at six.
 
 Hettie Brann opened the water clinic counter at eight on the morning of the first with a queue of about nine people in it, and about four of them had come about the same thing and two of them were children and one of them was a woman who wanted a form, and she gave her the form.
 
@@ -52,7 +52,7 @@ The clerk was about thirty-four and she had the district index open in front of 
 
 **He asked her the other one at about a quarter to ten in the same corridor, and it took about two minutes, and it is the whole of the first of January.**
 
-"On the twenty-second of December," said Milo Rook, "a gang of eleven men walked that length a second time at about eleven o'clock in the morning, with a foreman, and there were thirty-three people on it — thirty-one passengers, a conductor and a driver — and a conductor's word was said at four points on the length by people who were not on a tram, and the car came off the north end at twenty to five that afternoon and ran its whole round and came into the shed road, and thirty-three people got off it, and one of them had been on that car since half past seven on the sixteenth of December, which is five days and about eight hours."
+"On the twenty-second of December," said Milo Rook, "a gang of eleven men walked that length a second time at about eleven o'clock in the morning, with a foreman, and there were thirty-three people on it — thirty-one passengers, a conductor and a driver — and a conductor's word was said at four points on the length by people who were not on a tram, and the car came off the north end at twenty to five that afternoon and ran its whole round and came into the shed road, and thirty-three people got off it, and one of them had been on that car since seven fifty-two on the morning of the sixteenth of December, which is five days and two hours."
 
 "Where would you like it entered," said the clerk.
 
