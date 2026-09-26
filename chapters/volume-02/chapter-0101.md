@@ -126,9 +126,9 @@ Nobody had asked anybody to fill it in since the twenty-seventh of December. A w
 
 **The Field Book, Friday the tenth of April, 22.15, a front room, and there have been two entries in six days and the first of them is a six and the second of them is a five, and I am going to write the list out at the end of this entry and I am not going to say anything about it.**
 
-*Fifth, 23.10. Six days off the thirtieth of March. The thirty-first of March and the first of April have no entries and I did not pair them and I have now not paired them four times and I am going to stop noticing that.*
+*Fifth, 23.10. Six days off the thirtieth of March. One line and that is all it gets. **The thirty-first of March and the first of April have no entries and I did not pair them and I have now not paired them four times and I am going to stop noticing that.***
 
-*Tenth, 22.15. Five days off the fifth.*
+*Tenth, 22.15. Five days off the fifth. Four items, and the list at the end, and I am not going to say anything about it.*
 
 *One. Eleven days, said out loud in a yard on the Saturday, and nobody used it, and the reason nobody used it is not politeness. **A number that everybody can say out loud is a number that nobody is responsible for**, and I have now been told that in a yard by a woman with a satchel and I am putting it here because I have had six ideas in six months and every one of them has been about a page and this one is about a number and it is the first one I have had in three weeks and I did not have it.*
 
