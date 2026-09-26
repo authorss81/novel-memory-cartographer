@@ -51,7 +51,7 @@ She looked at him for about four seconds longer than she needed to.
 
 "Then finish not finishing it properly. **Do not put it in the coat, because a coat is a place somebody can look in. Do not put it under a counter, because that arrangement is made and I know about it and it is not mine and I am not going to be in it. Fold it in at the back of your own book and put the date on the fold in your own hand and do not take it out again,** and that is the last time anybody in this district is going to be able to say a thing to you about a piece of paper and be right, because I am not going to do it again either."
 
-Nobody wrote it down. That was the thirteenth time in fourteen weeks.
+Nobody wrote it down. That was the fourteenth time in fourteen weeks.
 
 ---
 
