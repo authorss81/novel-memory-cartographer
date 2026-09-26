@@ -970,7 +970,7 @@ No crossing. **Eleven remembered routes, ten crossings, ten tally lines, unchang
 
 ## Volume 03, Batch 0004 (Chapters 161–170) — *What The Rain Is Carrying* — THE VOLUME MIDPOINT
 
-**Ten chapters, Monday the seventh of September to Wednesday the thirtieth of September, twenty-four days. 30,273 words** (3,055 / 2,389 / 2,984 / 2,993 / 2,217 / 2,752 / 2,581 / 2,594 / 4,964 / 3,744, every figure `wc -w` on the chapter files). **POV is Milo Rook in nine chapters and Mara Quill in none — Chapter 167 is his half of the last Thursday of a month, and he was not in the room, and she was in the room, and neither of them describes the line.** `outline/volume-03.md` was NOT edited, and neither were `outline/series.md`, `outline/ending.md` or `outline/volume-01.md`.
+**Ten chapters, Monday the seventh of September to Wednesday the thirtieth of September, twenty-four days. 30,941 words** (3,094 / 2,381 / 2,982 / 3,001 / 2,627 / 2,752 / 2,686 / 2,614 / 5,004 / 3,800, every figure `wc -w` on the chapter files, **and these are the figures as they stand after the `CR-054` repair of the review of Batch 0004, which corrected seventeen things across nine chapters and added about four hundred words to Chapter 165; the pre-repair figures were 30,273 and (3,055 / 2,389 / 2,984 / 2,993 / 2,217 / 2,752 / 2,581 / 2,594 / 4,964 / 3,744)**). **POV is Milo Rook in nine chapters and Mara Quill in none — Chapter 167 is his half of the last Thursday of a month, and he was not in the room, and she was in the room, and neither of them describes the line.** `outline/volume-03.md` was NOT edited, and neither were `outline/series.md`, `outline/ending.md` or `outline/volume-01.md`.
 
 ### What the block is
 

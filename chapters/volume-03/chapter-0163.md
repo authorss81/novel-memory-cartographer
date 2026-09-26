@@ -38,7 +38,7 @@ The man of about fifty with the mower had come over the deck, which he has not d
 
 "And you."
 
-"**I stopped there as well. And I did not agree with anybody. I stopped because there is a load calculation in a drawer in this city from about 1974 and the low end of it has not been re-checked, and a machine of mine weighs about two hundred and forty, and there are about a hundred and thirty yards of path on the far side that eleven men and a foreman used to walk twice a week, and there is going to be no gang on that path after tonight because the works stopped on the thirty-first of August, and I have not put two hundred and forty over it and I am not going to.**"
+"**I stopped there as well. And I did not agree with anybody. I stopped because there is a load calculation in a drawer in this city from about 1974 and the low end of it has not been re-checked, and a machine of mine weighs about two hundred and forty, and there are about three hundred yards of path on the far side that eleven men and a foreman used to walk twice a week, and there is going to be no gang on that path after tonight because the works stopped on the thirty-first of August, and I have not put two hundred and forty over it and I am not going to.**"
 
 He picked the sickle up again.
 

@@ -61,7 +61,7 @@ The flap of the wrapper was folded under and printed on the outside of it, in sm
 > **Singular Mode** — emergency setting; one account to become the Index's version; others suspended
 > **Quieting** — setting not shut down; forced output thereafter treated as the record
 
-**A flap is not a catalogue item and there is no number on it and no shelf it can be asked for by, and she read it out in about eleven seconds because a flap is not a thing anybody asks a room for, and that is the whole of the difference between the flap and the shelf, and it is the difference between this chapter and the last one.**
+**A flap is not a catalogue item and there is no number on it and no shelf it can be asked for by, and she read it out in about eleven seconds because a flap is not a thing anybody asks a room for, and that is the whole of the difference between the flap and the shelf, and it is also the whole of the difference between the twenty-second of September and this morning.**
 
 Milo Rook wrote the three words down on the sheet of his own paper. He wrote them in his own hand, in the order they were printed, and he did not underline them and he did not put a question mark after them and he did not write what he thought they were.
 
@@ -75,7 +75,7 @@ Milo Rook wrote the three words down on the sheet of his own paper. He wrote the
 
 "**There is no date on the wrapper and there is no date on the flap and there is no section number and there is nothing that would tell you when any of it was done, and you did not ask me for one, and I would like it noticed that you did not ask me for one, because a fold is not a chronology and a mark transferred this week is not older than the sheet it landed on.**"
 
-He had a woman of sixty-one with a folding rule put a figure of his right in about four seconds in June and he had not thanked her and he was not going to thank this one either, and **she had just told him the whole of why, unasked, in one sentence, about a thing she was not being asked about.**
+He had a woman of thirty-seven with a folding rule put a figure of his right in about four seconds in June and he had not thanked her and he was not going to thank this one either, and **she had just told him the whole of why, unasked, in one sentence, about a thing she was not being asked about.**
 
 ---
 
@@ -105,7 +105,7 @@ He worked it out and it took him about four minutes and he did it standing up in
 
 Somebody kept a day.
 
-**The day was a public mourning. Not a district's and not a family's. It was kept, and people came to it, and it was in the city, and it was announced on a printed side, and it is the only instance in this whole novel of a public grief that anybody ever entered anywhere.**
+**The day was a public mourning. Not a district's and not a family's. It was kept, and people came to it, and it was in the city, and it was announced on a printed side, and it is the only one of anything like it that he has ever come across, and he has been doing this for eight months and he has not seen another one, and the only record of it anywhere is about forty leaves in a bundle that had not been opened in four years.**
 
 And the sheet at the end of the printed side was how they entered it. **A day was kept and a column was provided and the column wanted names, and forty people wrote their names in one hand, and the hand was one hand because a column wants one hand and a column is a column.**
 

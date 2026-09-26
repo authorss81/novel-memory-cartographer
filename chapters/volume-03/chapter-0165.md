@@ -76,6 +76,20 @@ She had nine of them. She said that as though she were saying how many chairs th
 
 He read the first four on the desk. They were not in his hand and not in a clerk's hand. They were a list of what was physically in a room, in the order it was on the shelves, and about a third of the items on them were on the index and about two thirds were not.
 
+He asked her what the second one was for, and she turned it round without answering him, because the answer was on it.
+
+It was a room in about nine lines and not one of the nine lines had a person in it. *Press, bottom shelf, four boxes, ties green. Two boxes of ties green. One box of ties green and white, mixed, and the mixed is a different box and I have not sorted it and I am not going to.* And then four lines about a plan chest, and a line about a window that does not open.
+
+"Is that an inventory."
+
+"**No. There is an inventory of this room and it is in a book in a corridor and it was correct in 1961.**" She put a hand flat on the sheet. "**This is what is in it. The book says what ought to be in it. In 1961 somebody counted a press and a plan chest and a window and wrote it down, and since then four boxes of ties have been opened and shut and one of them has gone from green and white to mixed, and nobody has been back to the book, and the book is not wrong in a way that anybody could ever find, and that is the part of it I mind.**"
+
+"And if the book is wrong, which one goes to the office."
+
+"**Neither. Nobody has ever asked me for either. If somebody asked me for the book I would send the book, and it is wrong, and I could not say how wrong without this.**" She squared it to the edge of the desk. "**And that is the whole of what one of these is for, and I have never told anybody that, and you have not asked me.**"
+
+He read the rest of it and did not ask her anything else about it. **Nine sheets in five weeks, and every one of them is a description of a room and not a claim about anything, and there is nobody in this city who could ask for one, and that is not a hiding place. It is a room where a thing gets described and then not indexed.** *A form wants a person. A finding aid does not want a person at all, which is why a woman with a job could write nine of them in five weeks and nobody in the building knows that she had.*
+
 And on the fifth one, fourth line, in the middle of a page of drainage apparatus and land drainage notices and a run of notices of meeting that had been minuted in about 1968 and never looked at since:
 
 > *Bundle, paper, tied with tape. Not on index. Not opened. Came in with a consignment of drainage material about 1911 from a body that no longer exists and was not asked for by anybody. Wrapper has a watercourse on the outside of it in a hand that is not a hand in this room. **Not a survey. Not a schedule. Not an index card. Nothing in it is a rateable thing.***
@@ -108,13 +122,13 @@ He read it twice.
 
 He did not write it down.
 
-He stood at the ninth desk for another three minutes and did not ask a second question, and she did not offer a second thing, and neither of them mentioned the drawer in Crown Heights, and neither of them mentioned a bus, and neither of them mentioned a woman of thirty-four in a village four miles the other way who has said no to four people this year.
+He stood at the ninth desk for another three minutes and did not ask a second question, and she did not offer a second thing, and neither of them mentioned the drawer in Crown Heights, and neither of them mentioned a bus, and neither of them mentioned a woman of thirty-four in a village eleven miles the other way who has said no to four people this year.
 
 ---
 
 ## And then she said the other thing, because she had decided to and not because he got there
 
-**And it is the seed of everything that happens on the twenty-ninth of September, and she gave it away in about eleven words on a Wednesday in between two other things, and she has never mentioned it since and she is not going to.**
+**And it is the seed of everything that happens on the twenty-ninth of September, and she gave it away in about eleven words on a Tuesday in between two other things, and she has never mentioned it since and she is not going to.**
 
 "Every card in here is a rateable thing with a street on it."
 

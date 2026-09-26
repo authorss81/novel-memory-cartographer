@@ -24,7 +24,7 @@ The far half had not been cut. That was not a new thing. The far half had not be
 
 "Have you."
 
-"**The far half's not mown. Nine years. It comes up about the middle of July and by the first of August it's over the rail on the low side and it goes into the water off the bank and the bank is not a bank, it is a slope, and there is about a hundred and thirty yards of path on the other side of this bridge that eleven men and a foreman walk twice a week and my machine weighs about two hundred and forty and I am not putting two hundred and forty over a bridge that has got a rail on one side and a slope on the other and a load calculation in a drawer from about 1974 with the low end not re-checked.**"
+"**The far half's not mown. Nine years. It comes up about the middle of July and by the first of August it's over the rail on the low side and it goes into the water off the bank and the bank is not a bank, it is a slope, and there is about three hundred yards of path on the other side of this bridge that eleven men and a foreman walk twice a week and my machine weighs about two hundred and forty and I am not putting two hundred and forty over a bridge that has got a rail on one side and a slope on the other and a load calculation in a drawer from about 1974 with the low end not re-checked.**"
 
 He put a hand on the machine.
 

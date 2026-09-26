@@ -48,7 +48,7 @@ The man of about fifty did not turn round.
 
 ## And then he asked for it, and there was no question in the asking
 
-He had it in about four seconds. He did not build it. He has written that down and it is the worst line in this chapter.
+He had it in about four seconds. He did not build it. He has written that down and it is the worst line in this book and he is not going to improve it.
 
 **"Could the card go in that bundle."**
 

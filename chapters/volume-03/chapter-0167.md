@@ -2,7 +2,7 @@
 
 **Mara Quill reconciles the return on the last Thursday of every month and has done for about two years, and the last Thursday of this month is the twenty-fourth, and the return goes to a board on the first Thursday of a month, and the first Thursday of next month is the first of October, and Milo Rook has not been in that room on a last Thursday in about two years and was not going to be and was not.**
 
-The round went out at about ten past eight on Thursday the twenty-fourth of September and came in at about four with the bag empty, and it is a Monday and a Thursday round and it is one man short, and the bag has been empty since the twenty-eighth of August. **He did the round's business, which is walking about a district that has nothing to collect, and he got back at about four and went and washed his hands and did not go to a records building and was not going to.**
+The round went out at about ten past eight on Thursday the twenty-fourth of September and came in at about four with the bag empty, and it is a Monday and a Thursday round and it is one man short, and the bag has been empty since the twenty-eighth of August. **He did the round's business, which is going about a district that has nothing to collect, and he got back at about four and went and washed his hands and did not go to a records building and was not going to.**
 
 The page home is the three hundred and fifth day. The token is cold on the two hundred and ninety-first day. The plate in the grass at the low end of Bridge Street is a hundred and seventy-one days old. The condition column is two hundred and twenty-four days and is not there. A foreman of fifty-four is twenty-two weeks and one day past four months and nobody is going to ask him.
 
@@ -10,11 +10,11 @@ The page home is the three hundred and fifth day. The token is cold on the two h
 
 ## What a return is, and what happened in it, and who did it
 
-**A return is a grid. It has a row for every district that reports to it and a cell for every week of the month. A cell is completed with a figure where the district returned a figure, and a reconciled return is one in which every cell carries one or the other, and there is no third thing and no blank, because a blank in a cell is not an answer, it is a query, and a query goes down.**
+**A return is a grid. It has a row for every district that reports to it and a cell for every week of the month. A cell is completed with a figure where the district returned a figure, and a reconciled return is one in which every cell carries one or the other, and there is no third thing and no blank, because a blank in a cell is not an answer, it is a query, and a query goes down. And the number of cells is the number of Fridays in the month, which is a rule and not a reason, and September had four of them and October has five, and she has never had to say that out loud to anybody and is not going to now.**
 
 The eleventh street district is on the fourth page from the bottom and it has been on the fourth page from the bottom for as long as she has been doing this, because that is where it was entered and entries are not moved.
 
-**Every cell on that row is a dash again this month, and there are four of them, and they were put in with a pen, and the pen was the wrong instrument and she knew it was the wrong instrument when she picked it up, and she has used a pen on this return once in about two years and the once was last month.**
+**Every cell on that row is a dash again this month, and there are four of them because September had four Fridays in it, and they were put in with a pen, and the pen was the wrong instrument and she knew it was the wrong instrument when she picked it up, and she has used a pen on this return once in about two years and the once was last month.**
 
 And a dash is a departmental statement that nothing was received, and it is a statement about the post, and there has been no post since the twenty-eighth of August.
 
@@ -32,11 +32,11 @@ He did not say anything for about four seconds.
 
 "**Say that again.**"
 
-"**A district that can be written to is a district whose returns are held somewhere. A district whose returns are held somewhere is a district somebody can ask a card from. And on the Thursday before last a district returns card went out of a records office about a mile from here in a bundle addressed to a contractor.**" She was not raising her voice and she was not slowing down. "**I found it on Friday because a card that has been going round in a run since the middle of January has not come through my counter, and the only two places it comes from are a room with four machines and a satchel that went out with the works' papers, and the works' papers stopped on the thirty-first of August.**"
+"**A district that can be written to is a district whose returns are held somewhere. A district whose returns are held somewhere is a district somebody can ask a card from. And a district returns card went out of a records office about a mile from here in a bundle addressed to a contractor, and it went out at about eleven this morning, and I know what went out of it because I stood in a room with four machines on Tuesday afternoon and asked one question, and the man in it told me, and he did not ask me why I wanted to know.**" She was not raising her voice and she was not slowing down. "**I found the hole on Friday the eighteenth because a card that has been going round in a run since the middle of January has not come through my counter, and the only two places it comes from are a room with four machines and a satchel that went out with the works' papers, and the works' papers stopped on the thirty-first of August.**"
 
 "I did that on Monday."
 
-"**You did that on Monday morning. And I have been sitting with it for three days and I have not put a pen to anything, and I have worked out that I am not angry, and I would like to know what to do with the not being angry, because there is no box for it either.**"
+"**You did that on Monday morning. And I have been sitting with it for six days and I have not put a pen to anything, and I have worked out that I am not angry, and I would like to know what to do with the not being angry, because there is no box for it either.**"
 
 ---
 
