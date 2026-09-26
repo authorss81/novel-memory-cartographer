@@ -56,7 +56,7 @@ Nobody said anything for about eleven seconds, and then the fishmonger said, fro
 
 ---
 
-**And the arithmetic was done by the man with the wet cap, and it took him about forty seconds, and it is not the same arithmetic that was done in the first week of February, and about four people have said since that this is the second time in this district that a man who is on no list at all has been the person who worked out what a piece of paper costs.**
+**And the arithmetic was done by the man with the wet cap, and it took him about forty seconds, and it is not the same arithmetic that was done in the first week of February, and three of the people who were standing in that yard have said since that this is the second time in this district that a man who is on no list at all has been the person who worked out what a piece of paper costs.**
 
 "You have written down, in your own hand, with a heading, that the round does not go out on a Saturday," said Doreen Sankey. "That is true. I have seen it. It is the truest thing anybody has put in a book about that round and I would not have said it in those words."
 
@@ -76,7 +76,7 @@ Nobody said anything for about eleven seconds, and then the fishmonger said, fro
 
 Nobody said anything for about nine seconds.
 
-"I said on the sixth of February in this yard that I was not going to be the man who said that in a room again for about a year," he said. "It is the eighth of March. **I have broken that in this yard about four minutes ago, in front of the same people, and I have not got a reason and I am not going to make one, and I would like somebody to write down that I said I would not and then did.**
+"I said on the sixth of February in this yard that I was not going to be the man who said that in a room again for about a year," he said. "It is the fifteenth of March. **I have broken that in this yard about four minutes ago, in front of the same people, and I have not got a reason and I am not going to make one, and I would like somebody to write down that I said I would not and then did.**
 
 Nobody wrote it down. That was the eighth time in nine weeks and about four people noticed that nobody had, and one of them was the man of about twenty-six.
 
@@ -94,13 +94,13 @@ He put the sheet face up on the trestle table in the yard, in the rain, the way 
 
 ---
 
-**And at about ten past four on the afternoon of Sunday the fifteenth of March, a man of about twenty-six in a high-visibility jacket came off the round, took the second side of the sheet of who does what and on which day out of a satchel, and put a line on it, in his own hand, with the date, and his initials against it, and wrote nothing else on it at all.**
+**And at about ten past four on the afternoon of Sunday the fifteenth of March, a man of about twenty-six in a high-visibility jacket came off a shift, took the second side of the sheet of who does what and on which day out of a satchel, and put a line on it, in his own hand, with the date, and his initials against it, and wrote nothing else on it at all.**
 
 > *15.iii. — standing in it. M.H.*
 
 "**Nothing else,**" he said, to about nine people, when somebody asked. "It is a day and I was on it. That is the whole of what this side is for and there is no room on it for the reason and I am glad there is no room on it for the reason, and I am not going to say anything else about today."
 
-The page home is the hundred and twelfth day of it and it is blank and it is going to be blank on the fourteenth of April, and nobody has asked anybody to fill it in since the twenty-seventh of December and this district is not going to ask, and that is a refusal and it is on the page.
+The page home is the hundred and twelfth day of it and it is blank and it is going to be blank on the fourteenth of April, and nobody has asked anybody to fill it in since the twenty-seventh of December and this district is not going to ask, and that is a refusal, and it is a refusal and not a kindness, and he has written that down in this book four times.
 
 ---
 
@@ -116,7 +116,7 @@ The page home is the hundred and twelfth day of it and it is blank and it is goi
 
 *Two. A woman of forty-five, from her own doorway, said that a rule at the foot of a sheet is for the person whose hand is going to be asked about, and that my seventh column is a rule for nobody, and that the answer is for a man in an office in about four years, and that she has known that since the tenth of January and has not said it because nobody was asking. **Nobody was asking. She has been holding a sentence for sixty days waiting to be asked and the asking would have been me, and I have spent five months learning that the only question anybody asks me in a yard is what do you do, and I have answered it four times and it is the wrong question and she is the only one who has told me so.** And she said "I am not for anybody" in the first week of January and she has said it four times since and this afternoon she said the other half of it, which is that she is not for a man in an office either, and she has still not given me her name, and I am not going to ask for it, and I have written that down for the fourth time and I am not going to ask on the fourteenth of April either.
 
-*Three. I broke a thing I wrote down. On the sixth of February, in this yard, in my own book, in a coat I am carrying: **I am not going to be the man who says that in a room again for about a year.** It is the eighth of March. I said it at about ten past four in a yard of about nine people, out loud, for the third time, and then I said out loud that I had promised not to and had done it, in the same yard, to the same people, and about four of them looked at each other, and nobody wrote it down, and that is the eighth time in nine weeks and I have stopped counting and I have started noticing, and noticing is worse.*
+*Three. I broke a thing I wrote down. On the sixth of February, in this yard, in my own book, in a coat I am carrying: **I am not going to be the man who says that in a room again for about a year.** It is the fifteenth of March, which is thirty-seven days after the sixth of February and I have done the sum twice. I said it at about ten past four in a yard of about nine people, out loud, for the third time, and then I said out loud that I had promised not to and had done it, in the same yard, to the same people, and about four of them looked at each other, and nobody wrote it down, and that is the eighth time in nine weeks and I have stopped counting and I have started noticing, and noticing is worse.*
 
 *And what I did with the sheet, which is the only thing this month I would write the word method next to, and I am not going to be thanked for it and I have not been: **I left it face up on a table in the rain and I did not take it and I did not give it away.** Three of mine have gone into a tin, into a coat, and into a pocket. This one is going to be off a table by Wednesday in a wind, or it is going to be wet and then dry and then off, and nobody in this district owns it and it is about six people's Saturdays and it came from me, and if anybody comes in in April and asks who wants it, the answer is that nobody did and it is on the record that I asked.*
 

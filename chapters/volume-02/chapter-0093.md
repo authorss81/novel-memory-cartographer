@@ -32,11 +32,11 @@ Nell Crale came past him at about ten past seven with a hand barrow and two bask
 
 ---
 
-**Stop two was the cellar, and it is the only cold store within four streets, and it is under four rooms over a shop, and on the twelfth of the current year it had four inches of standing water in it with nine hundredweight of ice in it, and the works' answer is November, and it is the eleventh of March, and the answer has not come.**
+**Stop two was the cellar, and it is the only cold store within four streets, and it is under four rooms over a shop, and on the twelfth of December it had four inches of standing water in it with nine hundredweight of ice in it, and the works' answer is November, and it is the eleventh of March, and the answer has not come.**
 
 She stood at the top of six steps with the barrow and would not go down.
 
-"Six inches of silt on that floor and salt in it," she said. "I took eleven inches of ice out of there in the December and I put the water in a bucket and the water came off my own hands and the silt came up and the silt has been in that floor since the year before the road was made. There is a frost in that cellar that has not gone out in nine years and it will not go out while the water is coming up under it from a pipe the size of your thumb that was laid before I was born."
+"Six inches of silt on that floor and salt in it," she said. "I took eleven inches of ice out of there in December and I put the water in a bucket and the water came off my own hands and the silt came up and the silt has been in that floor since the year before the road was made. There is a frost in that cellar that has not gone out in nine years and it will not go out while the water is coming up under it from a pipe the size of your thumb that was laid before I was born."
 
 "Who is coming."
 
@@ -44,7 +44,7 @@ She stood at the top of six steps with the barrow and would not go down.
 
 "Then how much ice are you carrying."
 
-"Forty-one pounds, which is about half of what I carried in the December." She lifted the near basket about four inches and put it down. "And I am carrying it round, and the six stops take it, and the six stops are on about two hundred yards of frontage and I could put a barrow up on my shoulder and run it in about nine minutes. I have never once done that and I am not going to. If I ever do that something has happened that has not happened yet."
+"Forty-one pounds, which is about half of what I carried in December." She lifted the near basket about four inches and put it down. "And I am carrying it round, and the six stops take it, and the six stops are on about two hundred yards of frontage and I could put a barrow up on my shoulder and run it in about nine minutes. I have never once done that and I am not going to. If I ever do that something has happened that has not happened yet."
 
 ---
 
@@ -88,7 +88,7 @@ The board is a board. It is not a form and it is not a return and it does not go
 
 Milo Rook stood in front of that board for about four minutes and did not write it down, and the reason is in the facing page of his own book and it took him a fortnight to be able to put it into words and the words are these.
 
-**A board outside a portacabin with four questions and a tick in a clerk's hand is a record of a day and not of a street, and a record of a day is a document, and a document is a thing that can be produced against anybody, and in about four years there is going to be a file with a day in it in which somebody says that nothing was observed on the low end of Bridge Street on the twelfth of the month, and the twelfth of the month is a Tuesday, and a water clinic is not a thing that is open at two o'clock in the morning, and a woman of sixty-three knew where the water would be at seven o'clock from grit in an axle, and the difference between those two facts is the whole of the last two months and it is not going to fit in a column and it is not going to fit in a board either.**
+**A board outside a portacabin with four questions and a tick in a clerk's hand is a record of a day and not of a street, and a record of a day is a document, and a document is a thing that can be produced against anybody, and in about four years there is going to be a file with a day in it in which somebody says that nothing was observed on the low end of Bridge Street on the twelfth of the month, and the twelfth of the month is a Thursday, and a water clinic is not a thing that is open at two o'clock in the morning, and a woman of sixty-three knew where the water would be at seven o'clock from grit in an axle, and the difference between those two facts is the whole of the last two months and it is not going to fit in a column and it is not going to fit in a board either.**
 
 And the other half of it, which is the half he is not going to write down for a long time and has written down once and only once:
 

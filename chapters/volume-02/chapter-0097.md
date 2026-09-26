@@ -1,6 +1,6 @@
 # Chapter 97: Line Six
 
-A form came back to the quay section office on Friday the twenty-sixth of March at about ten past ten in the morning, and it is the authority's own and it is a single side and it is a form of about 1968, and about four hundred of them go up from about forty offices every January, and one of them came back down with a sentence on it.
+A form came back to the quay section office on Thursday the twenty-sixth of March at about ten past ten in the morning, and it is the authority's own and it is a single side and it is a form of about 1968, and about four hundred of them go up from about forty offices every January, and one of them came back down with a sentence on it.
 
 It did not come back from the head office. It came back from the district superintendent's office, in a bundle, with nine others, and somebody in a corridor on the floor above had gone down nine returns with a pencil and had done the ninth of them in about four minutes and had not read any of them, and had then gone back and done the one he had done first, properly, in about nine more.
 
@@ -20,9 +20,9 @@ It did not come back from the head office. It came back from the district superi
 
 ---
 
-**And the cost of it, which took him about eleven minutes to get out and which is the whole of this chapter, is that the box says *officer, section* and does not say *clerk*.**
+**And the cost of it, which took him about eleven minutes to get out and which is the whole of it, is that the box says *officer, section* and does not say *clerk*.**
 
-A query on an annual return is answered by the officer of the section. The officer of the quay section is a foreman of fifty-four and thirty-one years and four lengths and he has signed about nine hundred forms in his working life and he has read the first, second, third and fourth lines of every one of them and he has never once read a clerk's line, and **on the Wednesday morning of the fourteenth of January he signed a return of which the sixth line was fifty-four words in Cyril Sale's own hand and he was not read it out, and that is on the page, and it is why there is a query about line 6 and no query about anything else.**
+A query on an annual return is answered by the officer of the section. The officer of the quay section is a foreman of fifty-four and thirty-one years and four lengths and he has signed about nine hundred forms in his working life and he has read the first, second, third and fourth lines of every one of them and he has never once read a clerk's line, and **on the Wednesday morning of the fourteenth of January he signed a return of which the sixth line was fifty-four words in Cyril Sale's own hand and it was not read out to him, and that is why there is a query about line 6 and no query about anything else.**
 
 "It has to be signed by the foreman," said Milo Rook.
 
@@ -30,11 +30,11 @@ A query on an annual return is answered by the officer of the section. The offic
 
 "It has to be signed by you to say that the section stands behind it, or by him?"
 
-"**It has to be signed by him and it has to be answered by whoever can answer it,**" said Cyril Sale, "and those are two different men in about nine minutes, and I have known that since about ten past ten this morning and I have not got a way round it, and I have been in this office four years and I have never once had to decide a thing on a Friday."
+"**It has to be signed by him and it has to be answered by whoever can answer it,**" said Cyril Sale, "and those are two different men in about nine minutes, and I have known that since about ten past ten this morning and I have not got a way round it, and I have been in this office four years and I have never once had to decide a thing on a Thursday."
 
 ---
 
-**And what it says, in about forty words, and he said it in a yard on the Sunday, and nobody interrupted him, and about four people have said since that it is the only time in five months that anybody in this district has said the mechanism out loud and then refused to do anything about it.**
+**And what it says, in about forty words, and he said it in a yard at about half past three that afternoon, and nobody interrupted him, and about four people in that yard have said since that it is the only time in five months that anybody in this district has said the mechanism out loud and then refused to do anything about it.**
 
 "The sixth line says three things. It says that the length was added to the schedule at the fourth edition on the twenty-second of November on the authority of a service amendment made on the thirteenth of October, on a standing instruction with a number on it. **It says that the third edition, dated the eleventh of September, did not contain the length.** And it says that the amendment's two lines for *requested by* and *instructing officer* are blank and that I cannot supply either.
 
@@ -46,7 +46,7 @@ A query on an annual return is answered by the officer of the section. The offic
 
 ---
 
-**And the thing that is not the sixth line is the fifth, and he got to it at about ten to eleven and stopped, and the stopping is on the page.**
+**And the thing that is not the sixth line is the fifth, and he got to it at about ten to eleven and stopped, and he has written down that he stopped.**
 
 "Line five," said Milo Rook. "*Persons observed on the length during the year.* Nil."
 
@@ -78,7 +78,7 @@ Roy Pryce put his clipboard down.
 
 "**No,**" said Cyril Sale.
 
-That is the whole of it. It took about four seconds and it is the only four seconds anybody in that office is going to talk about, and it is why the return went up to the district on the Thursday with the sixth box left empty and a line through it and the date, and why there is a pencil mark on a form in another building that will be read in about four years by somebody who does not know that anybody said no to anything.
+That is the whole of it. It took about four seconds and it is the only four seconds anybody in that office is going to talk about, and it is why the answer went up to the district on the Friday with the sixth box left empty and a line through it and the date, and why there is a pencil mark on a form in another building that will be read in about four years by somebody who does not know that anybody said no to anything.
 
 "You will get it back in a fortnight," said Roy Pryce.
 
@@ -90,7 +90,7 @@ That is the whole of it. It took about four seconds and it is the only four seco
 
 ---
 
-**And on the Monday the thirtieth of March Milo Rook told about nine people in a yard the thing that is actually the finding, and it is four sentences and none of them is about a form.**
+**And at about four o'clock that afternoon Milo Rook told about nine people in a yard the thing that is actually the finding, and it is four sentences and none of them is about a form.**
 
 "A man of forty-six read that query on Friday morning and worked out in about eleven minutes that the only honest answer was yes and the only answer that keeps eleven men and a foreman out of a room in April is no, and there is no column on that form for what a sentence meant, and so he did not sign it. **And he did not tell the foreman that the line was his, because the foreman would have said yes in about four seconds.**"
 
@@ -110,7 +110,7 @@ He stopped.
 
 ---
 
-**The Field Book, Friday the twenty-sixth of March, 22.15, a front room, and it is four days off the twenty-second, and that is three of the fours in this month, and I am not going to say anything about them here and I have written all four out on the thirtieth.**
+**The Field Book, Thursday the twenty-sixth of March, 22.15, a front room, and it is four days off the twenty-second, and that is three of the fours in this month, and I am not going to say anything about them here and I have written all four out on the thirtieth.**
 
 *Twenty-sixth, 22.15. Four days.*
 
@@ -118,7 +118,7 @@ He stopped.
 
 *Two. And the other half, and it is worse and it is the finding of the month. **Nobody has ever asked about line five.** A nil on a box headed *persons observed on the length during the year* has now been read by a man with a pencil in a corridor and has not been queried, and the reason is that a man with a pencil and nine returns is not looking for a box about persons, he is looking for a line that is not work. **And that is the second time in six months that this district has been protected by a clerk being fast.** The first was a form about a box that wanted to know who, and it was a name in a line under words, and it was not read because nobody looked for it. This one is a nil, and it was not read because nobody looked for it, and a foreman of thirty-one years wrote the best sentence anybody has said about that box in a yard nine weeks ago and it is not in the file and it is not in the query and the query does not ask about it. **I am not going to write what I think that means. I have written that sentence three times this month in other books and every time I have finished it I have had to take it back, and there is a difference between not being able to say a thing and saying it badly, and this is the first time in five months I have written down that I do not know.**
 
-*Three. And the shape. I said in a yard this morning that a man in a coat has not told a foreman that a line was his, and Rue said *that is the same shape*, and she is right, and it is about me and not about anybody in a form, and I stopped talking after about four seconds, and I have written down here that I stopped. **I have now been the fastest person in a room about a document six times in five months and two of those six were in a yard this week and I was wrong about one of them and the other one I was right about and it did not matter, and both of those are new and I have not worked out what to do with either.**
+*Three. And the shape. I said in a yard about an hour ago that a man in a coat has not told a foreman that a line was his, and Rue said *that is the same shape*, and she is right, and it is about me and not about anybody in a form, and I stopped talking after about four seconds, and I have written down here that I stopped. **I have now been the fastest person in a room about a document six times in five months and two of those six were in a yard this week and I was wrong about one of them and the other one I was right about and it did not matter, and both of those are new and I have not worked out what to do with either.**
 
 *Four. The cover. A form with five boxes came back to that same office four times in one morning ten days ago and every one of the four refusals was correct, and the cover is still rocking, and there is no box in this city that will take a sentence about it, and I went back to the top of that loop on Monday morning with a chain I did not use and it is still two inches proud and eleven men walk past it on a Monday and a Thursday and will walk past it in April. **I have written down that a hazard with a form and a hazard without one and a sentence about a form are three different objects and I have joined none of them to any other and I am not going to, and that is the fourth time I have written a sentence of that shape and I am not going to write a fifth.**
 

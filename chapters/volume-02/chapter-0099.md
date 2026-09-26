@@ -35,7 +35,7 @@ Six hundred yards of reserved tram route that has not been on the running diagra
 
 "**Item four is a line about outstanding returns and I cannot tell you which sections are on it,**" she said, "and I am not going to find out, and I would like it noted that I have not even asked, in a corridor, with a clerk about thirty feet away, on purpose, for the same reason I have not asked you something in a corridor three times in a month."
 
-He did not ask. He has not asked since the seventh of January. He wrote in his own book in February that not asking was the correct procedure and not a courtesy, and he wrote it again on the twentieth, and he wrote it a third time in a book in a coat on the sixth of March, and **this is the third time he has not asked in a fortnight and it is the first time he has written down that the not-asking has stopped being procedure and become something else, and he has not decided what, and that sentence is on the page in his own hand and it is not about her and she does not know it is there.**
+He did not ask. He has not asked since the seventh of January. He wrote in his own book in February that not asking was the correct procedure and not a courtesy, and he wrote it again on the twentieth, and he wrote it a third time in a book in a coat on the sixth of March, and **this is the third time he has not asked in a fortnight and it is the first time he has written down that the not-asking has stopped being procedure and become something else, and he has not decided what, and that sentence is in his own hand in a book in a coat and it is not about her and she does not know it is there.**
 
 "Item four is not for us to be told," he said instead.
 
@@ -53,7 +53,7 @@ He did not ask. He has not asked since the seventh of January. He wrote in his o
 
 ---
 
-**And at about four o'clock on the afternoon of the thirty-first of March, in a yard, a man of about forty-one with a wet cap and a boy of seventeen with a blank card said the other two halves of it and neither of them was a surprise and both of them had been on the page for weeks, and the boy's name is Pell Harrow and his card is under a brick and it has been blank since the nineteenth of January.**
+**And at about four o'clock on the afternoon of the thirty-first of March, in a yard, a man of about forty-one with a wet cap and a boy of seventeen with a blank card said the other two halves of it and neither of them was a surprise and both of them had been said before in this district, and the boy's name is Pell Harrow and his card is under a brick and it has been blank since the nineteenth of January.**
 
 "**A document in the hand of a party is a thing that can be produced against the party,**" said Doreen Sankey, "and it is the first one you have ever had, and I have been waiting since December for the first one, and I want to say the two things about it and then I am going to go and do something else. The first is that everything on that sheet is correct. Every line. I have read it about four times and I have looked for the one that is wrong because there has got to be one, and there is not one, and that is item four, and I am not going to touch it."
 
@@ -67,9 +67,9 @@ He did not ask. He has not asked since the seventh of January. He wrote in his o
 
 ---
 
-**And a second side of a sheet of accountancy paper got a line on it on Monday the thirtieth and nothing on it on Tuesday the thirty-first, and the Tuesday is the last blank of that week that anybody has looked at, and the Thursday of that week was a walk day and there are two men in a gang on six hundred yards of reserved tram route at half past seven tomorrow morning.**
+**And a second side of a sheet of accountancy paper got a line on it on Monday the thirtieth and nothing on it on Tuesday the thirty-first, and the Tuesday is the last blank of that week that anybody has looked at, and the Thursday of that week was a walk day and there are two men in a gang on six hundred yards of reserved tram route at half past seven on Thursday morning.**
 
-And the second tin on the bottom shelf of a plan room in another building held **fifteen weeks of gang carbon and one page that is not a gang sheet**, and the fifteen is a figure a man of thirty-one has written out nine times, and the page has not been read.
+And the second tin on the bottom shelf of a plan room in another building held **fifteen weeks of gang carbon and one page that is not a gang sheet**, the last duplicate having gone in on Friday the twenty-seventh of March, and the fifteen is a figure a man of thirty-one has written out nine times, and the page has not been read.
 
 ---
 
@@ -85,4 +85,4 @@ And the second tin on the bottom shelf of a plan room in another building held *
 
 *Four. The tin. Fifteen weeks and the one page, and the fifteen I have written out nine times and it is a count of a thing that happens twice a week and a half a century, and it will be sixteen on Friday the third of April, and I have written that down in advance, and **a man of thirty-one in a route room signed for that tin in December and has never asked what is in it and is not going to and I have not asked him whether it is still there, because I know that it is, and because a rule in grease pencil says you do not take a line off, and because I wrote the rule's author a card in December and he is the one man in this district I would not put in a position of choosing.**
 
-*The page home the hundred and twenty-eighth day, blank, three marks in three hands. Ten routes, ten. The token cold, hundred and fourteenth day. The tally has nine lines and I have not crossed. **Tomorrow is the first of April and it is the last time four copies of a card come out of four places and get looked at before the fourteenth, and there is no fifth, and a woman of sixty-one has written on the outside of an envelope in pencil that it is going to be three of four, and she has written it in advance, and nobody has asked her to, and I have asked her about a version number on the seventh of January and I have never asked her about a number she put there herself.***
+*The page home the hundred and twenty-eighth day, blank, three marks in three hands. Ten routes, ten. The token cold, hundred and fourteenth day. The tally has nine lines and I have not crossed. **Tomorrow is the first of April and it is the last time four copies of a card come out of four places and get looked at before the fourteenth, and there is no fifth, and a woman of sixty-one has written on the outside of an envelope in pencil that it is going to be *1 of 4*, and she has written it in advance, and nobody has asked her to, and I have asked her about a version number on the seventh of January and I have never asked her about a number she put there herself.***

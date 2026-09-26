@@ -83,7 +83,7 @@ Three sentences' worth of machinery in about two hundred years of forms: it know
 
 ---
 
-**And at about four o'clock on the same Friday, in the half hour the counter is shut for, a woman of sixty-one did the second of the three things she has a rule about, and it took forty seconds and she has written the date on the outside of an envelope in her own ink every time and has never once read the route on any of the four.**
+**And at about ten past one in the afternoon of the same Friday, four days later than the Monday she had it written down for, in the half hour between one and half past one that the counter is shut, a woman of sixty-one did the second of the three things she has a rule about, and it took forty seconds and she has written the date on the outside of an envelope in her own ink every time and has never once read the route on any of the four.**
 
 Three of the four copies said version one and one said version two and that is what they said on the second of February and that is what they said and nothing else was read, and the fourth has been read since before she held the envelope and she is not going to find out and if she finds out she will not use it.
 
