@@ -92,7 +92,7 @@ Milo Rook wrote the time down. Then he wrote down the sentence, and the sentence
 
 **And at about four o'clock the flatbed went back to the city and he got on it at ten to four in a yard at Cobb Lock and it was in the yard at the city end at about half past four and he walked from there, and the bell had gone three times and the hole was filled and there was nothing on the page of any book in this city about any of it, and he had not written it down.**
 
-**The plate is a hundred and nine days in the grass. The page home is the two hundred and forty-third day and it is blank and it has four marks in four hands and none of them are mine. The token is cold on the two hundred and twenty-ninth day. The condition column is a hundred and sixty-two days empty and has two entries in it and both of them are in July. The second tin is at thirty-two and the last rack day was yesterday.**
+**The plate is a hundred and nine days in the grass. The page home is the two hundred and forty-third day and it is blank and it has four marks in four hands and none of them are mine. The token is cold on the two hundred and twenty-ninth day. The condition column is a hundred and sixty-two days empty and has two entries in it and both of them are in July. The second tin is at thirty-two and Friday the twenty-fourth was a rack day.**
 
 ---
 
