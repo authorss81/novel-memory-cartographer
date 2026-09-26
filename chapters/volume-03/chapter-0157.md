@@ -24,7 +24,7 @@ Column six is the signature of the person responsible. A signature is a thing a 
 
 **And on Monday the twenty-fourth of August the gang was on the back length at half past seven, eleven men and a foreman with a clipboard, and it was the forty-first walk since the first of April, and the condition column had nothing in it and the reason column had nothing in it and both of those were correct.**
 
-The plate in the grass is a hundred and forty days old. The page home is the two hundred and seventy-fourth day. The token is cold on the two hundred and sixtieth day. The condition column is a hundred and ninety-three days empty and has two entries in it, both in July, both four words and a figure. The second tin is at thirty-six and the last rack day was Friday the twenty-first, which was a week ago and was the one he was not here for. A foreman of fifty-four is seventeen weeks and five days past four months and is on a gate and is not going to be asked.
+The plate in the grass is a hundred and forty days old. The page home is the two hundred and seventy-fourth day. The token is cold on the two hundred and sixtieth day. The condition column is a hundred and ninety-three days empty and has two entries in it, both in July, both four words and a figure. The second tin is at thirty-six and the last rack day was Friday the twenty-first, which was three days ago and was the one he was not here for. A foreman of fifty-four is seventeen weeks and five days past four months and is on a gate and is not going to be asked.
 
 ---
 
@@ -54,7 +54,7 @@ Nobody said anything.
 
 "**Right.**" He did not say anything else about it and he went and washed.
 
-**And Milo Rook stood in a yard and could not say one word, and could not have said one word, and did not have one, and the sentence he did not say is the whole of the block and he has written it out in his own book and it is eleven words long and it is not *no*.**
+**And Milo Rook stood in a yard and could not say one word, and could not have said one word, and did not have one, and the sentence he did not say is the whole of the block and he has written it out in his own book and it is seventy-eight words long and it is not *no*.**
 
 *I did not put your name on it and I have known since Friday morning that it was going to be your name, and I have had four days to say something and I have not said anything, and there is no form in this city for saying something about a box on a printed side in an office about a mile away, and there is no form because nothing in this district is a party to anything.*
 
@@ -78,6 +78,6 @@ Nobody said anything.
 
 *One. **A typed name in a box that says a man signed it, and he did not, and it is the first time since the fourteenth of April that a person in this district has had his name on a printed side about this district, and I did not do it, and I knew on the Friday, and I said nothing for four days, and there is no form.** And I have got a name of my own on a card in a building about a mile away from the same nineteen lines, and the difference between the two is that I can see mine, and that is the whole of what a field book is and it is not worth much.*
 
-*Two. **Nothing has moved. The pairs are twenty-nine. Eleven remembered routes, ten crossings, the tally is ten lines, and I have not looked at it since the thirteenth of January and I am not going to look at it in August, and the end of July was four days ago and I did not do it and I am going to break the promise about the ninth crossing on the last day of this month, in writing, which is the only tool I have and the worst possible one, and a promise kept in a book and broken in a book is not a promise and is not a break and is a third thing and I do not have a word for the third thing and I have not had one since January.***
+*Two. **Nothing has moved. The pairs are twenty-nine. Eleven remembered routes, ten crossings, the tally is ten lines, and I have not looked at it since the thirteenth of January and I am not going to look at it in August, and the end of July was twenty-four days ago and I did not do it and I am going to break the promise about the ninth crossing on the last day of this month, in writing, which is the only tool I have and the worst possible one, and a promise kept in a book and broken in a book is not a promise and is not a break and is a third thing and I do not have a word for the third thing and I have not had one since January.***
 
 *And the standing position: **the writer of the map is not the maintainer of anything, and that is a list of about fourteen other people and not one of them has been asked to be on it.**

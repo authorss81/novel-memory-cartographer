@@ -52,9 +52,9 @@ He put his hand in it. It was cold. There was a mark on the shelf where a bundle
 
 "Does anybody empty that."
 
-"**I have been in this office four times a day since the twenty-eighth of December. I have watched that rack. It has been got from and never got from. I am not going to be the man who says which of those it is.**"
+"**It has been got from and never got from.**"
 
-That is nine words and there is no column anywhere for the number of times he has said them, and nobody thanked him, and Milo Rook did not thank him, **and there is nothing on any paper in this city that says a man of forty-one on no list at all was asked a fair question in a corridor on Friday the fourth of September and gave a correct answer to it.**
+That is nine words and there is no column anywhere for the number of times he has said them. **He has been in this office four times a day since the twenty-eighth of December and he has watched that rack, and he is not going to be the man who says which of those it is, and neither of those is in the nine words and both of those are why the nine words are the nine words.** And nobody thanked him, and Milo Rook did not thank him, **and there is nothing on any paper in this city that says a man of forty-one on no list at all was asked a fair question in a corridor on Friday the fourth of September and gave a correct answer to it.**
 
 ---
 
@@ -70,7 +70,7 @@ That is nine words and there is no column anywhere for the number of times he ha
 
 ## The standing question, in three parts, with a practice in the first of them
 
-*Field Book, Friday the fourth of September, 23.20, a front room in eleven streets, one day off the third. Nothing has moved and the day-counts have gone on without me. The page home the two hundred and eighty-fifth day, blank, four marks in four hands, none of them mine. The token cold, the two hundred and seventy-first day. The pairs are twenty-nine and they have not moved since the sixteenth of July and the reason is the same reason and it is the right reason. Eleven remembered routes, ten crossings, the tally is ten lines, not looked at since the thirteenth of January. The condition column is two hundred and four days and is not there. The reason column is not there. The plate is a hundred and fifty-one days in the grass and has been told to nobody. The second tin is at thirty-seven and there is no thirty-eight. A foreman of fifty-four is nineteen weeks and three days past four months and he is not going to be asked and I am not going to ask and the date of that silence is now written down, and the block in which the silence got a date on it is the block in which the works stopped, and I did not put the date there and I could not take it out and I have not tried.*
+*Field Book, Friday the fourth of September, 23.20, a front room in eleven streets, one day off the third. Nothing has moved and the day-counts have gone on without me. The page home the two hundred and eighty-fifth day, blank, four marks in four hands, none of them mine. The token cold, the two hundred and seventy-first day. The pairs are twenty-nine and they have not moved since the sixteenth of July and the reason is the same reason and it is the right reason. Eleven remembered routes, ten crossings, the tally is ten lines, not looked at since the thirteenth of January. The condition column is two hundred and four days and is not there. The reason column is not there. The plate is a hundred and fifty-one days in the grass and has been told to nobody. The second tin is at thirty-seven and there is no thirty-eight. A foreman of fifty-four is nineteen weeks and two days past four months and he is not going to be asked and I am not going to ask and the date of that silence is now written down, and the block in which the silence got a date on it is the block in which the works stopped, and I did not put the date there and I could not take it out and I have not tried.*
 
 *Why does weather memory threaten a region the Registry claims is stable.*
 

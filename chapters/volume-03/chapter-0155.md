@@ -80,7 +80,7 @@ He did not say anything else for about an hour. The sheet went on the pile. The 
 
 ---
 
-**And at about eleven o'clock at night, in a book in a coat, the tenth thing of that shape in eight months came, and it is six words, and he wrote it down and looked at it for about a minute and a half and did not act on it and did not know what it was about, and it is the opposite of the truth and he has not been able to prove that it is the opposite of the truth, and it is going to stay.**
+**And at about eleven o'clock at night, in a book in a coat, the eleventh thing of that shape in eight months came, and it is six words, and he wrote it down and looked at it for about a minute and a half and did not act on it and did not know what it was about, and it is the opposite of the truth and he has not been able to prove that it is the opposite of the truth, and it is going to stay.**
 
 > **Nothing written down can be got wrong.**
 

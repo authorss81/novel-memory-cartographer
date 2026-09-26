@@ -14,7 +14,7 @@ He got to the landing at about twelve.
 
 "I have come out on the Friday again."
 
-"**The Tuesday lorry goes to a yard at the north end and it does not go to a landing, and the Friday one comes in at half past ten and goes back at four, and you have been out on four of them since the end of June, and there is no bus and there has not been one since about 1961.**" She drank some of it. "**What have you come out for. And I want the true one and I have got about four of the true ones left.**"
+"**The Thursday lorry goes to a yard at the north end and it does not go to a landing, and the Friday one comes in at half past ten and goes back at four, and you have been out on four of them since the end of June, and there is no bus and there has not been one since about 1961.**" She drank some of it. "**What have you come out for. And I want the true one and I have got about four of the true ones left.**"
 
 ---
 
@@ -72,11 +72,11 @@ Then she said the rest of it, and it is about four sentences and she gave them o
 
 **That is the sixth wrong-shaped thing he has found in eight months and it is the only one he has found in somebody else's work and did not put there, and he has written it down and he has not improved it, and he has not said it to her and he is not going to.**
 
-*A bell on a wall at ten past seven and four o'clock, every day, for twenty-six years, by a woman of thirty-seven who would rather it was the bell than a person. **A practice is not a place and it is not a day. She has made hers a day, on purpose, because a day is a thing that keeps going without you, and a day is also a thing that a department can be told about, and those two are the same fact and she has decided to live on it. She is right about her thirty-one years and wrong about the other thing and she will not be told and there is nobody in this district who is going to tell her and there is a man in a wet coat who could and is not going to.***
+*A bell on a wall at ten past seven and four o'clock, every day, for twenty-six years, by a woman of thirty-seven who would rather it was the bell than a person. **A practice is not a place and it is not a day. She has made hers a day, on purpose, because a day is a thing that keeps going without you, and a day is also a thing that a department can be told about, and those two are the same fact and she has decided to live on it. She is right about her twenty-six years and wrong about the other thing and she will not be told and there is nobody in this district who is going to tell her and there is a man in a wet coat who could and is not going to.***
 
 ---
 
-**And he got on the flatbed at ten to four and it was in the yard at the city end at about half past four, and he had asked her nothing, had offered her nothing, and had said the word thank you to one man on a bridge and to nobody else in fourteen days.**
+**And he got on the flatbed at ten to four and it was in the yard at the city end at about half past four, and he had asked her nothing, had offered her nothing, and had said the word thank you to one man on a bridge and to nobody else in seven days.**
 
 **There is a plate in the grass at the low end of Bridge Street that is a hundred and thirty days old. There is a written line home in a book that is the two hundred and sixty-fourth day and has four marks in four hands in it and none of them are his. There is a brass token in the inside pocket of a coat that is cold on the two hundred and fiftieth day and has done nothing since the seventh of December. There is a list in the same book with twenty-nine pairs on it that has not moved since the sixteenth of July and is not going to move in August, because he has an entry on most nights and an interval of one day is not a pair.**
 

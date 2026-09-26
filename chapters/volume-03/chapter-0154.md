@@ -40,7 +40,7 @@ He put a hand on the machine.
 
 **And Milo Rook went across, which took him about four seconds, and stood on the far half, and the grass came up to about his knee, and the mowing was about two weeks old and was cut in a strip about a foot wide along the top of the bank and it was cut by a man with a sickle on his way in at about ten to seven in the morning for nine years.**
 
-He did not go along the path. He stood on the deck and he did not go past the second post either.
+He went out along the path after that. It is about a hundred and thirty yards from the parapet to the first post and the walking is slow because the grass on the far half has been under a foot since the middle of July, and he was at the second one at about half past eleven.
 
 ---
 
@@ -56,11 +56,11 @@ He did not go along the path. He stood on the deck and he did not go past the se
 
 He read it.
 
-**He read it out loud, standing up, in about four seconds, to nobody, on a bridge deck in a district with no rateable unit, on a Friday morning in August, and he did not write it down, and it is the first time in eight months that he has put a thing into the air in a place where there was nobody to hear it, and he has written that down as well.**
+**He read it out loud, standing up, in about four seconds, to nobody, out in a fenland about three hundred yards from a bridge deck, on a Friday morning in August, and he did not write it down, and it is the first time in eight months that he has put a thing into the air in a place where there was nobody to hear it, and he has written that down as well.**
 
 In July he had held a schedule against that collar for about four minutes and had not written it down, because a number in a ground is a thing a person can be sent to look at and nobody has sent. In August he read it out loud instead, which is not producing it, and which is not writing it down, and which is the first of the ten things of that shape in eight months that has been neither of the two, and **a thing said out loud to nobody in a fenland is not a record, and the only reason that is true is that fenlands are large and there is nobody in them, and in about four years this city will be less large and that will not be true and it is not a thing anybody in this district gets to decide.**
 
-**A cast number in a collar is a work of record. That is exactly what it is and exactly what it is for. It is the only piece of paper anybody has ever made about this district except a card with a hand on it, and it was on a printed side in the middle of May before he ever put a hand on it, and a work of record is the wrong shape for a district, because a work of record is a thing that has been maintained by somebody and this one has not been maintained by anybody since about 1968 and the number is still legible and the collar is not silted and I do not know why and I am not going to find out with a spade.**
+**A cast number in a collar is a work of record. That is exactly what it is and exactly what it is for. It is a work of record that is not in a building, and the number on it was on a printed side in the middle of May before he ever put a hand on it, and a work of record is the wrong shape for a district, because a work of record is a thing that has been maintained by somebody and this one has not been maintained by anybody since about 1968 and the number is still legible and the collar is not silted and he does not know why and he is not going to find out with a spade.**
 
 ---
 
@@ -74,12 +74,14 @@ Past the third post the path goes over the top of a bank, and the bank is the to
 
 **And at about twenty past twelve he went back along the path and crossed the bridge again in about four seconds, and the man with the mower was starting the machine on the city side, and neither of them said anything, and he did not thank him, and the man did not expect it and had said ten minutes a morning was not on a time sheet and had said it for that reason.**
 
+**He walked back up to the gate at the north end and he was there at about ten to four and the flatbed was on its way back to the city and did not wait, and he was in the yard at the city end at about half past four, and the four sacks were still on the bed where they had been that morning.**
+
 *The seventh of August. Three lines and I am not making it four.*
 
 *One. **A boundary is a place where two people agreed to have stopped, and there are three, and the second of the three has a fourth party to it now and I am not going to be the one who says what that is. A man has been cutting ten feet of the far half of that bridge with a sickle for nine years and has told nobody, and has now told me, and told me so that in about four years nobody can decide he crossed for a reason. That is not a boundary moving. **A boundary is a place where two people agreed to have stopped and two things stopped there and neither of them was a person, and now a man has stopped there as well, and that is three, and I have three boundaries and I am not going to have four and I am not going to join any of them to any other.***
 
 *Two. **The handrail post is still four inches short of the one it took out, the file still says *replaced like for like*, nobody has levelled it and nobody is going to, and about nine families navigate this path by that post, and there is nobody in Crown Heights who can say which post it was. **I did not ask him about the post. I have known about the post since the nineteenth of June and I have asked him nothing and I was standing eleven feet from the man who cuts the grass on both halves of it and I did not ask him, and I want that written down, because a man with a sickle on a bank at ten to seven in the morning is a person and there are about nine people on this path and I have met one of them in a year.***
 
-*Three. **The pairs are twenty-nine. The tally is ten lines and I have not looked at it. Eleven remembered routes, ten crossings, the ninth unexplained, and the end of July was three days ago and I have said four times that I was not going to explain it before then and I did not explain it, and I am not going to pretend the month is a different month because I am writing this on a Friday in August, so I am going to write on the thirty-first of this month, in this book, that I am not going to explain it, which is worse than breaking it and is a third kind of keeping it.***
+*Three. **The pairs are twenty-nine. The tally is ten lines and I have not looked at it. Eleven remembered routes, ten crossings, the ninth unexplained, and the end of July was seven days ago and I have said four times that I was not going to explain it before then and I did not explain it, and I am not going to pretend the month is a different month because I am writing this on a Friday in August, so I am going to write on the thirty-first of this month, in this book, that I am not going to explain it, which is worse than breaking it and is a third kind of keeping it.***
 
 *And the standing position: **the writer of the map is not the maintainer of anything, and that is a list of about fourteen other people and not one of them has been asked to be on it.**
