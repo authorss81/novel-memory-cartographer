@@ -35,7 +35,7 @@ He came at about eleven with his coat still on and he did not sit down, and he s
 
 "Say it back to me," she said, "in the order, and do not put anything in it that is not on the paper."
 
-He did. The board on the first of October, a hundred and forty years of names, the eleven streets in the remarks column with a contract and a supervisor's name and an expiry. The amendment on Thursday. Cobb Lock. District 214. Four hundred and ten yards. *None of record.* And the office at the foot with a rule and nothing on the rule.
+He did. The board on the first of October, a hundred and forty years of names, the eleven streets in the second column where the numbers go, with a contract and a supervisor's name and an expiry. The amendment on Thursday. Cobb Lock. District 214. Four hundred and ten yards. *None of record.* And the office at the foot with a rule and nothing on the rule.
 
 "**Ground (d) on Cobb Lock,**" she said.
 

@@ -82,7 +82,7 @@ And here is the part that put the whole thing over.
 
 **Two thousand three hundred and forty yards at a rate from a contract for a set of works that ended on the thirty-first of August is a sum of money. That is what is in the schedule. Not a district. A sum of money, about a place, at a rate for a district, from a document about a road.**
 
-He stood on the bank for a while after that and did not say it out loud, and it is the fifth thing this city has done in eight months that is about money and there has not been one before, and the other four were all about a name. **He wrote one sentence that evening and the sentence was not this one.**
+He stood on the bank for a while after that and did not say it out loud, and it is the first thing this city has done to this district in eight months that is about money, and the other things were about a name. **He wrote one sentence that evening and the sentence was not this one.**
 
 ---
 

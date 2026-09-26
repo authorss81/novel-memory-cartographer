@@ -46,13 +46,13 @@ Nine hundred and something rows and it is a hundred and forty years old and it i
 
 And it is on the schedule anyway.
 
-He found it about a third of the way down, in the fourth column, in a line that is not in the same typeface as the rest of the line and is a shade darker, and it does not begin in the name column at all. It begins in the second column, and the second column is headed *Remarks*, and it reads:
+He found it about a third of the way down, in the fourth column, in a line that is not in the same typeface as the rest of the line and is a shade darker, and it does not begin in the name column at all. **It begins in the second column, where the district numbers go, because there was nowhere on that board for a line about a thing that is not a district, and a number column is a column, and it will take a sentence if nobody stops it.** And it runs on across the third and into the fourth, which is where the four grounds are, and it reads:
 
 > *No district number. No correspondence address. Works contract 3rd qtr (R. PRYCE), expired 31 August. Ground (d). **NOT TO BE MAINTAINED.***
 
 **Nobody put a lie on that board.** A district with no correspondence address cannot be sent a schedule and cannot be asked about one and has been exactly that since about 1911, so the office went to the document it could reach, and a contract names the supervisor, and a contract has a date on it and the date has gone.
 
-**That is the same mechanism as the box in column six in August and the same mechanism as the second box in September, and it is the fifth time in eight months, and nobody lied in any of the five, and the fifth is on a board in a corridor and it is going to be there on Monday.**
+**That is the same mechanism as the box in column six in August and the same mechanism as the second box in September, and it is the third time in eight months, and nobody lied in any of the three, and the third is on a board in a corridor and it is going to be there on Monday.**
 
 He stood and looked at it for a while.
 
@@ -111,17 +111,17 @@ Two. **The seventeenth of September**, a maintenance responsibility return for S
 
 Three. **The first of October**, a board in a corridor, column four, in a line that does not begin in the name column because the eleven streets is not a district, in a darker typeface than the line it sits in, with a length in it.
 
-**Three printed sides in nine days, and two of them are in a building in Crown Heights and one of them is on a wall, and both of the first two say the works are not going to be maintained, and the third says the same thing in the language of a set of works, and the second of them was the first time this district had been on a printed side of anything since the fourteenth of April.**
+**Three printed sides in forty-two days, and two of them are in a building in Crown Heights and one of them is on a wall, and both of the first two say the works are not going to be maintained, and the third says the same thing in the language of a set of works, and the second of them was the first time this district had been on a printed side of anything since the fourteenth of April.**
 
 He wrote the three dates on the sheet and then, because he has been wrong about his own arithmetic in this exact way before, he counted the days out loud on a bus.
 
-Six days from the twentieth of August to the seventeenth of September to the first of October. Fourteen days, then. **Fourteen days for three of them, and a hundred and forty days of nothing before the first one, and there is no column in this district that wants a number for either figure.**
+Twenty-eight days from the twentieth of August to the seventeenth of September, and forty-two days to the first of October. Forty-two days, then. **Forty-two days for three of them, and a hundred and twenty-eight days of nothing before the first one, and there is no column in this district that wants a number for either figure.**
 
 ---
 
 *Field Book, Thursday the first of October, 23.30, a front room in eleven streets, one day off the thirtieth of September.*
 
-*One. **THE PROPOSAL HARDENED AND THE HARDENING IS A DOCUMENT AND THE DOCUMENT IS CORRECT.** A schedule is either maintained or not maintained and a schedule is printed from a list of districts a hundred and forty years old and the eleven streets is not on that list, and the office went to a contract that expired on the thirty-first of August and entered it in the remarks column in a darker typeface, and nobody lied, and this is the fifth time in eight months and there is nobody to be angry at and there has not been since the third of July.*
+*One. **THE PROPOSAL HARDENED AND THE HARDENING IS A DOCUMENT AND THE DOCUMENT IS CORRECT.** A schedule is either maintained or not maintained and a schedule is printed from a list of districts a hundred and forty years old and the eleven streets is not on that list, and the office went to a contract that expired on the thirty-first of August and entered it in the second column where the numbers go, in a darker typeface, and nobody lied, and this is the third time in eight months and there is nobody to be angry at and there has not been since the third of July.*
 
 *Two. **A SEASON'S WORK GOES OUT WITH A FORM ABOUT SOMETHING A DEPARTMENT CAN COUNT, AND THE SOMETHING IS A LENGTH.** Two thousand three hundred and forty yards for eleven streets, and four hundred and ten for a village of a hundred and forty people, and **a length is a third kind of place and is not a remnant, and a length of frontage in a schedule of quantities is a figure about a set of works and is not a figure about a place, and I have written that down and I am not going to improve it, and it is the reason this block is going the way it is going.** A season's work cannot go out without a quantity. That is not the design working against anybody. That is a quantity.*
 

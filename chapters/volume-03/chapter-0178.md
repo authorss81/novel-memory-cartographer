@@ -28,7 +28,7 @@ He did it at the kitchen table with a pencil and the back of a sheet of his own 
 
 *Tuesday: the van, which belongs to a firm, which is the mower man's, which has got a rack on the back for mowers and a company name on the side in a colour that has gone the colour of the weather, and it has two stops and then the yard, and it is not a day off, and he has said so both times this year without being asked to. **So a Tuesday is four miles the other way and back and belongs to a man of about fifty.***
 
-*Wednesday, Thursday, Saturday, Sunday: **there is no bus and there has not been one since about 1961.***
+*Wednesday, Saturday, Sunday: **he does not leave the district. A bus goes past the end of the street every twenty minutes on a weekday and I have not been on one since the second of January, and on a Saturday and a Sunday there is not one, and there is not one in Mireward either and there has not been one there since about 1961 because a bus wants a place to stop and a place to stop is a rateable thing.***
 
 He stood and looked at it.
 

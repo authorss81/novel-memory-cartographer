@@ -10,7 +10,7 @@ The page home is the three hundred and fortieth day. The token is cold on the th
 
 ## The morning, and the lorry, and a man with a handcart
 
-There is a lorry to a yard at the north end on a Thursday morning. It is the second motor vehicle in this district in a week and neither of the two is his, and he stood at the corner at about ten and watched it come in and go out again and did not get a lift and did not ask for one, because asking for a lift is asking, and he has asked enough people in eight months to last him until the end of the volume.
+There is a lorry to a yard at the north end on a Thursday morning. It is the second motor vehicle in this district in a week and neither of the two is his, and he stood at the corner at about ten and watched it come in and go out again and did not get a lift and did not ask for one, because asking for a lift is asking, and he has asked enough people since the sixth of April to last him for a while yet.
 
 The Row was there. The man of about forty swept it with a brush and did not stop and has still not been asked for his twenty-eight undated words and is not going to be. The fishmonger of about forty-five had her trays out by nine and was not thanked and was not asked.
 
@@ -66,7 +66,7 @@ And here is the part that does not come off:
 
 ## And the two other things that happened on an ordinary Thursday, and neither of them is about a village
 
-**One.** A man of fifty-four with thirty-one years in charge of a gang is on a firm's books and not on a district's. He has a name in three boxes on two printed sides and a remark in a darker typeface on a board in a corridor, and he signed none of them, and he has not been asked about any of it, and nobody is going to ask him, and he is twenty-seven weeks and one day past four months. **Milo Rook did not say the seventy-eight words on Thursday the twenty-ninth of October and there is no reason on earth why he would, and they are not any other number, and nobody is going to improve them.**
+**One.** A man of fifty-four with thirty-one years in charge of a gang is on a firm's books and not on a district's. He has a name in two boxes on two printed sides and a remark in a darker typeface on a board in a corridor, three places in all, and he signed none of them, and he has not been asked about any of it, and nobody is going to ask him, and he is twenty-seven weeks and one day past four months. **The amendment of the twenty-second of October does not carry his name at all; its box carries a village and it says none of record, and he has never seen it, and nobody is going to show him.** **Milo Rook did not say the seventy-eight words on Thursday the twenty-ninth of October and there is no reason on earth why he would, and they are not any other number, and nobody is going to improve them.**
 
 **Two.** There is a page in a drawer with a coat in it, and it is hers, and it is the eleventh block, and neither of them mentioned it in one word today and they were not in a corridor today, and he has not told her about the season, and she has not asked since July, and she found out he had stopped counting by noticing that the number stopped going up and has not told him she noticed and there is no column for that and there is not going to be one.
 

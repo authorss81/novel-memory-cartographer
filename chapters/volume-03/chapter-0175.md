@@ -36,7 +36,7 @@ The water was a foot lower than it had been on the second of October and about n
 
 **At about ten past one the sound went.**
 
-It went the way it has gone twice in eight months. There was no sound at all — the water against the hull, a curlew about two hundred yards up the bank, the wind in nine yards of wire, the van's engine cooling a mile and a half behind him where it had been left — and none of it. And under it, in the same four seconds, there was the taste he has never put a name to and has never put a place to, and it came and it went in the same four seconds, and it was not the same as the silence and it was not in it.
+It went the way it has gone twice in eight months. There was no sound at all — the water against the hull, a curlew about two hundred yards up the bank, the wind in nine yards of wire, the flatbed's engine still turning a mile and a half behind him where the driver had dropped him and gone on his round — and none of it. And under it, in the same four seconds, there was the taste he has never put a name to and has never put a place to, and it came and it went in the same four seconds, and it was not the same as the silence and it was not in it.
 
 Then everything came back and it was all exactly where it had been.
 
