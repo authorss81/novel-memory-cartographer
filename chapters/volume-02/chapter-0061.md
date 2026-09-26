@@ -124,7 +124,7 @@ Rue put the satchel down on the table and stood there.
 
 "Then tell me the method," said Milo Rook.
 
-"You will not find it under a map," said Rue. "You will find it on a clipboard. That is all I have got and I have had it since about two o'clock this afternoon and I have not told you before two o'clock this afternoon because until two o'clock this afternoon I was one of about forty people in this district who thought you were going to go looking for a road."
+"You will not find it under a map," said Rue. "You will find it on a clipboard. That is all I have got and I have had it since about half past eight this morning, and I have not said it in this yard until now, because until half past eight this morning I was one of about forty people in this district who thought you were going to go looking for a road."
 
 Hettie Brann had been at the back of the yard and came forward about nine inches, which for her is coming forward.
 
@@ -174,7 +174,7 @@ The form asks a department to say why a road should stop being a place. The answ
 
 That is a method and that is an authority, and there is no new man in it, and the thing that has been holding those six hundred yards off the map of the city is not a conspiracy. **It is a box that was asked a question in the wrong language and answered in the wrong language, and it went on being true.**
 
-And that is the batch's question, on the first day, in a yard, in the rain, and it is a question about a **box** and not about a man: if a filing number is a reason, then the reason a road was taken off a map is a piece of paper in a drawer, and a piece of paper in a drawer does not have to be anybody. It just has to be in a drawer, in a building, and be about a drain.
+And that is the question this case opens on, on the first day, in a yard, in the rain, and it is a question about a **box** and not about a man: if a filing number is a reason, then the reason a road was taken off a map is a piece of paper in a drawer, and a piece of paper in a drawer does not have to be anybody. It just has to be in a drawer, in a building, and be about a drain.
 
 And in a city with that much paper in it, thirty-three people should never have been a problem at all.
 
@@ -196,7 +196,7 @@ He wrote the times down first, and then he wrote what he had, and then he wrote 
 
 *The token is cold. It has been cold since the seventh and it is cold now and I did not take it out, and there is a street in this city I could open with it in about four seconds and a car with thirty-three people in it that I cannot open at all, and both of those are correct, and the second one is the one I am going to have to be right about.*
 
-*Eight remembered routes and a page. All eight of the routes are still there and the page is still blank and it is the twenty-third day of it.*
+*Ten remembered routes and a page. All ten of the routes are still there and the page is still blank and it is the twenty-third day of it.*
 
 *The book wrote nothing today. I have looked at it three times. A day of nothing is not a pair of anything, and I am not going to write the fifteenth and the sixteenth down as a thing because I have four times in this book now made a short silence into a statement by writing the two ends of it.*
 

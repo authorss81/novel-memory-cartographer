@@ -2,7 +2,7 @@
 
 The Registry, the tram authority and the offices in Crown Heights shut at noon on Wednesday the twenty-fourth of December and were shut for four days, and there were thirty-three people who were alive on Monday the twenty-second sitting in eleven kitchens waiting for a machinery that was not going to run until the twenty-eighth, and there was nothing anybody could do about that at all, and about nine people have said since that the four days were the worst part of the whole week and that the worst part was that nobody could be told anything.
 
-The works did not shut. The gang was on the back length at half past seven on Thursday the twenty-fourth, and the foreman wrote it on the sheet, and the sheet for the week of the twenty-first went into a rack on the Friday the twenty-seventh with the other one, and the next walk is on Thursday the thirty-first, and it will be on that sheet as well.
+The works did not shut. The gang was on the back length at half past seven on Thursday the twenty-fifth, and the foreman wrote it on the sheet, and the sheet for the week of the twenty-first went into a rack on the Friday the twenty-sixth with the other one, and the next walk is on the Thursday of the week after this one, and it will be on a sheet of its own, and that sheet goes into the same rack at the end of that week.
 
 ---
 
@@ -18,13 +18,13 @@ On the Friday night a boy of seventeen came down at about four miles an hour wit
 
 The line is still blank. It is still blank with three marks on it in three hands and a date against each one.
 
-He wrote that down and he wrote down the sentence that goes with it, and the sentence is in the book on the twenty-seventh and it is nine words long and it is the only nine words in two hundred and thirty-odd entries that he has ever written in the imperative about himself.
+He wrote that down and he wrote down the sentence that goes with it, and the sentence is in the book on the twenty-seventh and it is thirteen words long and it is the only thirteen words in two hundred and thirty-odd entries that he has ever written in the imperative about himself.
 
 **Twenty-seventh, 21.40. The line home is not coming back. Write it down and stop asking.**
 
 ---
 
-**And on the Friday the twenty-seventh, at about a quarter to eleven in the morning, at the quay section office of the authority's Permanent Way division, in four rooms above a fitter's shop, a courier of seventeen put a thing on a foreman's desk, and the foreman said no to it for about nine minutes and then said yes to it in about four seconds, and the reason he said yes is the whole of what the week was for and he would not have understood a word of it.**
+**And on the Friday the twenty-sixth, at about a quarter to eleven in the morning, at the quay section office of the authority's Permanent Way division, in four rooms above a fitter's shop, a courier of seventeen put a thing on a foreman's desk, and the foreman said no to it for about nine minutes and then said yes to it in about four seconds, and the reason he said yes is the whole of what the week was for and he would not have understood a word of it.**
 
 "There is one sheet of that in a rack in this office and the rack is in this building and this building is four rooms above a fitter's shop," said Pell Harrow. "And in about four years somebody will clear that rack, because racks get cleared, and when it is cleared the only record in the city that a gang walked a length a second time on the twenty-second of December at about eleven in the morning will be gone. And I have been a courier for six years and I know the one thing about paper that everybody in every office in this city knows and will not say out loud, and it is this: **a thing that exists in one place is a thing that has not happened yet.** You have a duplicate. Your duplicates go in a tin at the end of the month at the end of this corridor. I want that duplicate to go in a second tin, in a different building, in a room where four people work who do not know what a quay section gang is."
 
@@ -98,7 +98,7 @@ Nobody in the Civic Atlas Office had a seam map of Mireward. Dilley Farr said so
 
 *Ten remembered routes. Eight from the fourth of Sazur, none of them gone, all of them marked by somebody who is not me. The ninth, a hundred and one steps, a card, a nurse of twenty-three. The tenth, the walk of the eighteenth of October, a card, a woman on a second landing at Rue's insistence. **The ninth crossing did not take one and I do not know why and I have written that down twice.***
 
-*And the line home is the thirty-fifth day gone and is not coming back, and three people have put a mark on it in three hands and a date against each, and it is still a blank, and I have written *write it down and stop asking* in the imperative at the front of today's page, and I have never in eleven years written a rule in this book, and I have not written one now, and I want that said because a rule is what a man writes when he wants one.*
+*And the line home is the thirty-fifth day gone and is not coming back, and three people have put a mark on it in three hands and a date against each, and it is still a blank, and I have written the imperative half of it — *write it down and stop asking* — at the front of today's page, and I have never in eleven years written a rule in this book, and I have not written one now, and I want that said because a rule is what a man writes when he wants one.*
 
 *So. Here is the year.*
 

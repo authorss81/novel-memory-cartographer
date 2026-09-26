@@ -2,7 +2,7 @@
 
 The Survey School's repository is in the basement of a building in Crown Heights that was a customs warehouse before it was anything else, and about forty people in this city call it Thread Hall, and the school calls it the Repository, and it has not been called the second of those things on any letterhead since before the war.
 
-It has a stair of thirty-four steps down and a boot-scraper and a reading room with nine desks and a plan chest against the end wall and a window that does not open, and on the morning of the afternoon of the seventeenth, at about twenty past two, there were nine readers at the desks and one of them was a man of sixty-three called Amos Trench who had been the index clerk of that room for forty-one years and who had a coat on.
+It has a stair of thirty-four steps down and a boot-scraper and a reading room with nine desks and a plan chest against the end wall and a window that does not open, and on the afternoon of the seventeenth, at about twenty past two, there were nine readers at the desks and one of them was a man of sixty-three called Amos Trench who had been the index clerk of that room for forty-one years and who had a coat on.
 
 He had a coat on at twenty past two because he had come in from a court and had not taken it off, and Milo Rook noticed it and did not know for about two hours what it meant.
 
@@ -38,7 +38,7 @@ What he found was a room.
 
 That is the whole of the failure and it took him about ninety seconds to understand and about four days to write down. In a reach, in a house, in a lane, the thing he does works, because the thing he does is a thing you do to a *place*, and places keep a pressure and a pressure has a shape and a shape has an edge, and at the edge there is a mark. On the eighteenth of October he put his hand on a kerbstone and saw a hole. On the sixth of December he put his hand on a fence post and saw forty feet of nothing with a rail up through it.
 
-He put his hand on a rolled survey plan in a plan chest in a basement in Crown Heights and there was no edge anywhere, because the negative space in that room was made of people. Nine readers at nine desks. A plan chest. A window that does not open. Forty-one steps of stair. Two hundred and forty years of field books in eleven presses and every one of them made by somebody who was standing in a field in the rain being wrong in an interesting way.
+He put his hand on a rolled survey plan in a plan chest in a basement in Crown Heights and there was no edge anywhere, because the negative space in that room was made of people. Nine readers at nine desks. A plan chest. A window that does not open. Thirty-four steps of stair. Two hundred and forty years of field books in eleven presses and every one of them made by somebody who was standing in a field in the rain being wrong in an interesting way.
 
 "There is a road under this," said Milo Rook, out loud, to the room. "I am not being dramatic. Six hundred yards of tram route that is not on anything anybody in this city draws, and I am looking for where it went, and it is under one of these."
 
@@ -88,7 +88,7 @@ Milo Rook did not ask Mara Quill to put her name to it. He has written that down
 
 ---
 
-**At the door, at about ten to four, on the stairs, with his coat on, a woman of fifty-four who had been in the seat by the window for four years and who said nine words and went back down to her desk.**
+**At the door, at about ten to four, on the stairs, with her coat on, a woman of fifty-four who had been in the seat by the window for four years and who said nine words and went back down to her desk.**
 
 "There are eleven route origin sheets in the withdrawal file," said Bettina Sallow. "Nine of them are in this building. Two of them are not, and the index will not tell you that, because an index is a description of what is here and not a description of what is not here, and that is the only thing I have ever been able to teach anybody in four years and I have taught it to about forty people and about nine of them were listening. And I have been trying to get the two moved for two years and nobody will give me a form for it, because you cannot move a thing to a place without a destination and you cannot give a destination to a sheet that is not in a building, and I have wanted somebody to walk into this room for four years and I have got one and he has had a bad afternoon."
 
@@ -112,7 +112,7 @@ She went back down the stairs and did not wait for an answer and Milo Rook stood
 
 *I got one thing and it was given to me on a stair by a woman who had no reason to give me anything, and I am going to spend it properly and I am not going to spend it tonight.*
 
-*A man of sixty-three in a coat refused me correctly, twice, and was right both times, and I want that written down without any temper in it, because a correct refusal is the most useful thing a person can do for you and it is more useful than an answer and I have not got that in me yet and I am not going to pretend I have.*
+*A man of sixty-three in a coat refused me correctly, twice, and was right both times, and I want that written down without any temper in it, because a correct refusal is the most useful thing a person can do for you and it is more useful than an answer and I have not got that in me yet and I am not going to pretend I have. And I have worked out since what the coat was, and it is this: he had it on because he had spent his morning in a building where he was somebody's witness, and he came down here in it, and that is why he had the answer to me ready before I asked the question, and it is why he gave it to me in the wrong order on purpose and made me pay for the real one. I did not see any of that for about two hours. I would have taken the coat for an old man's habit if it had not been for the way he took it off.*
 
 *The token cold on the sixteenth, the seventeenth, and this morning. I have not taken it out since the seventh of December and I am aware that there is a version of this week in which I take it out on a Wednesday afternoon in a basement and open six hundred yards of a tram route in front of nine readers, and it would have worked, and I would have been the man who did it, and I would have had it in a book in my own hand by Friday.*
 

@@ -151,4 +151,4 @@ Somebody said, "Then he made a copy."
 
 *The book wrote nothing today. The sixteenth and the seventeenth are both in it and they are inside the same silence and they do not make a pair, and a day is not a pair, and I looked at it twice and I am not going to write anything under it.*
 
-*Eight routes and a page. The page is the twenty-fourth day of it and I did not ask anybody to fill it in and I did not go near it and I want that written down because I can feel myself getting used to not asking, and getting used to it is not the same as being all right, and I do not know what the difference is and I have had three weeks to look for it.*
+*Ten routes and a page. The page is the twenty-fourth day of it and I did not ask anybody to fill it in and I did not go near it and I want that written down because I can feel myself getting used to not asking, and getting used to it is not the same as being all right, and I do not know what the difference is and I have had three weeks to look for it.*

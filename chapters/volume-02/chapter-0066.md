@@ -4,7 +4,7 @@ Saltmarket Row is a hundred and ten yards off Cardew Street in the river core be
 
 It is a hundred and ten yards and there are eleven pitches down the north side and nine of the frontages are brick and two are a hoarding that has been a hoarding for nineteen years, and the whole of it is held up by about eleven habits and there are about four people in it on any day of the week. **He identified five of the eleven in about four hours on a Saturday morning and he has written five on the sheet and the other six are somebody else's Saturday, and he is not going to invent them.**
 
-It is kept. That is not a figure of speech and it is not a mystery. There is a smell on that Row at about half past five in the evening that is a wet stone floor with fish scales on it and cut herbs and coffee, and there has been no coffee sold within a hundred and forty yards of that Row since the year before the war, and the coffee is in it, and the coffee is the part that is slightly wrong.
+It is kept. That is not a figure of speech and it is not a mystery. There is a smell on that Row at about half past five in the evening that is a wet stone floor with fish scales on it and cut herbs and coffee, and there has been no coffee sold within a hundred and ten yards of that Row since the year before the war, and the coffee is in it, and the coffee is the part that is slightly wrong.
 
 Milo Rook walked it on the morning of Saturday the twentieth of December at about ten past eleven with three people. One of them was Tomas Rusk, sixty-one, walked there. Another was Doreen Sankey, forty-one, who had walked him there at a quarter to ten before he had done his own eleven and had not put it on a sheet and had not told anybody, and who told Milo Rook about it on the way and in those words and then said he was not going to talk about it again.
 
@@ -62,7 +62,7 @@ He wrote *irons*.
 
 He wanted to write a great deal more than the word *irons*, and he wrote the wanting down on the facing page, because that is the practice, and the wanting is this: for eleven weeks he has been building a map out of people and every single person on it has been a person who agreed to be on it, and Rue's sheet has four lines with something on them out of six and two crossed out, and a line left empty for a person who was not here, and he gave all of that away in a porch in front of thirty people. And here are six objects on a rail in an order on a Saturday morning put there by somebody who will not say so, and **he is not allowed to make a map of that**, and the not being allowed is correct, and the reason it is correct is about four o'clock in the afternoon and not about the irons.
 
-It is correct because the Row has worked for nineteen years *because nobody is responsible for it*, and the moment somebody is responsible for it, it is a street, and a street in this city is a thing somebody can be asked about. That is not a moral. He checked it. A man of thirty-one years in a basement in Crown Heights and a works clerk of forty-six at a desk on a quay and a mechanic of sixty-one at the top of a market in the rain, on three consecutive days, without knowing they were saying the same thing, and he wrote it down in his book that evening as the third of three, and said that three is three and not a pattern.
+It is correct because the Row has worked for nineteen years *because nobody is responsible for it*, and the moment somebody is responsible for it, it is a street, and a street in this city is a thing somebody can be asked about. That is not a moral. He checked it. A man of forty-one years in a basement in Crown Heights and a works clerk of forty-six at a desk on a quay and a mechanic of sixty-one at the top of a market in the rain, on three consecutive days, without knowing they were saying the same thing, and he wrote it down in his book that evening as the third of three, and said that three is three and not a pattern.
 
 ---
 
@@ -122,7 +122,7 @@ What I am not going to do: I am not going to find out what happens to a habit wh
 
 *The token was cold on the sixteenth, the seventeenth, the nineteenth and the twentieth. I have not taken it out since the seventh of December.*
 
-*Five days. Fifteenth to the twentieth. I am writing that pair down and there are eight pairs in this book — six, nine, three, three, two, three, three, and now five — and I am not joining this one to the six, and I know there are two sixes and two threes in it and I am leaving them where they are.*
+*Five days. Fifteenth to the twentieth. I am writing that pair down and there are eight pairs in this book — six, nine, three, three, two, three, three, and now five — and I am not joining this one to the six, and I know there is one six and four threes in it and I am leaving them where they are.*
 
 ---
 
