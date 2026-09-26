@@ -22,7 +22,7 @@ Rennick was asked to take the head off it on the Tuesday morning and said no in 
 
 "The head stays, and in about four years somebody will take that piece of paper out of a file and use the head of this firm to say that this firm had a view about a street, and on that day I will want to be a man who has been dead a long time, and I am not going to help you with that."
 
-It stayed. It is on the page for the rest of the month and it is the single most useful thing that happened to the sheet, because a sheet of paper with a flood-control contractor's head on it is a thing that a letting agent immediately understands to be a *thing that is organised*, and that is the door the whole of this chapter goes wrong through.
+It stayed, and it was up on the nail for the rest of the month, and it was the single most useful thing that happened to the sheet, because a sheet of paper with a flood-control contractor's head on it is a thing that a letting agent immediately understands to be a *thing that is organised*, and that is the door the whole thing goes wrong through.
 
 ---
 

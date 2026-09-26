@@ -98,7 +98,7 @@ He wrote it down.
 
 ---
 
-At the office at half past ten that night he wrote three lines, and the third one is the reason this chapter exists.
+At the office at half past ten that night he wrote three lines, and the third one is the one that had cost her the most.
 
 *Twelfth of the month, 22.30. Three things.*
 

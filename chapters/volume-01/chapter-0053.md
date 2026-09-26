@@ -117,7 +117,7 @@ The field work of the week was nine feet of trench through a made path, a trench
 
 The soft lens did what the book said it would do. The rod went in nine feet and stopped, as it has done since the seventeenth of last month, and on the Friday the twenty-eighth of the month at about half past ten in the morning Danner had a reading off it and said one word, which was *there*, and then said the rest of it, which was that the two feet were all of it, and the ground had stopped, and he was not going to be the man who says a number like that twice.
 
-Mr Rennick brought him back at full rate on that Friday, for five days from Monday the first, and the first day of it is the first, and it is the first day of a level on ground that stopped about four hours before anybody could get a rod into it, and Milo Rook wrote both of those things down in the same line and did not like doing it.
+Mr Rennick had asked him for eleven days in the middle of last month and brought him back for five, from Monday the first, and the five are the first to the fifth because the first is the day the ground stopped and a man who is paid for six more days than the window needs is a man who signs on the first out of nerves, and the first day of it is the first, and it is the first day of a level on ground that stopped about four hours before anybody could get a rod into it, and Milo Rook wrote both of those things down in the same line and did not like doing it.
 
 He came and found Milo Rook at the top of the trench and said the whole of it out loud, standing there, with nine men about them.
 
