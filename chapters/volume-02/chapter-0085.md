@@ -90,7 +90,7 @@ He has not given an initial on the first side and says he never will.
 
 ---
 
-**The Field Book, Monday the second of February, 13.20, four lines, and the third of them is the one he would want a reviewer to check against the page.**
+**The Field Book, Monday the second of February, 13.20, four lines, and the third of them is the one he would want somebody else to check against the page.**
 
 *Second, 13.20. Four lines.*
 

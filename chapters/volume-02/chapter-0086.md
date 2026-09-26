@@ -98,7 +98,7 @@ Doreen Sankey said, in the corridor, going, with his cap in his hand:
 
 **And a boy of seventeen was in the yard at about half past six that evening and he had two things to say and he said both of them and neither of them was the one anybody expected.**
 
-"The card under the brick with the number in it is still under the brick. Nobody has taken it. **Hester Brann looked at four copies of a route this afternoon and did not read one word of the route, and she is going to do it on the second of March, and there is a card on a table in this yard that nobody has read for six weeks, and those are the same sort of thing and one of them has a version number on it and the other one has a sentence about a number on it, and I have noticed that and I have not written it down anywhere and I am saying it out loud instead.**"
+"The card under the brick with the number in it is still under the brick. Nobody has taken it. **Hettie Brann looked at four copies of a route this afternoon and did not read one word of the route, and she is going to do it on the second of March, and there is a card on a table in this yard that nobody has read for six weeks, and those are the same sort of thing and one of them has a version number on it and the other one has a sentence about a number on it, and I have noticed that and I have not written it down anywhere and I am saying it out loud instead.**"
 
 "And?"
 
@@ -106,7 +106,7 @@ Doreen Sankey said, in the corridor, going, with his cap in his hand:
 
 ---
 
-**The Field Book, Monday the second of February, 19.30, the sixth of the ten in this month, and it is the one that says what the winter is actually about and it is six lines.**
+**The Field Book, Monday the second of February, 19.30, the sixth of the ten since the twenty-ninth of January, and it is the one that says what the winter is actually about and it is six lines.**
 
 *Second, 19.30. Six lines and I did none of it.*
 

@@ -454,8 +454,8 @@ Municipal machinery, forms and decisions that the first two blocks did not need.
 ## The day counts, registered so a later batch cannot re-derive them
 
 - **The written line home, day one = the twenty-fourth of November, blank with three marks in three hands since the twenty-fourth of December, and nobody has been asked to fill it in since the twenty-seventh of December.** This block's figures, all on the page: **67 on the twenty-ninth of January, 68 on the thirtieth, 69 on the thirty-first, 70 on the first of February, 71 on the second (written twice, at 13.20 and 19.30), 74 on the fifth, 81 on the twelfth, 88 on the nineteenth, 89 on the twentieth.**
-- **The Lark token, last out of the coat on the seventh of December, cold throughout this block.** **53, 54, 55, 56, 57, 60, 67, 74, 75** on the same nine dates.
-- **The Field Book's ELEVEN dated pairs: one six, four threes, one nine, one two, one five, ONE eight, one twenty-five and one thirty-six** — the thirty-six being the fourteenth of January to the nineteenth of February, the largest interval in the book — **plus the single-day interval from the tenth of December that is looked at and is not written. The four threes are not collapsed and the list is eleven and not ten.**
+- **The Lark token, last out of the coat on the seventh of December, cold throughout this block.** **53, 54, 55, 56, 57, 57, 60, 67, 74, 75** on the same nine dates.
+- **The Field Book's THIRTEEN dated pairs: one six, four threes, one nine, one two, one five, ONE eight, one twenty-five, and three added in February which are a three and two sevens** — **plus the single-day interval from the tenth of December that is looked at and is not written. The four threes are not collapsed, the February three is a fifth three and not one of the four, and the list is thirteen and not eleven. There is no thirty-six and no eleventh pair; the thirty-six was corrected at CR-034.**
 
 ## The calendar facts this block fixed and a later batch may not move
 

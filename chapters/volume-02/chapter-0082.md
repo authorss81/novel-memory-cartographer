@@ -2,7 +2,7 @@
 
 A seam event has to be allocated on the day, and that is on the four pages, and nobody in the city has ever asked the only question about it, which is what allocated *to*.
 
-The sheet came out of the same machine as the district returns cards, in the same room, on the same Friday-morning run, and it is a single side and it is not a good sheet, and it is the only piece of stationery in this city that anybody has ever printed in order to have something to be given to on the day.
+The sheet came out of the same machine as the district returns cards, in the same room, on the same Friday-morning run, and it came off it on the **Friday the twenty-fifth of January**, a day before the week it is for begins, and it is a single side and it is not a good sheet, and it is the only piece of stationery in this city that anybody has ever printed in order to have something to be given to on the day.
 
 > **SEAM EVENT ALLOCATION — WEEK COMMENCING MON. XXVI.**
 > *Issued with the seasonal outlook under the office of the First Surveyor. One event to one line. Unallocated events are allocated on the day of the event and returned the same day. An allocation which cannot be returned is not an outstanding allocation; it is a sheet in a drawer.*
@@ -17,9 +17,9 @@ The sheet came out of the same machine as the district returns cards, in the sam
 
 *To be returned to this office by Friday. — Ground and Seam Returns.*
 
-**The column headed *events forecast* is not typed. It is the office of the First Surveyor's own figures, transferred by hand from the four pages, and a man of about fifty in the drainage section who has been in that room nineteen years did the transfer himself on the Monday with a pen, and he did not like doing it and he did it anyway, and about four people have said since that the two numbers nobody questioned in that room for nine days were the two he wrote out by hand.**
+**The column headed *events forecast* is not typed. It is the office of the First Surveyor's own figures, transferred by hand from the four pages, and a man of about fifty in the drainage section who has been in that room nineteen years did the transfer himself on the Monday the twenty-sixth, the day the week commences, with a pen, and he did not like doing it and he did it anyway, and about four people have said since that the two numbers nobody questioned in that room for nine days were the two he wrote out by hand.**
 
-He is fifty-ish. He is not named here, for the reason given at the end of this.
+He is fifty-ish. He is not named here, and the reason he is not named is further down this page, and it is not modesty and it has nothing to do with him.
 
 ---
 

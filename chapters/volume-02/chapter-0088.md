@@ -90,9 +90,9 @@ Rue came past on the round at about five past four and stopped and did not say a
 
 ---
 
-**The Field Book, Thursday the twelfth of February, about nine o'clock, and it is three paragraphs and none of them is a schedule, and he has written down that he was aware of what a paragraph of nine jobs is when he wrote it.**
+**The Field Book, Thursday the twelfth of February, 21.40, and it is three paragraphs and none of them is a schedule, and he has written down that he was aware of what a paragraph of nine jobs is when he wrote it.**
 
-*Twelfth, 21.40. Three lines.*
+*Twelfth, 21.40.*
 
 *One. I asked nine people the same stupid question all day and eight of them answered it with their own job and the ninth answered it properly, and I did not ask the ninth, and he told me, and he is the only person in this district who has ever told me something and then told me not to improve it.*
 
