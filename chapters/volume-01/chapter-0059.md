@@ -71,7 +71,7 @@ A temporary registration needs a head of household, and the head of household fo
 
 "The last registered head of household for the block is entered at the third floor and is cross-referenced to a file number."
 
-Nobody said anything. The clerk looked at the room and found about thirty faces and about four hundred words of material in front of him and he did the thing that every clerk who has come to that counter in six years has done, entirely correctly, and he read out the file number, and he did not look it up, and he was not going to look it up, and **he noticed nothing and said nothing and no character in this chapter is a clerk who noticed anything.**
+Nobody said anything. The clerk looked at the room and found about thirty faces and about four hundred words of material in front of him and he did the thing that every clerk who has come to that counter in six years has done, entirely correctly, and he read out the file number, and he did not look it up, and he was not going to look it up, and **he noticed nothing and said nothing, and there is nothing in those four seconds that anybody in this room will be able to remember him by except a file number.**
 
 "Then the form cannot be completed on that line," said Mara Quill, "and I am not going to ask anybody in this room to look up a file number, and nobody is going to wake anybody up, and I would like it minuted in the department's own answer that Advocate Quill did not ask and that nobody in this room asked."
 

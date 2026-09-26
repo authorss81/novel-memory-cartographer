@@ -31,7 +31,7 @@ He did not tell anybody until the Tuesday, and he told Rue, and he told her in a
 
 "That is the wrong order."
 
-"That is the right order and it is not my order, it is a woman's on a counter in Wragh Street who read a list off to a man and has not slept since the third of this month." Rue shifted the satchel. "Tell her on Wednesday. Tell Iona Sen before you tell her, because Iona Sen will not do a single thing about it that is not useful, and I am telling you this as a man who has watched you be helped by about nine people in eleven weeks and has not watched you be helped once."
+"That is the right order and it is not my order, it is a woman's on a counter in Wragg Street who read a list off to a man and has not slept since the third of this month." Rue shifted the satchel. "Tell her on Wednesday. Tell Iona Sen before you tell her, because Iona Sen will not do a single thing about it that is not useful, and I am telling you this as a man who has watched you be helped by about nine people in eleven weeks and has not watched you be helped once."
 
 He told Dr Sen on the Tuesday afternoon at the dispensary counter, in about two minutes, with four people in the queue behind him, and she did not put her hand on his arm and she did not say she was sorry.
 
@@ -53,7 +53,7 @@ She looked at him for about four seconds.
 
 "That is not possible."
 
-"It is not possible for you and it is possible for a man on a bicycle and a woman with a satchel and it will be done badly," said Dr Sen, "and it will be done in about nine days, and I am telling you on the Tuesday of the twenty-fourth of November, in a dispensary, in front of four people, so that when it happens you cannot say afterwards that nobody told you it was coming and that you were not in a position to refuse it."
+"It is not possible for you and it is possible for a man on a bicycle and a woman with a satchel and it will be done badly," said Dr Sen, "and it will be done in about nine days, and I am telling you on the Tuesday of the twenty-fifth of November, in a dispensary, in front of four people, so that when it happens you cannot say afterwards that nobody told you it was coming and that you were not in a position to refuse it."
 
 ---
 
@@ -155,7 +155,7 @@ Doreen Sankey took it, and the count was **Rue's**, and the walking in and out w
 
 It asked, at the interval, at about ten to two on the twenty-eighth, and Doreen Sankey said it from the coal hatch side and Rue said it at the north door about four seconds later, and nothing else happened, and the plant started up again.
 
-"That is five," said Lena Marr, to about nineteen people. "The twenty-third of October, worked. The thirtieth, did not ask. The sixth, worked, and a second voice off a landing. The thirteenth, no door. And the twenty-eighth of November, worked, and not a named person for the first time in six years, and a man of forty-one who came here in October and asked for a way to walk and has asked for nothing since." She did not make anything of it and neither did anybody else, and it is on the page because it is the fifth time a person has said a word at a door in eleven weeks, and the check is a check, and a check is a person saying a space is clear before the next turn, and nobody in this batch has decided that again.
+"That is five," said Lena Marr, to about nineteen people. "The twenty-third of October, worked. The thirtieth, did not ask. The sixth, worked, and a second voice off a landing. The thirteenth, no door. And the twenty-eighth of November, worked, and not a named person for the first time in six years, and a man of forty-one who came here in October and asked for a way to walk and has asked for nothing since." She did not make anything of it and neither did anybody else, and it is on the page because it is the fifth time a person has said a word at a door in eleven weeks, and the check is a check, and a check is a person saying a space is clear before the next turn, and nobody in this district has decided that again.
 
 ---
 

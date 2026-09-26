@@ -4,7 +4,7 @@ The word went into the Field Book on Saturday the sixth of next month at about n
 
 > *Pinned.*
 
-He wrote it, and then on the facing page he wrote the limits of it, dated, which is what he does, and the facing page is the reason the word can be used in Volume 1 at all and the reason it cannot be used again for a long time.
+He wrote it, and then on the facing page he wrote the limits of it, dated, which is what he does, and the facing page is the reason the word can be used at all and the reason it cannot be used again for a long time.
 
 *Sixth of next month, 21.20. One word, and here is what it is and here is what it is not.*
 
@@ -22,7 +22,7 @@ He wrote it, and then on the facing page he wrote the limits of it, dated, which
 
 ---
 
-Survey Enforcement came at about a quarter past six on Sunday morning the seventh in a district car with a man who had a form case and who got out of it and looked at the reach for about ninety seconds before he said anything, and Milo Rook knew him, and knew that he was the officer who had written a classification in the first week of this year about a matter he was competent to classify, and who had carried the instruction *a seal* since the fourth of Sazur.
+Survey Enforcement came at about a quarter past six on Sunday morning the seventh in a district car with a man who had a form case and who got out of it and looked at the reach for about ninety seconds before he said anything, and Milo Rook knew him, and knew that he was the officer who had written a classification in November about a matter he was competent to classify, and who had carried the instruction *a seal* since the fourth of October.
 
 Cass Ardery had the instruction *a seal* in his coat on the Sunday morning the seventh of next month and a second sheet of paper on top of it, and the second sheet of paper was a departmental instruction dated the previous Friday afternoon, and he did not read either of them out on the reach and he said why.
 
@@ -64,9 +64,9 @@ He said it once, in the ordinary way a surveyor says a word that he has been usi
 
 "A seam that is being held open instead of sealed," he said. "It is pinned. It is pinned because the order is still in force and everything in this city that touches this reach still points at it, and it is not going to close while the order stands, and the reason it is not going to close is that there is nothing on the far side of it for it to close against. And it is not a collapse, because a collapse is finished and this is not, and it may do that again and then never do it again, and if it does the second thing then there is a street with nobody living on it and nine men in a trench on the other side of a fence every working morning for the rest of their lives, and that is worse than a building coming down. I wrote it in my book at twenty past nine last night and I am not going to tell you I invented it, because I did not, and because the mechanism is not mine. It is Mr Sable's. He told me in the first week that a believed route is a used route and he was right and I have been arguing with him about it since the sixteenth of October, and I have been half right, and the half I have been half right about is that the map is a document and the work is a crew, and it is the crew that keeps a road, and there was a crew on that reach at ten to two yesterday afternoon because the form says the aperture goes back to twenty-four inches at fourteen minutes past two."
 
-Cass Ardery wrote it down in full. He wrote it on the back of his own classification, and he read it back to Milo Rook, and then he said the thing that is the reason the department was capable of internal correction inside a volume and not automatically safe.
+Cass Ardery wrote it down in full. He wrote it on the back of his own classification, and he read it back to Milo Rook, and then he said the thing that is the reason a department can be corrected from the inside and is not made safe by it.
 
-"That is not a department's word and I am going to use it, because I have got a form in front of me with a box on it that says *nature of hazard* and the box wants a sentence and I have been putting *minor seam, unstable* in that box since the eleventh of this month, and *minor* was true in a different ground and is not true in this one, and I am not going to leave it in a file." He wrote on the classification itself, in ink, across his own paragraph, and dated it and initialled it. "And I am going to say to you the thing nobody in that building will say to you, and then I am going to do my job. If it is pinned while the order stands, then the only way to unpin it is the order, and the order is not mine to lift, and I have carried the instruction *a seal* since the fourth of October and I have used it nine times in nine weeks, and there is not one single person in this district who is going to unpin that reach by being right in a yard."
+"That is not a department's word and I am going to use it, because I have got a form in front of me with a box on it that says *nature of hazard* and the box wants a sentence and I have been putting *minor seam, unstable* in that box since the eleventh of last month, and *minor* was true in a different ground and is not true in this one, and I am not going to leave it in a file." He wrote on the classification itself, in ink, across his own paragraph, and dated it and initialled it. "And I am going to say to you the thing nobody in that building will say to you, and then I am going to do my job. If it is pinned while the order stands, then the only way to unpin it is the order, and the order is not mine to lift, and I have carried the instruction *a seal* since the fourth of October and I have used it nine times in nine weeks, and there is not one single person in this district who is going to unpin that reach by being right in a yard."
 
 "Mr Ardery," said Milo Rook. "One thing about the order, and then I will let you get on."
 

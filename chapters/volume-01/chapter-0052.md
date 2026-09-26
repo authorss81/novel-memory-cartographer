@@ -71,7 +71,7 @@ The woman of sixty said, "I will take the hours."
 
 That is how the supervised return happened, and by Thursday the twentieth at about ten at night there were **nineteen names on a sheet of accountancy paper in a satchel**, in Rue's hand and in nobody else's, with a second column for who was going with whom, and in the second column **one name appeared four times** and belonged to a man of forty-one who lives behind a boatyard and who said, when Lena Marr pointed at it, that his eleven minutes were not the only way he knew how to walk four people through a thing.
 
-And by Friday the twenty-first there were twenty-six, and one of the twenty-six was Tomas Rusk, written by Rue at his own request, and underneath it *walked to the door by whoever is going*, and beside that, in his own hand, four words he made her write and read back to him twice: **I cannot get there.**
+And by Friday the twenty-first there were twenty-six, and one of the twenty-six was Tomas Rusk, written by Rue at his own request, and underneath it *walked to the door by whoever is going*, and beside that four words in his own hand, which she wrote down for him and which he made her read back to him twice: **I cannot get there.**
 
 ---
 
